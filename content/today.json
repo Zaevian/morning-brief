@@ -1,23 +1,23 @@
 {
   "greeting": "Good morning, Zae",
-  "date": "2026-09-30",
-  "dateDisplay": "Wednesday, September 30, 2026",
+  "date": "2026-10-01",
+  "dateDisplay": "Thursday, October 1, 2026",
   "calendar": {
     "note": "No meetings",
     "events": [
       { "time": "8:00 AM ET", "title": "Morning supplements" },
       { "time": "2:00 PM ET", "title": "Afternoon stack" },
-      { "time": "6:00-8:00 PM ET", "title": "Russian study" },
+      { "time": "6:00-8:00 PM ET", "title": "Spanish study" },
       { "time": "10:00 PM ET", "title": "Night supplements" }
     ]
   },
   "projectMove": {
-    "title": "Grad Arena: Google reviews",
-    "body": "Grad Arena ranks well. Google reviews are the missing local-pack lever. Text/DM 2-3 past grads for a Google review (or grab the GBP review link first)."
+    "title": "Grad Arena: ask for Google reviews",
+    "body": "Share image, domain redirect, and campus WebPs are live, and Instagram is up. Reviews are still the missing local-pack lever. Text or DM 2-3 past grads today with https://g.page/r/Cfky3l2GMSXOEAI/review"
   },
   "tip": {
-    "title": "Protect the Russian block",
-    "body": "Protect the 6 PM Russian block like a meeting. DND, one lesson/immersion video, done."
+    "title": "Protect the Spanish block",
+    "body": "Tonight is Spanish, not Russian. Protect 6 to 8 PM like a meeting. DND, one solid session, done."
   },
   "cruise": {
     "name": "Carnival Paradise",
@@ -28,5 +28,10 @@
     "lat": 30.4383,
     "lon": -84.2807,
     "label": "Tallahassee, FL"
+  },
+  "extras": {
+    "gradArena": "OG share image + apex redirect + location WebPs shipped to production; Instagram Gradarena850 live with Westcott boost.",
+    "language": "Spanish study block tonight (alternates with Russian).",
+    "cruiseNote": "31 days to boarding; Online Check-In opens Oct 18."
   }
 }
