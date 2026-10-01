@@ -29,6 +29,14 @@
     "lon": -84.2807,
     "label": "Tallahassee, FL"
   },
+  "siteStats": {
+    "label": "Grad Arena 850",
+    "source": "Vercel Analytics",
+    "asOf": "2026-10-01T09:50:00-04:00",
+    "views": { "last24h": null, "last7d": null },
+    "topPages": [],
+    "note": "Tracking is being enabled on gradarena850.com. Numbers will fill in after the next day of traffic."
+  },
   "extras": {
     "gradArena": "OG share image + apex redirect + location WebPs shipped to production; Instagram Gradarena850 live with Westcott boost.",
     "language": "Spanish study block tonight (alternates with Russian).",
