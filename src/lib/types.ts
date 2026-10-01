@@ -3,6 +3,27 @@ export type CalendarEvent = {
   title: string;
 };
 
+export type SiteStatsPage = {
+  path: string;
+  views: number;
+  label?: string;
+};
+
+export type SiteStatsWindow = {
+  last24h: number | null;
+  last7d: number | null;
+};
+
+export type SiteStats = {
+  label: string;
+  source: string;
+  asOf: string;
+  views: SiteStatsWindow;
+  visitors?: SiteStatsWindow;
+  topPages: SiteStatsPage[];
+  note?: string;
+};
+
 export type TodayBrief = {
   greeting: string;
   date: string;
@@ -29,4 +50,5 @@ export type TodayBrief = {
     lon: number;
     label: string;
   };
+  siteStats?: SiteStats;
 };

@@ -3,6 +3,7 @@ import type { TodayBrief } from "@/lib/types";
 import { fetchTallahasseeWeather } from "@/lib/weather";
 import { WeatherCard } from "@/components/WeatherCard";
 import { CruiseCountdown } from "@/components/CruiseCountdown";
+import { SiteStatsCard } from "@/components/SiteStatsCard";
 
 const brief = today as TodayBrief;
 
@@ -66,6 +67,10 @@ export default async function Home() {
             {brief.projectMove.body}
           </p>
         </section>
+
+        {brief.siteStats != null ? (
+          <SiteStatsCard stats={brief.siteStats} />
+        ) : null}
 
         <section className="card p-5 sm:p-6 border-[rgba(251,191,36,0.2)]">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--warm)] mb-2">
