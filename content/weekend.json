@@ -1,0 +1,52 @@
+{
+  "weekendRange": {
+    "label": "Oct 3-5, 2026",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-05",
+    "updatedNote": "Sample drop so the page is demoable. Replace this file with Chika's real Thursday list."
+  },
+  "events": [
+    {
+      "id": "sample-fri-2026-10-03",
+      "title": "SAMPLE: Friday lights",
+      "day": "Fri",
+      "date": "2026-10-03",
+      "venue": "Sample venue",
+      "neighborhood": "Sample area",
+      "startTime": "8:00 PM",
+      "hook": "Placeholder card for a Friday plan. Swap in a real title, venue, and link.",
+      "url": "https://example.com/morning-brief-weekend-sample-fri",
+      "imageUrl": null,
+      "tags": ["sample", "night out"],
+      "sample": true
+    },
+    {
+      "id": "sample-sat-2026-10-04",
+      "title": "SAMPLE: Saturday set",
+      "day": "Sat",
+      "date": "2026-10-04",
+      "venue": "Sample stage",
+      "neighborhood": "Sample area",
+      "startTime": "9:00 PM",
+      "hook": "Placeholder card for a Saturday show. The picture slot stays pretty with no image.",
+      "url": "https://example.com/morning-brief-weekend-sample-sat",
+      "imageUrl": null,
+      "tags": ["sample", "live music"],
+      "sample": true
+    },
+    {
+      "id": "sample-sun-2026-10-05",
+      "title": "SAMPLE: Sunday easy",
+      "day": "Sun",
+      "date": "2026-10-05",
+      "venue": "Sample park",
+      "neighborhood": "Sample area",
+      "startTime": "2:00 PM",
+      "hook": "Placeholder card for a slow Sunday. Delete it or replace it with a real listing.",
+      "url": "https://example.com/morning-brief-weekend-sample-sun",
+      "imageUrl": null,
+      "tags": ["sample", "daytime"],
+      "sample": true
+    }
+  ]
+}

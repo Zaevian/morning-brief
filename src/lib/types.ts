@@ -24,6 +24,35 @@ export type SiteStats = {
   note?: string;
 };
 
+export type WeekendDay = "Fri" | "Sat" | "Sun";
+
+export type WeekendRange = {
+  label: string;
+  startDate?: string;
+  endDate?: string;
+  updatedNote?: string;
+};
+
+export type WeekendEvent = {
+  id: string;
+  title: string;
+  day: WeekendDay;
+  date?: string;
+  venue: string;
+  hook: string;
+  url: string;
+  imageUrl: string | null;
+  tags: string[];
+  startTime?: string;
+  neighborhood?: string;
+  sample: boolean;
+};
+
+export type WeekendDrop = {
+  weekendRange: WeekendRange;
+  events: WeekendEvent[];
+};
+
 export type TodayBrief = {
   greeting: string;
   date: string;

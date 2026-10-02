@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
+import { eventImageRemotePatterns } from "./src/lib/image-hosts";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    remotePatterns: eventImageRemotePatterns,
+  },
 };
 
 export default nextConfig;
