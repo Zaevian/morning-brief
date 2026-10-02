@@ -14,7 +14,7 @@ export default async function Home() {
   );
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10 sm:py-14">
+    <main className="mx-auto max-w-3xl px-4 pb-10 pt-6 sm:pb-14 sm:pt-8">
       <header className="mb-8 sm:mb-10">
         <p className="text-xs uppercase tracking-[0.2em] text-[var(--muted)] mb-3">
           Morning brief

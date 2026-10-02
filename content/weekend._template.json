@@ -1,0 +1,24 @@
+{
+  "weekendRange": {
+    "label": "Oct 10-12, 2026",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-12",
+    "updatedNote": "Thursday drop. Say who filled it, or leave a short note."
+  },
+  "events": [
+    {
+      "id": "fri-short-name",
+      "title": "Event title",
+      "day": "Fri",
+      "date": "2026-10-10",
+      "venue": "Venue name",
+      "neighborhood": "Neighborhood",
+      "startTime": "8:00 PM",
+      "hook": "One short sentence on why it is worth going.",
+      "url": "https://example.com/replace-with-the-real-event-page",
+      "imageUrl": null,
+      "tags": ["live music"],
+      "sample": false
+    }
+  ]
+}

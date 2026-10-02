@@ -1,0 +1,87 @@
+{
+  "weekendRange": {
+    "label": "Oct 2-4, 2026",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-04",
+    "updatedNote": "Live list for Friday night through Sunday."
+  },
+  "events": [
+    {
+      "id": "gamble-cosmos-blue-tavern-2026-10-02",
+      "title": "Gamble Cosmos",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "venue": "Blue Tavern",
+      "startTime": "8:00 PM",
+      "hook": "8 to 11 PM. Live set at Blue Tavern.",
+      "url": "https://musiclocal.org/events/gamble-cosmos-at-blue-tavern-2026-10-02-bcfq8t",
+      "imageUrl": "https://media.musiclocal.org/QxVNnjTFF4IdhkDHC5dw5KXrSfwi6eHJ8mW5OMRJblU/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fb12fb24d-7904-49d3-bf98-ed90e4613bdc.jpeg",
+      "tags": [
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "frequensee-live-621-gallery-2026-10-03",
+      "title": "FrequenSee LIVE",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "venue": "621 Gallery",
+      "startTime": "7:00 PM",
+      "hook": "7 to 10:30 PM. Art plus live music and spoken word. Tickets about $17 to $33.",
+      "url": "https://www.simpletix.com/e/frequensee-live-tickets-288744",
+      "imageUrl": "https://cdn.simpletix.com/90be18e6-d370-423d-8c67-458c89444cbf/shows/FaceBook_ChatGPTImageAug152026012331AM.png",
+      "tags": [
+        "live music",
+        "art",
+        "spoken word"
+      ],
+      "sample": false
+    },
+    {
+      "id": "northflora-dark-side-2026-10-03",
+      "title": "NorthFlora Dark Side",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "venue": "NorthFlora Collective",
+      "hook": "Apocalypse Neil and the Intoxicators. $10.",
+      "url": "https://musiclocal.org/events/apocalypse-neil-the-intoxicators-northflora-at-northflora-collective-2026-10-03-jlpwh2",
+      "imageUrl": "https://media.musiclocal.org/d2k5ylBH-1OONNuBJT5PLBbM-b13Ou_JJMFrLww7DBE/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F55de0a1e-a072-4b9a-9318-4960c3980243.jpeg",
+      "tags": [
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "jim-and-the-cats-birds-shack-2026-10-03",
+      "title": "Jim and the Cats",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "venue": "BIRDs Shack",
+      "neighborhood": "Downtown",
+      "startTime": "7:00 PM",
+      "hook": "7 to 10 PM. Chill downtown set.",
+      "url": "https://musiclocal.org/events/jim-and-the-cats-at-birds-shack-2026-10-03-6rzfxd",
+      "imageUrl": "https://media.musiclocal.org/GSnEz8bigNwB3pVPRPrd-TWZnCwvbdR6Ab449LbyTcA/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbf90b6ab-2f04-479d-afe6-08742c47b9d0.jpeg",
+      "tags": [
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sundays-with-maurice-mangum-2026-10-04",
+      "title": "Sundays with Maurice Mangum",
+      "day": "Sun",
+      "date": "2026-10-04",
+      "venue": "The Getaway Grille and Bar",
+      "startTime": "4:00 PM",
+      "hook": "4 to 7 PM. Sunday set with Maurice Mangum.",
+      "url": "https://musiclocal.org/events/sundays-with-maurice-at-the-getaway-grille-and-bar-2026-10-04-wfchda",
+      "imageUrl": "https://media.musiclocal.org/Q0mdtnZGYKNyztHe-vumJU1JMHdh72SGUq6pJXRIKcA/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F186f2510-e0c3-4826-ab18-e71385fa0ec5.jpeg",
+      "tags": [
+        "live music"
+      ],
+      "sample": false
+    }
+  ]
+}

@@ -6,6 +6,8 @@ Daily morning briefing for Zae.
 
 Edit `content/today.json` for the day's greeting, calendar, project move, tip, cruise, and weather coords.
 
+Weekend events live in `content/weekend.json` and render at `/weekend`. Field list, the template, and the Thursday handoff are in [ADD-WEEKEND.md](ADD-WEEKEND.md).
+
 ## Local
 
 ```bash
