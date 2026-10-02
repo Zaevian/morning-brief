@@ -55,10 +55,11 @@ export function WeekendBoard({ weekend }: { weekend: WeekendDrop }) {
                 <a
                   key={day}
                   href={`#day-${day}`}
-                  className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-sm transition hover:border-white/20 hover:bg-white/10"
+                  className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3.5 py-1.5 text-sm transition hover:border-white/20 hover:bg-white/10"
                 >
-                  <span className={`font-medium ${DAY_TEXT[day]}`}>{day}</span>
-                  <span className="text-[var(--muted)]">{WEEKEND_DAY_LABEL[day]}</span>
+                  <span className={`font-medium ${DAY_TEXT[day]}`}>
+                    {WEEKEND_DAY_LABEL[day]}
+                  </span>
                   <span className="tabular-nums text-xs text-[var(--muted)]">{count}</span>
                 </a>
               );

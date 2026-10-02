@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, type SyntheticEvent } from "react";
 import Image from "next/image";
 import type { WeekendDay } from "@/lib/types";
 import { isOptimizableEventImage } from "@/lib/image-hosts";
@@ -34,6 +34,30 @@ function Placeholder({ day }: { day: WeekendDay }) {
   );
 }
 
+function useBrokenImage() {
+  const [failed, setFailed] = useState(false);
+  const markBroken = () => setFailed(true);
+  const noteLoad = (event: SyntheticEvent<HTMLImageElement>) => {
+    if (event.currentTarget.naturalWidth === 0) markBroken();
+  };
+  const noteElement = (node: HTMLImageElement | null) => {
+    if (!node) return;
+    const check = () => {
+      if (node.complete && node.naturalWidth === 0) markBroken();
+    };
+    check();
+    node.addEventListener("load", check);
+    node.addEventListener("error", markBroken);
+    const timer = window.setTimeout(check, 1200);
+    return () => {
+      node.removeEventListener("load", check);
+      node.removeEventListener("error", markBroken);
+      window.clearTimeout(timer);
+    };
+  };
+  return { failed, markBroken, noteElement, noteLoad };
+}
+
 export function EventImage({
   src,
   day,
@@ -41,7 +65,7 @@ export function EventImage({
   src: string | null;
   day: WeekendDay;
 }) {
-  const [failed, setFailed] = useState(false);
+  const { failed, markBroken, noteElement, noteLoad } = useBrokenImage();
   const photo = src != null && !failed ? src : null;
 
   return (
@@ -55,16 +79,19 @@ export function EventImage({
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           className="object-cover motion-safe:transition motion-safe:duration-300 motion-safe:group-hover:scale-[1.04]"
-          onError={() => setFailed(true)}
+          onError={markBroken}
+          onLoad={noteLoad}
         />
       ) : (
         // Hosts outside remotePatterns stay on a plain img so a new CDN cannot fail the build.
         // eslint-disable-next-line @next/next/no-img-element
         <img
+          ref={noteElement}
           src={photo}
           alt=""
           className="h-full w-full object-cover motion-safe:transition motion-safe:duration-300 motion-safe:group-hover:scale-[1.04]"
-          onError={() => setFailed(true)}
+          onError={markBroken}
+          onLoad={noteLoad}
         />
       )}
     </div>
