@@ -3,9 +3,11 @@ import type { WeatherSnapshot } from "@/lib/weather";
 export function WeatherCard({
   place,
   weather,
+  note,
 }: {
   place: string;
   weather: WeatherSnapshot | null;
+  note?: string;
 }) {
   return (
     <section className="card p-5 sm:p-6">
@@ -28,6 +30,9 @@ export function WeatherCard({
       ) : (
         <p className="text-[var(--muted)]">Weather unavailable right now.</p>
       )}
+      {note ? (
+        <p className="mt-3 text-sm text-[var(--muted)] leading-relaxed">{note}</p>
+      ) : null}
     </section>
   );
 }

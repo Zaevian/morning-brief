@@ -4,10 +4,12 @@ export function CruiseCountdown({
   name,
   targetDate,
   label,
+  note,
 }: {
   name: string;
   targetDate: string;
   label: string;
+  note?: string;
 }) {
   const days = daysUntil(targetDate);
   const display =
@@ -25,6 +27,9 @@ export function CruiseCountdown({
           {label}: Nov 1, 2026
         </p>
         <p className="mt-4 text-3xl font-semibold text-[var(--accent)]">{display}</p>
+        {note ? (
+          <p className="mt-3 text-sm text-[var(--muted)] leading-relaxed">{note}</p>
+        ) : null}
       </div>
     </section>
   );

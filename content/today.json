@@ -1,35 +1,35 @@
 {
   "greeting": "Good morning, Zae",
-  "date": "2026-10-02",
-  "dateDisplay": "Friday, October 2, 2026",
+  "date": "2026-10-03",
+  "dateDisplay": "Saturday, October 3, 2026",
   "calendar": {
     "note": "No meetings",
     "events": [
       {
         "time": "8:00 AM ET",
-        "title": "Morning supplements"
+        "title": "Morning supplements (L-Tyrosine, L-Theanine, Omega, D3+K2, B-Complex)"
       },
       {
         "time": "2:00 PM ET",
-        "title": "Afternoon stack"
+        "title": "Afternoon stack (L-Tyrosine, Omega)"
       },
       {
-        "time": "6:00-8:00 PM ET",
-        "title": "Russian study"
+        "time": "6:00 to 8:00 PM ET",
+        "title": "Spanish study (2-hour block, alternates with Russian)"
       },
       {
         "time": "10:00 PM ET",
-        "title": "Night supplements"
+        "title": "Night supplements (L-Theanine, Neuro-Mag; creatine 5g anytime today)"
       }
     ]
   },
   "projectMove": {
-    "title": "A+ Academy: land PR #13 continue/restart hero",
-    "body": "PR #13 makes /start resume the last lesson or confirm a clean restart. Merge when checks look good so the Duolingo-style opening flow ships to aplus-academy-gules.vercel.app."
+    "title": "A+ Academy: merge PR #13 when ready",
+    "body": "PR #13 (Resume the latest lesson from the start page) is still open, mergeable, and clean. It makes /start continue the last lesson or confirm a clean restart. Merge when you want the Duolingo-style opening flow live on aplus-academy-gules.vercel.app. Weekend Fun for tonight is already live on the morning-brief /weekend tab."
   },
   "tip": {
-    "title": "Protect the Russian block",
-    "body": "Tonight is Russian, not Spanish. Protect 6 to 8 PM like a meeting. DND, one solid session, done."
+    "title": "Protect the Spanish block",
+    "body": "Tonight is Spanish, not Russian. Guard 6 to 8 PM like a meeting. DND, one solid session, done. Afternoon storms are only about 40% coverage, so if you go out, earlier is safer than late afternoon."
   },
   "cruise": {
     "name": "Carnival Paradise",
@@ -44,18 +44,18 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-02T06:52:00-04:00",
+    "asOf": "2026-10-03T06:59:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Web Analytics is still not ready on grad-arena850 (API: not found / team scope blocked). Numbers stay blank until tracking is enabled and the Vercel connector can read zaevians-projects."
+    "note": "Web Analytics is still not ready on grad-arena850 (API: not found / team scope blocked). Numbers stay blank until tracking is enabled."
   },
   "extras": {
     "gradArena": "Instagram Gradarena850 live; site share image and redirect already shipped. Reviews and analytics enablement still the open levers.",
-    "language": "Russian study block tonight (alternates with Spanish).",
-    "cruiseNote": "30 days to boarding; Online Check-In opens Oct 18; TLH bus leave night Oct 31.",
-    "weatherNote": "Humid, showers likely, high near 86°F; wet weekend ahead."
+    "language": "Spanish study block tonight, 6 to 8 PM (alternates with Russian).",
+    "cruiseNote": "29 days to boarding on Nov 1. Online Check-In opens Oct 18 (15 days). Booking FM3V62. Bus leaves Oct 31 evening from CK Steele.",
+    "weatherNote": "74F and overcast, high 84, low 73, wind 5 mph from the east. Humid. Scattered thunderstorms possible from about 2 PM (about 40% coverage)."
   }
 }

@@ -1,17 +1,37 @@
 import today from "../../content/today.json";
-import type { TodayBrief } from "@/lib/types";
+import type { SiteStats, TodayBrief } from "@/lib/types";
 import { fetchTallahasseeWeather } from "@/lib/weather";
 import { WeatherCard } from "@/components/WeatherCard";
 import { CruiseCountdown } from "@/components/CruiseCountdown";
 import { SiteStatsCard } from "@/components/SiteStatsCard";
 
-const brief = today as TodayBrief;
+type BriefExtras = {
+  gradArena?: string;
+  language?: string;
+  cruiseNote?: string;
+  weatherNote?: string;
+};
+
+const brief = today as TodayBrief & { extras?: BriefExtras };
+
+function joinCopy(note: string | undefined, extra: string | undefined): string | undefined {
+  const parts = [note, extra].filter(
+    (part): part is string => typeof part === "string" && part.trim().length > 0
+  );
+  return parts.length > 0 ? parts.join(" ") : undefined;
+}
 
 export default async function Home() {
   const weather = await fetchTallahasseeWeather(
     brief.weather.lat,
     brief.weather.lon
   );
+  const siteStats: SiteStats | undefined = brief.siteStats
+    ? {
+        ...brief.siteStats,
+        note: joinCopy(brief.siteStats.note, brief.extras?.gradArena),
+      }
+    : undefined;
 
   return (
     <main className="mx-auto max-w-3xl px-4 pb-10 pt-6 sm:pb-14 sm:pt-8">
@@ -68,9 +88,7 @@ export default async function Home() {
           </p>
         </section>
 
-        {brief.siteStats != null ? (
-          <SiteStatsCard stats={brief.siteStats} />
-        ) : null}
+        {siteStats != null ? <SiteStatsCard stats={siteStats} /> : null}
 
         <section className="card p-5 sm:p-6 border-[rgba(251,191,36,0.2)]">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--warm)] mb-2">
@@ -81,11 +99,16 @@ export default async function Home() {
         </section>
 
         <div className="grid gap-4 sm:grid-cols-2 sm:gap-5">
-          <WeatherCard place={brief.weather.label} weather={weather} />
+          <WeatherCard
+            place={brief.weather.label}
+            weather={weather}
+            note={brief.extras?.weatherNote}
+          />
           <CruiseCountdown
             name={brief.cruise.name}
             targetDate={brief.cruise.targetDate}
             label={brief.cruise.label}
+            note={brief.extras?.cruiseNote}
           />
         </div>
       </div>
