@@ -2,40 +2,59 @@
   "greeting": "Good morning, Zae. It is a soft, rainy Tuesday in Tallahassee, and your day is calm enough to make one real move.",
   "date": "2026-10-06",
   "dateDisplay": "Tuesday, October 6, 2026",
-  "calendar": [
-    { "time": "8:00 AM", "title": "Morning Supplements (10/10 Plan)", "detail": "L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex." },
-    { "time": "2:00 PM", "title": "Afternoon Supplements (10/10 Plan)", "detail": "L-Tyrosine and one or two Omega soft gels." },
-    { "time": "6:00 PM", "title": "Russian study (2 hours)", "detail": "Tonight is Russian; tomorrow rotates to Spanish." },
-    { "time": "10:00 PM", "title": "Night Supplements (10/10 Plan)", "detail": "L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today." }
-  ],
+  "calendar": {
+    "note": "Supplements + Russian",
+    "events": [
+      {
+        "time": "8:00 AM",
+        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
+      },
+      {
+        "time": "2:00 PM",
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
+      },
+      {
+        "time": "6:00 PM",
+        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates to Spanish."
+      },
+      {
+        "time": "10:00 PM",
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+      }
+    ]
+  },
   "projectMove": {
-    "project": "Grad Arena 850",
-    "title": "Turn on Vercel Web Analytics for gradarena850.com",
-    "detail": "Vercel still reports that Web Analytics is not enabled for the grad-arena850 project, so this brief cannot show real visitor counts yet. Enabling it in the Vercel project settings, plus a small analytics script on the site, would let every morning brief show daily and weekly views and the most visited pages. With the Instagram carousel boosted, this is the quickest way to see whether that spend is actually bringing people to the site."
+    "title": "Grad Arena 850: Turn on Vercel Web Analytics for gradarena850.com",
+    "body": "Vercel still reports that Web Analytics is not enabled for the grad-arena850 project, so this brief cannot show real visitor counts yet. Enabling it in the Vercel project settings, plus a small analytics script on the site, would let every morning brief show daily and weekly views and the most visited pages. With the Instagram carousel boosted, this is the quickest way to see whether that spend is actually bringing people to the site."
   },
   "tip": {
     "title": "Speak it, do not just read it",
-    "detail": "During tonight's Russian session, spend the first ten minutes shadowing a short Easy Russian street clip out loud. Saying the phrases at native speed builds listening and pronunciation together, and it warms you up for the rest of the two hours."
+    "body": "During tonight's Russian session, spend the first ten minutes shadowing a short Easy Russian street clip out loud. Saying the phrases at native speed builds listening and pronunciation together, and it warms you up for the rest of the two hours."
   },
   "cruise": {
-    "departureDate": "2026-10-31",
-    "daysUntil": 25,
-    "detail": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens October 18, which is 12 days from now, and a reminder is already set for that morning."
+    "name": "Carnival Paradise",
+    "targetDate": "2026-10-31",
+    "label": "25 days"
   },
   "weather": {
-    "location": "Tallahassee, FL",
-    "summary": "Light rain on and off most of the day, easing by evening.",
-    "nowF": 69,
-    "highF": 72,
-    "lowF": 68,
-    "detail": "Rain chances sit near 80 percent from morning through mid afternoon, then drop to about 40 percent by evening. Bring an umbrella if you head out."
+    "lat": 30.4383,
+    "lon": -84.2807,
+    "label": "Tallahassee, FL"
   },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
     "asOf": "2026-10-06T06:57:00-04:00",
-    "views": { "last24h": null, "last7d": null },
+    "views": {
+      "last24h": null,
+      "last7d": null
+    },
     "topPages": [],
     "note": "Tracking is not ready yet. Vercel reports that Web Analytics is not enabled for the grad-arena850 project, so no visitor numbers are available."
+  },
+  "extras": {
+    "language": "Tonight is Russian study (2 hours); tomorrow rotates to Spanish.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens October 18, which is 12 days from now, and a reminder is already set for that morning.",
+    "weatherNote": "Light rain on and off most of the day, easing by evening. Now 69F, high 72F, low 68F. Rain chances sit near 80 percent from morning through mid afternoon, then drop to about 40 percent by evening. Bring an umbrella if you head out."
   }
 }
