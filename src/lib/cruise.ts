@@ -1,8 +1,17 @@
+const easternYmd = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "America/New_York",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+});
+
+function ymdToUtcMs(ymd: string): number {
+  const [year, month, day] = ymd.split("-").map(Number);
+  return Date.UTC(year, month - 1, day);
+}
+
 export function daysUntil(targetDate: string, fromDate = new Date()): number {
-  const target = new Date(`${targetDate}T00:00:00`);
-  const from = new Date(fromDate);
-  from.setHours(0, 0, 0, 0);
-  target.setHours(0, 0, 0, 0);
-  const diff = target.getTime() - from.getTime();
-  return Math.ceil(diff / (1000 * 60 * 60 * 24));
+  const todayEastern = easternYmd.format(fromDate);
+  const diff = ymdToUtcMs(targetDate) - ymdToUtcMs(todayEastern);
+  return Math.round(diff / (1000 * 60 * 60 * 24));
 }
