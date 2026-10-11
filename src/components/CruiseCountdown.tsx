@@ -1,5 +1,15 @@
 import { daysUntil } from "@/lib/cruise";
 
+function formatTargetDate(targetDate: string): string {
+  const [year, month, day] = targetDate.split("-").map(Number);
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "UTC",
+  }).format(new Date(Date.UTC(year, month - 1, day)));
+}
+
 export function CruiseCountdown({
   name,
   targetDate,
@@ -24,7 +34,7 @@ export function CruiseCountdown({
         </p>
         <h2 className="text-lg font-semibold">{name}</h2>
         <p className="text-[var(--muted)] text-sm mt-1">
-          {label}: Nov 1, 2026
+          {label}: {formatTargetDate(targetDate)}
         </p>
         <p className="mt-4 text-3xl font-semibold text-[var(--accent)]">{display}</p>
         {note ? (
