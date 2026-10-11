@@ -2,19 +2,14 @@
 
 import { useState, type SyntheticEvent } from "react";
 import Image from "next/image";
-import type { WeekendDay } from "@/lib/types";
+import type { DayOfWeek } from "@/lib/types";
+import { DAY_WASH } from "@/lib/day-style";
 import { isOptimizableEventImage } from "@/lib/image-hosts";
 
-const WASH: Record<WeekendDay, string> = {
-  Fri: "from-[rgba(125,211,252,0.45)] via-[#16203d] to-[rgba(196,181,253,0.28)]",
-  Sat: "from-[rgba(196,181,253,0.5)] via-[#1a1733] to-[rgba(125,211,252,0.22)]",
-  Sun: "from-[rgba(251,191,36,0.42)] via-[#241c16] to-[rgba(196,181,253,0.22)]",
-};
-
-function Placeholder({ day }: { day: WeekendDay }) {
+function Placeholder({ day }: { day: DayOfWeek }) {
   return (
     <div
-      className={`absolute inset-0 bg-gradient-to-br ${WASH[day]}`}
+      className={`absolute inset-0 bg-gradient-to-br ${DAY_WASH[day]}`}
       aria-hidden="true"
     >
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_28%_24%,rgba(255,255,255,0.2),transparent_34%),radial-gradient(circle_at_78%_78%,rgba(255,255,255,0.1),transparent_32%)]" />
@@ -63,7 +58,7 @@ export function EventImage({
   day,
 }: {
   src: string | null;
-  day: WeekendDay;
+  day: DayOfWeek;
 }) {
   const { failed, markBroken, noteElement, noteLoad } = useBrokenImage();
   const photo = src != null && !failed ? src : null;

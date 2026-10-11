@@ -6,7 +6,7 @@ Daily morning briefing for Zae.
 
 Edit `content/today.json` for the day's greeting, calendar, project move, tip, cruise, and weather coords.
 
-Weekend events live in `content/weekend.json` and render at `/weekend`. Field list, the template, and the Thursday handoff are in [ADD-WEEKEND.md](ADD-WEEKEND.md).
+Daily fun events live in `content/fun.json` and render at `/fun` (the **Fun** tab: "Fun this week" Mon-Thu, "Fun this weekend" Fri-Sun, in Eastern time). `/weekend` permanently redirects to `/fun`. Schema, template (`content/fun._template.json`), examples, and the daily handoff are in [ADD-FUN.md](ADD-FUN.md).
 
 ## Local
 

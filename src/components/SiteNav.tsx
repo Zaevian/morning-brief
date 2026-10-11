@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 
 const LINKS = [
   { href: "/", label: "Morning Brief" },
-  { href: "/weekend", label: "Weekend Fun" },
+  { href: "/fun", label: "Fun" },
 ] as const;
 
 function isActive(pathname: string, href: string): boolean {

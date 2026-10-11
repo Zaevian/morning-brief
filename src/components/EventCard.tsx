@@ -1,12 +1,7 @@
-import type { WeekendEvent } from "@/lib/types";
-import { WEEKEND_DAY_LABEL } from "@/lib/weekend";
+import type { FunEvent } from "@/lib/types";
+import { DAY_LABEL } from "@/lib/fun";
+import { DAY_CHIP } from "@/lib/day-style";
 import { EventImage } from "@/components/EventImage";
-
-const DAY_CHIP: Record<WeekendEvent["day"], string> = {
-  Fri: "border-[rgba(125,211,252,0.4)] bg-[rgba(125,211,252,0.14)] text-[var(--accent)]",
-  Sat: "border-[rgba(196,181,253,0.4)] bg-[rgba(196,181,253,0.14)] text-[var(--accent-2)]",
-  Sun: "border-[rgba(251,191,36,0.4)] bg-[rgba(251,191,36,0.14)] text-[var(--warm)]",
-};
 
 function ExternalIcon() {
   return (
@@ -28,11 +23,11 @@ function ExternalIcon() {
   );
 }
 
-export function EventCard({ event }: { event: WeekendEvent }) {
+export function EventCard({ event }: { event: FunEvent }) {
   const meta = [event.neighborhood, event.startTime].filter(Boolean).join(" · ");
   const tags = event.tags.filter((tag) => tag.toLowerCase() !== "sample");
   const linkLabel = event.sample ? "Sample link" : "View event";
-  const ariaLabel = `${event.sample ? "Sample event: " : ""}${event.title}, ${WEEKEND_DAY_LABEL[event.day]} at ${event.venue}. ${linkLabel}, opens in a new tab.`;
+  const ariaLabel = `${event.sample ? "Sample event: " : ""}${event.title}, ${DAY_LABEL[event.day]} at ${event.venue}. ${linkLabel}, opens in a new tab.`;
 
   return (
     <article className="card group relative flex h-full flex-col overflow-hidden motion-safe:transition motion-safe:duration-200 hover:border-white/20 motion-safe:hover:-translate-y-0.5 focus-within:border-white/25">

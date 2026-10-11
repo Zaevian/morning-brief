@@ -5,6 +5,12 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: eventImageRemotePatterns,
   },
+  async redirects() {
+    return [
+      { source: "/weekend", destination: "/fun", permanent: true },
+      { source: "/weekend/:path*", destination: "/fun", permanent: true },
+    ];
+  },
 };
 
 export default nextConfig;

@@ -24,19 +24,23 @@ export type SiteStats = {
   note?: string;
 };
 
-export type WeekendDay = "Fri" | "Sat" | "Sun";
+export type DayOfWeek = "Mon" | "Tue" | "Wed" | "Thu" | "Fri" | "Sat" | "Sun";
 
-export type WeekendRange = {
+export type FunMode = "week" | "weekend";
+
+export type FunRange = {
+  /** First day covered, YYYY-MM-DD (Eastern calendar date). */
+  start: string;
+  /** Last day covered, YYYY-MM-DD, inclusive. */
+  end: string;
+  /** Display line. Built from start/end when the content leaves it out. */
   label: string;
-  startDate?: string;
-  endDate?: string;
-  updatedNote?: string;
 };
 
-export type WeekendEvent = {
+export type FunEvent = {
   id: string;
   title: string;
-  day: WeekendDay;
+  day: DayOfWeek;
   date?: string;
   venue: string;
   hook: string;
@@ -48,9 +52,24 @@ export type WeekendEvent = {
   sample: boolean;
 };
 
-export type WeekendDrop = {
-  weekendRange: WeekendRange;
-  events: WeekendEvent[];
+export type FunDay = {
+  day: DayOfWeek;
+  /** YYYY-MM-DD when the day sits inside the range. */
+  date?: string;
+  events: FunEvent[];
+};
+
+export type FunDrop = {
+  mode: FunMode;
+  heading: string;
+  range: FunRange;
+  updatedNote?: string;
+  /** "content" when fun.json's mode/range were used, "computed" when they were missing, invalid, or expired. */
+  source: "content" | "computed";
+  /** True when fun.json's range ended before Eastern today. */
+  stale: boolean;
+  days: FunDay[];
+  events: FunEvent[];
 };
 
 export type TodayBrief = {

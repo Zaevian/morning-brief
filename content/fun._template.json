@@ -1,16 +1,17 @@
 {
-  "weekendRange": {
-    "label": "Oct 10-12, 2026",
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-12",
-    "updatedNote": "Thursday drop. Say who filled it, or leave a short note."
+  "mode": "week",
+  "range": {
+    "start": "2026-10-12",
+    "end": "2026-10-15",
+    "label": "Mon-Thu, Oct 12-15, 2026"
   },
+  "updatedNote": "Daily drop. Say who filled it, or leave a short note.",
   "events": [
     {
-      "id": "fri-short-name",
+      "id": "mon-short-name-2026-10-12",
       "title": "Event title",
-      "day": "Fri",
-      "date": "2026-10-10",
+      "day": "Mon",
+      "date": "2026-10-12",
       "venue": "Venue name",
       "neighborhood": "Neighborhood",
       "startTime": "8:00 PM",
