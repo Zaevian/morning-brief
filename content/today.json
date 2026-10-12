@@ -1,37 +1,39 @@
 {
-  "greeting": "Good morning, Zae. It is a mild, dry Sunday in Tallahassee, and your calendar is light enough to clear one real decision before the evening.",
-  "date": "2026-10-11",
-  "dateDisplay": "Sunday, October 11, 2026",
+  "greeting": "Good morning, Zae. Monday is sunny and hot in Tallahassee, your calendar is habit-only, and the cruise clock is now under three weeks.",
+  "date": "2026-10-12",
+  "dateDisplay": "Monday, October 12, 2026",
   "calendar": {
-    "note": "Supplements + Spanish",
+    "note": "Supplements + Russian",
     "events": [
       { "time": "8:00 AM", "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex." },
       { "time": "2:00 PM", "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels." },
-      { "time": "6:00 PM", "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates to Russian." },
+      { "time": "6:00 PM", "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates to Spanish." },
       { "time": "10:00 PM", "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today." }
     ]
   },
   "projectMove": {
-    "title": "A+ Academy: Decide on the Resume Lesson update (PR #13)",
-    "body": "The change that lets the start page resume your latest lesson has been waiting for review since October 1, while the newer lab and Node fixes were merged on October 5. A quick look and a yes or no today would either put the continue button in front of students or let the team close it out, instead of leaving it to drift behind newer work."
+    "title": "Carnival: Confirm Hub login before Online Check-In opens",
+    "body": "Online Check-In for Carnival Paradise opens Saturday, October 18, which is six days from today. A five-minute check that Carnival Hub still recognizes booking FM3V62, and that your phone can open the app without fighting a password reset, keeps October 18 from becoming a scramble before the Tallahassee bus night."
   },
   "tip": {
-    "title": "Practice the Spanish you will actually use on the ship",
-    "body": "With the cruise twenty days out, spend part of tonight's Spanish session on travel phrases you will really say aboard and ashore, like ordering food, asking for directions, and handling a price. Say each one out loud a few times so it comes out naturally when you need it."
+    "title": "Use tonight’s Russian block for phrases you will need aboard",
+    "body": "Spend part of the two-hour Russian session on short travel lines you can say without thinking, like asking for directions, ordering food, and checking a price. Saying them out loud a few times tonight makes them easier when the ship and ports are loud."
   },
-  "cruise": { "name": "Carnival Paradise", "targetDate": "2026-10-31", "label": "20 days" },
+  "cruise": { "name": "Carnival Paradise", "targetDate": "2026-10-31", "label": "19 days" },
   "weather": { "lat": 30.4383, "lon": -84.2807, "label": "Tallahassee, FL" },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-11T06:58:00-04:00",
+    "asOf": "2026-10-12T06:54:00-04:00",
     "views": { "last24h": null, "last7d": null },
     "topPages": [],
-    "note": "Tracking is not ready yet. Vercel still reports that Web Analytics is not enabled for the grad-arena850 project, so no visitor numbers are available."
+    "note": "Tracking is not ready yet. The Vercel connector could not read analytics for the zaevians-projects team (authorization error), so no visitor numbers are available."
   },
   "extras": {
-    "language": "Tonight is Spanish study (2 hours); tomorrow rotates to Russian.",
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens October 18, which is one week from today, and a reminder is already set for that morning.",
-    "weatherNote": "Cloudy but dry all day, with no rain expected. High near 77F and low near 64F, so it is a comfortable day to be outside."
+    "language": "Tonight is Russian study (2 hours); tomorrow rotates to Spanish.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens October 18, six days from today, and a reminder is already set for that morning.",
+    "weatherNote": "Mainly sunny and hot, with little chance of rain. High near 89F and low near 61F, with light northwest winds, so plan for heat if you are outside mid-day.",
+    "gradArenaNote": "Grad Arena SEO weekly pulse is due later this morning. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
+    "academyNote": "A+ Academy resume-lesson pull request #13 is still open from October 1 if you want a yes or no on that continue button after the Carnival Hub check."
   }
 }
