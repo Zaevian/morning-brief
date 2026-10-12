@@ -35,5 +35,20 @@
     "weatherNote": "Mainly sunny and hot, with little chance of rain. High near 89F and low near 61F, with light northwest winds, so plan for heat if you are outside mid-day.",
     "gradArenaNote": "Grad Arena SEO weekly pulse is due later this morning. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
     "academyNote": "A+ Academy resume-lesson pull request #13 is still open from October 1 if you want a yes or no on that continue button after the Carnival Hub check."
+  },
+  "surprise": {
+    "kind": "golden-hour",
+    "eyebrow": "Today's surprise",
+    "title": "Tonight's golden hour: 6:39 PM–7:11 PM ET",
+    "body": "Zae, the light softens over Tallahassee from 6:39 to 7:11 this evening, and I would gladly hold that window for a Grad Arena shoot if you would like the gold on your side.",
+    "link": {
+      "label": "Book a session",
+      "url": "https://gradarena850.com/booking"
+    },
+    "source": {
+      "label": "Sunrise-Sunset.org",
+      "url": "https://sunrise-sunset.org/"
+    },
+    "accent": "#fbbf24"
   }
 }

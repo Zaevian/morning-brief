@@ -72,6 +72,38 @@ export type FunDrop = {
   events: FunEvent[];
 };
 
+export type SurpriseKind =
+  | "golden-hour"
+  | "word"
+  | "apod"
+  | "sky"
+  | "on-this-day"
+  | "anime"
+  | "show"
+  | "port"
+  | "note"
+  | "fact";
+
+export type SurpriseLink = {
+  label: string;
+  url: string;
+};
+
+export type Surprise = {
+  kind: SurpriseKind;
+  eyebrow: string;
+  title: string;
+  body: string;
+  /** https only. Allowed hosts go through next/image; other https hosts use a plain img. */
+  imageUrl?: string;
+  imageAlt?: string;
+  audioUrl?: string;
+  link?: SurpriseLink;
+  source?: SurpriseLink;
+  /** CSS hex color, like "#fbbf24". */
+  accent?: string;
+};
+
 export type TodayBrief = {
   greeting: string;
   date: string;
@@ -99,4 +131,5 @@ export type TodayBrief = {
     label: string;
   };
   siteStats?: SiteStats;
+  surprise?: Surprise;
 };

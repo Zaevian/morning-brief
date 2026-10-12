@@ -4,6 +4,7 @@ import { fetchTallahasseeWeather } from "@/lib/weather";
 import { WeatherCard } from "@/components/WeatherCard";
 import { CruiseCountdown } from "@/components/CruiseCountdown";
 import { SiteStatsCard } from "@/components/SiteStatsCard";
+import { SurpriseCard } from "@/components/SurpriseCard";
 
 type BriefExtras = {
   gradArena?: string;
@@ -46,6 +47,8 @@ export default async function Home() {
       </header>
 
       <div className="grid gap-4 sm:gap-5">
+        <SurpriseCard surprise={brief.surprise} />
+
         <section className="card p-5 sm:p-6">
           <div className="flex items-center justify-between gap-3 mb-4">
             <div>
@@ -76,6 +79,11 @@ export default async function Home() {
               </li>
             ))}
           </ol>
+          {brief.extras?.language ? (
+            <p className="mt-4 border-t border-white/10 pt-3 text-xs text-[var(--muted)]">
+              {brief.extras.language}
+            </p>
+          ) : null}
         </section>
 
         <section className="card p-5 sm:p-6 border-[rgba(196,181,253,0.25)]">
