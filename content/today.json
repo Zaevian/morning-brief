@@ -5,27 +5,50 @@
   "calendar": {
     "note": "Supplements + Russian",
     "events": [
-      { "time": "8:00 AM", "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex." },
-      { "time": "2:00 PM", "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels." },
-      { "time": "6:00 PM", "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates to Spanish." },
-      { "time": "10:00 PM", "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today." }
+      {
+        "time": "8:00 AM",
+        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
+      },
+      {
+        "time": "2:00 PM",
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
+      },
+      {
+        "time": "6:00 PM",
+        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates to Spanish."
+      },
+      {
+        "time": "10:00 PM",
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+      }
     ]
   },
   "projectMove": {
     "title": "Carnival: Confirm Hub login before Online Check-In opens",
-    "body": "Online Check-In for Carnival Paradise opens Saturday, October 18, which is six days from today. A five-minute check that Carnival Hub still recognizes booking FM3V62, and that your phone can open the app without fighting a password reset, keeps October 18 from becoming a scramble before the Tallahassee bus night."
+    "body": "Online Check-In for Carnival Paradise opens Saturday, October 18, which is six days from today. A five-minute check that Carnival Hub still recognizes your booking, and that your phone can open the app without fighting a password reset, keeps October 18 from becoming a scramble before the Tallahassee bus night."
   },
   "tip": {
     "title": "Use tonight’s Russian block for phrases you will need aboard",
     "body": "Spend part of the two-hour Russian session on short travel lines you can say without thinking, like asking for directions, ordering food, and checking a price. Saying them out loud a few times tonight makes them easier when the ship and ports are loud."
   },
-  "cruise": { "name": "Carnival Paradise", "targetDate": "2026-10-31", "label": "19 days" },
-  "weather": { "lat": 30.4383, "lon": -84.2807, "label": "Tallahassee, FL" },
+  "cruise": {
+    "name": "Carnival Paradise",
+    "targetDate": "2026-10-31",
+    "label": "19 days"
+  },
+  "weather": {
+    "lat": 30.4383,
+    "lon": -84.2807,
+    "label": "Tallahassee, FL"
+  },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
     "asOf": "2026-10-12T06:54:00-04:00",
-    "views": { "last24h": null, "last7d": null },
+    "views": {
+      "last24h": null,
+      "last7d": null
+    },
     "topPages": [],
     "note": "Tracking is not ready yet. The Vercel connector could not read analytics for the zaevians-projects team (authorization error), so no visitor numbers are available."
   },
