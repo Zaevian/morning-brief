@@ -60,18 +60,19 @@
     "academyNote": "A+ Academy resume-lesson pull request #13 is still open from October 1 if you want a yes or no on that continue button after the Carnival Hub check."
   },
   "surprise": {
-    "kind": "golden-hour",
+    "kind": "word",
     "eyebrow": "Today's surprise",
-    "title": "Tonight's golden hour: 6:39 PM–7:11 PM ET",
-    "body": "Zae, the light softens over Tallahassee from 6:39 to 7:11 this evening, and I would gladly hold that window for a Grad Arena shoot if you would like the gold on your side.",
+    "title": "¿Cuánto cuesta? — cruise Spanish for tonight",
+    "body": "Your calendar has Spanish from 6 to 8 this evening, and the ship is eighteen days out, so here is a phrase you will actually use in port: ¿Cuánto cuesta? (How much does it cost?). Tap play for a Latin American Spanish pronunciation of cuánto, the word that opens the question.",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Es-am-lat-cu%C3%A1nto.ogg",
     "link": {
-      "label": "Book a session",
-      "url": "https://gradarena850.com/booking"
+      "label": "Wiktionary: cuánto",
+      "url": "https://en.wiktionary.org/wiki/cu%C3%A1nto#Spanish"
     },
     "source": {
-      "label": "Sunrise-Sunset.org",
-      "url": "https://sunrise-sunset.org/"
+      "label": "Wikimedia Commons (LatAm Spanish)",
+      "url": "https://commons.wikimedia.org/wiki/File:Es-am-lat-cu%C3%A1nto.ogg"
     },
-    "accent": "#fbbf24"
+    "accent": "#22d3ee"
   }
 }
