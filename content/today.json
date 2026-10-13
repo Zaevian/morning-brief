@@ -1,63 +1,39 @@
 {
-  "greeting": "Good morning, Zae. Monday is sunny and hot in Tallahassee, your calendar is habit-only, and the cruise clock is now under three weeks.",
-  "date": "2026-10-12",
-  "dateDisplay": "Monday, October 12, 2026",
+  "greeting": "Good morning, Zae. Tuesday is sunny and warm in Tallahassee, your calendar is habit-only with Spanish tonight, and the cruise is now eighteen days out.",
+  "date": "2026-10-13",
+  "dateDisplay": "Tuesday, October 13, 2026",
   "calendar": {
-    "note": "Supplements + Russian",
+    "note": "Supplements + Spanish",
     "events": [
-      {
-        "time": "8:00 AM",
-        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
-      },
-      {
-        "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
-      },
-      {
-        "time": "6:00 PM",
-        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates to Spanish."
-      },
-      {
-        "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
-      }
+      {"time": "8:00 AM", "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."},
+      {"time": "2:00 PM", "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."},
+      {"time": "6:00 PM", "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates back to Russian."},
+      {"time": "10:00 PM", "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."}
     ]
   },
   "projectMove": {
-    "title": "Carnival: Confirm Hub login before Online Check-In opens",
-    "body": "Online Check-In for Carnival Paradise opens Saturday, October 18, which is six days from today. A five-minute check that Carnival Hub still recognizes your booking, and that your phone can open the app without fighting a password reset, keeps October 18 from becoming a scramble before the Tallahassee bus night."
+    "title": "A+ Academy: Give Miyuki a yes or no on two waiting updates",
+    "body": "Two A+ Academy updates are finished and waiting on you. The newer one rewrites 131 weak wrong-answer explanations in the Core 1 networking section so each one names the mistake and the right fact, and every check passed. The older one, open since October 1, adds a Continue button on the start page that reopens your last lesson. A quick yes on each lets Miyuki publish them before cruise prep takes over your week."
   },
   "tip": {
-    "title": "Use tonight’s Russian block for phrases you will need aboard",
-    "body": "Spend part of the two-hour Russian session on short travel lines you can say without thinking, like asking for directions, ordering food, and checking a price. Saying them out loud a few times tonight makes them easier when the ship and ports are loud."
+    "title": "Turn tonight's Spanish block into port practice",
+    "body": "Use part of the two-hour Spanish session on lines you will say ashore, like asking a price, ordering food, and asking where something is. Say each one out loud a few times, because hearing your own voice makes them come out easier in a loud port."
   },
-  "cruise": {
-    "name": "Carnival Paradise",
-    "targetDate": "2026-10-31",
-    "label": "19 days"
-  },
-  "weather": {
-    "lat": 30.4383,
-    "lon": -84.2807,
-    "label": "Tallahassee, FL"
-  },
+  "cruise": {"name": "Carnival Paradise", "targetDate": "2026-10-31", "label": "18 days"},
+  "weather": {"lat": 30.4383, "lon": -84.2807, "label": "Tallahassee, FL"},
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-12T14:58:00-04:00",
-    "views": {
-      "last24h": null,
-      "last7d": null
-    },
+    "asOf": "2026-10-13T06:55:00-04:00",
+    "views": {"last24h": null, "last7d": null},
     "topPages": [],
-    "note": "Tracking is not ready yet. The Vercel connector could not read analytics for the zaevians-projects team (authorization error), so no visitor numbers are available."
+    "note": "Tracking is not ready yet. Vercel reports that Web Analytics is not turned on for the Grad Arena project, so no visitor numbers are available."
   },
   "extras": {
-    "language": "Tonight is Russian study (2 hours); tomorrow rotates to Spanish.",
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens October 18, six days from today, and a reminder is already set for that morning.",
-    "weatherNote": "Mainly sunny and hot, with little chance of rain. High near 89F and low near 61F, with light northwest winds, so plan for heat if you are outside mid-day.",
-    "gradArenaNote": "Grad Arena SEO weekly pulse is due later this morning. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
-    "academyNote": "A+ Academy resume-lesson pull request #13 is still open from October 1 if you want a yes or no on that continue button after the Carnival Hub check."
+    "language": "Tonight is Spanish study (2 hours); tomorrow rotates back to Russian.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens Saturday, October 18, five days from today, and a reminder is already set for that morning.",
+    "weatherNote": "Sunny with a high near 88F and a low near 63F tonight, with almost no wind. Wednesday looks the same, so plan for heat if you are outside mid-day.",
+    "gradArena": "Visitor tracking is still off for gradarena850.com, so there are no traffic numbers yet. Turning on Web Analytics in Vercel is a one-click step whenever you want those numbers. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel."
   },
   "surprise": {
     "kind": "word",
