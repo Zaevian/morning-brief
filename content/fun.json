@@ -1,54 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-10-13",
+    "start": "2026-10-14",
     "end": "2026-10-15",
-    "label": "Tue-Thu, Oct 13-15, 2026"
+    "label": "Wed-Thu, Oct 14-15, 2026"
   },
-  "updatedNote": "Tuesday drop from Diablo. Midweek picks with photos where the event pages had them.",
+  "updatedNote": "Wednesday drop from Diablo. Tonight and tomorrow, with two new Thursday shows on North Monroe.",
   "events": [
-    {
-      "id": "tue-harry-potter-halloween-trivia-growler-country-2026-10-13",
-      "title": "Harry Potter and Halloween Trivia Night",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "venue": "Growler Country North",
-      "neighborhood": "Killearn",
-      "startTime": "6:30 PM",
-      "hook": "Themed rounds, festive drinks, and a spooky music round to finish.",
-      "url": "https://www.eventbrite.com/e/harry-potterhalloween-trivia-night-tickets-2002960459653",
-      "imageUrl": "https://cdn.evbuc.com/images/1195106695/2337653494683/1/original.20261005-185233?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508&fp-y=0.095&s=0032499d51e5a4264623fe10f29a4fb9",
-      "tags": ["trivia", "halloween"],
-      "sample": false
-    },
-    {
-      "id": "tue-tallahassee-swing-band-legion-hall-2026-10-13",
-      "title": "Tuesday Night Dance with the Tallahassee Swing Band",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "venue": "Legion Hall",
-      "neighborhood": "Lake Ella",
-      "startTime": "7:30 PM",
-      "hook": "A 20-piece swing band, with free dance lessons if you arrive at 6:30.",
-      "url": "https://musiclocal.org/events/tuesday-night-dance-at-legion-hall-2026-10-13-m8z9sk",
-      "imageUrl": "https://media.musiclocal.org/e9YWCAOBiK96VrvTgjkYohRWTcTJ5V-OIjuoxbdO3Q4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbc086136-72bd-4e2a-9147-55e278557024.jpeg",
-      "tags": ["live music", "dancing"],
-      "sample": false
-    },
-    {
-      "id": "tue-existential-dread-north-flora-2026-10-13",
-      "title": "S.C.A.M.S. presents Existential Dread",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "venue": "North Flora Collective",
-      "neighborhood": "Railroad Square",
-      "startTime": "8:00 PM",
-      "hook": "Heavy touring act from Knoxville plus three local openers, $10 at the door.",
-      "url": "https://tallahasseearts.org/event/s-c-a-m-s-presents-existential-dread-north-flora-collective/",
-      "imageUrl": "https://tallahasseearts.org/wp-content/uploads/sites/tallahasseearts.org/images/2026/10/event-featured-s-c-a-m-s-presents-existential-dread-north-flora-collective-1791404064-scaled.jpeg",
-      "tags": ["live music", "metal"],
-      "sample": false
-    },
     {
       "id": "wed-tallytrad-amicus-2026-10-14",
       "title": "TallyTrad at Amicus Brewing",
@@ -60,7 +18,10 @@
       "hook": "Early traditional music set under the lights at Old City Waterworks.",
       "url": "https://musiclocal.org/events/tallytrad-at-amicus-brewing-ventures-2026-10-14-0l5g2b",
       "imageUrl": "https://media.musiclocal.org/ZWek40q7WKqydsgJmq4opqPbT5wCLJkTeoCFYaHCAa4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fvenues%2F032de226-d1a4-4f9e-8268-56d6ac01e4b8.jpeg",
-      "tags": ["live music", "folk"],
+      "tags": [
+        "live music",
+        "folk"
+      ],
       "sample": false
     },
     {
@@ -74,7 +35,11 @@
       "hook": "Free outdoor screening, so bring a blanket and grab dinner downtown.",
       "url": "https://fun4tallykids.com/calendar/eventdetail/274019/-/movies-in-the-park-ghostbusters",
       "imageUrl": null,
-      "tags": ["movie", "free", "outdoors"],
+      "tags": [
+        "movie",
+        "free",
+        "outdoors"
+      ],
       "sample": false
     },
     {
@@ -87,7 +52,12 @@
       "hook": "Free big band, Latin jazz, and swing with easy parking.",
       "url": "https://musiclocal.org/events/fall-2026-concert-at-tsc-turner-auditorium-2026-10-14-pl82n7",
       "imageUrl": "https://media.musiclocal.org/dc-a_YCL5KoFJ20V758fEunrOuZGAalHewjafKQROro/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2F7564ceb1-fa06-4c97-b574-b5e756d0d01e.jpeg",
-      "tags": ["live music", "jazz", "free", "campus"],
+      "tags": [
+        "live music",
+        "jazz",
+        "free",
+        "campus"
+      ],
       "sample": false
     },
     {
@@ -100,7 +70,9 @@
       "hook": "Rotating themed trivia, and the winners get money off their tab.",
       "url": "https://happykava.app/events/wednesday-trivia-night-0d31d590-3338-4dbb-ba06-36c3616873db",
       "imageUrl": "https://dsvdarmcshrimjrpblgu.supabase.co/storage/v1/object/public/bar-images/ed279cdc-7ad8-4403-a00f-03b28497f193/hero/enriched-20260619-kameleon-kava-and-coffee-tallahassee-fl-cfd64527c699.webp",
-      "tags": ["trivia"],
+      "tags": [
+        "trivia"
+      ],
       "sample": false
     },
     {
@@ -114,7 +86,11 @@
       "hook": "Refreshments and curator-led tours of the Daumier show, with drop-in printmaking from 2 PM.",
       "url": "https://tallahasseearts.org/event/interdisciplinary-arts-humanities-symposium/",
       "imageUrl": "https://tallahasseearts.org/wp-content/uploads/sites/tallahasseearts.org/images/2026/10/event-featured-interdisciplinary-arts-humanities-symposium-1791399654-scaled.png",
-      "tags": ["art", "campus", "free"],
+      "tags": [
+        "art",
+        "campus",
+        "free"
+      ],
       "sample": false
     },
     {
@@ -128,7 +104,11 @@
       "hook": "Garden party with local restaurant bites, open bars, live music, and an art auction.",
       "url": "https://www.lemoyne.org/artandsoul",
       "imageUrl": "https://cdn.happeningnext.com/events8/banners/b73b6f0a59695be9019334388a38a48eb696697c14958cb1cb70f8d1378fcb85-rimg-w912-h535-dc980818-gmir?v=1787235799",
-      "tags": ["art", "food", "live music"],
+      "tags": [
+        "art",
+        "food",
+        "live music"
+      ],
       "sample": false
     },
     {
@@ -141,7 +121,10 @@
       "hook": "Tallahassee's longest-running blues jam, open to players and listeners alike.",
       "url": "https://musiclocal.org/events/blues-jam-at-the-getaway-grille-and-bar-2026-10-15-qmbnnz",
       "imageUrl": "https://media.musiclocal.org/Th-b7NtEaw7evFczl9hUf23Y7u3PKObfwOhGmIkW90U/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F99da16be-a2d6-4715-bff6-ef22599274b1.jpeg",
-      "tags": ["live music", "blues"],
+      "tags": [
+        "live music",
+        "blues"
+      ],
       "sample": false
     },
     {
@@ -154,7 +137,11 @@
       "hook": "Free opening night of the band's sixtieth season, with easy parking.",
       "url": "https://musiclocal.org/events/capital-city-band-of-tsc-60th-celebration-concert-at-tsc-turner-auditorium-2026-10-15-ehgewa",
       "imageUrl": "https://media.musiclocal.org/thJuynF1CkI0_0xmGyFFBWaO-CYm-XHBcMJWR9fpaIY/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F96810a63-d80e-4fac-bd63-6c587f69ed42.jpeg",
-      "tags": ["live music", "free", "campus"],
+      "tags": [
+        "live music",
+        "free",
+        "campus"
+      ],
       "sample": false
     },
     {
@@ -168,7 +155,12 @@
       "hook": "Free instrumental and vocal jazz from legendary artists, donations welcome.",
       "url": "https://musiclocal.org/events/back-in-the-swing-of-things-at-lee-hall-auditorium-2026-10-15-lmnuqj",
       "imageUrl": "https://media.musiclocal.org/3Ljts9TiOeAGa6pIX0tHEbvSyjSt5_nHAVoEG8EoQwY/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fb9f7cdb3-53b9-4159-85eb-9797452a6a3d.jpeg",
-      "tags": ["live music", "jazz", "free", "campus"],
+      "tags": [
+        "live music",
+        "jazz",
+        "free",
+        "campus"
+      ],
       "sample": false
     },
     {
@@ -180,9 +172,45 @@
       "neighborhood": "Lake Ella",
       "startTime": "7:30 PM",
       "hook": "The Moonshiners comedian in an intimate room, about $35 a ticket.",
-      "url": "https://visittallahassee.com/events/comedian-killer-beaz-best-buzz-in-town-at-the-american-legion-post-13/",
-      "imageUrl": null,
-      "tags": ["comedy"],
+      "url": "https://www.eventbrite.com/e/comedian-killer-beaz-best-buzz-in-town-at-the-american-legion-post-13-tickets-2002240751988",
+      "imageUrl": "https://cdn.evbuc.com/images/1194314668/693092631963/1/original.20260924-202232?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.23&fp-y=0.509&s=7d1029866a863d0e8fcb118b9445f408",
+      "tags": [
+        "comedy"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-ryan-biter-blue-tavern-2026-10-15",
+      "title": "Ryan Biter at Blue Tavern",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "venue": "Blue Tavern",
+      "neighborhood": "North Monroe",
+      "startTime": "8:00 PM",
+      "hook": "Gritty, soulful one-man show in the Stapleton vein, only a $5 cover.",
+      "url": "https://musiclocal.org/events/ryan-biter-at-blue-tavern-2026-10-15-fptahl",
+      "imageUrl": "https://media.musiclocal.org/0-_fyraMtpdfl19FPBUJrGNgWNbMybJoKhNETMI-Hd8/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F8695bd5f-34f3-4223-85bb-5af70b2aa2bc.jpeg",
+      "tags": [
+        "live music",
+        "singer-songwriter"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-havana-syndrome-real-cool-time-2026-10-15",
+      "title": "Havana Syndrome, Foot Fetish, and Double Bubble",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "venue": "Real Cool Time Records",
+      "neighborhood": "North Monroe",
+      "startTime": "8:00 PM",
+      "hook": "Buffalo hardcore punk on a spooky-season bill, $10 and all ages.",
+      "url": "https://musiclocal.org/events/havana-syndrome-and-foot-fetish-at-real-cool-time-records-2026-10-15-z2mhwc",
+      "imageUrl": "https://media.musiclocal.org/XbxATbidBiIcnZlbKBMQ4syoUUL-m4PmxM0-mEF3FEc/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbf884ad6-6857-4e24-9897-7ec9c6b6f3f5.jpeg",
+      "tags": [
+        "live music",
+        "punk"
+      ],
       "sample": false
     }
   ]
