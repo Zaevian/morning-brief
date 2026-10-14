@@ -36,19 +36,20 @@
     "gradArena": "Visitor tracking is still off for gradarena850.com, so there are no traffic numbers yet. Turning on Web Analytics in Vercel is a one-click step whenever you want those numbers. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel."
   },
   "surprise": {
-    "kind": "word",
+    "kind": "on-this-day",
     "eyebrow": "Today's surprise",
-    "title": "¿Cuánto cuesta? — cruise Spanish for tonight",
-    "body": "Your calendar has Spanish from 6 to 8 this evening, and the ship is eighteen days out, so here is a phrase you will actually use in port: ¿Cuánto cuesta? (How much does it cost?). Tap play for a Latin American Spanish pronunciation of cuánto, the word that opens the question.",
-    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/Es-am-lat-cu%C3%A1nto.ogg/Es-am-lat-cu%C3%A1nto.ogg.mp3",
+    "title": "Sound barrier day: Yeager, then Baumgartner",
+    "body": "On this date in 1947, Chuck Yeager hit Mach 1.05 in the Bell X-1 and became the first pilot confirmed to break the sound barrier in level flight. Sixty-five years later to the day, on October 14, 2012, Felix Baumgartner jumped from about 39 kilometers up over New Mexico and became the first person to break the sound barrier in freefall, about Mach 1.25. Two sky firsts, same calendar square.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Felix_Baumgartner_Internationale_Sportnacht_Davos_2014_%283x4_cropped%29.jpg",
+    "imageAlt": "Felix Baumgartner at Internationale Sportnacht Davos 2014",
     "link": {
-      "label": "Wiktionary: cuánto",
-      "url": "https://en.wiktionary.org/wiki/cu%C3%A1nto#Spanish"
+      "label": "Wikipedia: Felix Baumgartner",
+      "url": "https://en.wikipedia.org/wiki/Felix_Baumgartner"
     },
     "source": {
-      "label": "Wikimedia Commons (LatAm Spanish)",
-      "url": "https://commons.wikimedia.org/wiki/File:Es-am-lat-cu%C3%A1nto.ogg"
+      "label": "Wikipedia On This Day (Oct 14)",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October_14"
     },
-    "accent": "#22d3ee"
+    "accent": "#a78bfa"
   }
 }
