@@ -5,12 +5,15 @@ import { WeatherCard } from "@/components/WeatherCard";
 import { CruiseCountdown } from "@/components/CruiseCountdown";
 import { SiteStatsCard } from "@/components/SiteStatsCard";
 import { SurpriseCard } from "@/components/SurpriseCard";
+import { OttomanCard } from "@/components/OttomanCard";
 
 type BriefExtras = {
   gradArena?: string;
   language?: string;
   cruiseNote?: string;
   weatherNote?: string;
+  /** Validated at render time by OttomanCard; see OttomanLesson in src/lib/types.ts. */
+  ottoman?: unknown;
 };
 
 const brief = today as TodayBrief & { extras?: BriefExtras };
@@ -95,6 +98,8 @@ export default async function Home() {
             {brief.projectMove.body}
           </p>
         </section>
+
+        <OttomanCard lesson={brief.extras?.ottoman} />
 
         {siteStats != null ? <SiteStatsCard stats={siteStats} /> : null}
 

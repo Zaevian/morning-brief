@@ -56,7 +56,14 @@
     "language": "Tonight is Russian study (2 hours); tomorrow rotates back to Spanish.",
     "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens Saturday, October 18, four days from today, and a reminder is already set for that morning.",
     "weatherNote": "Clear skies with a high near 82F and a low near 64F tonight, and no rain in the forecast. Plan for warm mid-day sun if you are outside.",
-    "gradArena": "Visitor tracking is still unavailable for gradarena850.com this morning because the Vercel connection cannot read the team yet. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel."
+    "gradArena": "Visitor tracking is still unavailable for gradarena850.com this morning because the Vercel connection cannot read the team yet. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
+    "ottoman": {
+      "lessonNumber": 2,
+      "totalLessons": 16,
+      "chapterTitle": "The long struggle to remake an empire, 1774–1908",
+      "summary": "Lesson 2 follows the Ottoman reform era, from the defeats of the late 1700s through the Tanzimat and the constitutional fights up to 1908.",
+      "link": "https://ottoman-empire-fall.vercel.app"
+    }
   },
   "surprise": {
     "kind": "on-this-day",

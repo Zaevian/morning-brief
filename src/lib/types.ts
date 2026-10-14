@@ -104,6 +104,16 @@ export type Surprise = {
   accent?: string;
 };
 
+/** today.json `extras.ottoman`: the current Ottoman history lesson. */
+export type OttomanLesson = {
+  lessonNumber: number;
+  totalLessons: number;
+  chapterTitle: string;
+  summary: string;
+  /** http(s) URL of the lesson. */
+  link: string;
+};
+
 export type TodayBrief = {
   greeting: string;
   date: string;
