@@ -60,26 +60,26 @@
     "ottoman": {
       "lessonNumber": 2,
       "totalLessons": 16,
-      "chapterTitle": "The long struggle to remake an empire, 1774–1908",
-      "summary": "Lesson 2 follows the Ottoman reform era, from the defeats of the late 1700s through the Tanzimat and the constitutional fights up to 1908.",
-      "link": "https://ottoman-empire-fall.vercel.app"
+      "chapterTitle": "Remaking an empire 1774–1908",
+      "summary": "From 1774 on, Ottoman rulers faced Russian and European pressure, but decline alone does not describe an age of reform, new institutions, and expanding state power. Mahmud II destroyed the Janissaries, the Tanzimat remade law and administration, and railways and foreign debt brought both capacity and outside leverage inside the empire. National movements and great-power settlements peeled away Balkan territories even as the state kept reforming and fighting.",
+      "link": "https://ottoman-empire-fall.vercel.app/#reform-and-pressure"
     }
   },
   "surprise": {
-    "kind": "on-this-day",
+    "kind": "fact",
     "eyebrow": "Today's surprise",
-    "title": "Sound barrier day: Yeager, then Baumgartner",
-    "body": "On this date in 1947, Chuck Yeager hit Mach 1.05 in the Bell X-1 and became the first pilot confirmed to break the sound barrier in level flight. Sixty-five years later to the day, on October 14, 2012, Felix Baumgartner jumped from about 39 kilometers up over New Mexico and became the first person to break the sound barrier in freefall, about Mach 1.25. Two sky firsts, same calendar square.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Felix_Baumgartner_Internationale_Sportnacht_Davos_2014_%283x4_cropped%29.jpg",
-    "imageAlt": "Felix Baumgartner at Internationale Sportnacht Davos 2014",
+    "title": "FORTRAN turns 70 today",
+    "body": "On this date in 1956, FORTRAN — widely remembered as the first modern high-level programming language — was first shared with the coding community. John Backus led the IBM team that built it so scientists could write math instead of raw machine code. Seventy years later, that same idea still sits under almost every language you will meet while studying for CompTIA A+.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Backus_2.jpg",
+    "imageAlt": "John Backus, leader of the IBM team that developed FORTRAN",
     "link": {
-      "label": "Wikipedia: Felix Baumgartner",
-      "url": "https://en.wikipedia.org/wiki/Felix_Baumgartner"
+      "label": "Wikipedia: Fortran",
+      "url": "https://en.wikipedia.org/wiki/Fortran"
     },
     "source": {
-      "label": "Wikipedia On This Day (Oct 14)",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October_14"
+      "label": "Wikipedia On This Day (Oct 15)",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October_15"
     },
-    "accent": "#a78bfa"
+    "accent": "#60a5fa"
   }
 }
