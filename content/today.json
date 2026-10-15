@@ -1,40 +1,28 @@
 {
-  "greeting": "Good morning, Zae. Wednesday is clear and warm in Tallahassee, your calendar is habit-only with Russian tonight, and the cruise is now seventeen days out.",
-  "date": "2026-10-14",
-  "dateDisplay": "Wednesday, October 14, 2026",
+  "greeting": "Good morning, Zae. Thursday is sunny and warm in Tallahassee, your calendar is habit-only with Spanish tonight, and the cruise is now sixteen days out.",
+  "date": "2026-10-15",
+  "dateDisplay": "Thursday, October 15, 2026",
   "calendar": {
-    "note": "Supplements + Russian",
+    "note": "Supplements + Spanish",
     "events": [
-      {
-        "time": "8:00 AM",
-        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
-      },
-      {
-        "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
-      },
-      {
-        "time": "6:00 PM",
-        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates back to Spanish."
-      },
-      {
-        "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
-      }
+      { "time": "8:00 AM", "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex." },
+      { "time": "2:00 PM", "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels." },
+      { "time": "6:00 PM", "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates back to Russian." },
+      { "time": "10:00 PM", "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today." }
     ]
   },
   "projectMove": {
-    "title": "A+ Academy: Approve the two open updates before cruise week stacks up",
-    "body": "Two A+ Academy updates are still waiting on your yes. Pull request 16 rewrites 131 weak wrong-answer explanations in Core 1 networking so each one names the mistake and the right fact, and every check already passed. Pull request 13, open since October 1, adds a Continue button on the start page that reopens your last lesson. A quick yes on each lets Miyuki publish them while you still have calm midweek bandwidth."
+    "title": "Grad Arena: Line up the second Instagram post",
+    "body": "Gradarena850 has one boosted Westcott carousel from September 30, and the account will look more established with a second post before fall graduation bookings pick up. Ram is already publishing the lighter, faster campus card photos you approved yesterday for the FSU, FAMU, and TSC tiles, so a campus-themed carousel using those same shots would match the site and give new visitors a reason to tap through to gradarena850.com."
   },
   "tip": {
-    "title": "Use tonight's Russian block for ship-day phrases",
-    "body": "Spend part of the two-hour Russian session on lines you may need on board or in port, like where is the elevator, how much does this cost, and I need help. Say each one out loud a few times so the words are ready when the room is noisy."
+    "title": "Get cruise check-in details ready before Saturday",
+    "body": "Carnival online check-in opens Saturday morning, so set aside your ID, emergency contact, and a clear, well-lit photo of yourself tonight or tomorrow. Having those in one place turns check-in into a five-minute task instead of a scavenger hunt, and a reminder is already set for Saturday."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-10-31",
-    "label": "17 days"
+    "label": "16 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -44,19 +32,16 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-14T06:56:00-04:00",
-    "views": {
-      "last24h": null,
-      "last7d": null
-    },
+    "asOf": "2026-10-15T06:58:00-04:00",
+    "views": { "last24h": null, "last7d": null },
     "topPages": [],
-    "note": "Tracking is not ready yet. The Vercel connector is not authorized for the zaevians-projects team, so Grad Arena visitor numbers could not be pulled this morning."
+    "note": "Visitor numbers could not be pulled through the Vercel connection this morning, so the counts are left blank rather than guessed."
   },
   "extras": {
-    "language": "Tonight is Russian study (2 hours); tomorrow rotates back to Spanish.",
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens Saturday, October 18, four days from today, and a reminder is already set for that morning.",
-    "weatherNote": "Clear skies with a high near 82F and a low near 64F tonight, and no rain in the forecast. Plan for warm mid-day sun if you are outside.",
-    "gradArena": "Visitor tracking is still unavailable for gradarena850.com this morning because the Vercel connection cannot read the team yet. Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
+    "language": "Tonight is Spanish study (2 hours); tomorrow rotates back to Russian.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens Saturday, October 18, three days from today, and a reminder is already set for that morning.",
+    "weatherNote": "Mostly sunny with a high near 83F and a low near 64F, and essentially no chance of rain. It is 64F right now, so a light layer is enough for the morning.",
+    "gradArena": "Ram is publishing the lighter campus card photos for the FSU, FAMU, and TSC tiles that you approved yesterday. Visitor counts could not be pulled through the Vercel connection this morning, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
     "ottoman": {
       "lessonNumber": 2,
       "totalLessons": 16,
@@ -69,17 +54,11 @@
     "kind": "fact",
     "eyebrow": "Today's surprise",
     "title": "FORTRAN turns 70 today",
-    "body": "On this date in 1956, FORTRAN — widely remembered as the first modern high-level programming language — was first shared with the coding community. John Backus led the IBM team that built it so scientists could write math instead of raw machine code. Seventy years later, that same idea still sits under almost every language you will meet while studying for CompTIA A+.",
+    "body": "On this date in 1956, FORTRAN, widely remembered as the first modern high-level programming language, was first shared with the coding community. John Backus led the IBM team that built it so scientists could write math instead of raw machine code. Seventy years later, that same idea still sits under almost every language you will meet while studying for CompTIA A+.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Backus_2.jpg",
     "imageAlt": "John Backus, leader of the IBM team that developed FORTRAN",
-    "link": {
-      "label": "Wikipedia: Fortran",
-      "url": "https://en.wikipedia.org/wiki/Fortran"
-    },
-    "source": {
-      "label": "Wikipedia On This Day (Oct 15)",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October_15"
-    },
+    "link": { "label": "Wikipedia: Fortran", "url": "https://en.wikipedia.org/wiki/Fortran" },
+    "source": { "label": "Wikipedia On This Day (Oct 15)", "url": "https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October_15" },
     "accent": "#60a5fa"
   }
 }
