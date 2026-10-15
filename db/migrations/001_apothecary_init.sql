@@ -10,7 +10,7 @@ CREATE TABLE apo_species (
   rank              text NOT NULL DEFAULT 'species' CHECK (rank IN ('species','genus','family','order','higher')),
   kingdom text, phylum text, class text, "order" text, family text, genus text, species_epithet text,
   organism_type     text CHECK (organism_type IN ('plant','fungus','insect','arachnid','bird','mammal','reptile','amphibian','fish','other')),
-  visual_group      text,                              -- UI icon key (Treyni)
+  visual_group      text CHECK (visual_group IN ('tree','flowering_plant','vine','general_plant','mushroom','lichen','moss','fern','butterfly_moth','beetle','other_insect','spider','other_arachnid','bird','mammal','fish','reptile','amphibian','mollusc','other')), -- UI icon key (Treyni)
   distinguishing_characteristics jsonb NOT NULL DEFAULT '[]',
   geographic_distribution text, typical_habitat text, seasonal_occurrence text,
   native_region text, native_status text CHECK (native_status IN ('native','introduced','invasive','unknown')),
@@ -18,7 +18,7 @@ CREATE TABLE apo_species (
   regional_status   text, conservation_source text,
   rarity_tier       text CHECK (rarity_tier IN ('Common','Uncommon','Rare','Elusive','Legendary')),
   rarity_color      text, rarity_region_basis text, rarity_evidence text,
-  rarity_provisional boolean NOT NULL DEFAULT true,
+  rarity_provisional boolean NOT NULL DEFAULT true,  -- stored hint; API derives provisional from apo_rarity_signoffs (false only when maomao AND treyni latest = cosign)
   rarity_assessed_by jsonb NOT NULL DEFAULT '[]',
   edible            text CHECK (edible IN ('Yes','No','Conditional','Unknown')) DEFAULT 'Unknown',
   edible_parts jsonb NOT NULL DEFAULT '[]', edibility_conditions text, edibility_cautions jsonb NOT NULL DEFAULT '[]',
@@ -42,7 +42,7 @@ CREATE TABLE apo_observations (
   species_id       text REFERENCES apo_species(id) ON DELETE SET NULL,
   current_identification_id text,                      -- FK added below
   observed_date    date,
-  approx_time      text CHECK (approx_time IN ('dawn','morning','midday','afternoon','dusk','night','unknown')) DEFAULT 'unknown',
+  approx_time      text CHECK (approx_time IN ('dawn','morning','midday','afternoon','evening','night','unknown')) DEFAULT 'unknown',
   location_label   text,
   lat double precision, lon double precision,          -- PRIVATE precise values
   coarse_lat double precision, coarse_lon double precision, -- public, rounded per precision_km
@@ -105,9 +105,13 @@ CREATE TABLE apo_candidates (
   scientific_name text NOT NULL, common_name text,
   rank            text NOT NULL DEFAULT 'species',
   match_score     real NOT NULL CHECK (match_score BETWEEN 0 AND 100),
-  confidence_label text CHECK (confidence_label IN ('high','moderate','low','very_low')),
-  rationale text, distinguishing_vs_primary text,      -- null for rank_order 1
+  -- match_score is an independent estimate per candidate; scores are NEVER normalized to sum to 100.
+  confidence_label text CHECK (confidence_label IN ('High','Medium','Low')), -- optional override; API derives from score if null
+  rationale text,
+  distinguishing_vs_primary jsonb NOT NULL DEFAULT '[]', -- [] for rank_order 1
   portrait_url text,
+  portrait_source text NOT NULL DEFAULT 'none' CHECK (portrait_source IN ('verified_reference','generated_illustration','none')),
+  portrait_credit text, portrait_license text,
   UNIQUE (identification_id, rank_order)
 );
 CREATE TRIGGER apo_cand_append_only BEFORE UPDATE ON apo_candidates FOR EACH ROW EXECUTE FUNCTION apo_no_update();
@@ -116,7 +120,9 @@ CREATE TABLE apo_uses (
   id              text PRIMARY KEY,                    -- 'USE-<uuid>' (stable, Treyni menus key on it)
   species_id      text NOT NULL REFERENCES apo_species(id) ON DELETE CASCADE,
   category        text NOT NULL CHECK (category IN ('culinary','traditional_medicine','evidence_based_medical','scientific_research','industrial','agriculture','cosmetics','ecological','historical_cultural','other_verified')),
-  title           text NOT NULL, detail text,
+  title           text NOT NULL,                       -- v0.2 "use" (dropdown label, e.g. one dish or one application)
+  detail          text,                                -- short
+  description     text,                                -- long, optional
   cautions jsonb NOT NULL DEFAULT '[]',
   evidence_level  text CHECK (evidence_level IN ('established','clinical-limited','preliminary','traditional-only')),
   sort_order int NOT NULL DEFAULT 0,
@@ -139,3 +145,18 @@ CREATE TABLE apo_reference_links (
   PRIMARY KEY (reference_id, target_type, target_id)
 );
 CREATE INDEX apo_reflinks_target ON apo_reference_links(target_type, target_id);
+
+-- Rarity co-sign log (append-only). Maomao proposes; Treyni co-signs or dissents with sources.
+CREATE TABLE apo_rarity_signoffs (
+  id serial PRIMARY KEY,
+  species_id text NOT NULL REFERENCES apo_species(id) ON DELETE CASCADE,
+  by         text NOT NULL,                            -- 'maomao' | 'treyni' | named expert
+  decision   text NOT NULL CHECK (decision IN ('cosign','dissent')),
+  tier       text CHECK (tier IN ('Common','Uncommon','Rare','Elusive','Legendary')), -- tier being signed
+  sources    jsonb NOT NULL DEFAULT '[]',              -- [{title,url}] or reference ids
+  note       text,
+  at         timestamptz NOT NULL DEFAULT now(),
+  UNIQUE (species_id, by, at)
+);
+CREATE INDEX apo_signoffs_species ON apo_rarity_signoffs(species_id);
+CREATE TRIGGER apo_signoff_append_only BEFORE UPDATE ON apo_rarity_signoffs FOR EACH ROW EXECUTE FUNCTION apo_no_update();

@@ -46,5 +46,5 @@ export function approxTimeBucket(wallClock: string | null): string {
   if (!m) return "unknown";
   const h = parseInt(m[1], 10);
   if (h < 5) return "night"; if (h < 7) return "dawn"; if (h < 11) return "morning";
-  if (h < 14) return "midday"; if (h < 18) return "afternoon"; if (h < 20) return "dusk"; return "night";
+  if (h < 14) return "midday"; if (h < 18) return "afternoon"; if (h < 20) return "evening"; return "night";
 }

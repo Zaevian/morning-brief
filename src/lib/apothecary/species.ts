@@ -14,7 +14,7 @@ export function speciesToColumns(p: Row): Row {
     native_region: ns.region, native_status: ns.status,
     iucn_status: cs.iucn, regional_status: cs.regional, conservation_source: cs.source,
     rarity_tier: r.tier, rarity_color: r.color, rarity_region_basis: r.region_basis, rarity_evidence: r.evidence,
-    rarity_provisional: r.provisional, rarity_assessed_by: r.assessed_by,
+    rarity_assessed_by: r.assessed_by, // provisional is derived from signoffs, not written
     edible: ed.edible, edible_parts: ed.edible_parts, edibility_conditions: ed.conditions, edibility_cautions: ed.cautions,
     toxicity_humans_level: h.level, toxicity_humans_details: h.details, toxicity_compounds: h.compounds,
     toxicity_animals: tx.animals, allergens: tx.allergens, dangerous_lookalikes: tx.dangerous_lookalikes,
@@ -55,6 +55,7 @@ export async function upsertSpecies(p: Row, idFromPath?: string): Promise<{ id: 
 
 /** Optional nested uses/references inside a species payload are upserted too. */
 export async function upsertSpeciesChildren(speciesId: string, p: Row) {
+  for (const so of (p.collectible_rarity?.signoffs ?? []) as Row[]) await addSignoff(speciesId, so);
   const refIds: Record<string, string> = {};
   for (const ref of (p.references ?? []) as Row[]) refIds[ref.id] = await upsertReference(ref, { type: "species", id: speciesId });
   if (p.uses && typeof p.uses === "object") {
@@ -69,11 +70,11 @@ export async function upsertSpeciesChildren(speciesId: string, p: Row) {
 
 export async function upsertUse(u: Row, speciesId: string): Promise<string> {
   const id = u.id ?? `USE-${crypto.randomUUID()}`;
-  await q(`INSERT INTO apo_uses (id, species_id, category, title, detail, cautions, evidence_level, sort_order)
-    VALUES ($1,$2,$3,$4,$5,$6,$7,$8)
-    ON CONFLICT (id) DO UPDATE SET category=EXCLUDED.category, title=EXCLUDED.title, detail=EXCLUDED.detail,
+  await q(`INSERT INTO apo_uses (id, species_id, category, title, detail, description, cautions, evidence_level, sort_order)
+    VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9)
+    ON CONFLICT (id) DO UPDATE SET category=EXCLUDED.category, title=EXCLUDED.title, detail=EXCLUDED.detail, description=EXCLUDED.description,
       cautions=EXCLUDED.cautions, evidence_level=EXCLUDED.evidence_level, sort_order=EXCLUDED.sort_order, updated_at=now()`,
-    [id, speciesId, u.category, u.title ?? u.use, u.detail ?? null, JSON.stringify(u.cautions ?? []), u.evidence_level ?? null, u.sort_order ?? 0]);
+    [id, speciesId, u.category, u.use ?? u.title, u.detail ?? null, u.description ?? null, JSON.stringify(u.cautions ?? []), u.evidence_level ?? null, u.sort_order ?? 0]);
   return id;
 }
 
@@ -89,4 +90,12 @@ export async function upsertReference(r: Row, link?: { type: string; id: string 
 export async function linkReference(referenceId: string, targetType: string, targetId: string, note?: string) {
   await q(`INSERT INTO apo_reference_links (reference_id, target_type, target_id, note) VALUES ($1,$2,$3,$4) ON CONFLICT DO NOTHING`,
     [referenceId, targetType, targetId, note ?? null]);
+}
+
+/** Appends a rarity sign-off; identical (by, at) entries are ignored so re-posting a full profile is safe. */
+export async function addSignoff(speciesId: string, so: Row) {
+  if (!so.by || !["cosign", "dissent"].includes(so.decision)) throw new HttpError(400, "signoff needs by and decision cosign|dissent");
+  await q(`INSERT INTO apo_rarity_signoffs (species_id, by, decision, tier, sources, note, at) VALUES ($1,$2,$3,$4,$5,$6,coalesce($7::timestamptz, now()))
+    ON CONFLICT (species_id, by, at) DO NOTHING`,
+    [speciesId, String(so.by).toLowerCase(), so.decision, so.tier ?? null, JSON.stringify(so.sources ?? []), so.note ?? null, so.at ?? null]);
 }

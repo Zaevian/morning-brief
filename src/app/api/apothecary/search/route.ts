@@ -1,6 +1,7 @@
 import { q } from "@/lib/apothecary/db";
 import { handle, json } from "@/lib/apothecary/http";
 import { isAdmin } from "@/lib/apothecary/auth";
+import { confidenceLabel } from "@/lib/apothecary/card";
 export const dynamic = "force-dynamic";
 
 /** GET ?q=&kingdom=&class=&order=&family=&genus=&organism_type=&visual_group=&rarity=&edible=&iucn=&status=&verified=&limit=&offset=
@@ -21,15 +22,14 @@ export const GET = handle(async (req: Request) => {
   if (sp.get("species_id")) add("o.species_id = ?", sp.get("species_id"));
   const limit = Math.min(Number(sp.get("limit") ?? 50) || 50, 200), offset = Number(sp.get("offset") ?? 0) || 0;
   const rows = await q(`SELECT o.id AS observation_id, o.observed_date, o.approx_time, o.location_label, o.created_at,
-      s.id AS species_id, s.scientific_name, s.common_name, s.visual_group, s.rarity_tier, s.rarity_color, s.rarity_provisional, s.edible, s.iucn_status, s.family,
+      s.id AS species_id, s.scientific_name, s.common_name, s.visual_group, s.rarity_tier, s.rarity_color, NOT (coalesce((SELECT so.decision FROM apo_rarity_signoffs so WHERE so.species_id=s.id AND so.by='maomao' ORDER BY so.at DESC LIMIT 1)='cosign', false) AND coalesce((SELECT so.decision FROM apo_rarity_signoffs so WHERE so.species_id=s.id AND so.by='treyni' ORDER BY so.at DESC LIMIT 1)='cosign', false)) AS rarity_provisional, s.edible, s.iucn_status, s.family,
       i.status AS id_status, i.resolved_rank, i.verified_by_human,
       (SELECT c.match_score FROM apo_candidates c WHERE c.identification_id=i.id AND c.rank_order=1) AS top_score,
-      (SELECT c.confidence_label FROM apo_candidates c WHERE c.identification_id=i.id AND c.rank_order=1) AS top_confidence,
       (SELECT c.scientific_name FROM apo_candidates c WHERE c.identification_id=i.id AND c.rank_order=1) AS top_candidate,
       (SELECT m.id FROM apo_media m WHERE m.observation_id=o.id ORDER BY m.sort_order, m.created_at LIMIT 1) AS cover_media_id,
       count(*) OVER() AS total
     FROM apo_observations o LEFT JOIN apo_species s ON s.id=o.species_id LEFT JOIN apo_identifications i ON i.id=o.current_identification_id
     ${where.length ? "WHERE " + where.join(" AND ") : ""}
     ORDER BY o.observed_date DESC NULLS LAST, o.created_at DESC LIMIT ${limit} OFFSET ${offset}`, params);
-  return json({ total: Number(rows[0]?.total ?? 0), results: rows.map(({ cover_media_id, ...r }) => ({ ...Object.fromEntries(Object.entries(r).filter(([k]) => k !== "total")), cover_url: cover_media_id ? `/api/apothecary/media/${cover_media_id}` : null })) });
+  return json({ total: Number(rows[0]?.total ?? 0), results: rows.map(({ cover_media_id, ...r }) => ({ ...Object.fromEntries(Object.entries(r).filter(([k]) => k !== "total")), identification_confidence_label: confidenceLabel(r.top_score, r.resolved_rank), cover_url: cover_media_id ? `/api/apothecary/media/${cover_media_id}` : null })) });
 });

@@ -3,9 +3,12 @@
 //   APOTHECARY_BASE (default https://morning-brief-zaevians-projects.vercel.app)
 // Commands:
 //   upload <photo> [--location-label "..."] [--precision-km 10] [--private] [--observation OBS-...]
+//   upload-url <https://…/photo.jpg> [--observation OBS-...] [--location-label "..."] [--private]   server fetches, stores bytes unchanged (≤50 MB)
 //   species <profile.json>                       upsert a SpeciesProfile (nested uses/references ok)
 //   identify <OBS-id> <identification.json>      append an identification revision
-//   use <SP-id> <use.json> | reference <ref.json>
+//   use <SP-id> <use.json>                       use item {id?, category, use, detail, description, cautions[], evidence_level, source_ids[]}
+//   signoff <SP-id> <signoff.json>               rarity {by, decision: cosign|dissent, tier, sources[], note, at?}
+//   reference <ref.json>
 //   card <OBS-id> | search "<query string, e.g. q=oak&rarity=Rare>" | health
 import { readFileSync } from "node:fs";
 import { basename } from "node:path";
@@ -34,9 +37,18 @@ switch (cmd) {
     if (flag("--private")) fd.set("is_public", "false");
     await call("POST", "/api/apothecary/upload", fd); break;
   }
+  case "upload-url": {
+    const body = { url: a };
+    if (flag("--observation")) body.observationId = flag("--observation");
+    if (flag("--location-label")) body.location_label = flag("--location-label");
+    if (flag("--precision-km")) body.precision_km = flag("--precision-km");
+    if (flag("--private")) body.is_public = false;
+    await call("POST", "/api/apothecary/upload-from-url", body); break;
+  }
   case "species": await call("POST", "/api/apothecary/species", readJson(a)); break;
   case "identify": await call("POST", `/api/apothecary/observations/${a}/identifications`, readJson(b)); break;
   case "use": await call("POST", `/api/apothecary/species/${a}/uses`, readJson(b)); break;
+  case "signoff": await call("POST", `/api/apothecary/species/${a}/signoffs`, readJson(b)); break;
   case "reference": await call("POST", "/api/apothecary/references", readJson(a)); break;
   case "card": await call("GET", `/api/apothecary/cards/${a}`); break;
   case "search": await call("GET", `/api/apothecary/search?${a ?? ""}`); break;

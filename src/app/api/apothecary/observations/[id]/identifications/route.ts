@@ -15,6 +15,8 @@ export const POST = handle(async (req: Request, ctx: { params: Promise<{ id: str
   if (!o) throw new HttpError(404, "observation not found");
   const cands = (b.candidates ?? []) as Row[];
   if (cands.length > 3) throw new HttpError(400, "At most 3 candidates");
+  // Scores are independent 0-100 estimates; they are stored exactly as given and never normalized to sum to 100.
+  for (const c of cands) if (typeof c.match_score !== "number" || c.match_score < 0 || c.match_score > 100) throw new HttpError(400, "match_score must be a number 0-100");
   const [{ max }] = await q("SELECT coalesce(max(revision),0) AS max FROM apo_identifications WHERE observation_id=$1", [obsId]);
   const id = newId("IDR");
   const resolved = (b.resolved_species_id as string) ?? (cands[0]?.species_id as string) ?? null;
@@ -23,10 +25,11 @@ export const POST = handle(async (req: Request, ctx: { params: Promise<{ id: str
     [id, obsId, Number(max) + 1, o.current_identification_id, b.status ?? "proposed", b.resolved_rank ?? "species", resolved, !!b.verified_by_human,
      b.author ?? "maomao", b.change_note ?? null, JSON.stringify(b.uncertainties ?? []), JSON.stringify(b.diagnostic_features_observed ?? []), b.score_disclaimer ?? null]);
   for (const [i, c] of cands.entries()) {
-    await q(`INSERT INTO apo_candidates (identification_id, rank_order, species_id, scientific_name, common_name, rank, match_score, confidence_label, rationale, distinguishing_vs_primary, portrait_url)
-      VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11)`,
+    await q(`INSERT INTO apo_candidates (identification_id, rank_order, species_id, scientific_name, common_name, rank, match_score, confidence_label, rationale, distinguishing_vs_primary, portrait_url, portrait_source, portrait_credit, portrait_license)
+      VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14)`,
       [id, c.rank_order ?? i + 1, c.species_id ?? null, c.scientific_name, c.common_name ?? null, c.rank ?? "species", c.match_score, c.confidence_label ?? null,
-       c.rationale ?? null, c.distinguishing_vs_primary ?? null, c.portrait_url ?? null]);
+       c.rationale ?? null, JSON.stringify(Array.isArray(c.distinguishing_vs_primary) ? c.distinguishing_vs_primary : c.distinguishing_vs_primary ? [c.distinguishing_vs_primary] : []),
+       c.portrait_url ?? null, c.portrait_source ?? (c.portrait_url ? "verified_reference" : "none"), c.portrait_credit ?? null, c.portrait_license ?? null]);
   }
   for (const s of (b.sources ?? []) as Row[]) await upsertReference(s, { type: "identification", id });
   await q("UPDATE apo_observations SET current_identification_id=$2, species_id=$3, updated_at=now() WHERE id=$1", [obsId, id, resolved]);
