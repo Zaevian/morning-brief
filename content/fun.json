@@ -1,80 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-10-14",
+    "start": "2026-10-15",
     "end": "2026-10-15",
-    "label": "Wed-Thu, Oct 14-15, 2026"
+    "label": "Thursday, Oct 15, 2026"
   },
-  "updatedNote": "Wednesday drop from Diablo. Tonight and tomorrow, with two new Thursday shows on North Monroe.",
+  "updatedNote": "Thursday drop from Diablo. Tonight only, with Rocky Horror at FSU added alongside the campus concerts and North Monroe shows.",
   "events": [
-    {
-      "id": "wed-tallytrad-amicus-2026-10-14",
-      "title": "TallyTrad at Amicus Brewing",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "venue": "Amicus Brewing Ventures",
-      "neighborhood": "Downtown",
-      "startTime": "6:00 PM",
-      "hook": "Early traditional music set under the lights at Old City Waterworks.",
-      "url": "https://musiclocal.org/events/tallytrad-at-amicus-brewing-ventures-2026-10-14-0l5g2b",
-      "imageUrl": "https://media.musiclocal.org/ZWek40q7WKqydsgJmq4opqPbT5wCLJkTeoCFYaHCAa4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fvenues%2F032de226-d1a4-4f9e-8268-56d6ac01e4b8.jpeg",
-      "tags": [
-        "live music",
-        "folk"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-movies-in-the-park-ghostbusters-2026-10-14",
-      "title": "Movies in the Park: Ghostbusters",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "venue": "Kleman Plaza",
-      "neighborhood": "Downtown",
-      "startTime": "7:00 PM",
-      "hook": "Free outdoor screening, so bring a blanket and grab dinner downtown.",
-      "url": "https://fun4tallykids.com/calendar/eventdetail/274019/-/movies-in-the-park-ghostbusters",
-      "imageUrl": null,
-      "tags": [
-        "movie",
-        "free",
-        "outdoors"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-tsc-jazz-band-fall-concert-2026-10-14",
-      "title": "TSC Jazz Band Fall Concert",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "venue": "Turner Auditorium, Tallahassee State College",
-      "startTime": "7:30 PM",
-      "hook": "Free big band, Latin jazz, and swing with easy parking.",
-      "url": "https://musiclocal.org/events/fall-2026-concert-at-tsc-turner-auditorium-2026-10-14-pl82n7",
-      "imageUrl": "https://media.musiclocal.org/dc-a_YCL5KoFJ20V758fEunrOuZGAalHewjafKQROro/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2F7564ceb1-fa06-4c97-b574-b5e756d0d01e.jpeg",
-      "tags": [
-        "live music",
-        "jazz",
-        "free",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-trivia-kameleon-kava-2026-10-14",
-      "title": "Wednesday Trivia Night",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "venue": "Kameleon Kava & Coffee",
-      "startTime": "8:30 PM",
-      "hook": "Rotating themed trivia, and the winners get money off their tab.",
-      "url": "https://happykava.app/events/wednesday-trivia-night-0d31d590-3338-4dbb-ba06-36c3616873db",
-      "imageUrl": "https://dsvdarmcshrimjrpblgu.supabase.co/storage/v1/object/public/bar-images/ed279cdc-7ad8-4403-a00f-03b28497f193/hero/enriched-20260619-kameleon-kava-and-coffee-tallahassee-fl-cfd64527c699.webp",
-      "tags": [
-        "trivia"
-      ],
-      "sample": false
-    },
     {
       "id": "thu-mofa-print-reception-2026-10-15",
       "title": "MoFA print reception and curator tours",
@@ -124,6 +56,23 @@
       "tags": [
         "live music",
         "blues"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-rocky-horror-askew-2026-10-15",
+      "title": "The Rocky Horror Picture Show (sensory-friendly night)",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "venue": "Askew Student Life Center, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "6:00 PM",
+      "hook": "FSU's annual Rocky Horror return, a calmer screening with pre-show games before the full shadowcast weekend.",
+      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-4866",
+      "imageUrl": "https://localist-images.azureedge.net/photos/54178080932619/huge/915cf76b4263fe5685d046ee6a00d58c30d237ce.jpg",
+      "tags": [
+        "movie",
+        "campus"
       ],
       "sample": false
     },
