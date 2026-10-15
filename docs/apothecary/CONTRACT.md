@@ -18,7 +18,7 @@ Migrations: `db/migrations/*.sql`, applied by `DATABASE_URL=... node scripts/apo
 
 ## Tables (all prefixed `apo_`)
 - **apo_species** `SP-<slug>`: names, rank, taxonomy (kingdom…species_epithet), organism_type, visual_group (v0.2 enum: tree|flowering_plant|vine|general_plant|mushroom|lichen|moss|fern|butterfly_moth|beetle|other_insect|spider|other_arachnid|bird|mammal|fish|reptile|amphibian|mollusc|other), distinguishing_characteristics[], distribution/habitat/season, native status, IUCN + regional conservation, rarity (tier, color, region_basis, evidence, assessed_by; `provisional` is derived from apo_rarity_signoffs), edibility (edible, parts, conditions, cautions), toxicity (humans level/details/compounds, animals[], allergens[], dangerous_lookalikes[]), ecological_role, interesting_facts[], chemical_constituents[], portrait (portrait_media_id or portrait_url + source/credit/license), version (auto-bumps on every update), last_reviewed, reviewer.
-- **apo_observations** `OBS-YYYYMMDD-XXXXXX`: species_id (denormalized from current identification), current_identification_id, observed_date, approx_time (`dawn|morning|midday|afternoon|evening|night|unknown`, from EXIF camera wall clock), location_label, private lat/lon, public coarse_lat/coarse_lon (grid ≈ precision_km, default 10 km), location_source (`exif|user|none`), location_public (precise coords allowed publicly), is_public, user_notes. Many observations per species.
+- **apo_observations** `OBS-YYYYMMDD-XXXXXX`: species_id (denormalized from current identification), current_identification_id, observed_date, approx_time (`dawn|morning|midday|afternoon|evening|night|unknown`, from EXIF camera wall clock), location_label, private lat/lon, public coarse_lat/coarse_lon (grid ≈ precision_km, default 10 km), location_source / observed_date_source / approx_time_source (`exif|observer|none`), observer_date, observer_approx_time, observer_lat/lon (hand-entered, private like GPS), location_public (precise coords allowed publicly), is_public, user_notes. Many observations per species.
 - **apo_media** `MED-<uuid>`: observation_id, role (`observation|portrait`), original pathname/filename/content_type/byte_size/sha256 (unique per role → duplicate uploads 409), web pathname, width/height, exif_raw (full tag dump), extracted datetime_original/offset_time/gps/camera make/model/lens, source/credit/license (portraits).
 - **apo_identifications** `IDR-<uuid>`: **append-only** (DB trigger blocks UPDATE). observation_id, revision (1..n), supersedes_id, status (`pending|proposed|user_reviewed|verified|revised`), resolved_rank, resolved_species_id, verified_by_human, author, change_note, uncertainties[], diagnostic_features_observed[], score_disclaimer. Corrections = a new revision; the observation's current pointer moves.
 - **apo_candidates** (append-only, ≤3 per identification): rank_order 1–3, species_id?, scientific_name, common_name, rank, match_score 0–100 (**independent estimates, never normalized to sum to 100**), confidence_label (`High|Medium|Low`, optional; derived from score if null), rationale, distinguishing_vs_primary (string[]; [] on #1), portrait_url, portrait_source (`verified_reference|generated_illustration|none`), portrait_credit, portrait_license.
@@ -111,6 +111,18 @@ Response: `{ "total": n, "results": [row…] }`.
 Uses are grouped by category and each list is **complete** (every dish, every application; no truncation), so it can drive a dropdown directly. `use_categories` gives display order, v0.2 labels (Culinary, Traditional Medicine, Evidence-Based Medical Applications, Scientific Research, Industrial Uses, Agriculture, Cosmetics, Ecological Roles, Historical Uses, Other Verified Applications) and counts. Empty categories are omitted (UI shows "No documented uses found.").
 `identification_confidence_label`: High ≥75, Medium 40–74, Low <40 from the top candidate's score; forced Low when resolved_rank is above genus. TypeScript shapes: `src/lib/apothecary/types.ts`. `species` is null until an identification resolves one.
 
+## Capture values: EXIF vs observer (hand-entered)
+Chat apps often strip EXIF, so Zae may give date, time of day and rough location by hand.
+- Hand-entered values go in `observer_date` (YYYY-MM-DD), `observer_approx_time` (bucket), `observer_lat`+`observer_lon`. They are stored in their own columns and **never overwrite EXIF** (EXIF stays on `apo_media`).
+- The effective `observed_date`, `approx_time` and coordinates are derived (`src/lib/apothecary/capture.ts`): real EXIF from the observation's earliest photo wins, otherwise observer, otherwise null/`unknown`. Re-derived after every upload or PATCH, so adding a later photo with EXIF upgrades the source automatically.
+- Accepted on `/upload`, `/upload/complete`, `/upload-from-url`, `POST /observations` and `PATCH /observations/:id` (legacy `observed_date`/`approx_time`/`lat`/`lon` on the observation endpoints are treated as observer values).
+- Card payload `observation` adds:
+```json
+"capture_sources": {"observed_date": "observer", "approx_time": "exif", "location": "none"},
+"observer_entered": {"observed_date": "2026-10-12", "approx_time": "evening", "lat": 30.45, "lon": -84.32}
+```
+`location.source` matches `capture_sources.location`. `observer_entered` coords are coarsened like GPS unless `location_public` or admin. UI: label any value whose source is `observer` as "reported by observer" (or similar); never present it as camera data. `location_label` is always free text from the observer.
+
 ## Photo intake (no commit/redeploy per photo)
 1. **Admin page** `/apothecary/admin/upload` (unstyled, noindex; Treyni may restyle). Asks for the admin token at runtime and keeps it in `sessionStorage` only. Browser → `/upload/token` → file PUT straight to private Blob (bypasses the 4.5 MB function limit, multipart for >8 MB) → `/upload/complete`. Multiple files OK; optional existing observation_id.
 2. **URL intake** for agents that only have a link: `node scripts/apothecary.mjs upload-url https://…/photo.jpg [--observation OBS-…]`. Note: hosts that re-encode images (chat apps, social sites) strip EXIF before we ever see it; use direct original-file links when EXIF matters.
@@ -128,6 +140,9 @@ All three share one pipeline (`src/lib/apothecary/ingest.ts`), dedupe by sha256 
 Set `APOTHECARY_ADMIN_TOKEN` in your environment (Zae shares it privately; never in a file in the repo). Then from the repo:
 ```bash
 node scripts/apothecary.mjs health
+node scripts/apothecary.mjs upload /workspace/path/photo.jpg --date 2026-10-12 --time evening --lat 30.44 --lon -84.28 --location-label "Lake Ella, Tallahassee" --precision-km 5
+node scripts/apothecary.mjs observe --date 2026-10-12 --time evening --location-label "Lake Ella"     # no photo yet
+node scripts/apothecary.mjs upload-url https://…/photo.jpg --date 2026-10-12 --time morning
 node scripts/apothecary.mjs species  profile.json        # SpeciesProfile v0.1 JSON; nested uses{category:[{id?,use,detail,description,cautions[],evidence_level,source_ids}]}, collectible_rarity.signoffs[] and references[] accepted
 node scripts/apothecary.mjs identify OBS-20261014-A1B2C3 ident.json
 node scripts/apothecary.mjs use SP-quercus-virginiana use.json

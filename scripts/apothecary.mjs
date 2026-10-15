@@ -2,8 +2,12 @@
 // Apothecary CLI for Maomao/Zae. Needs APOTHECARY_ADMIN_TOKEN in the environment (never commit it).
 //   APOTHECARY_BASE (default https://morning-brief-zaevians-projects.vercel.app)
 // Commands:
-//   upload <photo> [--location-label "..."] [--precision-km 10] [--private] [--observation OBS-...]
-//   upload-url <https://…/photo.jpg> [--observation OBS-...] [--location-label "..."] [--private]   server fetches, stores bytes unchanged (≤50 MB)
+//   upload <box/file/path> [--date YYYY-MM-DD] [--time dawn|morning|midday|afternoon|evening|night] [--lat 30.44 --lon -84.28]
+//          [--location-label "..."] [--precision-km 10] [--private] [--observation OBS-...] [--notes "..."]
+//          --date/--time/--lat/--lon are hand-entered (observer) values: stored separately, used only where the photo has no real EXIF.
+//          Files > 4 MB go straight to private Blob (client upload) then /upload/complete; smaller ones use multipart /upload.
+//   upload-url <https://…/photo.jpg> [--observation OBS-...] [--location-label "..."] [--date …] [--time …] [--lat … --lon …] [--private]   server fetches, stores bytes unchanged (≤50 MB)
+//   observe [--date …] [--time …] [--lat … --lon …] [--location-label …] [--notes …]   observation with no photo (all values observer-sourced)
 //   species <profile.json>                       upsert a SpeciesProfile (nested uses/references ok)
 //   identify <OBS-id> <identification.json>      append an identification revision
 //   use <SP-id> <use.json>                       use item {id?, category, use, detail, description, cautions[], evidence_level, source_ids[]}
@@ -29,19 +33,40 @@ async function call(method, path, body) {
 }
 switch (cmd) {
   case "upload": {
-    const fd = new FormData();
-    fd.set("file", new Blob([readFileSync(a)]), basename(a));
-    if (flag("--location-label")) fd.set("location_label", flag("--location-label"));
-    if (flag("--precision-km")) fd.set("precision_km", flag("--precision-km"));
-    if (flag("--observation")) fd.set("observation_id", flag("--observation"));
-    if (flag("--private")) fd.set("is_public", "false");
-    await call("POST", "/api/apothecary/upload", fd); break;
+    const fields = {};
+    const map = { "--date": "observer_date", "--time": "observer_approx_time", "--lat": "observer_lat", "--lon": "observer_lon",
+      "--location-label": "location_label", "--precision-km": "precision_km", "--observation": "observation_id", "--notes": "user_notes" };
+    for (const [f, k] of Object.entries(map)) if (typeof flag(f) === "string") fields[k] = flag(f);
+    if (flag("--private")) fields.is_public = "false";
+    const bytes = readFileSync(a);
+    if (bytes.length > 4 * 1024 * 1024) {
+      const { upload } = await import("@vercel/blob/client");
+      const safe = basename(a).replace(/[^A-Za-z0-9._-]/g, "_").slice(-100) || "photo";
+      const blob = await upload(`apothecary/originals/${safe}`, new Blob([bytes]), {
+        access: "private", handleUploadUrl: `${base}/api/apothecary/upload/token`, headers: auth, multipart: bytes.length > 8 * 1024 * 1024 });
+      await call("POST", "/api/apothecary/upload/complete", { pathname: blob.pathname, filename: basename(a), ...fields });
+    } else {
+      const fd = new FormData();
+      fd.set("file", new Blob([bytes]), basename(a));
+      for (const [k, v] of Object.entries(fields)) fd.set(k, v);
+      await call("POST", "/api/apothecary/upload", fd);
+    }
+    break;
+  }
+  case "observe": {
+    const body = {};
+    for (const [f, k] of Object.entries({ "--date": "observer_date", "--time": "observer_approx_time", "--lat": "observer_lat", "--lon": "observer_lon",
+      "--location-label": "location_label", "--precision-km": "precision_km", "--notes": "user_notes" })) if (typeof flag(f) === "string") body[k] = flag(f);
+    if (flag("--private")) body.is_public = false;
+    await call("POST", "/api/apothecary/observations", body); break;
   }
   case "upload-url": {
     const body = { url: a };
     if (flag("--observation")) body.observationId = flag("--observation");
     if (flag("--location-label")) body.location_label = flag("--location-label");
     if (flag("--precision-km")) body.precision_km = flag("--precision-km");
+    for (const [f, k] of Object.entries({ "--date": "observer_date", "--time": "observer_approx_time", "--lat": "observer_lat", "--lon": "observer_lon", "--notes": "user_notes" }))
+      if (typeof flag(f) === "string") body[k] = flag(f);
     if (flag("--private")) body.is_public = false;
     await call("POST", "/api/apothecary/upload-from-url", body); break;
   }

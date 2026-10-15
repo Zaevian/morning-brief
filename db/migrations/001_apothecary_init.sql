@@ -47,7 +47,14 @@ CREATE TABLE apo_observations (
   lat double precision, lon double precision,          -- PRIVATE precise values
   coarse_lat double precision, coarse_lon double precision, -- public, rounded per precision_km
   precision_km     real NOT NULL DEFAULT 10,
-  location_source  text CHECK (location_source IN ('exif','user','none')) DEFAULT 'none',
+  location_source  text NOT NULL CHECK (location_source IN ('exif','observer','none')) DEFAULT 'none',
+  -- Effective observed_date/approx_time/lat/lon above are DERIVED (src/lib/apothecary/capture.ts): real EXIF wins, else observer, else null.
+  observed_date_source text NOT NULL CHECK (observed_date_source IN ('exif','observer','none')) DEFAULT 'none',
+  approx_time_source   text NOT NULL CHECK (approx_time_source IN ('exif','observer','none')) DEFAULT 'none',
+  -- Hand-entered values (e.g. Zae via chat when EXIF was stripped). Stored separately; never overwrite EXIF (which lives on apo_media).
+  observer_date date,
+  observer_approx_time text CHECK (observer_approx_time IN ('dawn','morning','midday','afternoon','evening','night','unknown')),
+  observer_lat double precision, observer_lon double precision,  -- PRIVATE
   location_public  boolean NOT NULL DEFAULT false,     -- true = precise lat/lon may be shown publicly
   is_public        boolean NOT NULL DEFAULT true,       -- false hides whole observation from public API
   user_notes text,

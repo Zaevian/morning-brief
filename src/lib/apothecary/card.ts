@@ -1,4 +1,5 @@
 import { q, Row } from "./db";
+import { coarsen } from "./exif";
 
 export const USE_CATEGORY_LABELS = {
   culinary: "Culinary", traditional_medicine: "Traditional Medicine", evidence_based_medical: "Evidence-Based Medical Applications",
@@ -98,6 +99,10 @@ export function observationOut(o: Row, media: Row[], admin: boolean) {
   return {
     observation_id: o.id, species_profile_id: o.species_id, current_identification_id: o.current_identification_id,
     observed_date: o.observed_date, approx_time: o.approx_time,
+    /** Where each effective capture value came from: exif | observer (hand-entered) | none. */
+    capture_sources: { observed_date: o.observed_date_source, approx_time: o.approx_time_source, location: o.location_source },
+    observer_entered: { observed_date: o.observer_date, approx_time: o.observer_approx_time,
+      lat: precise ? o.observer_lat : coarsen(o.observer_lat, Number(o.precision_km) || 10), lon: precise ? o.observer_lon : coarsen(o.observer_lon, Number(o.precision_km) || 10) },
     location: { label: o.location_label, lat: precise ? o.lat : o.coarse_lat, lon: precise ? o.lon : o.coarse_lon,
       precision_km: precise ? null : o.precision_km, source: o.location_source, is_precise: !!precise },
     is_public: o.is_public, location_public: o.location_public, user_notes: o.user_notes, created_at: o.created_at, updated_at: o.updated_at,

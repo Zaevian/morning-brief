@@ -2,12 +2,15 @@ import sharp from "sharp";
 import { q, observationId, newId } from "./db";
 import { HttpError } from "./http";
 import { putPrivate } from "./storage";
-import { extractExif, sha256, coarsen, approxTimeBucket } from "./exif";
+import { extractExif, sha256 } from "./exif";
+import { recomputeCapture } from "./capture";
 
 export interface IngestFields {
   observation_id?: string | null; role?: string | null; location_label?: string | null; precision_km?: string | number | null;
   is_public?: boolean | string | null; location_public?: boolean | string | null; user_notes?: string | null;
-  species_id?: string | null; source?: string | null; credit?: string | null; license?: string | null;
+  species_id?: string | null;
+  /** Hand-entered capture values (kept alongside EXIF, never overwrite it). */
+  observer_date?: string | null; observer_approx_time?: string | null; observer_lat?: string | number | null; observer_lon?: string | number | null; source?: string | null; credit?: string | null; license?: string | null;
 }
 const bool = (v: unknown, d: boolean) => (v == null || v === "" ? d : v === true || v === "true" || v === "1");
 
@@ -34,23 +37,20 @@ export async function ingest(buf: Buffer, filename: string, contentType: string,
 
   if (role === "observation" && !obsId) {
     obsId = observationId();
-    const precision = Number(f.precision_km ?? 10) || 10;
-    const hasGps = exif.gps_lat != null && exif.gps_lon != null;
-    await q(`INSERT INTO apo_observations (id, observed_date, approx_time, location_label, lat, lon, coarse_lat, coarse_lon, precision_km, location_source, location_public, is_public, user_notes)
-      VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)`,
-      [obsId, exif.datetime_original?.slice(0, 10) ?? null, approxTimeBucket(exif.datetime_original), f.location_label || null,
-       exif.gps_lat, exif.gps_lon, coarsen(exif.gps_lat, precision), coarsen(exif.gps_lon, precision), precision,
-       hasGps ? "exif" : "none", bool(f.location_public, false), bool(f.is_public, true), f.user_notes || null]);
+    await q(`INSERT INTO apo_observations (id, location_label, precision_km, location_public, is_public, user_notes) VALUES ($1,$2,$3,$4,$5,$6)`,
+      [obsId, f.location_label || null, Number(f.precision_km ?? 10) || 10, bool(f.location_public, false), bool(f.is_public, true), f.user_notes || null]);
     const identId = newId("IDR");
     await q(`INSERT INTO apo_identifications (id, observation_id, revision, status, author, change_note) VALUES ($1,$2,1,'pending','pipeline','Uploaded; awaiting identification')`, [identId, obsId]);
     await q(`UPDATE apo_observations SET current_identification_id=$2 WHERE id=$1`, [obsId, identId]);
   }
+  if (role === "observation" && obsId) await setObserverValues(obsId, f);
   await q(`INSERT INTO apo_media (id, observation_id, role, original_pathname, original_filename, content_type, byte_size, sha256, web_pathname, width, height,
       exif_raw, exif_datetime_original, exif_offset_time, exif_gps_lat, exif_gps_lon, exif_gps_alt_m, camera_make, camera_model, lens, source, credit, license)
     VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21,$22,$23)`,
     [mediaId, role === "observation" ? obsId : null, role, originalPath, filename, contentType, buf.length, hash, webPath, meta.width ?? exif.width, meta.height ?? exif.height,
      exif.raw ? JSON.stringify(exif.raw) : null, exif.datetime_original, exif.offset_time, exif.gps_lat, exif.gps_lon, exif.gps_alt_m,
      exif.camera_make, exif.camera_model, exif.lens, f.source ?? null, f.credit ?? null, f.license ?? null]);
+  if (role === "observation" && obsId) await recomputeCapture(obsId);
   if (role === "portrait" && f.species_id) await q("UPDATE apo_species SET portrait_media_id=$2, portrait_source=coalesce($3,portrait_source), portrait_credit=coalesce($4,portrait_credit), portrait_license=coalesce($5,portrait_license), updated_at=now() WHERE id=$1",
     [f.species_id, mediaId, f.source ?? null, f.credit ?? null, f.license ?? null]);
   return { media_id: mediaId, observation_id: role === "observation" ? obsId : null, sha256: hash, byte_size: buf.length,
@@ -58,3 +58,26 @@ export async function ingest(buf: Buffer, filename: string, contentType: string,
 }
 
 export const MAX_ORIGINAL_BYTES = 50 * 1024 * 1024;
+
+const BUCKETS = ["dawn", "morning", "midday", "afternoon", "evening", "night", "unknown"];
+/** Writes only the observer_* columns that were supplied. EXIF columns are never touched here. */
+export async function setObserverValues(obsId: string, f: IngestFields) {
+  const sets: string[] = [], vals: unknown[] = [obsId];
+  const put = (col: string, v: unknown) => { vals.push(v); sets.push(`${col}=$${vals.length}`); };
+  if (f.observer_date != null && f.observer_date !== "") {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(String(f.observer_date))) throw new HttpError(400, "observer_date must be YYYY-MM-DD");
+    put("observer_date", f.observer_date);
+  }
+  if (f.observer_approx_time != null && f.observer_approx_time !== "") {
+    if (!BUCKETS.includes(String(f.observer_approx_time))) throw new HttpError(400, `observer_approx_time must be one of ${BUCKETS.join("|")}`);
+    put("observer_approx_time", f.observer_approx_time);
+  }
+  const hasLat = f.observer_lat != null && f.observer_lat !== "", hasLon = f.observer_lon != null && f.observer_lon !== "";
+  if (hasLat !== hasLon) throw new HttpError(400, "observer_lat and observer_lon go together");
+  if (hasLat) {
+    const lat = Number(f.observer_lat), lon = Number(f.observer_lon);
+    if (!(Math.abs(lat) <= 90 && Math.abs(lon) <= 180)) throw new HttpError(400, "observer_lat/lon out of range");
+    put("observer_lat", lat); put("observer_lon", lon);
+  }
+  if (sets.length) await q(`UPDATE apo_observations SET ${sets.join(", ")} WHERE id=$1`, vals);
+}

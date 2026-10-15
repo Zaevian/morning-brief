@@ -3,6 +3,7 @@ export type VisualGroup = "tree" | "flowering_plant" | "vine" | "general_plant" 
 export type ApproxTime = "dawn" | "morning" | "midday" | "afternoon" | "evening" | "night" | "unknown";
 export type ConfidenceLabel = "High" | "Medium" | "Low";
 export type UseCategory = "culinary" | "traditional_medicine" | "evidence_based_medical" | "scientific_research" | "industrial" | "agriculture" | "cosmetics" | "ecological" | "historical_cultural" | "other_verified";
+export type ValueSource = "exif" | "observer" | "none";
 export type PortraitSource = "verified_reference" | "generated_illustration" | "none";
 
 export interface Candidate {
@@ -46,7 +47,9 @@ export interface SpeciesProfile {
 export interface CardPayload {
   card_version: 1;
   observation: { observation_id: string; species_profile_id: string | null; current_identification_id: string | null; observed_date: string | null; approx_time: ApproxTime;
-    location: { label: string | null; lat: number | null; lon: number | null; precision_km: number | null; source: "exif" | "user" | "none"; is_precise: boolean };
+    capture_sources: { observed_date: ValueSource; approx_time: ValueSource; location: ValueSource };
+    observer_entered: { observed_date: string | null; approx_time: ApproxTime | null; lat: number | null; lon: number | null };
+    location: { label: string | null; lat: number | null; lon: number | null; precision_km: number | null; source: ValueSource; is_precise: boolean };
     is_public: boolean; location_public: boolean; user_notes: string | null; created_at: string; updated_at: string; media: Media[] };
   identification: Identification | null; identification_history: Identification[];
   species: SpeciesProfile | null;
