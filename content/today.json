@@ -43,22 +43,28 @@
     "weatherNote": "Mostly sunny with a high near 83F and a low near 64F, and essentially no chance of rain. It is 64F right now, so a light layer is enough for the morning.",
     "gradArena": "Ram is publishing the lighter campus card photos for the FSU, FAMU, and TSC tiles that you approved yesterday. Visitor counts could not be pulled through the Vercel connection this morning, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
     "ottoman": {
-      "lessonNumber": 2,
+      "lessonNumber": 5,
       "totalLessons": 16,
-      "chapterTitle": "Remaking an empire 1774–1908",
-      "summary": "From 1774 on, Ottoman rulers faced Russian and European pressure, but decline alone does not describe an age of reform, new institutions, and expanding state power. Mahmud II destroyed the Janissaries, the Tanzimat remade law and administration, and railways and foreign debt brought both capacity and outside leverage inside the empire. National movements and great-power settlements peeled away Balkan territories even as the state kept reforming and fighting.",
-      "link": "https://ottoman-empire-fall.vercel.app/#reform-and-pressure"
+      "chapterTitle": "Victory at the Straits, exhaustion",
+      "summary": "There was no single Ottoman front in the Great War. Gallipoli stopped the Allies at the Straits and preserved the capital, while Sarıkamış, Mesopotamia, Sinai, and Palestine drained the empire elsewhere. Local victories bought time, but hunger, disease, and broken supply lines left Ottoman leaders exhausted by autumn 1918.",
+      "link": "https://ottoman-empire-fall.vercel.app/#world-war"
     }
   },
   "surprise": {
-    "kind": "fact",
-    "eyebrow": "Today's surprise",
-    "title": "FORTRAN turns 70 today",
-    "body": "On this date in 1956, FORTRAN, widely remembered as the first modern high-level programming language, was first shared with the coding community. John Backus led the IBM team that built it so scientists could write math instead of raw machine code. Seventy years later, that same idea still sits under almost every language you will meet while studying for CompTIA A+.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Backus_2.jpg",
-    "imageAlt": "John Backus, leader of the IBM team that developed FORTRAN",
-    "link": { "label": "Wikipedia: Fortran", "url": "https://en.wikipedia.org/wiki/Fortran" },
-    "source": { "label": "Wikipedia On This Day (Oct 15)", "url": "https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October_15" },
-    "accent": "#60a5fa"
+    "kind": "show",
+    "eyebrow": "Tonight after Russian",
+    "title": "Rocky Horror at Askew, 10 PM",
+    "body": "Your Russian block ends at 8:00 PM, and FSU's full Rocky Horror Picture Show experience starts at 10:00 PM at Askew Student Life Center with pre-show games and a live White Mouse Productions shadowcast. It runs through about 2:00 AM and repeats Saturday at 10:00 PM, so tonight is the easy post-study option without cutting into language time. Askew is on Learning Way on the FSU campus, roughly a ten-minute drive from downtown Tallahassee.",
+    "imageUrl": "https://localist-images.azureedge.net/photos/53974601627341/huge/0f0127421b2142543ac24219efeafb6bee09e586.jpg",
+    "imageAlt": "Rocky Horror Picture Show event art for FSU Askew Student Life Center",
+    "link": {
+      "label": "RSVP / event details",
+      "url": "https://hq.fsu.edu/rsvp?id=377749"
+    },
+    "source": {
+      "label": "FSU Calendar + Fun this weekend",
+      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-3265"
+    },
+    "accent": "#f472b6"
   }
 }
