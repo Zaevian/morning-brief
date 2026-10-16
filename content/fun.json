@@ -1,164 +1,304 @@
 {
-  "mode": "week",
+  "mode": "weekend",
   "range": {
-    "start": "2026-10-15",
-    "end": "2026-10-15",
-    "label": "Thursday, Oct 15, 2026"
+    "start": "2026-10-16",
+    "end": "2026-10-18",
+    "label": "Fri-Sun, Oct 16-18, 2026"
   },
-  "updatedNote": "Thursday drop from Diablo. Tonight only, with Rocky Horror at FSU added alongside the campus concerts and North Monroe shows.",
+  "updatedNote": "Friday drop from Diablo. Zukerman with the Tallahassee Symphony tonight, Blue Tavern's free tenth birthday Saturday, and Amicus Oktoberfest all weekend. FSU plays at Miami Saturday.",
   "events": [
     {
-      "id": "thu-mofa-print-reception-2026-10-15",
-      "title": "MoFA print reception and curator tours",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "Museum of Fine Arts at FSU",
-      "neighborhood": "FSU campus",
-      "startTime": "5:00 PM",
-      "hook": "Refreshments and curator-led tours of the Daumier show, with drop-in printmaking from 2 PM.",
-      "url": "https://tallahasseearts.org/event/interdisciplinary-arts-humanities-symposium/",
-      "imageUrl": "https://tallahasseearts.org/wp-content/uploads/sites/tallahasseearts.org/images/2026/10/event-featured-interdisciplinary-arts-humanities-symposium-1791399654-scaled.png",
+      "id": "fri-amicus-oktoberfest-2026-10-16",
+      "title": "Amicus Brewing Oktoberfest (Fri through Sun)",
+      "date": "2026-10-16",
+      "venue": "Amicus Brewing Ventures",
+      "neighborhood": "South Gadsden",
+      "startTime": "11:00 AM",
+      "hook": "Three days of German beers in glass tankards, with a sausage toss at 5:30, a tankard-holding contest at 6, and Permanent Summer live at 7.",
+      "url": "https://musiclocal.org/events/amicus-brewing-oktoberfest-at-amicus-brewing-ventures-2026-10-16-8yfh48",
+      "imageUrl": "https://media.musiclocal.org/Do4OA74KIxHgPwEy-9WOZc-iX1lY8dXtoii_PrLFHNI/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F45b9c55c-aaf4-4771-b842-88ff3c76e2a6.png",
       "tags": [
-        "art",
-        "campus",
-        "free"
+        "food",
+        "beer",
+        "live music",
+        "festival"
       ],
       "sample": false
     },
     {
-      "id": "thu-art-and-soul-lemoyne-2026-10-15",
-      "title": "Art & Soul Celebration and Live Auction",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "LeMoyne Arts, Simmons Dozier Gardens",
+      "id": "fri-rhys-bennett-jazz-monroe-2026-10-16",
+      "title": "Friday Evening Jazz with the Rhys Bennett Quartet",
+      "date": "2026-10-16",
+      "venue": "The Monroe TLH",
       "neighborhood": "Downtown",
       "startTime": "6:00 PM",
-      "hook": "Garden party with local restaurant bites, open bars, live music, and an art auction.",
-      "url": "https://www.lemoyne.org/artandsoul",
-      "imageUrl": "https://cdn.happeningnext.com/events8/banners/b73b6f0a59695be9019334388a38a48eb696697c14958cb1cb70f8d1378fcb85-rimg-w912-h535-dc980818-gmir?v=1787235799",
+      "hook": "An easy downtown jazz kickoff to the weekend, running until 9.",
+      "url": "https://musiclocal.org/events/friday-evening-jazz-at-the-monroe-tlh-2026-10-16-0yfls0",
+      "imageUrl": "https://media.musiclocal.org/bSo1GdmTvVnGwKZ2gqghW-PYAo75C33jAZs8GKp9qJo/rs:fill:1200:1200/g:fp:0.5:0.8/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F478e8e45-9bd7-49bd-9952-69396ca2ea26.jpeg",
+      "tags": [
+        "live music",
+        "jazz"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-east-town-get-down-feather-oaks-2026-10-16",
+      "title": "East Town Get Down with Easy Goers",
+      "date": "2026-10-16",
+      "venue": "The Hub at Feather Oaks",
+      "neighborhood": "Northeast",
+      "startTime": "6:00 PM",
+      "hook": "Outdoor Friday hang on Miccosukee Road with a live band from 6 to 9.",
+      "url": "https://musiclocal.org/events/east-town-get-down-at-the-hub-at-feather-oaks-2026-10-16-kp0e8s",
+      "imageUrl": "https://musiclocal.org/api/og?type=event-detail&slug=east-town-get-down-at-the-hub-at-feather-oaks-2026-10-16-kp0e8s",
+      "tags": [
+        "live music",
+        "outdoors"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-zukerman-elgar-ruby-diamond-2026-10-16",
+      "title": "Tallahassee Symphony: Zukerman Plays Elgar",
+      "date": "2026-10-16",
+      "venue": "Ruby Diamond Concert Hall",
+      "neighborhood": "FSU campus",
+      "startTime": "7:30 PM",
+      "hook": "Legendary violinist Pinchas Zukerman plays the Elgar concerto, paired with Ben-Haim's First Symphony.",
+      "url": "https://musiclocal.org/events/zukerman-plays-elgar-at-ruby-diamond-concert-hall-2026-10-16-1f2rau",
+      "imageUrl": "https://media.musiclocal.org/QoLQOP4tmAOtR6nCAnjbwRI6Fa01YRn6ssy0qhxVcYw/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F1bb1b842-263c-45c7-914c-0735a2d89322.png",
+      "tags": [
+        "classical",
+        "live music",
+        "campus"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-fsu-gospel-choir-opperman-2026-10-16",
+      "title": "FSU Gospel Choir Performance",
+      "date": "2026-10-16",
+      "venue": "Opperman Music Hall, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "7:30 PM",
+      "hook": "A joyful evening of gospel from the College of Music's choir.",
+      "url": "https://calendar.fsu.edu/event/gospel-choir-performance-9954",
+      "imageUrl": "https://localist-images.azureedge.net/photos/500500/huge/05743b98d1e2a50b6bf02d04f2f689b8f6eca21b.jpg",
+      "tags": [
+        "live music",
+        "gospel",
+        "campus"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-leon-anderson-quintet-blue-tavern-2026-10-16",
+      "title": "Leon Anderson Quintet at Blue Tavern",
+      "date": "2026-10-16",
+      "venue": "Blue Tavern",
+      "neighborhood": "North Monroe",
+      "startTime": "8:00 PM",
+      "hook": "Percussion maestro Leon Anderson leads a five-piece jazz night, $10 cover.",
+      "url": "https://musiclocal.org/events/leon-anderson-quintet-at-blue-tavern-2026-10-16-jdvhq6",
+      "imageUrl": "https://media.musiclocal.org/zzge4qgCsh3JglVPbrR1DvXMq9d0PKEkmzkmCNedYec/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F0250b5f8-2d5b-4ed4-97a9-73133336f47e.jpeg",
+      "tags": [
+        "live music",
+        "jazz"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-yeah-babys-northflora-2026-10-16",
+      "title": "The Yeah Babys, Danitza, Dallas Aleea, and Zammo",
+      "date": "2026-10-16",
+      "venue": "NorthFlora Collective",
+      "neighborhood": "Railroad Square",
+      "startTime": "8:00 PM",
+      "hook": "A four-act local bill in Railroad Square, doors at 7:30.",
+      "url": "https://musiclocal.org/events/the-yeah-babys-and-danitza-at-northflora-collective-2026-10-16-1puh4e",
+      "imageUrl": "https://media.musiclocal.org/uU6MexlwMOufx7HDZSFqlfnhWLo-8SlsI3K5kOB8bZg/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F64af2627-d636-4077-8108-5056e419ce93.jpeg",
+      "tags": [
+        "live music",
+        "indie"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-rocky-horror-shadowcast-askew-2026-10-16",
+      "title": "The Rocky Horror Picture Show with live shadowcast",
+      "date": "2026-10-16",
+      "venue": "Askew Student Life Center, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "10:00 PM",
+      "hook": "FSU's annual late-night Rocky Horror with pre-show games and a live cast, repeating Saturday at 10.",
+      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-3265",
+      "imageUrl": "https://localist-images.azureedge.net/photos/53974601627341/huge/0f0127421b2142543ac24219efeafb6bee09e586.jpg",
+      "tags": [
+        "movie",
+        "campus",
+        "halloween"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-621-gallery-45-years-2026-10-17",
+      "title": "621 Gallery 45th Anniversary Masquer-AID",
+      "date": "2026-10-17",
+      "venue": "621 Gallery",
+      "neighborhood": "Railroad Square",
+      "startTime": "12:00 PM",
+      "hook": "Hot Tamale, Matthew Cravener, The Pick Ups, and LCP Band celebrate the gallery, $25 or $40 with the after party.",
+      "url": "https://musiclocal.org/events/45-years-of-621-fundraiser-at-621-gallery-2026-10-17-2pttg7",
+      "imageUrl": "https://media.musiclocal.org/-BBsiO_jNXImJqh0ynsMfXI5M58d5uLg2zWTMCUxUSI/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Ff079959e-cafc-4715-b9c9-96481f861720.jpeg",
       "tags": [
         "art",
-        "food",
+        "live music",
+        "fundraiser"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-killearn-fall-festival-2026-10-17",
+      "title": "Killearn Fall Festival",
+      "date": "2026-10-17",
+      "venue": "Shannon Lakes Park",
+      "neighborhood": "Killearn",
+      "startTime": "2:00 PM",
+      "hook": "A neighborhood fall festival in the park with Genezone playing from 2 to 6.",
+      "url": "https://musiclocal.org/events/killearn-fall-festival-at-shannon-lakes-park-2026-10-17-23wovz",
+      "imageUrl": "https://media.musiclocal.org/Cer_DMYBqIkkUkdZirH0UEvysKfnv5Wu5WiNNbHsaO4/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fca093633-d45c-4b55-b5aa-5536c4ca29aa.jpeg",
+      "tags": [
+        "outdoors",
+        "festival",
         "live music"
       ],
       "sample": false
     },
     {
-      "id": "thu-blues-jam-getaway-2026-10-15",
-      "title": "Blues Jam with Brett and Dangerous Dave",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "The Getaway Grille and Bar",
-      "startTime": "6:00 PM",
-      "hook": "Tallahassee's longest-running blues jam, open to players and listeners alike.",
-      "url": "https://musiclocal.org/events/blues-jam-at-the-getaway-grille-and-bar-2026-10-15-qmbnnz",
-      "imageUrl": "https://media.musiclocal.org/Th-b7NtEaw7evFczl9hUf23Y7u3PKObfwOhGmIkW90U/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F99da16be-a2d6-4715-bff6-ef22599274b1.jpeg",
-      "tags": [
-        "live music",
-        "blues"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-rocky-horror-askew-2026-10-15",
-      "title": "The Rocky Horror Picture Show (sensory-friendly night)",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "Askew Student Life Center, FSU",
-      "neighborhood": "FSU campus",
-      "startTime": "6:00 PM",
-      "hook": "FSU's annual Rocky Horror return, a calmer screening with pre-show games before the full shadowcast weekend.",
-      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-4866",
-      "imageUrl": "https://localist-images.azureedge.net/photos/54178080932619/huge/915cf76b4263fe5685d046ee6a00d58c30d237ce.jpg",
-      "tags": [
-        "movie",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-capital-city-band-tsc-60th-2026-10-15",
-      "title": "Capital City Band of TSC 60th Celebration Concert",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "Turner Auditorium, Tallahassee State College",
-      "startTime": "7:30 PM",
-      "hook": "Free opening night of the band's sixtieth season, with easy parking.",
-      "url": "https://musiclocal.org/events/capital-city-band-of-tsc-60th-celebration-concert-at-tsc-turner-auditorium-2026-10-15-ehgewa",
-      "imageUrl": "https://media.musiclocal.org/thJuynF1CkI0_0xmGyFFBWaO-CYm-XHBcMJWR9fpaIY/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F96810a63-d80e-4fac-bd63-6c587f69ed42.jpeg",
-      "tags": [
-        "live music",
-        "free",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-famu-jazz-ensemble-lee-hall-2026-10-15",
-      "title": "FAMU Jazz Ensemble: Back in the Swing of Things",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "Lee Hall Auditorium",
-      "neighborhood": "FAMU campus",
-      "startTime": "7:30 PM",
-      "hook": "Free instrumental and vocal jazz from legendary artists, donations welcome.",
-      "url": "https://musiclocal.org/events/back-in-the-swing-of-things-at-lee-hall-auditorium-2026-10-15-lmnuqj",
-      "imageUrl": "https://media.musiclocal.org/3Ljts9TiOeAGa6pIX0tHEbvSyjSt5_nHAVoEG8EoQwY/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fb9f7cdb3-53b9-4159-85eb-9797452a6a3d.jpeg",
-      "tags": [
-        "live music",
-        "jazz",
-        "free",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-killer-beaz-american-legion-2026-10-15",
-      "title": "Comedian Killer Beaz: Best Buzz in Town",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "American Legion Post 13 Performance Hall",
-      "neighborhood": "Lake Ella",
-      "startTime": "7:30 PM",
-      "hook": "The Moonshiners comedian in an intimate room, about $35 a ticket.",
-      "url": "https://www.eventbrite.com/e/comedian-killer-beaz-best-buzz-in-town-at-the-american-legion-post-13-tickets-2002240751988",
-      "imageUrl": "https://cdn.evbuc.com/images/1194314668/693092631963/1/original.20260924-202232?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.23&fp-y=0.509&s=7d1029866a863d0e8fcb118b9445f408",
-      "tags": [
-        "comedy"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-ryan-biter-blue-tavern-2026-10-15",
-      "title": "Ryan Biter at Blue Tavern",
-      "day": "Thu",
-      "date": "2026-10-15",
+      "id": "sat-blue-tavern-10th-anniversary-2026-10-17",
+      "title": "Blue Tavern 10th Anniversary Party",
+      "date": "2026-10-17",
       "venue": "Blue Tavern",
       "neighborhood": "North Monroe",
-      "startTime": "8:00 PM",
-      "hook": "Gritty, soulful one-man show in the Stapleton vein, only a $5 cover.",
-      "url": "https://musiclocal.org/events/ryan-biter-at-blue-tavern-2026-10-15-fptahl",
-      "imageUrl": "https://media.musiclocal.org/0-_fyraMtpdfl19FPBUJrGNgWNbMybJoKhNETMI-Hd8/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F8695bd5f-34f3-4223-85bb-5af70b2aa2bc.jpeg",
+      "startTime": "4:00 PM",
+      "hook": "Free all day: an Irish session, Green Street Sheiks, JC and the Backscratchers, then Corey Hall at 9.",
+      "url": "https://musiclocal.org/events/bts-10th-year-anniversary-party-at-blue-tavern-2026-10-17-ot9cxr",
+      "imageUrl": "https://media.musiclocal.org/BcKCX6QJXN57Lqmr98mH3uYi_-G73spK6nCftTyLWIw/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F0d8ad114-6ea1-4933-88c8-293f00e7ee2d.jpeg",
       "tags": [
         "live music",
-        "singer-songwriter"
+        "free"
       ],
       "sample": false
     },
     {
-      "id": "thu-havana-syndrome-real-cool-time-2026-10-15",
-      "title": "Havana Syndrome, Foot Fetish, and Double Bubble",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "venue": "Real Cool Time Records",
-      "neighborhood": "North Monroe",
+      "id": "sat-tlhdnb-halloween-ology-2026-10-17",
+      "title": "TLHDNB with Rends: Halloween Theme",
+      "date": "2026-10-17",
+      "venue": "Ology Brewing Co (Midtown)",
+      "neighborhood": "Midtown",
+      "startTime": "7:00 PM",
+      "hook": "Drum and bass with a Halloween twist at its Midtown home base, 7 to 11.",
+      "url": "https://musiclocal.org/events/tlhdnb-with-rendshalloween-theme-at-ology-brewing-co-midtown-2026-10-17-hp1n5d",
+      "imageUrl": "https://media.musiclocal.org/A9V3_aiAOK_ugZwH0vfN0bMrEJHL5ClSqdnAOoWekSY/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fc436fa37-f88f-4ba2-bbfe-cf1abc696cbe.jpeg",
+      "tags": [
+        "dj",
+        "electronic",
+        "halloween"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-fsmta-legacies-in-sound-2026-10-17",
+      "title": "Legacies in Sound: FSMTA Faculty Concert",
+      "date": "2026-10-17",
+      "venue": "Opperman Music Hall, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "7:30 PM",
+      "hook": "Faculty performers from the state music teachers association and FSU share one polished stage.",
+      "url": "https://calendar.fsu.edu/event/legacies-in-sound-a-faculty-concert-presented-by-fsmta-and-the-fsu-college-of-music",
+      "imageUrl": "https://localist-images.azureedge.net/photos/500500/huge/05743b98d1e2a50b6bf02d04f2f689b8f6eca21b.jpg",
+      "tags": [
+        "classical",
+        "live music",
+        "campus"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-rent-strike-myles-bullen-2026-10-17",
+      "title": "Rent Strike and Myles Bullen",
+      "date": "2026-10-17",
+      "venue": "Unitarian Universalist Church",
       "startTime": "8:00 PM",
-      "hook": "Buffalo hardcore punk on a spooky-season bill, $10 and all ages.",
-      "url": "https://musiclocal.org/events/havana-syndrome-and-foot-fetish-at-real-cool-time-records-2026-10-15-z2mhwc",
-      "imageUrl": "https://media.musiclocal.org/XbxATbidBiIcnZlbKBMQ4syoUUL-m4PmxM0-mEF3FEc/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbf884ad6-6857-4e24-9897-7ec9c6b6f3f5.jpeg",
+      "hook": "Touring folk punk in an intimate church room, $20 with doors at 7.",
+      "url": "https://musiclocal.org/events/rent-strike-and-myles-bullen-at-unitarian-universalist-church-2026-10-17-22l41w",
+      "imageUrl": "https://media.musiclocal.org/-Op0cYTYDhqjhR6K2GhG384UFsqyL6qDfhem9AE4Ds8/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F8d13a6aa-4d68-484d-b541-2ab0eff33cc7.jpeg",
       "tags": [
         "live music",
-        "punk"
+        "folk punk"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-fsu-percussion-ensemble-2026-10-18",
+      "title": "FSU Percussion Ensemble",
+      "date": "2026-10-18",
+      "venue": "Opperman Music Hall, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "2:00 PM",
+      "hook": "A Sunday afternoon of big, rhythmic campus percussion.",
+      "url": "https://musiclocal.org/events/fsu-percussion-ensemble-at-opperman-music-hall-2026-10-18-gl2p5c",
+      "imageUrl": "https://musiclocal.org/api/og?type=event-detail&slug=fsu-percussion-ensemble-at-opperman-music-hall-2026-10-18-gl2p5c",
+      "tags": [
+        "live music",
+        "campus"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-healing-arts-festival-resolvers-2026-10-18",
+      "title": "Tallahassee Healing Arts Festival with The Resolvers",
+      "date": "2026-10-18",
+      "venue": "Cascades Park",
+      "neighborhood": "Downtown",
+      "startTime": "2:30 PM",
+      "hook": "The Resolvers play the park festival, an easy Sunday outing downtown.",
+      "url": "https://musiclocal.org/events/the-resolvers-at-tallahassee-healing-arts-festival-at-cascades-park-2026-10-18-03019n",
+      "imageUrl": "https://media.musiclocal.org/AZHc_P0U8EBL34o9IaxfXIm1NvOKog6WP3DKQONj57c/rs:fill:1200:1200/g:fp:0.5:0.47/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fef6f0612-43fe-4538-8727-346379549737.jpeg",
+      "tags": [
+        "outdoors",
+        "festival",
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-maurice-mangum-getaway-2026-10-18",
+      "title": "Sundays with Maurice Mangum",
+      "date": "2026-10-18",
+      "venue": "The Getaway Grille and Bar",
+      "startTime": "4:00 PM",
+      "hook": "A relaxed late-afternoon set from 4 to 7.",
+      "url": "https://musiclocal.org/events/sundays-with-maurice-at-the-getaway-grille-and-bar-2026-10-18-23dqcx",
+      "imageUrl": "https://media.musiclocal.org/Q0mdtnZGYKNyztHe-vumJU1JMHdh72SGUq6pJXRIKcA/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F186f2510-e0c3-4826-ab18-e71385fa0ec5.jpeg",
+      "tags": [
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-dogsmiles-ceiling-bark-2026-10-18",
+      "title": "Dogsmiles, Ceiling, Optimus Grime, and friends",
+      "date": "2026-10-18",
+      "venue": "The Bark",
+      "neighborhood": "All Saints",
+      "startTime": "7:30 PM",
+      "hook": "A five-band DIY bill to close out the weekend, doors at 7.",
+      "url": "https://musiclocal.org/events/dogsmiles-and-ceiling-at-the-bark-2026-10-18-6mizzc",
+      "imageUrl": "https://media.musiclocal.org/yLONE88RGo24Cu_yeXT0ubrrJzfkP0DyaUJrJdmpChU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F88716892-2717-42bf-960e-aab2216ae6bf.jpeg",
+      "tags": [
+        "live music",
+        "diy"
       ],
       "sample": false
     }
