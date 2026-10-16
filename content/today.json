@@ -1,28 +1,44 @@
 {
-  "greeting": "Good morning, Zae. Thursday is sunny and warm in Tallahassee, your calendar is habit-only with Spanish tonight, and the cruise is now sixteen days out.",
-  "date": "2026-10-15",
-  "dateDisplay": "Thursday, October 15, 2026",
+  "greeting": "Good morning, Zae. Friday opens with fog that burns off into a sunny, near-summer 88F in Tallahassee, your calendar is habits plus Russian tonight, and the cruise is now fifteen days out.",
+  "date": "2026-10-16",
+  "dateDisplay": "Friday, October 16, 2026",
   "calendar": {
-    "note": "Supplements + Spanish",
+    "note": "Supplements + Russian",
     "events": [
-      { "time": "8:00 AM", "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex." },
-      { "time": "2:00 PM", "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels." },
-      { "time": "6:00 PM", "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates back to Russian." },
-      { "time": "10:00 PM", "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today." }
+      {
+        "time": "8:00 AM",
+        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
+      },
+      {
+        "time": "9:00 AM",
+        "title": "Bill payment reminder: a reminder you set for today arrives at 9:00 AM."
+      },
+      {
+        "time": "2:00 PM",
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
+      },
+      {
+        "time": "6:00 PM",
+        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates back to Spanish."
+      },
+      {
+        "time": "10:00 PM",
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+      }
     ]
   },
   "projectMove": {
-    "title": "Grad Arena: Line up the second Instagram post",
-    "body": "Gradarena850 has one boosted Westcott carousel from September 30, and the account will look more established with a second post before fall graduation bookings pick up. Ram is already publishing the lighter, faster campus card photos you approved yesterday for the FSU, FAMU, and TSC tiles, so a campus-themed carousel using those same shots would match the site and give new visitors a reason to tap through to gradarena850.com."
+    "title": "Grad Arena: Bring back the fast September photos",
+    "body": "You approved Ram yesterday to restore the September photo setup, when the site loaded quickly and the portraits looked sharp, while keeping every other improvement built since then. Ram only puts it live once the faces match the September version, and you will get live screenshots plus fresh load times as soon as it is up, so the carousel should stop crawling without any visible quality loss."
   },
   "tip": {
-    "title": "Get cruise check-in details ready before Saturday",
-    "body": "Carnival online check-in opens Saturday morning, so set aside your ID, emergency contact, and a clear, well-lit photo of yourself tonight or tomorrow. Having those in one place turns check-in into a five-minute task instead of a scavenger hunt, and a reminder is already set for Saturday."
+    "title": "Pack a jacket for Saturday's cold front",
+    "body": "Today tops out near 88F, but a front swings through tonight with gusts up to 30 mph, and Saturday only reaches about 73F with a steady north wind. If you are out late tonight, bring a layer for the walk back, and plan on a noticeably cooler, breezy Saturday."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-10-31",
-    "label": "16 days"
+    "label": "15 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -32,16 +48,19 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-15T06:58:00-04:00",
-    "views": { "last24h": null, "last7d": null },
+    "asOf": "2026-10-16T06:56:00-04:00",
+    "views": {
+      "last24h": null,
+      "last7d": null
+    },
     "topPages": [],
     "note": "Visitor numbers could not be pulled through the Vercel connection this morning, so the counts are left blank rather than guessed."
   },
   "extras": {
-    "language": "Tonight is Spanish study (2 hours); tomorrow rotates back to Russian.",
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens Saturday, October 18, three days from today, and a reminder is already set for that morning.",
-    "weatherNote": "Mostly sunny with a high near 83F and a low near 64F, and essentially no chance of rain. It is 64F right now, so a light layer is enough for the morning.",
-    "gradArena": "Ram is publishing the lighter campus card photos for the FSU, FAMU, and TSC tiles that you approved yesterday. Visitor counts could not be pulled through the Vercel connection this morning, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
+    "language": "Tonight is Russian study (2 hours); tomorrow rotates back to Spanish.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens Sunday, October 18, two days from today, and a reminder is already set for that morning, so have your ID, emergency contact, and a clear photo of yourself ready.",
+    "weatherNote": "Areas of fog before 10 AM, then mostly sunny with a high near 88F. It is about 63F and clear right now. Tonight turns mostly cloudy with a low near 62F and gusts up to 30 mph, and Saturday cools to a high near 73F.",
+    "gradArena": "Ram is restoring the September photo setup you approved yesterday, keeping everything else built since then, and it goes live only once the faces match. Visitor counts could not be pulled through the Vercel connection this morning, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
     "ottoman": {
       "lessonNumber": 5,
       "totalLessons": 16,
