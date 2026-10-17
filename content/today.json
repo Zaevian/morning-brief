@@ -1,17 +1,13 @@
 {
-  "greeting": "Good morning, Zae. Friday opens with fog that burns off into a sunny, near-summer 88F in Tallahassee, your calendar is habits plus Russian tonight, and the cruise is now fifteen days out.",
-  "date": "2026-10-16",
-  "dateDisplay": "Friday, October 16, 2026",
+  "greeting": "Good morning, Zae. Saturday comes in crisp and sunny after last night's front, topping out near 73F in Tallahassee with a gusty north wind, your calendar is supplements plus Spanish this evening, and the cruise is now two weeks out with online check-in opening tomorrow.",
+  "date": "2026-10-17",
+  "dateDisplay": "Saturday, October 17, 2026",
   "calendar": {
-    "note": "Supplements + Russian",
+    "note": "Supplements + Spanish",
     "events": [
       {
         "time": "8:00 AM",
         "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
-      },
-      {
-        "time": "9:00 AM",
-        "title": "Bill payment reminder: a reminder you set for today arrives at 9:00 AM."
       },
       {
         "time": "2:00 PM",
@@ -19,7 +15,7 @@
       },
       {
         "time": "6:00 PM",
-        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates back to Spanish."
+        "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates back to Russian."
       },
       {
         "time": "10:00 PM",
@@ -28,17 +24,17 @@
     ]
   },
   "projectMove": {
-    "title": "Grad Arena: Fast September photos restored",
-    "body": "Completed: the September photo restore is live since deploy dpl_C8YhZEDB, and the home page now loads about 9.6 MB instead of 159 MB, with every later improvement kept."
+    "title": "Site security: the first weekly sweep runs Tuesday",
+    "body": "The new weekly bug and exploit sweep makes its first pass this Tuesday around 10 AM, with Ram and Miyuki checking every site for booking-system weak spots, exposed private information, and broken links. Nothing goes live from it without your approval; any fix is prepared as a draft, and you will only hear about real findings, each with a simple yes or no decision."
   },
   "tip": {
-    "title": "Pack a jacket for Saturday's cold front",
-    "body": "Today tops out near 88F, but a front swings through tonight with gusts up to 30 mph, and Saturday only reaches about 73F with a steady north wind. If you are out late tonight, bring a layer for the walk back, and plan on a noticeably cooler, breezy Saturday."
+    "title": "Bring a layer for tonight",
+    "body": "Today is pleasant at about 73F, but north wind gusts can reach 30 mph, and it drops to around 54F after dark. If you head out after Spanish, a light jacket will make the evening much more comfortable, and Sunday stays similar at about 71F and sunny."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-10-31",
-    "label": "15 days"
+    "label": "14 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -48,7 +44,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-16T06:56:00-04:00",
+    "asOf": "2026-10-17T06:55:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -57,10 +53,10 @@
     "note": "Visitor numbers could not be pulled through the Vercel connection this morning, so the counts are left blank rather than guessed."
   },
   "extras": {
-    "language": "Tonight is Russian study (2 hours); tomorrow rotates back to Spanish.",
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens Sunday, October 18, two days from today, and a reminder is already set for that morning, so have your ID, emergency contact, and a clear photo of yourself ready.",
-    "weatherNote": "Areas of fog before 10 AM, then mostly sunny with a high near 88F. It is about 63F and clear right now. Tonight turns mostly cloudy with a low near 62F and gusts up to 30 mph, and Saturday cools to a high near 73F.",
-    "gradArena": "Ram is restoring the September photo setup you approved yesterday, keeping everything else built since then, and it goes live only once the faces match. Visitor counts could not be pulled through the Vercel connection this morning, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
+    "language": "Tonight is Spanish study (2 hours); tomorrow rotates back to Russian.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens tomorrow, Sunday, October 18, and a reminder is set for 9:23 AM, so have your ID, emergency contact, and a clear photo of yourself ready.",
+    "weatherNote": "Mostly sunny with a high near 73F and a north wind of 10 to 15 mph, gusting to 30 mph. Tonight is mostly clear with a low around 54F, and Sunday is sunny with a high near 71F.",
+    "gradArena": "The site is running on the restored September photo setup, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel. Visitor counts could not be pulled through the Vercel connection this morning.",
     "ottoman": {
       "lessonNumber": 8,
       "totalLessons": 16,
