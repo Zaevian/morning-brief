@@ -28,8 +28,8 @@
     ]
   },
   "projectMove": {
-    "title": "Grad Arena: Bring back the fast September photos",
-    "body": "You approved Ram yesterday to restore the September photo setup, when the site loaded quickly and the portraits looked sharp, while keeping every other improvement built since then. Ram only puts it live once the faces match the September version, and you will get live screenshots plus fresh load times as soon as it is up, so the carousel should stop crawling without any visible quality loss."
+    "title": "Grad Arena: Fast September photos restored",
+    "body": "Completed: the September photo restore is live since deploy dpl_C8YhZEDB, and the home page now loads about 9.6 MB instead of 159 MB, with every later improvement kept."
   },
   "tip": {
     "title": "Pack a jacket for Saturday's cold front",
@@ -62,11 +62,11 @@
     "weatherNote": "Areas of fog before 10 AM, then mostly sunny with a high near 88F. It is about 63F and clear right now. Tonight turns mostly cloudy with a low near 62F and gusts up to 30 mph, and Saturday cools to a high near 73F.",
     "gradArena": "Ram is restoring the September photo setup you approved yesterday, keeping everything else built since then, and it goes live only once the faces match. Visitor counts could not be pulled through the Vercel connection this morning, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel.",
     "ottoman": {
-      "lessonNumber": 5,
+      "lessonNumber": 8,
       "totalLessons": 16,
-      "chapterTitle": "Victory at the Straits, exhaustion",
-      "summary": "There was no single Ottoman front in the Great War. Gallipoli stopped the Allies at the Straits and preserved the capital, while Sarıkamış, Mesopotamia, Sinai, and Palestine drained the empire elsewhere. Local victories bought time, but hunger, disease, and broken supply lines left Ottoman leaders exhausted by autumn 1918.",
-      "link": "https://ottoman-empire-fall.vercel.app/#world-war"
+      "chapterTitle": "Defeat Without a Settlement",
+      "summary": "On 30 October 1918 the Armistice of Mudros ended the Ottoman fight with the Allies, but it did not settle who would rule what. Allied troops entered Istanbul that November, Greek forces landed at İzmir in May 1919, and the CUP leaders fled while Sultan Mehmed VI tried to save a seat at the peace table. Out of that occupation grew a rival center of power in Ankara that would challenge both the foreign armies and the Istanbul government.",
+      "link": "https://ottoman-empire-fall.vercel.app/#armistice"
     }
   },
   "surprise": {
