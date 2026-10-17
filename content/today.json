@@ -70,20 +70,18 @@
     }
   },
   "surprise": {
-    "kind": "show",
-    "eyebrow": "Tonight after Russian",
-    "title": "Rocky Horror at Askew, 10 PM",
-    "body": "Your Russian block ends at 8:00 PM, and FSU's full Rocky Horror Picture Show experience starts at 10:00 PM at Askew Student Life Center with pre-show games and a live White Mouse Productions shadowcast. It runs through about 2:00 AM and repeats Saturday at 10:00 PM, so tonight is the easy post-study option without cutting into language time. Askew is on Learning Way on the FSU campus, roughly a ten-minute drive from downtown Tallahassee.",
-    "imageUrl": "https://localist-images.azureedge.net/photos/53974601627341/huge/0f0127421b2142543ac24219efeafb6bee09e586.jpg",
-    "imageAlt": "Rocky Horror Picture Show event art for FSU Askew Student Life Center",
+    "kind": "sky",
+    "eyebrow": "Look up after Spanish",
+    "title": "A crisp, clear sky and a nearly half moon tonight",
+    "body": "Yesterday's cold front cleared the air, and the forecast for tonight is clear with a low around 53F. The Moon is a waxing crescent, 41% lit, rising at 2:04 PM and riding highest in the southern sky at 7:06 PM, right after sunset at 7:04 PM. When Spanish wraps at 8:00 PM, step outside and it will still be well up in the south-southwest. It reaches first quarter tomorrow at 12:12 PM, which in Spanish is cuarto creciente, and tonight's phase is luna creciente, so it doubles as two words for today's study.",
     "link": {
-      "label": "RSVP / event details",
-      "url": "https://hq.fsu.edu/rsvp?id=377749"
+      "label": "USNO sun and moon data for Tallahassee",
+      "url": "https://aa.usno.navy.mil/calculated/rstt/oneday?date=2026-10-17&lat=30.4383&lon=-84.2807&label=Tallahassee&tz=4.00&tz_sign=-1&tz_label=false&dst=false&submit=Get+Data"
     },
     "source": {
-      "label": "FSU Calendar + Fun this weekend",
-      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-3265"
+      "label": "U.S. Naval Observatory + NWS Tallahassee",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=30.4383&lon=-84.2807"
     },
-    "accent": "#f472b6"
+    "accent": "#93c5fd"
   }
 }
