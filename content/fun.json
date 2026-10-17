@@ -1,142 +1,27 @@
 {
   "mode": "weekend",
   "range": {
-    "start": "2026-10-16",
+    "start": "2026-10-17",
     "end": "2026-10-18",
-    "label": "Fri-Sun, Oct 16-18, 2026"
+    "label": "Sat-Sun, Oct 17-18, 2026"
   },
-  "updatedNote": "Friday drop from Diablo. Zukerman with the Tallahassee Symphony tonight, Blue Tavern's free tenth birthday Saturday, and Amicus Oktoberfest all weekend. FSU plays at Miami Saturday.",
+  "updatedNote": "Saturday refresh from Diablo. Blue Tavern's free tenth birthday party and Amicus Oktoberfest lead today, Rocky Horror runs again at 10, and the Healing Arts Festival fills Cascades Park on Sunday.",
   "events": [
     {
-      "id": "fri-amicus-oktoberfest-2026-10-16",
-      "title": "Amicus Brewing Oktoberfest (Fri through Sun)",
-      "date": "2026-10-16",
+      "id": "sat-amicus-oktoberfest-2026-10-17",
+      "title": "Amicus Brewing Oktoberfest, Day Two",
+      "date": "2026-10-17",
       "venue": "Amicus Brewing Ventures",
       "neighborhood": "South Gadsden",
       "startTime": "11:00 AM",
-      "hook": "Three days of German beers in glass tankards, with a sausage toss at 5:30, a tankard-holding contest at 6, and Permanent Summer live at 7.",
-      "url": "https://musiclocal.org/events/amicus-brewing-oktoberfest-at-amicus-brewing-ventures-2026-10-16-8yfh48",
-      "imageUrl": "https://media.musiclocal.org/Do4OA74KIxHgPwEy-9WOZc-iX1lY8dXtoii_PrLFHNI/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F45b9c55c-aaf4-4771-b842-88ff3c76e2a6.png",
+      "hook": "Oktoberfest rolls on with German beers in glass tankards, and Eleven O Five plays the evening set at 7.",
+      "url": "https://musiclocal.org/events/amicus-brewing-oktoberfest-at-amicus-brewing-ventures-2026-10-17-wdbk08",
+      "imageUrl": "https://media.musiclocal.org/BduifOQwmNNumtw3BuihdVhcdXsGVJTgJCnATVDJ5Z0/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F26a5c974-ec3e-4418-9680-33e6177c0469.png",
       "tags": [
         "food",
         "beer",
         "live music",
         "festival"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-rhys-bennett-jazz-monroe-2026-10-16",
-      "title": "Friday Evening Jazz with the Rhys Bennett Quartet",
-      "date": "2026-10-16",
-      "venue": "The Monroe TLH",
-      "neighborhood": "Downtown",
-      "startTime": "6:00 PM",
-      "hook": "An easy downtown jazz kickoff to the weekend, running until 9.",
-      "url": "https://musiclocal.org/events/friday-evening-jazz-at-the-monroe-tlh-2026-10-16-0yfls0",
-      "imageUrl": "https://media.musiclocal.org/bSo1GdmTvVnGwKZ2gqghW-PYAo75C33jAZs8GKp9qJo/rs:fill:1200:1200/g:fp:0.5:0.8/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F478e8e45-9bd7-49bd-9952-69396ca2ea26.jpeg",
-      "tags": [
-        "live music",
-        "jazz"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-east-town-get-down-feather-oaks-2026-10-16",
-      "title": "East Town Get Down with Easy Goers",
-      "date": "2026-10-16",
-      "venue": "The Hub at Feather Oaks",
-      "neighborhood": "Northeast",
-      "startTime": "6:00 PM",
-      "hook": "Outdoor Friday hang on Miccosukee Road with a live band from 6 to 9.",
-      "url": "https://musiclocal.org/events/east-town-get-down-at-the-hub-at-feather-oaks-2026-10-16-kp0e8s",
-      "imageUrl": "https://musiclocal.org/api/og?type=event-detail&slug=east-town-get-down-at-the-hub-at-feather-oaks-2026-10-16-kp0e8s",
-      "tags": [
-        "live music",
-        "outdoors"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-zukerman-elgar-ruby-diamond-2026-10-16",
-      "title": "Tallahassee Symphony: Zukerman Plays Elgar",
-      "date": "2026-10-16",
-      "venue": "Ruby Diamond Concert Hall",
-      "neighborhood": "FSU campus",
-      "startTime": "7:30 PM",
-      "hook": "Legendary violinist Pinchas Zukerman plays the Elgar concerto, paired with Ben-Haim's First Symphony.",
-      "url": "https://musiclocal.org/events/zukerman-plays-elgar-at-ruby-diamond-concert-hall-2026-10-16-1f2rau",
-      "imageUrl": "https://media.musiclocal.org/QoLQOP4tmAOtR6nCAnjbwRI6Fa01YRn6ssy0qhxVcYw/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F1bb1b842-263c-45c7-914c-0735a2d89322.png",
-      "tags": [
-        "classical",
-        "live music",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-fsu-gospel-choir-opperman-2026-10-16",
-      "title": "FSU Gospel Choir Performance",
-      "date": "2026-10-16",
-      "venue": "Opperman Music Hall, FSU",
-      "neighborhood": "FSU campus",
-      "startTime": "7:30 PM",
-      "hook": "A joyful evening of gospel from the College of Music's choir.",
-      "url": "https://calendar.fsu.edu/event/gospel-choir-performance-9954",
-      "imageUrl": "https://localist-images.azureedge.net/photos/500500/huge/05743b98d1e2a50b6bf02d04f2f689b8f6eca21b.jpg",
-      "tags": [
-        "live music",
-        "gospel",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-leon-anderson-quintet-blue-tavern-2026-10-16",
-      "title": "Leon Anderson Quintet at Blue Tavern",
-      "date": "2026-10-16",
-      "venue": "Blue Tavern",
-      "neighborhood": "North Monroe",
-      "startTime": "8:00 PM",
-      "hook": "Percussion maestro Leon Anderson leads a five-piece jazz night, $10 cover.",
-      "url": "https://musiclocal.org/events/leon-anderson-quintet-at-blue-tavern-2026-10-16-jdvhq6",
-      "imageUrl": "https://media.musiclocal.org/zzge4qgCsh3JglVPbrR1DvXMq9d0PKEkmzkmCNedYec/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F0250b5f8-2d5b-4ed4-97a9-73133336f47e.jpeg",
-      "tags": [
-        "live music",
-        "jazz"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-yeah-babys-northflora-2026-10-16",
-      "title": "The Yeah Babys, Danitza, Dallas Aleea, and Zammo",
-      "date": "2026-10-16",
-      "venue": "NorthFlora Collective",
-      "neighborhood": "Railroad Square",
-      "startTime": "8:00 PM",
-      "hook": "A four-act local bill in Railroad Square, doors at 7:30.",
-      "url": "https://musiclocal.org/events/the-yeah-babys-and-danitza-at-northflora-collective-2026-10-16-1puh4e",
-      "imageUrl": "https://media.musiclocal.org/uU6MexlwMOufx7HDZSFqlfnhWLo-8SlsI3K5kOB8bZg/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F64af2627-d636-4077-8108-5056e419ce93.jpeg",
-      "tags": [
-        "live music",
-        "indie"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-rocky-horror-shadowcast-askew-2026-10-16",
-      "title": "The Rocky Horror Picture Show with live shadowcast",
-      "date": "2026-10-16",
-      "venue": "Askew Student Life Center, FSU",
-      "neighborhood": "FSU campus",
-      "startTime": "10:00 PM",
-      "hook": "FSU's annual late-night Rocky Horror with pre-show games and a live cast, repeating Saturday at 10.",
-      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-3265",
-      "imageUrl": "https://localist-images.azureedge.net/photos/53974601627341/huge/0f0127421b2142543ac24219efeafb6bee09e586.jpg",
-      "tags": [
-        "movie",
-        "campus",
-        "halloween"
       ],
       "sample": false
     },
@@ -191,6 +76,21 @@
       "sample": false
     },
     {
+      "id": "sat-gambling-on-credit-civic-2026-10-17",
+      "title": "Gambling On Credit at Civic Brewing",
+      "date": "2026-10-17",
+      "venue": "Civic Brewing Co.",
+      "startTime": "6:00 PM",
+      "hook": "An easy early-evening band set with a pint in hand.",
+      "url": "https://musiclocal.org/events/gambling-on-credit-at-civic-brewing-co-2026-10-17-k0qkem",
+      "imageUrl": "https://media.musiclocal.org/CwHrdOePBCbpURcR3jqTXKxPDfv6I3CaATxz3jrSBG8/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevent-images%2F47cc0a8e-6bf2-4eb1-8dad-b9991b5836fa.jpeg",
+      "tags": [
+        "live music",
+        "beer"
+      ],
+      "sample": false
+    },
+    {
       "id": "sat-tlhdnb-halloween-ology-2026-10-17",
       "title": "TLHDNB with Rends: Halloween Theme",
       "date": "2026-10-17",
@@ -236,6 +136,23 @@
       "tags": [
         "live music",
         "folk punk"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-rocky-horror-shadowcast-askew-2026-10-17",
+      "title": "The Rocky Horror Picture Show with live shadowcast (second night)",
+      "date": "2026-10-17",
+      "venue": "Askew Student Life Center, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "10:00 PM",
+      "hook": "FSU's annual late-night Rocky Horror returns for its Saturday showing, with pre-show games and a live cast.",
+      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-3265",
+      "imageUrl": "https://localist-images.azureedge.net/photos/53974601627341/huge/0f0127421b2142543ac24219efeafb6bee09e586.jpg",
+      "tags": [
+        "movie",
+        "campus",
+        "halloween"
       ],
       "sample": false
     },
