@@ -66,18 +66,18 @@
     }
   },
   "surprise": {
-    "kind": "sky",
-    "eyebrow": "Look up after Spanish",
-    "title": "A crisp, clear sky and a nearly half moon tonight",
-    "body": "Yesterday's cold front cleared the air, and the forecast for tonight is clear with a low around 53F. The Moon is a waxing crescent, 41% lit, rising at 2:04 PM and riding highest in the southern sky at 7:06 PM, right after sunset at 7:04 PM. When Spanish wraps at 8:00 PM, step outside and it will still be well up in the south-southwest. It reaches first quarter tomorrow at 12:12 PM, which in Spanish is cuarto creciente, and tonight's phase is luna creciente, so it doubles as two words for today's study.",
+    "kind": "on-this-day",
+    "eyebrow": "63 years ago today",
+    "title": "The day a Parisian cat went to space",
+    "body": "On October 18, 1963, a Paris street cat later known as Félicette rode a French Véronique rocket to become the first cat ever launched into space. She was one of 14 cats trained for the program, wore sensors that tracked her brain activity the whole way up, and her capsule was recovered just 13 minutes after liftoff. Four years later on this exact date, in 1967, the Soviet probe Venera 4 became the first spacecraft to directly measure the atmosphere of another planet, Venus. October 18 has quietly been a big day for space.",
     "link": {
-      "label": "USNO sun and moon data for Tallahassee",
-      "url": "https://aa.usno.navy.mil/calculated/rstt/oneday?date=2026-10-17&lat=30.4383&lon=-84.2807&label=Tallahassee&tz=4.00&tz_sign=-1&tz_label=false&dst=false&submit=Get+Data"
+      "label": "Félicette on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9licette"
     },
     "source": {
-      "label": "U.S. Naval Observatory + NWS Tallahassee",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=30.4383&lon=-84.2807"
+      "label": "Wikipedia On This Day, October 18",
+      "url": "https://en.wikipedia.org/wiki/October_18"
     },
-    "accent": "#93c5fd"
+    "accent": "#c4b5fd"
   }
 }
