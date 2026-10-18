@@ -1,159 +1,62 @@
 {
   "mode": "weekend",
   "range": {
-    "start": "2026-10-17",
+    "start": "2026-10-18",
     "end": "2026-10-18",
-    "label": "Sat-Sun, Oct 17-18, 2026"
+    "label": "Sunday, Oct 18, 2026"
   },
-  "updatedNote": "Saturday refresh from Diablo. Blue Tavern's free tenth birthday party and Amicus Oktoberfest lead today, Rocky Horror runs again at 10, and the Healing Arts Festival fills Cascades Park on Sunday.",
+  "updatedNote": "Sunday refresh from Diablo. The free Healing Arts Festival fills Cascades Park from noon, Bring It On: The Musical has a 2 PM matinee at FSU, and Rocky Horror gets one last late show at 10.",
   "events": [
     {
-      "id": "sat-amicus-oktoberfest-2026-10-17",
-      "title": "Amicus Brewing Oktoberfest, Day Two",
-      "date": "2026-10-17",
-      "venue": "Amicus Brewing Ventures",
-      "neighborhood": "South Gadsden",
+      "id": "sun-moccasin-grove-pumpkins-2026-10-18",
+      "title": "Pumpkin Patch and U-Pick Flowers at Moccasin Grove",
+      "date": "2026-10-18",
+      "venue": "Moccasin Grove",
+      "neighborhood": "Northeast Tallahassee",
+      "startTime": "9:30 AM",
+      "hook": "A working-farm morning with u-pick pumpkins and flowers, a corn maze, and a $5 per car entry, open until noon.",
+      "url": "https://visitfloridafarms.org/event/pumpkin-patch-u-pick-flowers/2026-10-18/",
+      "imageUrl": null,
+      "tags": ["outdoors", "fall"],
+      "sample": false
+    },
+    {
+      "id": "sun-hub-feather-oaks-2026-10-18",
+      "title": "Sunday at The Hub with Main Stream Band",
+      "date": "2026-10-18",
+      "venue": "The Hub at Feather Oaks",
+      "neighborhood": "Miccosukee Road",
       "startTime": "11:00 AM",
-      "hook": "Oktoberfest rolls on with German beers in glass tankards, and Eleven O Five plays the evening set at 7.",
-      "url": "https://musiclocal.org/events/amicus-brewing-oktoberfest-at-amicus-brewing-ventures-2026-10-17-wdbk08",
-      "imageUrl": "https://media.musiclocal.org/BduifOQwmNNumtw3BuihdVhcdXsGVJTgJCnATVDJ5Z0/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F26a5c974-ec3e-4418-9680-33e6177c0469.png",
-      "tags": [
-        "food",
-        "beer",
-        "live music",
-        "festival"
-      ],
+      "hook": "Rustic Grub cooks all day, and Main Stream Band plays the outdoor stage from 4 to 7.",
+      "url": "https://www.thehubatfeatheroaks.com/event-details/open-for-lunch-and-dinner-plus-sunday-live-music",
+      "imageUrl": "https://static.wixstatic.com/media/74fd35_c34fe25febe642a688c876ed3e11d0f6~mv2.jpg/v1/fill/w_1200,h_630,al_c,q_80/74fd35_c34fe25febe642a688c876ed3e11d0f6~mv2.jpg",
+      "tags": ["food", "live music", "outdoors"],
       "sample": false
     },
     {
-      "id": "sat-621-gallery-45-years-2026-10-17",
-      "title": "621 Gallery 45th Anniversary Masquer-AID",
-      "date": "2026-10-17",
-      "venue": "621 Gallery",
-      "neighborhood": "Railroad Square",
+      "id": "sun-healing-arts-festival-resolvers-2026-10-18",
+      "title": "Tallahassee Healing Arts Festival with The Resolvers",
+      "date": "2026-10-18",
+      "venue": "Cascades Park",
+      "neighborhood": "Downtown",
       "startTime": "12:00 PM",
-      "hook": "Hot Tamale, Matthew Cravener, The Pick Ups, and LCP Band celebrate the gallery, $25 or $40 with the after party.",
-      "url": "https://musiclocal.org/events/45-years-of-621-fundraiser-at-621-gallery-2026-10-17-2pttg7",
-      "imageUrl": "https://media.musiclocal.org/-BBsiO_jNXImJqh0ynsMfXI5M58d5uLg2zWTMCUxUSI/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Ff079959e-cafc-4715-b9c9-96481f861720.jpeg",
-      "tags": [
-        "art",
-        "live music",
-        "fundraiser"
-      ],
+      "hook": "A free family wellness festival from noon to 4, with The Resolvers playing at 2:30.",
+      "url": "https://musiclocal.org/events/the-resolvers-at-tallahassee-healing-arts-festival-at-cascades-park-2026-10-18-03019n",
+      "imageUrl": "https://media.musiclocal.org/AZHc_P0U8EBL34o9IaxfXIm1NvOKog6WP3DKQONj57c/rs:fill:1200:1200/g:fp:0.5:0.47/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fef6f0612-43fe-4538-8727-346379549737.jpeg",
+      "tags": ["outdoors", "festival", "live music", "free"],
       "sample": false
     },
     {
-      "id": "sat-killearn-fall-festival-2026-10-17",
-      "title": "Killearn Fall Festival",
-      "date": "2026-10-17",
-      "venue": "Shannon Lakes Park",
-      "neighborhood": "Killearn",
+      "id": "sun-bring-it-on-fsu-2026-10-18",
+      "title": "Bring It On: The Musical",
+      "date": "2026-10-18",
+      "venue": "Fallon Theatre, FSU",
+      "neighborhood": "FSU campus",
       "startTime": "2:00 PM",
-      "hook": "A neighborhood fall festival in the park with Genezone playing from 2 to 6.",
-      "url": "https://musiclocal.org/events/killearn-fall-festival-at-shannon-lakes-park-2026-10-17-23wovz",
-      "imageUrl": "https://media.musiclocal.org/Cer_DMYBqIkkUkdZirH0UEvysKfnv5Wu5WiNNbHsaO4/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fca093633-d45c-4b55-b5aa-5536c4ca29aa.jpeg",
-      "tags": [
-        "outdoors",
-        "festival",
-        "live music"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-blue-tavern-10th-anniversary-2026-10-17",
-      "title": "Blue Tavern 10th Anniversary Party",
-      "date": "2026-10-17",
-      "venue": "Blue Tavern",
-      "neighborhood": "North Monroe",
-      "startTime": "4:00 PM",
-      "hook": "Free all day: an Irish session, Green Street Sheiks, JC and the Backscratchers, then Corey Hall at 9.",
-      "url": "https://musiclocal.org/events/bts-10th-year-anniversary-party-at-blue-tavern-2026-10-17-ot9cxr",
-      "imageUrl": "https://media.musiclocal.org/BcKCX6QJXN57Lqmr98mH3uYi_-G73spK6nCftTyLWIw/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F0d8ad114-6ea1-4933-88c8-293f00e7ee2d.jpeg",
-      "tags": [
-        "live music",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-gambling-on-credit-civic-2026-10-17",
-      "title": "Gambling On Credit at Civic Brewing",
-      "date": "2026-10-17",
-      "venue": "Civic Brewing Co.",
-      "startTime": "6:00 PM",
-      "hook": "An easy early-evening band set with a pint in hand.",
-      "url": "https://musiclocal.org/events/gambling-on-credit-at-civic-brewing-co-2026-10-17-k0qkem",
-      "imageUrl": "https://media.musiclocal.org/CwHrdOePBCbpURcR3jqTXKxPDfv6I3CaATxz3jrSBG8/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevent-images%2F47cc0a8e-6bf2-4eb1-8dad-b9991b5836fa.jpeg",
-      "tags": [
-        "live music",
-        "beer"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-tlhdnb-halloween-ology-2026-10-17",
-      "title": "TLHDNB with Rends: Halloween Theme",
-      "date": "2026-10-17",
-      "venue": "Ology Brewing Co (Midtown)",
-      "neighborhood": "Midtown",
-      "startTime": "7:00 PM",
-      "hook": "Drum and bass with a Halloween twist at its Midtown home base, 7 to 11.",
-      "url": "https://musiclocal.org/events/tlhdnb-with-rendshalloween-theme-at-ology-brewing-co-midtown-2026-10-17-hp1n5d",
-      "imageUrl": "https://media.musiclocal.org/A9V3_aiAOK_ugZwH0vfN0bMrEJHL5ClSqdnAOoWekSY/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fc436fa37-f88f-4ba2-bbfe-cf1abc696cbe.jpeg",
-      "tags": [
-        "dj",
-        "electronic",
-        "halloween"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-fsmta-legacies-in-sound-2026-10-17",
-      "title": "Legacies in Sound: FSMTA Faculty Concert",
-      "date": "2026-10-17",
-      "venue": "Opperman Music Hall, FSU",
-      "neighborhood": "FSU campus",
-      "startTime": "7:30 PM",
-      "hook": "Faculty performers from the state music teachers association and FSU share one polished stage.",
-      "url": "https://calendar.fsu.edu/event/legacies-in-sound-a-faculty-concert-presented-by-fsmta-and-the-fsu-college-of-music",
-      "imageUrl": "https://localist-images.azureedge.net/photos/500500/huge/05743b98d1e2a50b6bf02d04f2f689b8f6eca21b.jpg",
-      "tags": [
-        "classical",
-        "live music",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-rent-strike-myles-bullen-2026-10-17",
-      "title": "Rent Strike and Myles Bullen",
-      "date": "2026-10-17",
-      "venue": "Unitarian Universalist Church",
-      "startTime": "8:00 PM",
-      "hook": "Touring folk punk in an intimate church room, $20 with doors at 7.",
-      "url": "https://musiclocal.org/events/rent-strike-and-myles-bullen-at-unitarian-universalist-church-2026-10-17-22l41w",
-      "imageUrl": "https://media.musiclocal.org/-Op0cYTYDhqjhR6K2GhG384UFsqyL6qDfhem9AE4Ds8/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F8d13a6aa-4d68-484d-b541-2ab0eff33cc7.jpeg",
-      "tags": [
-        "live music",
-        "folk punk"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-rocky-horror-shadowcast-askew-2026-10-17",
-      "title": "The Rocky Horror Picture Show with live shadowcast (second night)",
-      "date": "2026-10-17",
-      "venue": "Askew Student Life Center, FSU",
-      "neighborhood": "FSU campus",
-      "startTime": "10:00 PM",
-      "hook": "FSU's annual late-night Rocky Horror returns for its Saturday showing, with pre-show games and a live cast.",
-      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-3265",
-      "imageUrl": "https://localist-images.azureedge.net/photos/53974601627341/huge/0f0127421b2142543ac24219efeafb6bee09e586.jpg",
-      "tags": [
-        "movie",
-        "campus",
-        "halloween"
-      ],
+      "hook": "FSU's School of Theatre stages the Lin-Manuel Miranda cheer musical, with student tickets at $10 and adults at $30.",
+      "url": "https://tallahasseearts.org/event/bring-it-on-the-musical/",
+      "imageUrl": "https://news.fsu.edu/wp-content/uploads/2026/10/Photo3-s.jpg",
+      "tags": ["theatre", "campus"],
       "sample": false
     },
     {
@@ -163,30 +66,10 @@
       "venue": "Opperman Music Hall, FSU",
       "neighborhood": "FSU campus",
       "startTime": "2:00 PM",
-      "hook": "A Sunday afternoon of big, rhythmic campus percussion.",
-      "url": "https://musiclocal.org/events/fsu-percussion-ensemble-at-opperman-music-hall-2026-10-18-gl2p5c",
-      "imageUrl": "https://musiclocal.org/api/og?type=event-detail&slug=fsu-percussion-ensemble-at-opperman-music-hall-2026-10-18-gl2p5c",
-      "tags": [
-        "live music",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-healing-arts-festival-resolvers-2026-10-18",
-      "title": "Tallahassee Healing Arts Festival with The Resolvers",
-      "date": "2026-10-18",
-      "venue": "Cascades Park",
-      "neighborhood": "Downtown",
-      "startTime": "2:30 PM",
-      "hook": "The Resolvers play the park festival, an easy Sunday outing downtown.",
-      "url": "https://musiclocal.org/events/the-resolvers-at-tallahassee-healing-arts-festival-at-cascades-park-2026-10-18-03019n",
-      "imageUrl": "https://media.musiclocal.org/AZHc_P0U8EBL34o9IaxfXIm1NvOKog6WP3DKQONj57c/rs:fill:1200:1200/g:fp:0.5:0.47/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fef6f0612-43fe-4538-8727-346379549737.jpeg",
-      "tags": [
-        "outdoors",
-        "festival",
-        "live music"
-      ],
+      "hook": "A Sunday afternoon of big, rhythmic campus percussion, 2 to 3:30.",
+      "url": "https://calendar.fsu.edu/event/percussion-ensemble-performance-2373",
+      "imageUrl": "https://localist-images.azureedge.net/photos/500500/huge/05743b98d1e2a50b6bf02d04f2f689b8f6eca21b.jpg",
+      "tags": ["live music", "campus"],
       "sample": false
     },
     {
@@ -198,9 +81,7 @@
       "hook": "A relaxed late-afternoon set from 4 to 7.",
       "url": "https://musiclocal.org/events/sundays-with-maurice-at-the-getaway-grille-and-bar-2026-10-18-23dqcx",
       "imageUrl": "https://media.musiclocal.org/Q0mdtnZGYKNyztHe-vumJU1JMHdh72SGUq6pJXRIKcA/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F186f2510-e0c3-4826-ab18-e71385fa0ec5.jpeg",
-      "tags": [
-        "live music"
-      ],
+      "tags": ["live music"],
       "sample": false
     },
     {
@@ -213,10 +94,20 @@
       "hook": "A five-band DIY bill to close out the weekend, doors at 7.",
       "url": "https://musiclocal.org/events/dogsmiles-and-ceiling-at-the-bark-2026-10-18-6mizzc",
       "imageUrl": "https://media.musiclocal.org/yLONE88RGo24Cu_yeXT0ubrrJzfkP0DyaUJrJdmpChU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F88716892-2717-42bf-960e-aab2216ae6bf.jpeg",
-      "tags": [
-        "live music",
-        "diy"
-      ],
+      "tags": ["live music", "diy"],
+      "sample": false
+    },
+    {
+      "id": "sun-rocky-horror-shadowcast-askew-2026-10-18",
+      "title": "The Rocky Horror Picture Show with live shadowcast (final night)",
+      "date": "2026-10-18",
+      "venue": "Askew Student Life Center, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "10:00 PM",
+      "hook": "The last late-night showing of FSU's annual Rocky Horror, with a live cast acting it out in front of the screen.",
+      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-5452",
+      "imageUrl": "https://localist-images.azureedge.net/photos/54178080932619/huge/915cf76b4263fe5685d046ee6a00d58c30d237ce.jpg",
+      "tags": ["movie", "campus", "halloween"],
       "sample": false
     }
   ]
