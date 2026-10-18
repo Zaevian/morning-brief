@@ -1,13 +1,17 @@
 {
-  "greeting": "Good morning, Zae. Saturday comes in crisp and sunny after last night's front, topping out near 73F in Tallahassee with a gusty north wind, your calendar is supplements plus Spanish this evening, and the cruise is now two weeks out with online check-in opening tomorrow.",
-  "date": "2026-10-17",
-  "dateDisplay": "Saturday, October 17, 2026",
+  "greeting": "Good morning, Zae. Sunday is sunny and cool in Tallahassee with a high near 69F and a breezy northeast wind, your calendar is supplements plus Russian this evening, and Carnival online check-in opens this morning with the cruise now 13 days out.",
+  "date": "2026-10-18",
+  "dateDisplay": "Sunday, October 18, 2026",
   "calendar": {
-    "note": "Supplements + Spanish",
+    "note": "Supplements + Carnival check-in + Russian",
     "events": [
       {
         "time": "8:00 AM",
         "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
+      },
+      {
+        "time": "9:00 AM",
+        "title": "Carnival Online Check-In opens: complete check-in and pick your Arrival Appointment for the November 1 sailing."
       },
       {
         "time": "2:00 PM",
@@ -15,7 +19,7 @@
       },
       {
         "time": "6:00 PM",
-        "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates back to Russian."
+        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates back to Spanish."
       },
       {
         "time": "10:00 PM",
@@ -24,17 +28,17 @@
     ]
   },
   "projectMove": {
-    "title": "Site security: the first weekly sweep runs Tuesday",
-    "body": "The new weekly bug and exploit sweep makes its first pass this Tuesday around 10 AM, with Ram and Miyuki checking every site for booking-system weak spots, exposed private information, and broken links. Nothing goes live from it without your approval; any fix is prepared as a draft, and you will only hear about real findings, each with a simple yes or no decision."
+    "title": "Cruise: knock out online check-in today",
+    "body": "Carnival online check-in opens this morning, and finishing it early gets you the best Arrival Appointment, since the earliest windows around 10 to 11 AM go first. It takes about fifteen minutes in the Carnival Planner under My To-do List, and the hard deadline is midnight on October 31, the same night the Tallahassee bus leaves, so doing it today removes the last-minute risk entirely."
   },
   "tip": {
-    "title": "Bring a layer for tonight",
-    "body": "Today is pleasant at about 73F, but north wind gusts can reach 30 mph, and it drops to around 54F after dark. If you head out after Spanish, a light jacket will make the evening much more comfortable, and Sunday stays similar at about 71F and sunny."
+    "title": "Have three things ready before you open check-in",
+    "body": "Keep your government photo ID, an emergency contact name and phone number, and a clear, well-lit photo of your face handy before you start, because the form asks for all three and stalls without them. Also, tonight drops to about 50F, so grab a layer if you step out after Russian."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-10-31",
-    "label": "14 days"
+    "label": "13 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -44,7 +48,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-17T06:55:00-04:00",
+    "asOf": "2026-10-18T06:59:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -53,10 +57,9 @@
     "note": "Visitor numbers could not be pulled through the Vercel connection this morning, so the counts are left blank rather than guessed."
   },
   "extras": {
-    "language": "Tonight is Spanish study (2 hours); tomorrow rotates back to Russian.",
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31. Online check-in opens tomorrow, Sunday, October 18, and a reminder is set for 9:23 AM, so have your ID, emergency contact, and a clear photo of yourself ready.",
-    "weatherNote": "Mostly sunny with a high near 73F and a north wind of 10 to 15 mph, gusting to 30 mph. Tonight is mostly clear with a low around 54F, and Sunday is sunny with a high near 71F.",
-    "gradArena": "The site is running on the restored September photo setup, and Instagram Gradarena850 stays live with the Tallahassee bio and Westcott carousel. Visitor counts could not be pulled through the Vercel connection this morning.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Online check-in opens today at about 9 AM, a reminder is set for 9:23 AM, and Express Debarkation is a separate step on November 4.",
+    "weatherNote": "Sunny with a high near 69F and a northeast wind around 15 mph, gusting to 25 mph. Tonight is clear with a low around 50F, and Monday is sunny with a high near 73F.",
+    "gradArena": "The site is running on the restored September photo setup, Instagram Gradarena850 stays live, and the first weekly security sweep across your sites runs this Tuesday around 10 AM.",
     "ottoman": {
       "lessonNumber": 11,
       "totalLessons": 16,
