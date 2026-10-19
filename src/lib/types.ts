@@ -126,7 +126,7 @@ export type TodayBrief = {
     title: string;
     body: string;
   };
-  tip: {
+  tip?: {
     title: string;
     body: string;
   };

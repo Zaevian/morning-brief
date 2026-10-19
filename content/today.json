@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. Monday is clear and sunny in Tallahassee with a high near 74F and no rain in sight, your calendar is supplements plus Spanish this evening, and the cruise is now 12 days out.",
+  "greeting": "Good morning, Zae. Monday is clear and sunny in Tallahassee with a high near 74F and no rain in sight, your calendar is supplements this evening, and the cruise is now 12 days out.",
   "date": "2026-10-19",
   "dateDisplay": "Monday, October 19, 2026",
   "calendar": {
-    "note": "Supplements + Spanish",
+    "note": "Supplements",
     "events": [
       {
         "time": "8:00 AM",
@@ -14,10 +14,6 @@
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
       },
       {
-        "time": "6:00 PM",
-        "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates back to Russian."
-      },
-      {
         "time": "10:00 PM",
         "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
       }
@@ -26,10 +22,6 @@
   "projectMove": {
     "title": "Cruise: check-in is done",
     "body": "Check-in is complete; arrival 11:00–11:30 AM at Tampa Terminal 3, boarding group C02. Bring cash for the Sail & Sign deposit."
-  },
-  "tip": {
-    "title": "Practice the phrases you will actually use on the ship",
-    "body": "Tonight's Spanish session is a good chance to drill the handful of lines you will use in port, like asking for the check, asking prices, and asking where something is. Saying them out loud a few times builds recall much faster than reading them, and it makes the cruise days feel easier."
   },
   "cruise": {
     "name": "Carnival Paradise",
@@ -56,21 +48,5 @@
     "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
     "weatherNote": "Clear and sunny with a high near 74F, a low around 53F tonight, and no chance of rain. Tuesday looks the same, sunny with a high near 73F and a cooler low near 51F.",
     "gradArena": "The site is running on the restored September photo setup, Instagram Gradarena850 stays live, and the first weekly security sweep across your sites runs tomorrow around 10 AM."
-  },
-  "surprise": {
-    "kind": "word",
-    "eyebrow": "Spanish · cruise phrase",
-    "title": "La cuenta, por favor",
-    "body": "Tonight's Spanish block lands twelve days before Carnival Paradise, and this is the line that brings the check when dinner wraps in a Spanish-speaking port. La cuenta means the bill, por favor keeps it polite, and together they work at cafés and restaurants from Tampa out through the Caribbean. Tap play to hear cuenta in native Spanish, then say the full phrase out loud twice before you close the books.",
-    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/LL-Q1321_%28spa%29-Precision27-cuenta.wav",
-    "link": {
-      "label": "Wiktionary: cuenta",
-      "url": "https://en.wiktionary.org/wiki/cuenta#Spanish"
-    },
-    "source": {
-      "label": "Lingua Libre (Precision27), CC BY 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:LL-Q1321_(spa)-Precision27-cuenta.wav"
-    },
-    "accent": "#34d399"
   }
 }

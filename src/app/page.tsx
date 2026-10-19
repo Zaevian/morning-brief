@@ -103,13 +103,15 @@ export default async function Home() {
 
         {siteStats != null ? <SiteStatsCard stats={siteStats} /> : null}
 
-        <section className="card p-5 sm:p-6 border-[rgba(251,191,36,0.2)]">
-          <p className="text-xs uppercase tracking-[0.18em] text-[var(--warm)] mb-2">
-            Tip
-          </p>
-          <h2 className="text-lg font-semibold mb-2">{brief.tip.title}</h2>
-          <p className="text-[var(--muted)] leading-relaxed">{brief.tip.body}</p>
-        </section>
+        {brief.tip ? (
+          <section className="card p-5 sm:p-6 border-[rgba(251,191,36,0.2)]">
+            <p className="text-xs uppercase tracking-[0.18em] text-[var(--warm)] mb-2">
+              Tip
+            </p>
+            <h2 className="text-lg font-semibold mb-2">{brief.tip.title}</h2>
+            <p className="text-[var(--muted)] leading-relaxed">{brief.tip.body}</p>
+          </section>
+        ) : null}
 
         <div className="grid gap-4 sm:grid-cols-2 sm:gap-5">
           <WeatherCard
