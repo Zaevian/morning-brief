@@ -1,113 +1,303 @@
 {
-  "mode": "weekend",
+  "mode": "week",
   "range": {
-    "start": "2026-10-18",
-    "end": "2026-10-18",
-    "label": "Sunday, Oct 18, 2026"
+    "start": "2026-10-19",
+    "end": "2026-10-22",
+    "label": "Mon-Thu, Oct 19-22, 2026"
   },
-  "updatedNote": "Sunday refresh from Diablo. The free Healing Arts Festival fills Cascades Park from noon, Bring It On: The Musical has a 2 PM matinee at FSU, and Rocky Horror gets one last late show at 10.",
+  "updatedNote": "Monday drop from Diablo. FAMU homecoming week is here, with the free Block Bash tonight and Gunna, Summer Walker, and T.I. on Thursday, plus Grace George's U.S. debut at Goodwood on Tuesday.",
   "events": [
     {
-      "id": "sun-moccasin-grove-pumpkins-2026-10-18",
-      "title": "Pumpkin Patch and U-Pick Flowers at Moccasin Grove",
-      "date": "2026-10-18",
-      "venue": "Moccasin Grove",
-      "neighborhood": "Northeast Tallahassee",
-      "startTime": "9:30 AM",
-      "hook": "A working-farm morning with u-pick pumpkins and flowers, a corn maze, and a $5 per car entry, open until noon.",
-      "url": "https://visitfloridafarms.org/event/pumpkin-patch-u-pick-flowers/2026-10-18/",
-      "imageUrl": null,
-      "tags": ["outdoors", "fall"],
-      "sample": false
-    },
-    {
-      "id": "sun-hub-feather-oaks-2026-10-18",
-      "title": "Sunday at The Hub with Main Stream Band",
-      "date": "2026-10-18",
-      "venue": "The Hub at Feather Oaks",
-      "neighborhood": "Miccosukee Road",
-      "startTime": "11:00 AM",
-      "hook": "Rustic Grub cooks all day, and Main Stream Band plays the outdoor stage from 4 to 7.",
-      "url": "https://www.thehubatfeatheroaks.com/event-details/open-for-lunch-and-dinner-plus-sunday-live-music",
-      "imageUrl": "https://static.wixstatic.com/media/74fd35_c34fe25febe642a688c876ed3e11d0f6~mv2.jpg/v1/fill/w_1200,h_630,al_c,q_80/74fd35_c34fe25febe642a688c876ed3e11d0f6~mv2.jpg",
-      "tags": ["food", "live music", "outdoors"],
-      "sample": false
-    },
-    {
-      "id": "sun-healing-arts-festival-resolvers-2026-10-18",
-      "title": "Tallahassee Healing Arts Festival with The Resolvers",
-      "date": "2026-10-18",
-      "venue": "Cascades Park",
-      "neighborhood": "Downtown",
-      "startTime": "12:00 PM",
-      "hook": "A free family wellness festival from noon to 4, with The Resolvers playing at 2:30.",
-      "url": "https://musiclocal.org/events/the-resolvers-at-tallahassee-healing-arts-festival-at-cascades-park-2026-10-18-03019n",
-      "imageUrl": "https://media.musiclocal.org/AZHc_P0U8EBL34o9IaxfXIm1NvOKog6WP3DKQONj57c/rs:fill:1200:1200/g:fp:0.5:0.47/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fef6f0612-43fe-4538-8727-346379549737.jpeg",
-      "tags": ["outdoors", "festival", "live music", "free"],
-      "sample": false
-    },
-    {
-      "id": "sun-bring-it-on-fsu-2026-10-18",
-      "title": "Bring It On: The Musical",
-      "date": "2026-10-18",
-      "venue": "Fallon Theatre, FSU",
+      "id": "mon-duo-piano-longmire-2026-10-19",
+      "title": "Caroline Owen and David Kalhous, duo piano",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "venue": "Longmire Recital Hall, FSU",
       "neighborhood": "FSU campus",
-      "startTime": "2:00 PM",
-      "hook": "FSU's School of Theatre stages the Lin-Manuel Miranda cheer musical, with student tickets at $10 and adults at $30.",
-      "url": "https://tallahasseearts.org/event/bring-it-on-the-musical/",
-      "imageUrl": "https://news.fsu.edu/wp-content/uploads/2026/10/Photo3-s.jpg",
-      "tags": ["theatre", "campus"],
+      "startTime": "7:30 PM",
+      "hook": "Two pianos, one stage: a faculty and guest artist recital from the FSU College of Music.",
+      "url": "https://calendar.fsu.edu/event/facultyguest-artist-recital-caroline-owen-and-david-kalhous-duo-piano",
+      "imageUrl": "https://localist-images.azureedge.net/photos/500514/huge/f87e50ffb29bf40fe6451deed048afc2c3117dd2.jpg",
+      "tags": [
+        "classical",
+        "campus"
+      ],
       "sample": false
     },
     {
-      "id": "sun-fsu-percussion-ensemble-2026-10-18",
-      "title": "FSU Percussion Ensemble",
-      "date": "2026-10-18",
+      "id": "mon-homecoming-block-bash-potbellys-2026-10-19",
+      "title": "Homecoming Block Bash",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "venue": "Potbelly's",
+      "neighborhood": "College Ave",
+      "startTime": "10:00 PM",
+      "hook": "The party that kicks off FAMU homecoming week, free all night with RSVP and a physical ID.",
+      "url": "https://www.eventbrite.com/e/homecoming-block-bash-everybody-free-all-night-tickets-1998427189520",
+      "imageUrl": "https://cdn.evbuc.com/images/1191425262/253272420866/1/original.20260819-135854?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.452&fp-y=0.188&s=c8b902e9e9325dd4ae462c051bde70e6",
+      "tags": [
+        "nightlife",
+        "homecoming",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-rhys-bennett-blue-tavern-2026-10-20",
+      "title": "Happy hour piano with Rhys Bennett",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "venue": "Blue Tavern",
+      "neighborhood": "North Monroe",
+      "startTime": "5:00 PM",
+      "hook": "Golden-hour piano to wind down the day, 5 to 7 PM.",
+      "url": "https://musiclocal.org/events/happy-hour-at-blue-tavern-2026-10-20-p88sp8",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "happy hour"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-kaleidoscope-opperman-2026-10-20",
+      "title": "Kaleidoscope: Innovation in the Arts and Humanities",
+      "day": "Tue",
+      "date": "2026-10-20",
       "venue": "Opperman Music Hall, FSU",
       "neighborhood": "FSU campus",
-      "startTime": "2:00 PM",
-      "hook": "A Sunday afternoon of big, rhythmic campus percussion, 2 to 3:30.",
-      "url": "https://calendar.fsu.edu/event/percussion-ensemble-performance-2373",
-      "imageUrl": "https://localist-images.azureedge.net/photos/500500/huge/05743b98d1e2a50b6bf02d04f2f689b8f6eca21b.jpg",
-      "tags": ["live music", "campus"],
+      "startTime": "7:00 PM",
+      "hook": "A Discovery Days showcase of new work across music, art, and the humanities.",
+      "url": "https://calendar.fsu.edu/event/kaleidoscope-innovation-in-the-arts-and-humanities-5118",
+      "imageUrl": "https://localist-images.azureedge.net/photos/54064833757470/huge/5cd3b91328d89594c774d1c7d7ba23baa38a7663.jpg",
+      "tags": [
+        "campus",
+        "music",
+        "art"
+      ],
       "sample": false
     },
     {
-      "id": "sun-maurice-mangum-getaway-2026-10-18",
-      "title": "Sundays with Maurice Mangum",
-      "date": "2026-10-18",
-      "venue": "The Getaway Grille and Bar",
+      "id": "tue-jazz-jam-ology-2026-10-20",
+      "title": "Jazz Jam Session",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "venue": "Ology Brewing Co. (Midtown)",
+      "neighborhood": "Midtown",
+      "startTime": "7:00 PM",
+      "hook": "Open jazz jam over local craft beer, 7 to 9 PM.",
+      "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-10-20-h2drcn",
+      "imageUrl": "https://media.musiclocal.org/tgYrlOMMZHegVx53e5bT7je70_qrtlqkkB6lq3U8FWc/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F154e5e57-8f10-48cc-b913-45ce30de368e.jpeg",
+      "tags": [
+        "live music",
+        "jazz"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-grace-george-goodwood-2026-10-20",
+      "title": "Grace George: An American Debut",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "venue": "Goodwood Museum and Gardens",
+      "neighborhood": "Midtown",
+      "startTime": "7:30 PM",
+      "hook": "The UK singer with 90 million Spotify streams plays her first U.S. show, building songs live with guitar and loop station. Tickets $45 to $55.",
+      "url": "https://www.openingnights.fsu.edu/show-details/grace-george-an-american-debut",
+      "imageUrl": "https://www.openingnights.fsu.edu/storage/header_image/openingnights/d29ee08927feeee83147a5ffd726dabfcf999887.webp",
+      "tags": [
+        "live music",
+        "singer-songwriter"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-swing-band-legion-hall-2026-10-20",
+      "title": "Tuesday Night Dance with the Tallahassee Swing Band",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "venue": "Legion Hall",
+      "neighborhood": "Lake Ella",
+      "startTime": "7:30 PM",
+      "hook": "A 20-piece swing band, with free dance lessons at 6:30. $10, or $7 for students.",
+      "url": "https://musiclocal.org/events/tuesday-night-dance-at-legion-hall-2026-10-20-p78ubm",
+      "imageUrl": "https://media.musiclocal.org/e9YWCAOBiK96VrvTgjkYohRWTcTJ5V-OIjuoxbdO3Q4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbc086136-72bd-4e2a-9147-55e278557024.jpeg",
+      "tags": [
+        "live music",
+        "dance"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-cardinal-bloom-926-2026-10-20",
+      "title": "Cardinal Bloom, The Band Solstice, and Jackson Alter",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "venue": "926 Bar & Grill",
+      "neighborhood": "Tharpe St",
+      "startTime": "8:00 PM",
+      "hook": "Salt Lake City indie rock on the Burn the House Tour, all ages.",
+      "url": "https://musiclocal.org/events/burn-the-house-tour-at-926-bar-and-grill-2026-10-20-lygu3d",
+      "imageUrl": "https://media.musiclocal.org/AMxrHMO2-dcj5v54sYLATeE1QK3l7-6JfQobx9hVmkU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fc5ba24a9-1167-46f4-9005-63c13caf75bf.jpeg",
+      "tags": [
+        "live music",
+        "indie"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-bluesday-blue-tavern-2026-10-20",
+      "title": "Bluesday Tuesday with John Ford",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "venue": "Blue Tavern",
+      "neighborhood": "North Monroe",
+      "startTime": "8:00 PM",
+      "hook": "Weekly blues night on North Monroe, 8 to 11 PM.",
+      "url": "https://musiclocal.org/events/bluesday-tuesday-at-blue-tavern-2026-10-20-0hckcr",
+      "imageUrl": "https://media.musiclocal.org/a3rQzbwo18v1nKQDHPeh7lWhZ25z8gFkS9GeNd3gUxo/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fe0ec2cec-56be-494e-b26b-4f0b23e11326.jpeg",
+      "tags": [
+        "live music",
+        "blues"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-boom-chick-ramblers-goodwood-2026-10-21",
+      "title": "Boom Chick Ramblers, Ed Prasse, Jason Baker, and Melanie Simmons",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "venue": "Goodwood Museum and Gardens",
+      "neighborhood": "Midtown",
+      "startTime": "6:00 PM",
+      "hook": "An early evening of roots music on the Goodwood grounds, 6 to 8 PM.",
+      "url": "https://musiclocal.org/events/boom-chick-ramblers-and-ed-prasse-at-goodwood-museum-and-gardens-2026-10-21-9venlp",
+      "imageUrl": "https://media.musiclocal.org/wnNtgmV1FCHZ8BmQ26M2hoAM5t5gBx_A4Yyk12B1yfk/rs:fill:1200:630/g:fp:0.5:0.21/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2F25e0d6eb-a14f-4f65-828c-a4bee8e43d44.png",
+      "tags": [
+        "live music",
+        "outdoors"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-bobby-lees-potbellys-2026-10-21",
+      "title": "The Bobby Lees",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "venue": "Potbelly's",
+      "neighborhood": "College Ave",
+      "startTime": "7:00 PM",
+      "hook": "Raucous garage-punk band playing Tallahassee for the first time.",
+      "url": "https://www.songkick.com/concerts/43368152-bobby-lees-at-potbellys",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "punk"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-corey-hall-req-room-2026-10-21",
+      "title": "Corey Hall: An American Blues and Roots History in Song",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "venue": "The Req Room",
+      "neighborhood": "North Monroe",
+      "startTime": "7:30 PM",
+      "hook": "Part history talk, part concert on American roots and blues, with a $15 suggested donation.",
+      "url": "https://musiclocal.org/events/corey-hall-presents-an-american-blues-and-roots-at-the-req-room-2026-10-21-bc1g9g",
+      "imageUrl": "https://media.musiclocal.org/ItTY1HkyAepbPFXo0xbW3JPtH3NSmrIcmn5tCvgnLJU/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fba25f709-83c6-4066-b0e9-b741840858cd.jpeg",
+      "tags": [
+        "live music",
+        "blues"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-bring-it-on-fallon-2026-10-21",
+      "title": "Bring It On: The Musical",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "venue": "Fallon Theatre, FSU",
+      "neighborhood": "FSU campus",
+      "startTime": "8:00 PM",
+      "hook": "Lin-Manuel Miranda's cheerleading musical with big stunts, back after the weekend and also playing Thursday at 8. Tickets $30, or $10 for students.",
+      "url": "https://tallahasseearts.org/event/bring-it-on-the-musical/",
+      "imageUrl": "https://tallahasseearts.org/wp-content/uploads/sites/tallahasseearts.org/images/2026/08/event-featured-bring-it-on-the-musical-1787083551.png",
+      "tags": [
+        "theatre",
+        "campus"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-cabinet-of-curiosities-strozier-2026-10-22",
+      "title": "Cabinet of Curiosities: A Spooky Open House",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "venue": "Strozier Library, FSU",
+      "neighborhood": "FSU campus",
       "startTime": "4:00 PM",
-      "hook": "A relaxed late-afternoon set from 4 to 7.",
-      "url": "https://musiclocal.org/events/sundays-with-maurice-at-the-getaway-grille-and-bar-2026-10-18-23dqcx",
-      "imageUrl": "https://media.musiclocal.org/Q0mdtnZGYKNyztHe-vumJU1JMHdh72SGUq6pJXRIKcA/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F186f2510-e0c3-4826-ab18-e71385fa0ec5.jpeg",
-      "tags": ["live music"],
+      "hook": "Special Collections brings out its eeriest pieces, with tarot cards and palm reading.",
+      "url": "https://calendar.fsu.edu/event/cabinet-of-curiosities-a-spooky-open-house",
+      "imageUrl": "https://localist-images.azureedge.net/photos/54250602618796/huge/33f875f2c26af9bac7d8c86c7c79585eb007f80c.jpg",
+      "tags": [
+        "halloween",
+        "campus",
+        "free"
+      ],
       "sample": false
     },
     {
-      "id": "sun-dogsmiles-ceiling-bark-2026-10-18",
-      "title": "Dogsmiles, Ceiling, Optimus Grime, and friends",
-      "date": "2026-10-18",
+      "id": "thu-famu-homecoming-concert-2026-10-22",
+      "title": "FAMU Homecoming Concert: Gunna, Summer Walker, T.I., and Bellygang Kushington",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "venue": "Al Lawson Jr. Multipurpose Center, FAMU",
+      "neighborhood": "FAMU campus",
+      "startTime": "7:00 PM",
+      "hook": "The headline show of FAMU homecoming week, doors at 5 PM, tickets through Ticketmaster.",
+      "url": "https://news.famu.edu/2026/famu-announces-tickets-on-sale-for-homecoming-concert-featuring-gunna-summer-walker-tip-and-bellygang-kushington.php",
+      "imageUrl": "https://news.famu.edu/img/1024x768_FAMUHomecomingConcert.jpg",
+      "tags": [
+        "concert",
+        "hip-hop",
+        "homecoming"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-paisley-fields-bark-2026-10-22",
+      "title": "Paisley Fields",
+      "day": "Thu",
+      "date": "2026-10-22",
       "venue": "The Bark",
       "neighborhood": "All Saints",
-      "startTime": "7:30 PM",
-      "hook": "A five-band DIY bill to close out the weekend, doors at 7.",
-      "url": "https://musiclocal.org/events/dogsmiles-and-ceiling-at-the-bark-2026-10-18-6mizzc",
-      "imageUrl": "https://media.musiclocal.org/yLONE88RGo24Cu_yeXT0ubrrJzfkP0DyaUJrJdmpChU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F88716892-2717-42bf-960e-aab2216ae6bf.jpeg",
-      "tags": ["live music", "diy"],
+      "startTime": "7:00 PM",
+      "hook": "Brooklyn queer country and Americana with a playful hyperpop streak.",
+      "url": "https://www.bandsintown.com/e/108795607",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "country"
+      ],
       "sample": false
     },
     {
-      "id": "sun-rocky-horror-shadowcast-askew-2026-10-18",
-      "title": "The Rocky Horror Picture Show with live shadowcast (final night)",
-      "date": "2026-10-18",
-      "venue": "Askew Student Life Center, FSU",
-      "neighborhood": "FSU campus",
-      "startTime": "10:00 PM",
-      "hook": "The last late-night showing of FSU's annual Rocky Horror, with a live cast acting it out in front of the screen.",
-      "url": "https://calendar.fsu.edu/event/the-rocky-horror-picture-show-5452",
-      "imageUrl": "https://localist-images.azureedge.net/photos/54178080932619/huge/915cf76b4263fe5685d046ee6a00d58c30d237ce.jpg",
-      "tags": ["movie", "campus", "halloween"],
+      "id": "thu-felicity-926-2026-10-22",
+      "title": "Felicity",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "venue": "926 Bar & Grill",
+      "neighborhood": "Tharpe St",
+      "startTime": "8:30 PM",
+      "hook": "Orlando rock band touring its new album, $17 in advance or $20 at the door.",
+      "url": "https://musiclocal.org/events/felicity-at-926-bar-and-grill-2026-10-22-6jl4f7",
+      "imageUrl": "https://media.musiclocal.org/3m4X2XeyL3lNYhGm2rQ9wAgteggFtJDQO1WtTcJf8Ok/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F7e3c7f1d-7c41-4dd1-8461-e6ba239b2583.jpeg",
+      "tags": [
+        "live music",
+        "rock"
+      ],
       "sample": false
     }
   ]
