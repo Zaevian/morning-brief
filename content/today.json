@@ -61,11 +61,11 @@
     "weatherNote": "Sunny with a high near 69F and a northeast wind around 15 mph, gusting to 25 mph. Tonight is clear with a low around 50F, and Monday is sunny with a high near 73F.",
     "gradArena": "The site is running on the restored September photo setup, Instagram Gradarena850 stays live, and the first weekly security sweep across your sites runs this Tuesday around 10 AM.",
     "ottoman": {
-      "lessonNumber": 11,
+      "lessonNumber": 14,
       "totalLessons": 16,
-      "chapterTitle": "New administrations. Old imperial habits.",
-      "summary": "After the war, Article 22 of the League of Nations Covenant placed former Ottoman lands under mandates, and the April 1920 San Remo conference handed Syria and Lebanon to France and Mesopotamia and Palestine to Britain. French forces crushed Faisal's Arab government in Damascus at Maysalun in July 1920, and Britain then made Faisal king of Iraq in 1921 after a costly revolt. Promised tutelage toward self-government meant outside control in practice, and these new borders were contested from the very start.",
-      "link": "https://ottoman-empire-fall.vercel.app/#mandates"
+      "chapterTitle": "Chapter 14: The end of the caliphate",
+      "summary": "When the sultanate was abolished in November 1922, the Ankara assembly kept a separate caliphate and named Abdülmecid II caliph without making him sultan. That arrangement proved unstable, and on 3 March 1924 the Turkish assembly abolished the caliphate and expelled the Ottoman dynasty. The decision grounded the new republic's sovereignty in national institutions while leaving a wider argument about religious authority, from British India's Khilafat movement onward, unresolved.",
+      "link": "https://ottoman-empire-fall.vercel.app/#caliphate"
     }
   },
   "surprise": {
