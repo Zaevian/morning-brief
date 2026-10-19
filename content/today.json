@@ -69,18 +69,19 @@
     }
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "63 years ago today",
-    "title": "The day a Parisian cat went to space",
-    "body": "On October 18, 1963, a Paris street cat later known as Félicette rode a French Véronique rocket to become the first cat ever launched into space. She was one of 14 cats trained for the program, wore sensors that tracked her brain activity the whole way up, and her capsule was recovered just 13 minutes after liftoff. Four years later on this exact date, in 1967, the Soviet probe Venera 4 became the first spacecraft to directly measure the atmosphere of another planet, Venus. October 18 has quietly been a big day for space.",
+    "kind": "word",
+    "eyebrow": "Spanish · cruise phrase",
+    "title": "La cuenta, por favor",
+    "body": "Tonight's Spanish block lands twelve days before Carnival Paradise, and this is the line that brings the check when dinner wraps in a Spanish-speaking port. La cuenta means the bill, por favor keeps it polite, and together they work at cafés and restaurants from Tampa out through the Caribbean. Tap play to hear cuenta in native Spanish, then say the full phrase out loud twice before you close the books.",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/LL-Q1321_%28spa%29-Precision27-cuenta.wav",
     "link": {
-      "label": "Félicette on Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/F%C3%A9licette"
+      "label": "Wiktionary: cuenta",
+      "url": "https://en.wiktionary.org/wiki/cuenta#Spanish"
     },
     "source": {
-      "label": "Wikipedia On This Day, October 18",
-      "url": "https://en.wikipedia.org/wiki/October_18"
+      "label": "Lingua Libre (Precision27), CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:LL-Q1321_(spa)-Precision27-cuenta.wav"
     },
-    "accent": "#c4b5fd"
+    "accent": "#34d399"
   }
 }
