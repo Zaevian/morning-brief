@@ -1,17 +1,13 @@
 {
-  "greeting": "Good morning, Zae. Sunday is sunny and cool in Tallahassee with a high near 69F and a breezy northeast wind, your calendar is supplements plus Russian this evening, and Carnival online check-in opens this morning with the cruise now 13 days out.",
-  "date": "2026-10-18",
-  "dateDisplay": "Sunday, October 18, 2026",
+  "greeting": "Good morning, Zae. Monday is clear and sunny in Tallahassee with a high near 74F and no rain in sight, your calendar is supplements plus Spanish this evening, and the cruise is now 12 days out.",
+  "date": "2026-10-19",
+  "dateDisplay": "Monday, October 19, 2026",
   "calendar": {
-    "note": "Supplements + Carnival check-in + Russian",
+    "note": "Supplements + Spanish",
     "events": [
       {
         "time": "8:00 AM",
         "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
-      },
-      {
-        "time": "9:00 AM",
-        "title": "Carnival Online Check-In opens: complete check-in and pick your Arrival Appointment for the November 1 sailing."
       },
       {
         "time": "2:00 PM",
@@ -19,7 +15,7 @@
       },
       {
         "time": "6:00 PM",
-        "title": "Russian study (2 hours): Tonight is Russian; tomorrow rotates back to Spanish."
+        "title": "Spanish study (2 hours): Tonight is Spanish; tomorrow rotates back to Russian."
       },
       {
         "time": "10:00 PM",
@@ -28,17 +24,17 @@
     ]
   },
   "projectMove": {
-    "title": "Cruise: knock out online check-in today",
-    "body": "Carnival online check-in opens this morning, and finishing it early gets you the best Arrival Appointment, since the earliest windows around 10 to 11 AM go first. It takes about fifteen minutes in the Carnival Planner under My To-do List, and the hard deadline is midnight on October 31, the same night the Tallahassee bus leaves, so doing it today removes the last-minute risk entirely."
+    "title": "Cruise: check-in is done",
+    "body": "Check-in is complete; arrival 11:00–11:30 AM at Tampa Terminal 3, boarding group C02. Bring cash for the Sail & Sign deposit."
   },
   "tip": {
-    "title": "Have three things ready before you open check-in",
-    "body": "Keep your government photo ID, an emergency contact name and phone number, and a clear, well-lit photo of your face handy before you start, because the form asks for all three and stalls without them. Also, tonight drops to about 50F, so grab a layer if you step out after Russian."
+    "title": "Practice the phrases you will actually use on the ship",
+    "body": "Tonight's Spanish session is a good chance to drill the handful of lines you will use in port, like asking for the check, asking prices, and asking where something is. Saying them out loud a few times builds recall much faster than reading them, and it makes the cruise days feel easier."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-10-31",
-    "label": "13 days"
+    "label": "12 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -48,7 +44,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-18T06:59:00-04:00",
+    "asOf": "2026-10-19T06:52:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -57,9 +53,9 @@
     "note": "Visitor numbers could not be pulled through the Vercel connection this morning, so the counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Online check-in opens today at about 9 AM, a reminder is set for 9:23 AM, and Express Debarkation is a separate step on November 4.",
-    "weatherNote": "Sunny with a high near 69F and a northeast wind around 15 mph, gusting to 25 mph. Tonight is clear with a low around 50F, and Monday is sunny with a high near 73F.",
-    "gradArena": "The site is running on the restored September photo setup, Instagram Gradarena850 stays live, and the first weekly security sweep across your sites runs this Tuesday around 10 AM.",
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
+    "weatherNote": "Clear and sunny with a high near 74F, a low around 53F tonight, and no chance of rain. Tuesday looks the same, sunny with a high near 73F and a cooler low near 51F.",
+    "gradArena": "The site is running on the restored September photo setup, Instagram Gradarena850 stays live, and the first weekly security sweep across your sites runs tomorrow around 10 AM.",
     "ottoman": {
       "lessonNumber": 14,
       "totalLessons": 16,
