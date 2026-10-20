@@ -48,5 +48,20 @@
     "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
     "weatherNote": "Clear and sunny with a high near 74F, a low around 53F tonight, and no chance of rain. Tuesday looks the same, sunny with a high near 73F and a cooler low near 51F.",
     "gradArena": "The site is running on the restored September photo setup, Instagram Gradarena850 stays live, and the first weekly security sweep across your sites runs tomorrow around 10 AM."
+  },
+  "surprise": {
+    "kind": "golden-hour",
+    "eyebrow": "Grad Arena · golden hour tonight",
+    "title": "Golden light from 6:28 to 7:02 PM",
+    "body": "Tallahassee gets a perfectly clear evening, with zero cloud cover forecast and no rain, so tonight's light should be clean and warm. The sun drops below six degrees at about 6:28 PM and sets at 7:02 PM, which gives you roughly half an hour of soft, flattering portrait light. Blue hour follows from about 7:16 to 7:25 PM if you want a cooler, moody frame after sunset. Temperatures ease from about 72°F at 6 PM to the mid 60s by 7, so it is comfortable for a Westcott or campus session.",
+    "link": {
+      "label": "Sunrise-Sunset: Tallahassee today",
+      "url": "https://sunrise-sunset.org/search?location=Tallahassee%2C+FL"
+    },
+    "source": {
+      "label": "Sunset and twilight from sunrise-sunset.org; sky and temperature from Open-Meteo",
+      "url": "https://open-meteo.com/"
+    },
+    "accent": "#f59e0b"
   }
 }
