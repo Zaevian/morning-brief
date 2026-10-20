@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. Monday is clear and sunny in Tallahassee with a high near 74F and no rain in sight, your calendar is supplements this evening, and the cruise is now 12 days out.",
-  "date": "2026-10-19",
-  "dateDisplay": "Monday, October 19, 2026",
+  "greeting": "Good morning, Zae. Tuesday is sunny and mild in Tallahassee with a high near 78F, your calendar is just supplements plus a Russian study block this evening, and the cruise is now 11 days out.",
+  "date": "2026-10-20",
+  "dateDisplay": "Tuesday, October 20, 2026",
   "calendar": {
-    "note": "Supplements",
+    "note": "Supplements + Russian block",
     "events": [
       {
         "time": "8:00 AM",
@@ -14,19 +14,27 @@
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
       },
       {
+        "time": "6:00 PM",
+        "title": "Russian study block (2 hours): Still on your calendar, but the guided lessons are paused, so treat it as optional self-study."
+      },
+      {
         "time": "10:00 PM",
         "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
       }
     ]
   },
   "projectMove": {
-    "title": "Cruise: check-in is done",
-    "body": "Check-in is complete; arrival 11:00–11:30 AM at Tampa Terminal 3, boarding group C02. Bring cash for the Sail & Sign deposit."
+    "title": "Cruise: settle your dinner time and bed setup",
+    "body": "Check-in is already done, with boarding group C02 and an 11:00 to 11:30 AM arrival on November 1, so the only open items left are your dining time and your cabin bed choice. Both live in the Carnival app, take a couple of minutes, and the better dinner slots tend to fill as sailing day gets closer, so locking them in now keeps your options open."
+  },
+  "tip": {
+    "title": "Keep your boarding pass offline on your phone",
+    "body": "Save your Carnival boarding pass and a photo of your passport card to your phone's files so they open without signal. Port Wi-Fi and cell service can be slow on embarkation day, and having both ready offline makes the check-in line much faster."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-10-31",
-    "label": "12 days"
+    "label": "11 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -36,18 +44,18 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-19T06:52:00-04:00",
+    "asOf": "2026-10-20T06:55:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Visitor numbers could not be pulled through the Vercel connection this morning, so the counts are left blank rather than guessed."
+    "note": "Visitor tracking is not ready yet. Vercel reports that Web Analytics is not turned on for the Grad Arena project, so the counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
-    "weatherNote": "Clear and sunny with a high near 74F, a low around 53F tonight, and no chance of rain. Tuesday looks the same, sunny with a high near 73F and a cooler low near 51F.",
-    "gradArena": "The site is running on the restored September photo setup, Instagram Gradarena850 stays live, and the first weekly security sweep across your sites runs tomorrow around 10 AM."
+    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Check-in is complete, your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
+    "weatherNote": "Sunny with a high near 78F and a light northeast breeze, then clear tonight with a low around 49F, so it starts cool. Wednesday looks similar, sunny with a high near 80F.",
+    "gradArena": "The site is running on the restored September photo setup, and the first weekly security sweep across your sites runs this morning around 10 AM."
   },
   "surprise": {
     "kind": "golden-hour",
