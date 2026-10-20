@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. Tuesday is sunny and mild in Tallahassee with a high near 78F, your calendar is just supplements plus a Russian study block this evening, and the cruise is now 11 days out.",
+  "greeting": "Good morning, Zae. Tuesday is sunny and mild in Tallahassee with a high near 78F, your calendar is just supplements, and the cruise is now 11 days out.",
   "date": "2026-10-20",
   "dateDisplay": "Tuesday, October 20, 2026",
   "calendar": {
-    "note": "Supplements + Russian block",
+    "note": "Supplements only",
     "events": [
       {
         "time": "8:00 AM",
@@ -12,10 +12,6 @@
       {
         "time": "2:00 PM",
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
-      },
-      {
-        "time": "6:00 PM",
-        "title": "Russian study block (2 hours): Still on your calendar, but the guided lessons are paused, so treat it as optional self-study."
       },
       {
         "time": "10:00 PM",
