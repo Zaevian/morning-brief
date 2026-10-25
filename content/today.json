@@ -1,5 +1,5 @@
 {
-  "greeting": "Good morning, Zae. Sunday looks clear and mild in Tallahassee with a high near 76F, your calendar is just the usual supplements, and the cruise is now 6 days out.",
+  "greeting": "Good morning, Zae. It is a clear, sunny Sunday in Tallahassee, and the cruise is now exactly one week out.",
   "date": "2026-10-25",
   "dateDisplay": "Sunday, October 25, 2026",
   "calendar": {
@@ -7,34 +7,30 @@
     "events": [
       {
         "time": "8:00 AM",
-        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
+        "title": "Morning supplements: L-Tyrosine, L-Theanine, two Omega softgels, D3 + K2, and B-Complex."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
-      },
-      {
-        "time": "6:00 PM",
-        "title": "Optional: Moon Over Maclay jazz picnic at Alfred B. Maclay Gardens ($30), gates open around 5 PM."
+        "title": "Afternoon supplements: L-Tyrosine and one or two Omega softgels."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+        "title": "Night supplements: L-Theanine and three Neuro-Mag, plus 5g of creatine at any point today."
       }
     ]
   },
   "projectMove": {
-    "title": "Cruise: lock dinner time and bed setup this week",
-    "body": "Check-in is already done, with boarding group C02 and an 11:00 to 11:30 AM arrival on November 1, so the only open items left are your dining time and your cabin bed choice. Both live in the Carnival app, take a couple of minutes, and the better dinner slots tend to fill as sailing day gets closer, so locking them in this week keeps your options open."
+    "title": "Settle cruise dinner and bed setup today",
+    "body": "Today is a light day with no meetings, which makes it a good window to settle the last open cruise choices, your dinner time and bed setup, if they are still open in the Carnival app. On the sites, A+ Academy is waiting on Miyuki's Core 1 Domain 2 rationale pull request and the Domain 3 Hardware audit, and nothing on Grad Arena needs you today."
   },
   "tip": {
-    "title": "Moon Over Maclay is tonight if you want an easy evening out",
-    "body": "The Friends of Maclay Gardens jazz picnic runs from 6 to 9 PM at Alfred B. Maclay Gardens State Park, with gates opening around 5. Tickets are about $30 for adults, and you bring your own blanket, chairs, and picnic. It was the council's Sunday backup after FAMU Homecoming."
+    "title": "Stage passport card, boarding pass, and charger this week",
+    "body": "Set your passport card, boarding pass, and phone charger in one spot this week, so Saturday night's bus departure is a grab-and-go instead of a search."
   },
   "cruise": {
     "name": "Carnival Paradise",
-    "targetDate": "2026-10-31",
-    "label": "6 days"
+    "targetDate": "2026-11-01",
+    "label": "7 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -44,18 +40,17 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-25T06:55:00-04:00",
+    "asOf": "2026-10-25T06:57:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Visitor tracking is not ready yet. Counts are left blank rather than guessed."
+    "note": "Visit numbers could not be pulled this morning because the analytics connection was refused; they should return once access is refreshed."
   },
   "extras": {
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Check-in is complete, your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
-    "weatherNote": "Clear and sunny with a high near 76F and a low around 58F, so mornings still feel cool. Monday looks mostly cloudy with a high near 77F.",
-    "gradArena": "Three security fixes from the Oct 20 sweep (booking email lockdown, hiding old photo originals, and a Next.js update) are still waiting on your yes before anything goes live."
+    "cruiseNote": "Check-in is already done (boarding group C02, arrival 11:00 to 11:30 AM). The Tallahassee bus leaves the night of Saturday, October 31.",
+    "weatherNote": "Clear and sunny all day, cool this morning and pleasant by afternoon."
   },
   "surprise": {
     "kind": "on-this-day",
