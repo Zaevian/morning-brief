@@ -54,18 +54,18 @@
     "gradArena": "The site is running on the restored September photo setup, and the first weekly security sweep across your sites runs this morning around 10 AM."
   },
   "surprise": {
-    "kind": "golden-hour",
-    "eyebrow": "Grad Arena · golden hour tonight",
-    "title": "Golden light from 6:28 to 7:02 PM",
-    "body": "Tallahassee gets a perfectly clear evening, with zero cloud cover forecast and no rain, so tonight's light should be clean and warm. The sun drops below six degrees at about 6:28 PM and sets at 7:02 PM, which gives you roughly half an hour of soft, flattering portrait light. Blue hour follows from about 7:16 to 7:25 PM if you want a cooler, moody frame after sunset. Temperatures ease from about 72°F at 6 PM to the mid 60s by 7, so it is comfortable for a Westcott or campus session.",
+    "kind": "on-this-day",
+    "eyebrow": "On this day · October 25, 2001",
+    "title": "Windows XP turns 25 today",
+    "body": "Twenty-five years ago today, Windows XP went on sale in stores, after reaching manufacturing on August 24, 2001. The XP stood for \"experience,\" and it brought the two-column Start menu and the Luna look that a lot of people grew up on. The famous Bliss wallpaper is a real, unedited photograph: former National Geographic photographer Charles O'Rear shot those green hills near the Napa and Sonoma county line in January 1996 on a Mamiya RZ67 with Fujifilm Velvia film, which makes it one of the most widely seen photos ever taken. Microsoft kept XP supported until April 8, 2014, more than 12 years after launch, when its products normally get about 10, and unsupported systems like it are exactly the kind of security risk the A+ material warns about.",
     "link": {
-      "label": "Sunrise-Sunset: Tallahassee today",
-      "url": "https://sunrise-sunset.org/search?location=Tallahassee%2C+FL"
+      "label": "Wikipedia: Bliss, the Windows XP wallpaper photo",
+      "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)"
     },
     "source": {
-      "label": "Sunset and twilight from sunrise-sunset.org; sky and temperature from Open-Meteo",
-      "url": "https://open-meteo.com/"
+      "label": "Wikipedia On This Day feed and the Windows XP and Bliss articles",
+      "url": "https://en.wikipedia.org/wiki/Windows_XP"
     },
-    "accent": "#f59e0b"
+    "accent": "#3b82f6"
   }
 }
