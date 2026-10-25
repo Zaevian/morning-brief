@@ -1,218 +1,153 @@
 {
-  "mode": "week",
+  "mode": "weekend",
   "range": {
-    "start": "2026-10-20",
-    "end": "2026-10-22",
-    "label": "Tue-Thu, Oct 20-22, 2026"
+    "start": "2026-10-25",
+    "end": "2026-10-25",
+    "label": "Sun, Oct 25, 2026"
   },
-  "updatedNote": "Tuesday drop from Diablo. FAMU homecoming week rolls on with tonight's fashion show, Wednesday's pep rally and Trap RNB at Bajas, and Gunna, Summer Walker, and T.I. on Thursday. Grace George's U.S. debut at Goodwood is tonight.",
+  "updatedNote": "Sunday drop from Diablo. FAMU homecoming wraps with brunches and a 6 PM gospel concert, and Moon Over Maclay brings jazz under the full moon tonight.",
   "events": [
     {
-      "id": "tue-famu-fashion-art-show-lawson-2026-10-20",
-      "title": "FAMU Homecoming Fashion & Art Show: Beyond Emerald City",
-      "day": "Tue",
-      "date": "2026-10-20",
-      "venue": "Al Lawson Jr. Multipurpose Center, FAMU",
-      "neighborhood": "FAMU campus",
-      "startTime": "6:00 PM",
-      "hook": "Homecoming week's big style night, a Wiz-themed fashion and art show running 6 to 8:30 PM.",
-      "url": "https://calendar.famu.edu/event/homecoming-fashion-art-show",
-      "imageUrl": "https://localist-images.azureedge.net/photos/52885788093059/huge/8b553e8b35af258fd60b18d30fba0510820521a6.jpg",
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-brunch-club-railroad-sq-2026-10-25",
+      "title": "The Brunch Club: Homecoming Closeout",
+      "venue": "The Brunch Club (Flamingoz), Railroad Square",
+      "neighborhood": "Railroad Square",
+      "startTime": "12:00 PM",
+      "hook": "FAMU homecoming's Sunday send-off with brunch, mimosas, the Legacy Band, and DJs from noon to 5.",
+      "url": "https://www.eventbrite.com/e/the-brunch-club-tickets-2000774465285",
+      "imageUrl": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1195566328%252F302296591575%252F1%252Foriginal.20261011-220957%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.108%26s%3D84b5e4124658e98f7ae58151517e5f51&w=940&q=75",
       "tags": [
         "homecoming",
-        "campus",
-        "fashion"
-      ],
-      "sample": false
+        "brunch",
+        "live music"
+      ]
     },
     {
-      "id": "tue-grace-george-goodwood-2026-10-20",
-      "title": "Grace George: An American Debut",
-      "day": "Tue",
-      "date": "2026-10-20",
-      "venue": "Goodwood Museum and Gardens",
-      "neighborhood": "Midtown",
-      "startTime": "7:30 PM",
-      "hook": "The UK singer with 90 million Spotify streams plays her first U.S. show, building songs live with guitar and loop station. Tickets $45 to $55.",
-      "url": "https://www.openingnights.fsu.edu/show-details/grace-george-an-american-debut",
-      "imageUrl": "https://www.openingnights.fsu.edu/storage/header_image/openingnights/d29ee08927feeee83147a5ffd726dabfcf999887.webp",
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-brunch-in-the-lobby-2026-10-25",
+      "title": "Brunch In The Lobby: Homecoming Edition",
+      "venue": "The Lobby Event Center",
+      "neighborhood": "West Tennessee St",
+      "startTime": "12:00 PM",
+      "hook": "Custom brunch menu with a live DJ spinning 90s R&B and current hits, noon to 4:30. Tickets required.",
+      "url": "https://www.simpletix.com/e/brunch-in-the-lobby-homecoming-tickets-292819",
+      "imageUrl": "https://cdn.simpletix.com/bef9dd49-8e62-47ea-aa5f-8a80ae3dfce5/shows/888/brunch2.png",
       "tags": [
-        "live music",
-        "singer-songwriter"
-      ],
-      "sample": false
+        "homecoming",
+        "brunch",
+        "DJ"
+      ]
     },
     {
-      "id": "tue-swing-band-legion-hall-2026-10-20",
-      "title": "Tuesday Night Dance with the Tallahassee Swing Band",
-      "day": "Tue",
-      "date": "2026-10-20",
-      "venue": "Legion Hall",
-      "neighborhood": "Lake Ella",
-      "startTime": "7:30 PM",
-      "hook": "A 20-piece swing band, with free dance lessons at 6:30. $10, or $7 for students.",
-      "url": "https://musiclocal.org/events/tuesday-night-dance-at-legion-hall-2026-10-20-p78ubm",
-      "imageUrl": "https://media.musiclocal.org/e9YWCAOBiK96VrvTgjkYohRWTcTJ5V-OIjuoxbdO3Q4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbc086136-72bd-4e2a-9147-55e278557024.jpeg",
-      "tags": [
-        "live music",
-        "dance"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-cardinal-bloom-926-2026-10-20",
-      "title": "Cardinal Bloom, The Band Solstice, and Jackson Alter",
-      "day": "Tue",
-      "date": "2026-10-20",
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-drag-brunch-926-2026-10-25",
+      "title": "Drag Brunch at 926: Halloween Edition",
       "venue": "926 Bar & Grill",
       "neighborhood": "Tharpe St",
-      "startTime": "8:00 PM",
-      "hook": "Salt Lake City indie rock on the Burn the House Tour, all ages.",
-      "url": "https://musiclocal.org/events/burn-the-house-tour-at-926-bar-and-grill-2026-10-20-lygu3d",
-      "imageUrl": "https://media.musiclocal.org/AMxrHMO2-dcj5v54sYLATeE1QK3l7-6JfQobx9hVmkU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fc5ba24a9-1167-46f4-9005-63c13caf75bf.jpeg",
+      "startTime": "11:00 AM",
+      "hook": "Victor Huzzah hosts a Halloween drag brunch; doors at 11, show at 12:30, $10 cover, 18+.",
+      "url": "https://allevents.in/tallahassee/drag-brunch-926-victor-huzzah-halloween-edition/200030804822742",
+      "imageUrl": "https://cdn-az.allevents.in/events2/banners/ba671be623e5f201c6a3cfdd640ecc3f8b34b3a967686a29c15a8cccb81f519e-rimg-w1080-h1350-dc080808-gmir?v=1791447041",
       "tags": [
-        "live music",
-        "indie"
-      ],
-      "sample": false
+        "brunch",
+        "halloween",
+        "show"
+      ]
     },
     {
-      "id": "wed-famu-pep-rally-will-packer-2026-10-21",
-      "title": "FAMU Homecoming Pep Rally",
-      "day": "Wed",
-      "date": "2026-10-21",
-      "venue": "Will Packer Amphitheater, FAMU",
-      "neighborhood": "FAMU campus",
-      "startTime": "7:00 PM",
-      "hook": "Outdoor Rattler hype night on the Hill that builds the energy for homecoming weekend.",
-      "url": "https://news.famu.edu/2026/all-roads-lead-home-for-famu-homecoming-2026.php",
-      "imageUrl": "https://news.famu.edu/img/1024x768_FAMUPepRally25.jpg",
-      "tags": [
-        "homecoming",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-bobby-lees-potbellys-2026-10-21",
-      "title": "The Bobby Lees",
-      "day": "Wed",
-      "date": "2026-10-21",
-      "venue": "Potbelly's",
-      "neighborhood": "College Ave",
-      "startTime": "7:00 PM doors",
-      "hook": "Wild, loud garage punk from Woodstock, New York, playing Tallahassee for the very first time.",
-      "url": "https://www.songkick.com/concerts/43368152-bobby-lees-at-potbellys",
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-goodwood-halloween-fun-day-2026-10-25",
+      "title": "Halloween Family Fun Day",
+      "venue": "Goodwood Museum & Gardens",
+      "neighborhood": "Midtown",
+      "startTime": "3:00 PM",
+      "hook": "Free costumes-welcome afternoon with hay rides, face painting, and storytelling, from Goodwood and WFSU.",
+      "url": "https://www.goodwoodmuseum.org/goodwood-events/",
       "imageUrl": null,
       "tags": [
-        "live music",
-        "punk"
-      ],
-      "sample": false
+        "halloween",
+        "free",
+        "outdoors"
+      ]
     },
     {
-      "id": "wed-bring-it-on-fallon-2026-10-21",
-      "title": "Bring It On: The Musical",
-      "day": "Wed",
-      "date": "2026-10-21",
-      "venue": "Fallon Theatre, FSU",
-      "neighborhood": "Downtown",
-      "startTime": "8:00 PM",
-      "hook": "Opening night of FSU's high-flying cheer musical, with shows running nightly through Sunday.",
-      "url": "https://tallahasseearts.org/event/bring-it-on-the-musical/",
-      "imageUrl": "https://tallahasseearts.org/wp-content/uploads/sites/tallahasseearts.org/images/2026/08/event-featured-bring-it-on-the-musical-1787083551.png",
-      "tags": [
-        "theater",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-trap-rnb-bajas-2026-10-21",
-      "title": "TRAP RNB: FAMU Homecoming 2026",
-      "day": "Wed",
-      "date": "2026-10-21",
-      "venue": "Bajas Night Club",
-      "neighborhood": "West Pensacola St",
-      "startTime": "10:00 PM",
-      "hook": "The homecoming R&B sing-along party that sells out every year, running 10 PM to 2 AM.",
-      "url": "https://www.eventbrite.com/e/trap-rnb-famu-homecoming-2026-tickets-1997975718157",
-      "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191070984%2F491384959225%2F1%2Foriginal.20260814-143333?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=bd1d20f3db96e3cfe5cfc2f4efd24b43",
-      "tags": [
-        "nightlife",
-        "homecoming",
-        "r&b"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-cabinet-of-curiosities-strozier-2026-10-22",
-      "title": "Cabinet of Curiosities: A Spooky Open House",
-      "day": "Thu",
-      "date": "2026-10-22",
-      "venue": "Strozier Library, FSU",
-      "neighborhood": "FSU campus",
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-hub-feather-oaks-cory-johnson-2026-10-25",
+      "title": "Sunday at The Hub: Cory Johnson Live",
+      "venue": "The Hub at Feather Oaks",
+      "neighborhood": "Miccosukee Rd",
       "startTime": "4:00 PM",
-      "hook": "FSU Special Collections goes spooky with tarot cards, palm readings, a death mask, and more, 4 to 6 PM.",
-      "url": "https://calendar.fsu.edu/event/cabinet-of-curiosities-a-spooky-open-house",
-      "imageUrl": "https://localist-images.azureedge.net/photos/54250602618796/huge/33f875f2c26af9bac7d8c86c7c79585eb007f80c.jpg",
-      "tags": [
-        "campus",
-        "halloween"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-famu-homecoming-concert-lawson-2026-10-22",
-      "title": "FAMU Homecoming Concert: Gunna, Summer Walker, T.I., and Bellygang Kushington",
-      "day": "Thu",
-      "date": "2026-10-22",
-      "venue": "Al Lawson Jr. Multipurpose Center, FAMU",
-      "neighborhood": "FAMU campus",
-      "startTime": "7:00 PM",
-      "hook": "The biggest show in town this week: three headline-level stars on one homecoming bill, doors at 5 PM.",
-      "url": "https://news.famu.edu/2026/famu-announces-tickets-on-sale-for-homecoming-concert-featuring-gunna-summer-walker-tip-and-bellygang-kushington.php",
-      "imageUrl": "https://news.famu.edu/img/1024x768_FAMUHomecomingConcert.jpg",
+      "hook": "Easygoing outdoor hang with Cory Johnson playing 4 to 7 and Rustic Grub serving all day.",
+      "url": "https://www.thehubatfeatheroaks.com/event-details/sunday-at-the-hub-2",
+      "imageUrl": "https://static.wixstatic.com/media/f3138a_962dd2e75a56409ca839b3bc6ffb91a1~mv2.png/v1/fill/w_1254,h_1254,al_c/f3138a_962dd2e75a56409ca839b3bc6ffb91a1~mv2.png",
       "tags": [
         "live music",
-        "hip-hop",
-        "homecoming"
-      ],
-      "sample": false
+        "food"
+      ]
     },
     {
-      "id": "thu-trivia-amicus-2026-10-22",
-      "title": "Trivia Night at Amicus Brewing Ventures",
-      "day": "Thu",
-      "date": "2026-10-22",
-      "venue": "Amicus Brewing Ventures",
-      "neighborhood": "All Saints",
-      "startTime": "7:00 PM",
-      "hook": "Free team trivia over local beer, with bar-tab prizes for the top three teams.",
-      "url": "https://somo.social/e/trivia-night-amicus-brewing-ventures-22-oktober-2026",
-      "imageUrl": "https://images.gosomo.app/generated-posters/v3/d1e0b453-2964-4a7d-95ca-75ba9b48335d/5ccff79efb90af516bf4b181becc6510/detail.webp",
-      "tags": [
-        "trivia",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-paisley-fields-the-bark-2026-10-22",
-      "title": "Paisley Fields",
-      "day": "Thu",
-      "date": "2026-10-22",
-      "venue": "The Bark",
-      "neighborhood": "All Saints",
-      "startTime": "7:00 PM",
-      "hook": "Queer country and Americana from Brooklyn in a small All Saints room, one night before he plays FEST.",
-      "url": "https://www.bandsintown.com/e/108795607",
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-moon-over-maclay-2026-10-25",
+      "title": "Moon Over Maclay",
+      "venue": "Alfred B. Maclay Gardens State Park",
+      "neighborhood": "Thomasville Rd",
+      "startTime": "6:00 PM",
+      "hook": "Live jazz from the Rodney Jordan Quintet under the full moon; bring a picnic and chairs. $30 adults, $20 students, gates at 5.",
+      "url": "https://visittallahassee.com/events/moon-over-maclay/",
       "imageUrl": null,
       "tags": [
         "live music",
-        "country"
-      ],
-      "sample": false
+        "jazz",
+        "outdoors"
+      ]
+    },
+    {
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-famu-gospel-concert-2026-10-25",
+      "title": "FAMU Homecoming Gospel Concert",
+      "venue": "Lee Hall, FAMU",
+      "neighborhood": "FAMU campus",
+      "startTime": "6:00 PM",
+      "hook": "The final event of FAMU homecoming week, a Sunday evening gospel concert at Lee Hall.",
+      "url": "https://homecomingatfamu.com/",
+      "imageUrl": null,
+      "tags": [
+        "homecoming",
+        "campus",
+        "live music"
+      ]
+    },
+    {
+      "day": "Sun",
+      "date": "2026-10-25",
+      "sample": false,
+      "id": "sun-terror-of-tallahassee-2026-10-25",
+      "title": "Terror of Tallahassee Haunted House",
+      "venue": "Terror of Tallahassee",
+      "neighborhood": "Lake Bradford Rd",
+      "startTime": "7:00 PM",
+      "hook": "Tallahassee's scariest haunted house runs 7 to 9 tonight; tickets $25 to $35.",
+      "url": "https://terroroftallahassee.com/",
+      "imageUrl": null,
+      "tags": [
+        "halloween",
+        "haunted house"
+      ]
     }
   ]
 }
