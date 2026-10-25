@@ -1,7 +1,7 @@
 {
-  "greeting": "Good morning, Zae. Tuesday is sunny and mild in Tallahassee with a high near 78F, your calendar is just supplements, and the cruise is now 11 days out.",
-  "date": "2026-10-20",
-  "dateDisplay": "Tuesday, October 20, 2026",
+  "greeting": "Good morning, Zae. Sunday looks clear and mild in Tallahassee with a high near 76F, your calendar is just the usual supplements, and the cruise is now 6 days out.",
+  "date": "2026-10-25",
+  "dateDisplay": "Sunday, October 25, 2026",
   "calendar": {
     "note": "Supplements only",
     "events": [
@@ -14,23 +14,27 @@
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
       },
       {
+        "time": "6:00 PM",
+        "title": "Optional: Moon Over Maclay jazz picnic at Alfred B. Maclay Gardens ($30), gates open around 5 PM."
+      },
+      {
         "time": "10:00 PM",
         "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
       }
     ]
   },
   "projectMove": {
-    "title": "Cruise: settle your dinner time and bed setup",
-    "body": "Check-in is already done, with boarding group C02 and an 11:00 to 11:30 AM arrival on November 1, so the only open items left are your dining time and your cabin bed choice. Both live in the Carnival app, take a couple of minutes, and the better dinner slots tend to fill as sailing day gets closer, so locking them in now keeps your options open."
+    "title": "Cruise: lock dinner time and bed setup this week",
+    "body": "Check-in is already done, with boarding group C02 and an 11:00 to 11:30 AM arrival on November 1, so the only open items left are your dining time and your cabin bed choice. Both live in the Carnival app, take a couple of minutes, and the better dinner slots tend to fill as sailing day gets closer, so locking them in this week keeps your options open."
   },
   "tip": {
-    "title": "Keep your boarding pass offline on your phone",
-    "body": "Save your Carnival boarding pass and a photo of your passport card to your phone's files so they open without signal. Port Wi-Fi and cell service can be slow on embarkation day, and having both ready offline makes the check-in line much faster."
+    "title": "Moon Over Maclay is tonight if you want an easy evening out",
+    "body": "The Friends of Maclay Gardens jazz picnic runs from 6 to 9 PM at Alfred B. Maclay Gardens State Park, with gates opening around 5. Tickets are about $30 for adults, and you bring your own blanket, chairs, and picnic. It was the council's Sunday backup after FAMU Homecoming."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-10-31",
-    "label": "11 days"
+    "label": "6 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -40,18 +44,18 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-20T06:55:00-04:00",
+    "asOf": "2026-10-25T06:55:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Visitor tracking is not ready yet. Vercel reports that Web Analytics is not turned on for the Grad Arena project, so the counts are left blank rather than guessed."
+    "note": "Visitor tracking is not ready yet. Counts are left blank rather than guessed."
   },
   "extras": {
     "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Check-in is complete, your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
-    "weatherNote": "Sunny with a high near 78F and a light northeast breeze, then clear tonight with a low around 49F, so it starts cool. Wednesday looks similar, sunny with a high near 80F.",
-    "gradArena": "The site is running on the restored September photo setup, and the first weekly security sweep across your sites runs this morning around 10 AM."
+    "weatherNote": "Clear and sunny with a high near 76F and a low around 58F, so mornings still feel cool. Monday looks mostly cloudy with a high near 77F.",
+    "gradArena": "Three security fixes from the Oct 20 sweep (booking email lockdown, hiding old photo originals, and a Next.js update) are still waiting on your yes before anything goes live."
   },
   "surprise": {
     "kind": "on-this-day",
