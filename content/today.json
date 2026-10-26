@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. Monday looks mostly cloudy in Tallahassee with a high near 77F, your calendar is just the usual supplements, and the cruise is now 6 days out.",
+  "greeting": "Good morning, Zae. Monday in Tallahassee is mild and dry with a high near 77F, your calendar is just your three supplement check-ins, and the Carnival trip is five days out with the bus leaving Saturday night.",
   "date": "2026-10-26",
   "dateDisplay": "Monday, October 26, 2026",
   "calendar": {
-    "note": "Supplements only",
+    "note": "Supplements only today",
     "events": [
       {
         "time": "8:00 AM",
@@ -20,17 +20,17 @@
     ]
   },
   "projectMove": {
-    "title": "Cruise: lock dinner time and bed setup this week",
-    "body": "Check-in is already done, with boarding group C02 and an 11:00 to 11:30 AM arrival on November 1, so the only open items left are your dining time and your cabin bed choice. Both live in the Carnival app, take a couple of minutes, and the better dinner slots tend to fill as sailing day gets closer, so locking them in this week keeps your options open."
+    "title": "Cruise: close the last two open choices this week",
+    "body": "Online check-in is already done and you are in boarding group C02 with an 11:00 to 11:30 AM arrival, so the only open items are your dinner time and your bed setup in the Carnival planner. Settling both before Saturday means nothing is left to decide at the pier, and it gives you the rest of the week for packing and errands."
   },
   "tip": {
-    "title": "Catch the Hunter's Moon before it sets this morning",
-    "body": "October's full moon peaked at 12:12 AM and is still nearly full. It sits low in the west under a clear sky and sets at 8:17 AM, so a quick look out a west-facing window before work is the easy win. Tonight's rise is around 7:06 PM, but clouds look likely this evening."
+    "title": "Start a staging pile tonight",
+    "body": "Pick one corner and drop cruise items there as you think of them this week: passport card, phone charger, medications and supplements in a day box, and one light jacket for the air conditioned ship. By Friday night packing becomes a ten minute job instead of a scramble before the bus."
   },
   "cruise": {
     "name": "Carnival Paradise",
-    "targetDate": "2026-11-01",
-    "label": "6 days"
+    "targetDate": "2026-10-31",
+    "label": "5 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -40,17 +40,17 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-26T06:50:00-04:00",
+    "asOf": "2026-10-26T06:55:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Visitor counts are left blank rather than guessed."
+    "note": "Visitor numbers could not be pulled this morning because the Vercel connection no longer has access to the team, so the counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "The Carnival trip runs October 31 to November 5, with the Tallahassee bus leaving the night of October 31 and the ship sailing from Tampa on November 1. Check-in is complete, your passport card is your travel document, and Express Debarkation is a separate step set for November 4.",
-    "weatherNote": "Mostly cloudy with a high near 77F and a low around 59F. Tuesday looks similar, cloudy with a high near 78F."
+    "cruiseNote": "The trip runs October 31 to November 5. The Tallahassee bus leaves the night of October 31, the ship sails from Tampa on November 1, and your boarding pass is already saved. Express Debarkation is a separate step on November 4.",
+    "weatherNote": "Mostly cloudy and dry today with a high near 77F, no rain expected, and a cool low near 59F tonight."
   },
   "surprise": {
     "kind": "sky",
