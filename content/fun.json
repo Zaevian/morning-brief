@@ -1,153 +1,103 @@
 {
-  "mode": "weekend",
-  "range": {
-    "start": "2026-10-25",
-    "end": "2026-10-25",
-    "label": "Sun, Oct 25, 2026"
-  },
-  "updatedNote": "Sunday drop from Diablo. FAMU homecoming wraps with brunches and a 6 PM gospel concert, and Moon Over Maclay brings jazz under the full moon tonight.",
+  "mode": "week",
+  "range": { "start": "2026-10-26", "end": "2026-10-29", "label": "Mon-Thu, Oct 26-29, 2026" },
+  "updatedNote": "Monday drop from Diablo: Halloween week warm-up before the cruise.",
   "events": [
     {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-brunch-club-railroad-sq-2026-10-25",
-      "title": "The Brunch Club: Homecoming Closeout",
-      "venue": "The Brunch Club (Flamingoz), Railroad Square",
-      "neighborhood": "Railroad Square",
-      "startTime": "12:00 PM",
-      "hook": "FAMU homecoming's Sunday send-off with brunch, mimosas, the Legacy Band, and DJs from noon to 5.",
-      "url": "https://www.eventbrite.com/e/the-brunch-club-tickets-2000774465285",
-      "imageUrl": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1195566328%252F302296591575%252F1%252Foriginal.20261011-220957%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.108%26s%3D84b5e4124658e98f7ae58151517e5f51&w=940&q=75",
-      "tags": [
-        "homecoming",
-        "brunch",
-        "live music"
-      ]
+      "id": "mon-edison-trivia-2026-10-26",
+      "title": "Live Trivia at The Edison",
+      "date": "2026-10-26",
+      "venue": "The Edison",
+      "neighborhood": "Cascades Park",
+      "startTime": "7:00 PM",
+      "hook": "Free weekly team trivia by the park, an easy Monday night win.",
+      "url": "https://challengeentertainment.com/show/the-edison-tallahassee-live-trivia/",
+      "imageUrl": "https://challengeentertainment.com/wp-content/uploads/2026/10/The-Edison.jpeg",
+      "tags": ["trivia", "free", "food"]
     },
     {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-brunch-in-the-lobby-2026-10-25",
-      "title": "Brunch In The Lobby: Homecoming Edition",
-      "venue": "The Lobby Event Center",
-      "neighborhood": "West Tennessee St",
-      "startTime": "12:00 PM",
-      "hook": "Custom brunch menu with a live DJ spinning 90s R&B and current hits, noon to 4:30. Tickets required.",
-      "url": "https://www.simpletix.com/e/brunch-in-the-lobby-homecoming-tickets-292819",
-      "imageUrl": "https://cdn.simpletix.com/bef9dd49-8e62-47ea-aa5f-8a80ae3dfce5/shows/888/brunch2.png",
-      "tags": [
-        "homecoming",
-        "brunch",
-        "DJ"
-      ]
+      "id": "mon-acotar-midnight-release-2026-10-26",
+      "title": "ACOTAR Midnight Release Party",
+      "date": "2026-10-26",
+      "venue": "Love Story Book Co.",
+      "neighborhood": "Mahan Dr",
+      "startTime": "10:00 PM",
+      "hook": "Trivia and coloring counting down to the midnight release of ACOTAR 6; ticketed.",
+      "url": "https://www.lovestorybookco.com/events/acotar-midnight-release-party",
+      "imageUrl": "https://static1.squarespace.com/static/68868902b597995b8558c8bf/69712054ee20220a0b844449/69e1192ad147806f9fcef081/1776360502778/Guaging+Interest.png?format=1500w",
+      "tags": ["books", "late night", "trivia"]
     },
     {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-drag-brunch-926-2026-10-25",
-      "title": "Drag Brunch at 926: Halloween Edition",
+      "id": "tue-ology-jazz-jam-2026-10-27",
+      "title": "Jazz Jam Session",
+      "date": "2026-10-27",
+      "venue": "Ology Brewing Co. (Midtown)",
+      "neighborhood": "Midtown",
+      "startTime": "7:00 PM",
+      "hook": "Local players trade solos over craft beer from 7 to 9.",
+      "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-10-27-ui5sq7",
+      "imageUrl": "https://media.musiclocal.org/tgYrlOMMZHegVx53e5bT7je70_qrtlqkkB6lq3U8FWc/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F154e5e57-8f10-48cc-b913-45ce30de368e.jpeg",
+      "tags": ["live music", "jazz", "brewery"]
+    },
+    {
+      "id": "wed-spooky-sips-nurseries-2026-10-28",
+      "title": "Spooky Sips with Double Play",
+      "date": "2026-10-28",
+      "venue": "Tallahassee Nurseries",
+      "neighborhood": "Thomasville Rd",
+      "startTime": "5:45 PM",
+      "hook": "Halloween sips and a live set in the garden, minutes from home.",
+      "url": "https://musiclocal.org/events/spooky-sips-at-tallahassee-nurseries-2026-10-28-t92naq",
+      "imageUrl": "https://media.musiclocal.org/Y1t3NjtUYsTfwdjmIS7WRTfaeZ3SrhfJFYfXmHy8kzY/rs:fill:1200:1200/g:fp:0.5:0.49/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2Fa9469d1e-001e-45d8-b09d-4734e1d24b9d.jpeg",
+      "tags": ["halloween", "live music", "outdoors"]
+    },
+    {
+      "id": "wed-cdu-haunted-harvest-2026-10-28",
+      "title": "CDU Presents: Haunted Harvest",
+      "date": "2026-10-28",
+      "venue": "FSU Union Green",
+      "neighborhood": "FSU campus",
+      "startTime": "7:00 PM",
+      "hook": "Carnival games, free food and ice cream, pumpkin decorating, and a costume contest.",
+      "url": "https://calendar.fsu.edu/event/cdu-presents-haunted-harvest-9426",
+      "imageUrl": "https://localist-images.azureedge.net/photos/54321302967327/huge/eb3400b1ac88c6ea40f3beeb4cf72adfabc1e0ae.jpg",
+      "tags": ["halloween", "campus", "free"]
+    },
+    {
+      "id": "thu-blu-halo-maurice-mangum-2026-10-29",
+      "title": "Maurice Mangum Live",
+      "date": "2026-10-29",
+      "venue": "The Blu Halo",
+      "neighborhood": "Bannerman Rd",
+      "startTime": "6:00 PM",
+      "hook": "Easy dinner-hour set at the Blu Halo, 6 to 9.",
+      "url": "https://musiclocal.org/events/maurice-mangum-at-the-blu-halo-2026-10-29-nfh8e2",
+      "imageUrl": "https://media.musiclocal.org/c_ZJ2Tzr3dIyIErweBDTwFl0JoQztcDQkjLFA-OKC-o/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Ff9830ab0-45fa-11ef-9f37-85afe6dc766c.jpeg",
+      "tags": ["live music", "dinner"]
+    },
+    {
+      "id": "thu-fsu-circus-halloween-2026-10-29",
+      "title": "FSU Flying High Circus: Halloween Show",
+      "date": "2026-10-29",
+      "venue": "FSU Circus Big Top",
+      "neighborhood": "FSU campus",
+      "startTime": "7:00 PM",
+      "hook": "Zombies dancing and skeletons flying in FSU's spooky, family-friendly circus; gates at 6.",
+      "url": "https://circus.fsu.edu/performances",
+      "imageUrl": "https://www.fsu.edu/sites/default/files/global/FSU-Westcott-Global.jpg",
+      "tags": ["halloween", "campus", "show"]
+    },
+    {
+      "id": "thu-926-suffice-showcase-2026-10-29",
+      "title": "Suffice, Bite Marks, Sleep John B, Ceiling",
+      "date": "2026-10-29",
       "venue": "926 Bar & Grill",
       "neighborhood": "Tharpe St",
-      "startTime": "11:00 AM",
-      "hook": "Victor Huzzah hosts a Halloween drag brunch; doors at 11, show at 12:30, $10 cover, 18+.",
-      "url": "https://allevents.in/tallahassee/drag-brunch-926-victor-huzzah-halloween-edition/200030804822742",
-      "imageUrl": "https://cdn-az.allevents.in/events2/banners/ba671be623e5f201c6a3cfdd640ecc3f8b34b3a967686a29c15a8cccb81f519e-rimg-w1080-h1350-dc080808-gmir?v=1791447041",
-      "tags": [
-        "brunch",
-        "halloween",
-        "show"
-      ]
-    },
-    {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-goodwood-halloween-fun-day-2026-10-25",
-      "title": "Halloween Family Fun Day",
-      "venue": "Goodwood Museum & Gardens",
-      "neighborhood": "Midtown",
-      "startTime": "3:00 PM",
-      "hook": "Free costumes-welcome afternoon with hay rides, face painting, and storytelling, from Goodwood and WFSU.",
-      "url": "https://www.goodwoodmuseum.org/goodwood-events/",
-      "imageUrl": null,
-      "tags": [
-        "halloween",
-        "free",
-        "outdoors"
-      ]
-    },
-    {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-hub-feather-oaks-cory-johnson-2026-10-25",
-      "title": "Sunday at The Hub: Cory Johnson Live",
-      "venue": "The Hub at Feather Oaks",
-      "neighborhood": "Miccosukee Rd",
-      "startTime": "4:00 PM",
-      "hook": "Easygoing outdoor hang with Cory Johnson playing 4 to 7 and Rustic Grub serving all day.",
-      "url": "https://www.thehubatfeatheroaks.com/event-details/sunday-at-the-hub-2",
-      "imageUrl": "https://static.wixstatic.com/media/f3138a_962dd2e75a56409ca839b3bc6ffb91a1~mv2.png/v1/fill/w_1254,h_1254,al_c/f3138a_962dd2e75a56409ca839b3bc6ffb91a1~mv2.png",
-      "tags": [
-        "live music",
-        "food"
-      ]
-    },
-    {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-moon-over-maclay-2026-10-25",
-      "title": "Moon Over Maclay",
-      "venue": "Alfred B. Maclay Gardens State Park",
-      "neighborhood": "Thomasville Rd",
-      "startTime": "6:00 PM",
-      "hook": "Live jazz from the Rodney Jordan Quintet under the full moon; bring a picnic and chairs. $30 adults, $20 students, gates at 5.",
-      "url": "https://visittallahassee.com/events/moon-over-maclay/",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "jazz",
-        "outdoors"
-      ]
-    },
-    {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-famu-gospel-concert-2026-10-25",
-      "title": "FAMU Homecoming Gospel Concert",
-      "venue": "Lee Hall, FAMU",
-      "neighborhood": "FAMU campus",
-      "startTime": "6:00 PM",
-      "hook": "The final event of FAMU homecoming week, a Sunday evening gospel concert at Lee Hall.",
-      "url": "https://homecomingatfamu.com/",
-      "imageUrl": null,
-      "tags": [
-        "homecoming",
-        "campus",
-        "live music"
-      ]
-    },
-    {
-      "day": "Sun",
-      "date": "2026-10-25",
-      "sample": false,
-      "id": "sun-terror-of-tallahassee-2026-10-25",
-      "title": "Terror of Tallahassee Haunted House",
-      "venue": "Terror of Tallahassee",
-      "neighborhood": "Lake Bradford Rd",
-      "startTime": "7:00 PM",
-      "hook": "Tallahassee's scariest haunted house runs 7 to 9 tonight; tickets $25 to $35.",
-      "url": "https://terroroftallahassee.com/",
-      "imageUrl": null,
-      "tags": [
-        "halloween",
-        "haunted house"
-      ]
+      "startTime": "8:30 PM",
+      "hook": "Cow Haus local-band showcase; doors at 8, $10 at the door for 21+.",
+      "url": "https://www.eventbrite.com/e/suffice-w-bite-marks-sleep-john-b-ceiling-at-926-bar-tickets-2001879899669",
+      "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194002954%2F287125414556%2F1%2Foriginal.20260921-125141?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.459&fp-y=0.082&s=e92aa0e5308cc0f14fc4921d3631912b",
+      "tags": ["live music", "local bands"]
     }
   ]
 }
