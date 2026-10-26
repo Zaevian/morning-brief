@@ -53,18 +53,18 @@
     "weatherNote": "Clear and sunny all day, cool this morning and pleasant by afternoon."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "On this day · October 25, 2001",
-    "title": "Windows XP turns 25 today",
-    "body": "Twenty-five years ago today, Windows XP went on sale in stores, after reaching manufacturing on August 24, 2001. The XP stood for \"experience,\" and it brought the two-column Start menu and the Luna look that a lot of people grew up on. The famous Bliss wallpaper is a real, unedited photograph: former National Geographic photographer Charles O'Rear shot those green hills near the Napa and Sonoma county line in January 1996 on a Mamiya RZ67 with Fujifilm Velvia film, which makes it one of the most widely seen photos ever taken. Microsoft kept XP supported until April 8, 2014, more than 12 years after launch, when its products normally get about 10, and unsupported systems like it are exactly the kind of security risk the A+ material warns about.",
+    "kind": "sky",
+    "eyebrow": "Look up · Full Moon, October 26, 2026",
+    "title": "The Hunter's Moon peaked just after midnight",
+    "body": "October's full moon, traditionally called the Hunter's Moon, was exactly full at 12:12 AM this morning and is still 99% lit. Right now it is sinking in the west over a clear sky and sets at 8:17 AM, so a quick look out a west-facing window before work catches it. Tonight it rises at 7:06 PM, but clouds look likely through the evening, and tomorrow night clears up again. By the time the ship sails on November 1 it will be a half-lit last quarter moon, rising late that night over open water.",
     "link": {
-      "label": "Wikipedia: Bliss, the Windows XP wallpaper photo",
-      "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)"
+      "label": "USNO: today's sun and moon times for Tallahassee",
+      "url": "https://aa.usno.navy.mil/calculated/rstt/oneday?date=2026-10-26&lat=30.44&lon=-84.28&label=Tallahassee&tz=4&tz_sign=-1&tz_label=false&dst=false&submit=Get+Data"
     },
     "source": {
-      "label": "Wikipedia On This Day feed and the Windows XP and Bliss articles",
-      "url": "https://en.wikipedia.org/wiki/Windows_XP"
+      "label": "U.S. Naval Observatory moon data and Open-Meteo cloud forecast",
+      "url": "https://aa.usno.navy.mil/data/MoonPhases"
     },
-    "accent": "#3b82f6"
+    "accent": "#f59e0b"
   }
 }
