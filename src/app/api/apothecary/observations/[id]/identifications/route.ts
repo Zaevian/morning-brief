@@ -2,9 +2,16 @@ import { q, newId, Row } from "@/lib/apothecary/db";
 import { handle, json, requireAdmin, body, HttpError } from "@/lib/apothecary/http";
 import { identificationHistory, loadCard } from "@/lib/apothecary/card";
 import { upsertReference } from "@/lib/apothecary/species";
+import { isAdmin } from "@/lib/apothecary/auth";
 export const dynamic = "force-dynamic";
 
-export const GET = handle(async (_req: Request, ctx: { params: Promise<{ id: string }> }) => json(await identificationHistory((await ctx.params).id)));
+/** Same visibility rule as /observations/[id] and /cards/[id]: a private observation's history needs the admin token. */
+export const GET = handle(async (req: Request, ctx: { params: Promise<{ id: string }> }) => {
+  const obsId = (await ctx.params).id;
+  const [o] = await q("SELECT is_public FROM apo_observations WHERE id=$1", [obsId]);
+  if (!o || (!o.is_public && !isAdmin(req))) throw new HttpError(404, "Not found");
+  return json(await identificationHistory(obsId));
+});
 
 /** Append a new identification revision (never edits old ones). Becomes the current one and re-links the observation's species. */
 export const POST = handle(async (req: Request, ctx: { params: Promise<{ id: string }> }) => {
