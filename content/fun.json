@@ -1,32 +1,12 @@
 {
   "mode": "week",
-  "range": { "start": "2026-10-26", "end": "2026-10-29", "label": "Mon-Thu, Oct 26-29, 2026" },
-  "updatedNote": "Monday drop from Diablo: Halloween week warm-up before the cruise.",
+  "range": {
+    "start": "2026-10-27",
+    "end": "2026-10-29",
+    "label": "Tue–Thu, Oct 27–29, 2026"
+  },
+  "updatedNote": "Tuesday drop from Diablo: Halloween week before the cruise.",
   "events": [
-    {
-      "id": "mon-edison-trivia-2026-10-26",
-      "title": "Live Trivia at The Edison",
-      "date": "2026-10-26",
-      "venue": "The Edison",
-      "neighborhood": "Cascades Park",
-      "startTime": "7:00 PM",
-      "hook": "Free weekly team trivia by the park, an easy Monday night win.",
-      "url": "https://challengeentertainment.com/show/the-edison-tallahassee-live-trivia/",
-      "imageUrl": "https://challengeentertainment.com/wp-content/uploads/2026/10/The-Edison.jpeg",
-      "tags": ["trivia", "free", "food"]
-    },
-    {
-      "id": "mon-acotar-midnight-release-2026-10-26",
-      "title": "ACOTAR Midnight Release Party",
-      "date": "2026-10-26",
-      "venue": "Love Story Book Co.",
-      "neighborhood": "Mahan Dr",
-      "startTime": "10:00 PM",
-      "hook": "Trivia and coloring counting down to the midnight release of ACOTAR 6; ticketed.",
-      "url": "https://www.lovestorybookco.com/events/acotar-midnight-release-party",
-      "imageUrl": "https://static1.squarespace.com/static/68868902b597995b8558c8bf/69712054ee20220a0b844449/69e1192ad147806f9fcef081/1776360502778/Guaging+Interest.png?format=1500w",
-      "tags": ["books", "late night", "trivia"]
-    },
     {
       "id": "tue-ology-jazz-jam-2026-10-27",
       "title": "Jazz Jam Session",
@@ -37,7 +17,43 @@
       "hook": "Local players trade solos over craft beer from 7 to 9.",
       "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-10-27-ui5sq7",
       "imageUrl": "https://media.musiclocal.org/tgYrlOMMZHegVx53e5bT7je70_qrtlqkkB6lq3U8FWc/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F154e5e57-8f10-48cc-b913-45ce30de368e.jpeg",
-      "tags": ["live music", "jazz", "brewery"]
+      "tags": [
+        "live music",
+        "jazz",
+        "brewery"
+      ]
+    },
+    {
+      "id": "tue-swing-band-legion-hall-2026-10-27",
+      "title": "Tuesday Night Dance: Tallahassee Swing Band",
+      "date": "2026-10-27",
+      "venue": "Legion Hall",
+      "neighborhood": "Lake Ella",
+      "startTime": "7:30 PM",
+      "hook": "A 20-piece swing band by Lake Ella, with a free dance lesson at 6:30; $10 at the door.",
+      "url": "https://musiclocal.org/events/tuesday-night-dance-at-legion-hall-2026-10-27-3xvzbv",
+      "imageUrl": "https://media.musiclocal.org/e9YWCAOBiK96VrvTgjkYohRWTcTJ5V-OIjuoxbdO3Q4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbc086136-72bd-4e2a-9147-55e278557024.jpeg",
+      "tags": [
+        "live music",
+        "dance",
+        "swing"
+      ]
+    },
+    {
+      "id": "tue-bluesday-blue-tavern-2026-10-27",
+      "title": "Bluesday Tuesday with Belmont & Jones",
+      "date": "2026-10-27",
+      "venue": "Blue Tavern",
+      "neighborhood": "North Monroe",
+      "startTime": "8:00 PM",
+      "hook": "Early-blues duo in a small neighborhood bar, a laid-back Tuesday nightcap.",
+      "url": "https://musiclocal.org/events/bluesday-tuesday-at-blue-tavern-2026-10-28-u2wq20",
+      "imageUrl": "https://media.musiclocal.org/xz-WWu0MwCtKL3aFQS7N17uC5piwJ7TGmmEVdYmy-WE/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Ff9a9092b-a384-48d8-bc8c-2d762a7c02e4.jpeg",
+      "tags": [
+        "live music",
+        "blues",
+        "bar"
+      ]
     },
     {
       "id": "wed-spooky-sips-nurseries-2026-10-28",
@@ -49,7 +65,11 @@
       "hook": "Halloween sips and a live set in the garden, minutes from home.",
       "url": "https://musiclocal.org/events/spooky-sips-at-tallahassee-nurseries-2026-10-28-t92naq",
       "imageUrl": "https://media.musiclocal.org/Y1t3NjtUYsTfwdjmIS7WRTfaeZ3SrhfJFYfXmHy8kzY/rs:fill:1200:1200/g:fp:0.5:0.49/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2Fa9469d1e-001e-45d8-b09d-4734e1d24b9d.jpeg",
-      "tags": ["halloween", "live music", "outdoors"]
+      "tags": [
+        "halloween",
+        "live music",
+        "outdoors"
+      ]
     },
     {
       "id": "wed-cdu-haunted-harvest-2026-10-28",
@@ -61,7 +81,27 @@
       "hook": "Carnival games, free food and ice cream, pumpkin decorating, and a costume contest.",
       "url": "https://calendar.fsu.edu/event/cdu-presents-haunted-harvest-9426",
       "imageUrl": "https://localist-images.azureedge.net/photos/54321302967327/huge/eb3400b1ac88c6ea40f3beeb4cf72adfabc1e0ae.jpg",
-      "tags": ["halloween", "campus", "free"]
+      "tags": [
+        "halloween",
+        "campus",
+        "free"
+      ]
+    },
+    {
+      "id": "wed-open-mic-blue-tavern-2026-10-28",
+      "title": "Open Mic with Doc Russell",
+      "date": "2026-10-28",
+      "venue": "Blue Tavern",
+      "neighborhood": "North Monroe",
+      "startTime": "7:00 PM",
+      "hook": "Sign up at 7 and draw a lottery slot, or just grab a drink and listen.",
+      "url": "https://musiclocal.org/events/open-mic-at-blue-tavern-2026-10-28-xnstvv",
+      "imageUrl": "https://media.musiclocal.org/dqF12_HCPeI3mWwF55xlspJLm5rsmGOUCheKxa9elQw/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F009ffc80-424b-11ef-87a8-435fc17d1e4d.jpeg",
+      "tags": [
+        "open mic",
+        "live music",
+        "bar"
+      ]
     },
     {
       "id": "thu-blu-halo-maurice-mangum-2026-10-29",
@@ -73,7 +113,26 @@
       "hook": "Easy dinner-hour set at the Blu Halo, 6 to 9.",
       "url": "https://musiclocal.org/events/maurice-mangum-at-the-blu-halo-2026-10-29-nfh8e2",
       "imageUrl": "https://media.musiclocal.org/c_ZJ2Tzr3dIyIErweBDTwFl0JoQztcDQkjLFA-OKC-o/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Ff9830ab0-45fa-11ef-9f37-85afe6dc766c.jpeg",
-      "tags": ["live music", "dinner"]
+      "tags": [
+        "live music",
+        "dinner"
+      ]
+    },
+    {
+      "id": "thu-haunted-garden-walk-maclay-2026-10-29",
+      "title": "Haunted Garden Walk at Maclay Gardens",
+      "date": "2026-10-29",
+      "venue": "Alfred B. Maclay Gardens State Park",
+      "neighborhood": "Thomasville Rd",
+      "startTime": "6:30 PM",
+      "hook": "A ranger-led spooky walk through the gardens, free with park entry; call the ranger station to RSVP.",
+      "url": "https://fun4tallykids.com/Whats-Happening/Spooky-Events/10/29-Haunted-Garden-Walk-at-Maclay-Gardens/View-details",
+      "imageUrl": "https://fun4tallykids.com/media/com_mtree/images/listings/s/11739.jpg",
+      "tags": [
+        "halloween",
+        "outdoors",
+        "free"
+      ]
     },
     {
       "id": "thu-fsu-circus-halloween-2026-10-29",
@@ -85,7 +144,11 @@
       "hook": "Zombies dancing and skeletons flying in FSU's spooky, family-friendly circus; gates at 6.",
       "url": "https://circus.fsu.edu/performances",
       "imageUrl": "https://www.fsu.edu/sites/default/files/global/FSU-Westcott-Global.jpg",
-      "tags": ["halloween", "campus", "show"]
+      "tags": [
+        "halloween",
+        "campus",
+        "show"
+      ]
     },
     {
       "id": "thu-926-suffice-showcase-2026-10-29",
@@ -97,7 +160,10 @@
       "hook": "Cow Haus local-band showcase; doors at 8, $10 at the door for 21+.",
       "url": "https://www.eventbrite.com/e/suffice-w-bite-marks-sleep-john-b-ceiling-at-926-bar-tickets-2001879899669",
       "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194002954%2F287125414556%2F1%2Foriginal.20260921-125141?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.459&fp-y=0.082&s=e92aa0e5308cc0f14fc4921d3631912b",
-      "tags": ["live music", "local bands"]
+      "tags": [
+        "live music",
+        "local bands"
+      ]
     }
   ]
 }
