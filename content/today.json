@@ -53,17 +53,17 @@
     "weatherNote": "Mostly cloudy and dry today with a high near 77F, no rain expected, and a cool low near 59F tonight."
   },
   "surprise": {
-    "kind": "sky",
-    "eyebrow": "Look up · Full Moon, October 26, 2026",
-    "title": "The Hunter's Moon peaked just after midnight",
-    "body": "October's full moon, traditionally called the Hunter's Moon, was exactly full at 12:12 AM this morning and is still 99% lit. Right now it is sinking in the west over a clear sky and sets at 8:17 AM, so a quick look out a west-facing window before work catches it. Tonight it rises at 7:06 PM, but clouds look likely through the evening, and tomorrow night clears up again. By the time the ship sails on November 1 it will be a half-lit last quarter moon, rising late that night over open water.",
+    "kind": "golden-hour",
+    "eyebrow": "Golden hour · Tuesday, October 27, 2026",
+    "title": "Tonight's light is perfect from about 6:20 to 6:54 PM",
+    "body": "The sun sets at 6:54 PM in Tallahassee tonight, and the warm, low golden light starts around 6:20 PM. The forecast shows clear skies through the whole window with no rain chance, and it should be about 75°F at 6 PM, cooling to about 71°F by 7. Blue hour follows from roughly 7:09 to 7:18 PM, which is the soft, even light that flatters grad portraits. With the ship sailing in five days, this is one of the last clear evenings to grab a Grad Arena shot or simply enjoy a sunset at home before the trip.",
     "link": {
-      "label": "USNO: today's sun and moon times for Tallahassee",
-      "url": "https://aa.usno.navy.mil/calculated/rstt/oneday?date=2026-10-26&lat=30.44&lon=-84.28&label=Tallahassee&tz=4&tz_sign=-1&tz_label=false&dst=false&submit=Get+Data"
+      "label": "Sunrise-Sunset.org: today's sun times for Tallahassee",
+      "url": "https://sunrise-sunset.org/us/tallahassee-fl"
     },
     "source": {
-      "label": "U.S. Naval Observatory moon data and Open-Meteo cloud forecast",
-      "url": "https://aa.usno.navy.mil/data/MoonPhases"
+      "label": "Sunrise-Sunset.org sun times and Open-Meteo hourly forecast",
+      "url": "https://open-meteo.com/"
     },
     "accent": "#f59e0b"
   }
