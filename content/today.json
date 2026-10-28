@@ -53,18 +53,18 @@
     "weatherNote": "Clear and dry, starting near 56F this morning with a high near 79F and no rain expected. Sunset is 6:54 PM, with golden light from about 6:20 PM."
   },
   "surprise": {
-    "kind": "golden-hour",
-    "eyebrow": "Golden hour · Tuesday, October 27, 2026",
-    "title": "Tonight's light is perfect from about 6:20 to 6:54 PM",
-    "body": "The sun sets at 6:54 PM in Tallahassee tonight, and the warm, low golden light starts around 6:20 PM. The forecast shows clear skies through the whole window with no rain chance, and it should be about 75°F at 6 PM, cooling to about 71°F by 7. Blue hour follows from roughly 7:09 to 7:18 PM, which is the soft, even light that flatters grad portraits. With the ship sailing in five days, this is one of the last clear evenings to grab a Grad Arena shot or simply enjoy a sunset at home before the trip.",
+    "kind": "port",
+    "eyebrow": "Port preview · Wednesday, October 28, 2026",
+    "title": "Cozumel means \"the island of swallows\"",
+    "body": "Your one shore day is Tuesday, November 3, when the ship is scheduled in Cozumel from about 8:00 AM to 4:00 PM. The name comes from the Maya \"Cuzamil,\" the island of swallows, which is why a swallow sits on the island's flag today. From about 1250 CE, Maya merchants and pilgrims sailed there to honor Ixchel, a goddess of the moon, childbirth, and weaving. The reefs around the island belong to the Mesoamerican Barrier Reef, the second largest reef system in the world at over 620 miles long, and they shelter more than 1,000 marine species. That is why Cozumel is counted among the best scuba-diving spots anywhere. Four days to sailing.",
     "link": {
-      "label": "Sunrise-Sunset.org: today's sun times for Tallahassee",
-      "url": "https://sunrise-sunset.org/us/tallahassee-fl"
+      "label": "Wikipedia: Cozumel history and reefs",
+      "url": "https://en.wikipedia.org/wiki/Cozumel"
     },
     "source": {
-      "label": "Sunrise-Sunset.org sun times and Open-Meteo hourly forecast",
-      "url": "https://open-meteo.com/"
+      "label": "Wikipedia (Cozumel) and the public Carnival Paradise itinerary",
+      "url": "https://en.wikipedia.org/wiki/Cozumel"
     },
-    "accent": "#f59e0b"
+    "accent": "#0ea5e9"
   }
 }
