@@ -1,60 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-10-27",
+    "start": "2026-10-28",
     "end": "2026-10-29",
-    "label": "Tue–Thu, Oct 27–29, 2026"
+    "label": "Wed–Thu, Oct 28–29, 2026"
   },
-  "updatedNote": "Tuesday drop from Diablo: Halloween week before the cruise.",
+  "updatedNote": "Wednesday drop from Diablo: two Halloween-week nights before the cruise.",
   "events": [
-    {
-      "id": "tue-ology-jazz-jam-2026-10-27",
-      "title": "Jazz Jam Session",
-      "date": "2026-10-27",
-      "venue": "Ology Brewing Co. (Midtown)",
-      "neighborhood": "Midtown",
-      "startTime": "7:00 PM",
-      "hook": "Local players trade solos over craft beer from 7 to 9.",
-      "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-10-27-ui5sq7",
-      "imageUrl": "https://media.musiclocal.org/tgYrlOMMZHegVx53e5bT7je70_qrtlqkkB6lq3U8FWc/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F154e5e57-8f10-48cc-b913-45ce30de368e.jpeg",
-      "tags": [
-        "live music",
-        "jazz",
-        "brewery"
-      ]
-    },
-    {
-      "id": "tue-swing-band-legion-hall-2026-10-27",
-      "title": "Tuesday Night Dance: Tallahassee Swing Band",
-      "date": "2026-10-27",
-      "venue": "Legion Hall",
-      "neighborhood": "Lake Ella",
-      "startTime": "7:30 PM",
-      "hook": "A 20-piece swing band by Lake Ella, with a free dance lesson at 6:30; $10 at the door.",
-      "url": "https://musiclocal.org/events/tuesday-night-dance-at-legion-hall-2026-10-27-3xvzbv",
-      "imageUrl": "https://media.musiclocal.org/e9YWCAOBiK96VrvTgjkYohRWTcTJ5V-OIjuoxbdO3Q4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fbc086136-72bd-4e2a-9147-55e278557024.jpeg",
-      "tags": [
-        "live music",
-        "dance",
-        "swing"
-      ]
-    },
-    {
-      "id": "tue-bluesday-blue-tavern-2026-10-27",
-      "title": "Bluesday Tuesday with Belmont & Jones",
-      "date": "2026-10-27",
-      "venue": "Blue Tavern",
-      "neighborhood": "North Monroe",
-      "startTime": "8:00 PM",
-      "hook": "Early-blues duo in a small neighborhood bar, a laid-back Tuesday nightcap.",
-      "url": "https://musiclocal.org/events/bluesday-tuesday-at-blue-tavern-2026-10-28-u2wq20",
-      "imageUrl": "https://media.musiclocal.org/xz-WWu0MwCtKL3aFQS7N17uC5piwJ7TGmmEVdYmy-WE/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Ff9a9092b-a384-48d8-bc8c-2d762a7c02e4.jpeg",
-      "tags": [
-        "live music",
-        "blues",
-        "bar"
-      ]
-    },
     {
       "id": "wed-spooky-sips-nurseries-2026-10-28",
       "title": "Spooky Sips with Double Play",
