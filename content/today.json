@@ -1,7 +1,7 @@
 {
-  "greeting": "Good morning, Zae. Tuesday is clear and dry in Tallahassee with a high near 79F, your calendar is just the usual supplements, and the cruise is now 5 days out.",
-  "date": "2026-10-27",
-  "dateDisplay": "Tuesday, October 27, 2026",
+  "greeting": "Good morning, Zae. Wednesday looks pleasant and dry in Tallahassee with a high near 79F, your calendar is just the usual supplements, and the ship sails in 4 days.",
+  "date": "2026-10-28",
+  "dateDisplay": "Wednesday, October 28, 2026",
   "calendar": {
     "note": "Supplements only",
     "events": [
@@ -20,17 +20,17 @@
     ]
   },
   "projectMove": {
-    "title": "A+ Academy: finish the Core 1 troubleshooting pass before the trip",
-    "body": "Yesterday the site picked up real Core 1 lesson content on page one, plus the Virtualization domain growing to 90 questions, and all of it is live. The one open piece is Miyuki's second pass on Domain 5, Troubleshooting, along with her Virtualization audit. Getting both reviewed and merged this week means the course is in a clean, finished state before you board on Saturday."
+    "title": "A+ Academy: close out the Core 1 second passes before Saturday",
+    "body": "The course is in good shape after this week's merges, with real Core 1 content on lesson one and the Virtualization domain at 90 questions. The remaining work is Miyuki's Troubleshooting second pass, which is open for review, and her Virtualization audit. Tomorrow's midweek ship check is the natural moment to review and merge both, so the course is finished and stable while you are at sea."
   },
   "tip": {
-    "title": "Keep your boarding pass on your phone offline",
-    "body": "Check-in is done, with boarding group C02 and an 11:00 to 11:30 AM arrival in Tampa. Save the boarding pass PDF to your phone's files and keep your passport card with it, so port day does not depend on cell signal or an app login at the terminal."
+    "title": "Put your phone in airplane mode once the ship leaves Tampa",
+    "body": "Ships at sea connect phones to an onboard cellular network that bills as international roaming, and background app refresh alone can run up a surprising charge. Switch to airplane mode with Wi-Fi on as you sail away, and use the ship's Wi-Fi or the Carnival app instead. It is worth a quick look at your carrier's cruise roaming terms before Saturday."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-11-01",
-    "label": "5 days"
+    "label": "4 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -40,17 +40,17 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-27T06:55:00-04:00",
+    "asOf": "2026-10-28T06:55:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Tracking is not ready yet: the analytics connection could not read Grad Arena traffic this morning, so counts are left blank rather than guessed."
+    "note": "Tracking is not ready yet: the analytics connection still lacks access to the Grad Arena team, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "The trip runs October 31 to November 5. The Tallahassee bus leaves the night of October 31, the ship sails from Tampa on November 1, and Cozumel on November 3 (about 8:00 AM to 4:00 PM) is the one shore day. Express Debarkation is a separate step set for November 4.",
-    "weatherNote": "Clear and dry, starting near 56F this morning with a high near 79F and no rain expected. Sunset is 6:54 PM, with golden light from about 6:20 PM."
+    "cruiseNote": "The trip runs October 31 to November 5. The Tallahassee bus leaves Saturday night, October 31, the ship sails from Tampa on November 1 with an 11:00 to 11:30 AM arrival and boarding group C02, and Cozumel on November 3 (about 8:00 AM to 4:00 PM) is the one shore day.",
+    "weatherNote": "Partly cloudy and cool to start, near 60F this morning, warming to a high near 79F with almost no chance of rain."
   },
   "surprise": {
     "kind": "port",
