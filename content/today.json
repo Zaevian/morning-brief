@@ -53,18 +53,18 @@
     "weatherNote": "Partly cloudy and cool to start, near 60F this morning, warming to a high near 79F with almost no chance of rain."
   },
   "surprise": {
-    "kind": "port",
-    "eyebrow": "Port preview · Wednesday, October 28, 2026",
-    "title": "Cozumel means \"the island of swallows\"",
-    "body": "Your one shore day is Tuesday, November 3, when the ship is scheduled in Cozumel from about 8:00 AM to 4:00 PM. The name comes from the Maya \"Cuzamil,\" the island of swallows, which is why a swallow sits on the island's flag today. From about 1250 CE, Maya merchants and pilgrims sailed there to honor Ixchel, a goddess of the moon, childbirth, and weaving. The reefs around the island belong to the Mesoamerican Barrier Reef, the second largest reef system in the world at over 620 miles long, and they shelter more than 1,000 marine species. That is why Cozumel is counted among the best scuba-diving spots anywhere. Four days to sailing.",
+    "kind": "on-this-day",
+    "eyebrow": "On this day · Thursday, October 29, 2026",
+    "title": "The internet's first word was \"lo\"",
+    "body": "At 10:30 PM Pacific on October 29, 1969, UCLA student programmer Charley Kline tried to log in to a computer at the Stanford Research Institute over the brand-new ARPANET. He got two letters through, \"l\" and \"o,\" before the Stanford machine crashed. About an hour later, after SRI programmer Bill Duvall adjusted it, the full login worked, and that was the first host-to-host connection on the network that grew into the internet. Telnet and FTP, the remote login and file transfer protocols you meet in A+ networking, were among the first things built on top of it. Same date, 1998: John Glenn flew on Space Shuttle Discovery at age 77, the oldest person ever to reach Earth orbit. Three days to sailing.",
     "link": {
-      "label": "Wikipedia: Cozumel history and reefs",
-      "url": "https://en.wikipedia.org/wiki/Cozumel"
+      "label": "Wikipedia: ARPANET",
+      "url": "https://en.wikipedia.org/wiki/ARPANET"
     },
     "source": {
-      "label": "Wikipedia (Cozumel) and the public Carnival Paradise itinerary",
-      "url": "https://en.wikipedia.org/wiki/Cozumel"
+      "label": "Wikipedia (ARPANET, John Glenn) and the Wikimedia On This Day feed",
+      "url": "https://en.wikipedia.org/wiki/ARPANET"
     },
-    "accent": "#0ea5e9"
+    "accent": "#22c55e"
   }
 }
