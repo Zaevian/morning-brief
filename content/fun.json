@@ -1,73 +1,251 @@
 {
-  "mode": "week",
+  "mode": "weekend",
   "range": {
-    "start": "2026-10-29",
-    "end": "2026-10-29",
-    "label": "Thu, Oct 29, 2026"
+    "start": "2026-10-30",
+    "end": "2026-11-01",
+    "label": "Fri–Sun, Oct 30 – Nov 1, 2026"
   },
-  "updatedNote": "Thursday drop from Diablo: Halloween-week picks for tonight, the last free night before the cruise weekend.",
+  "updatedNote": "Halloween weekend from Chika: Fri Oct 30 – Sun Nov 1; default card art (no verified image URLs).",
   "events": [
     {
-      "id": "thu-blu-halo-maurice-mangum-2026-10-29",
-      "title": "Maurice Mangum Live",
-      "date": "2026-10-29",
-      "venue": "The Blu Halo",
-      "neighborhood": "Bannerman Rd",
-      "startTime": "6:00 PM",
-      "hook": "Easy dinner-hour set at the Blu Halo, 6 to 9.",
-      "url": "https://musiclocal.org/events/maurice-mangum-at-the-blu-halo-2026-10-29-nfh8e2",
-      "imageUrl": "https://media.musiclocal.org/c_ZJ2Tzr3dIyIErweBDTwFl0JoQztcDQkjLFA-OKC-o/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Ff9830ab0-45fa-11ef-9f37-85afe6dc766c.jpeg",
+      "id": "fri-cascades-spooktacular-2026-10-30",
+      "title": "Halloween Symphony Spooktacular (Tallahassee Symphony Orchestra)",
+      "day": "Fri",
+      "date": "2026-10-30",
+      "startTime": "6:00 PM trick-or-treat, 7:30 PM concert",
+      "venue": "Adderley Amphitheater at Cascades Park",
+      "hook": "Free costumed orchestra concert with food trucks; $5 VIP seats available.",
+      "url": "https://visittallahassee.com/events/free-halloween-symphony-spooktacular/",
+      "imageUrl": null,
       "tags": [
         "live music",
-        "dinner"
-      ]
-    },
-    {
-      "id": "thu-haunted-garden-walk-maclay-2026-10-29",
-      "title": "Haunted Garden Walk at Maclay Gardens",
-      "date": "2026-10-29",
-      "venue": "Alfred B. Maclay Gardens State Park",
-      "neighborhood": "Thomasville Rd",
-      "startTime": "6:30 PM",
-      "hook": "A ranger-led spooky walk through the gardens, free with park entry; call the ranger station to RSVP.",
-      "url": "https://fun4tallykids.com/Whats-Happening/Spooky-Events/10/29-Haunted-Garden-Walk-at-Maclay-Gardens/View-details",
-      "imageUrl": "https://fun4tallykids.com/media/com_mtree/images/listings/s/11739.jpg",
-      "tags": [
+        "free",
         "halloween",
-        "outdoors",
-        "free"
-      ]
+        "outdoor"
+      ],
+      "sample": false
     },
     {
-      "id": "thu-fsu-circus-halloween-2026-10-29",
-      "title": "FSU Flying High Circus: Halloween Show",
-      "date": "2026-10-29",
-      "venue": "FSU Circus Big Top",
-      "neighborhood": "FSU campus",
-      "startTime": "7:00 PM",
-      "hook": "Zombies dancing and skeletons flying in FSU's spooky, family-friendly circus; gates at 6.",
-      "url": "https://circus.fsu.edu/performances",
-      "imageUrl": "https://www.fsu.edu/sites/default/files/global/FSU-Westcott-Global.jpg",
-      "tags": [
-        "halloween",
-        "campus",
-        "show"
-      ]
-    },
-    {
-      "id": "thu-926-suffice-showcase-2026-10-29",
-      "title": "Suffice, Bite Marks, Sleep John B, Ceiling",
-      "date": "2026-10-29",
-      "venue": "926 Bar & Grill",
-      "neighborhood": "Tharpe St",
-      "startTime": "8:30 PM",
-      "hook": "Cow Haus local-band showcase; doors at 8, $10 at the door for 21+.",
-      "url": "https://www.eventbrite.com/e/suffice-w-bite-marks-sleep-john-b-ceiling-at-926-bar-tickets-2001879899669",
-      "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194002954%2F287125414556%2F1%2Foriginal.20260921-125141?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.459&fp-y=0.082&s=e92aa0e5308cc0f14fc4921d3631912b",
+      "id": "fri-collegetown-drivin-n-cryin-2026-10-30",
+      "title": "CollegeTown Block Party: Drivin N Cryin",
+      "day": "Fri",
+      "date": "2026-10-30",
+      "startTime": "6:00–10:00 PM",
+      "venue": "FSU CollegeTown, 805 W Madison St",
+      "hook": "Free outdoor rock show the night before FSU vs. Clemson.",
+      "url": "https://musiclocal.org/events/fsu-collegetown-block-party-at-fsu-collegetown-at-madison-st-2026-10-30-nl2h54",
+      "imageUrl": null,
       "tags": [
         "live music",
-        "local bands"
-      ]
+        "free",
+        "gameday",
+        "outdoor"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-frenchtown-rising-2026-10-30",
+      "title": "Frenchtown Rising",
+      "day": "Fri",
+      "date": "2026-10-30",
+      "startTime": "6:00–10:00 PM",
+      "venue": "Georgia & Macomb St, Frenchtown",
+      "hook": "Free block party with live music and food vendors before the FAMU home game.",
+      "url": "https://visittallahassee.com/events/frenchtown-rising-oct-30/",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "free",
+        "food",
+        "gameday"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-blue-tavern-jazzmatazz-2026-10-30",
+      "title": "Jazzmatazz: Samantha Carston with the Michael Bakan Trio",
+      "day": "Fri",
+      "date": "2026-10-30",
+      "startTime": "8:00–11:00 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Blues-rooted vocalist with a top jazz trio; $10 cover.",
+      "url": "https://musiclocal.org/events/jazzmatazz-presents-at-blue-tavern-2026-10-30-u3v6u0",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "jazz",
+        "blues"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-fsu-opera-of-mice-and-men-2026-10-30",
+      "title": "FSU Opera: Carlisle Floyd's Of Mice and Men",
+      "day": "Fri",
+      "date": "2026-10-30",
+      "startTime": "7:30 PM",
+      "venue": "Ruby Diamond Concert Hall",
+      "hook": "Centennial production of Floyd's opera; also Sun at 3 PM.",
+      "url": "https://music.fsu.edu/2026/10/23/fsu-opera-celebrates-carlisle-floyd-centennial-with-of-mice-and-men/",
+      "imageUrl": null,
+      "tags": [
+        "opera",
+        "arts"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-downtown-market-2026-10-31",
+      "title": "Tallahassee Downtown Market",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "startTime": "9:00 AM–1:00 PM",
+      "venue": "Ponce de Leon Park, 127 E Park Ave",
+      "hook": "Local artists, craft vendors and food trucks.",
+      "url": "https://tallahasseean.com/events/tallahassee-downtown-market/01m5cqvsbmyjr2nq82dcqvg6sj/2026-10-31",
+      "imageUrl": null,
+      "tags": [
+        "market",
+        "food",
+        "outdoor"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-yard-tlh-tallyween-2026-10-31",
+      "title": "WACK Tallyween Part I: Pet Alcoholics, Taint, Backwards Driving + more",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "startTime": "1:00 PM (doors 12:30)",
+      "venue": "The Yard TLH, 1901 Dahlia Dr",
+      "hook": "Daytime DIY punk/indie Halloween show; $10, costumes encouraged.",
+      "url": "https://musiclocal.org/events/tallyween-part-i-at-the-yard-tlh-2026-10-31-0h99yv",
+      "imageUrl": null,
+      "tags": [
+        "DIY",
+        "live music",
+        "halloween"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-bark-halloween-cover-show-2026-10-31",
+      "title": "Halloween Cover Show 2026",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "startTime": "7:30 PM (doors 7)",
+      "venue": "The Bark, 507 All Saints St",
+      "hook": "Six local bands covering Panda Bear, L7, The Stooges, Local H, Type O Negative, Michael Hurley; $5 benefits Food Not Bombs.",
+      "url": "https://musiclocal.org/events/the-halloween-cover-show-at-the-bark-2026-10-31-fzinrn",
+      "imageUrl": null,
+      "tags": [
+        "DIY",
+        "live music",
+        "halloween",
+        "cheap"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-blue-tavern-pineapple-tuesday-2026-10-31",
+      "title": "Pineapple Tuesday Halloween Spooktacular + Vinyl Club",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "startTime": "Vinyl 6–11 PM, band 8 PM, costume contest 9 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Free courtyard costume party with a themed band set.",
+      "url": "https://musiclocal.org/events/double-trouble-halloween-at-blue-tavern-2026-10-31-uloamo",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "free",
+        "halloween"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-legion-hall-bog-lilies-2026-10-31",
+      "title": "Halloween Party with the Bog Lilies",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "startTime": "7:30–11:00 PM",
+      "venue": "Legion Hall, 229 Lake Ella Dr",
+      "hook": "Dance party and costume contest; $15 at the door.",
+      "url": "https://musiclocal.org/events/halloween-party-with-the-bog-lilies-at-legion-hall-2026-10-31-ycoxml",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "halloween",
+        "dance"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-terror-of-tallahassee-2026-10-31",
+      "title": "Terror of Tallahassee haunted house",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "startTime": "8:00–11:00 PM (also Fri 7–9, Sun 8–10)",
+      "venue": "1408 Lake Bradford Rd",
+      "hook": "Tallahassee's big haunted house on Halloween night; $25–35.",
+      "url": "https://terroroftallahassee.com",
+      "imageUrl": null,
+      "tags": [
+        "halloween",
+        "haunted house"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-feather-oaks-sunday-funday-2026-11-01",
+      "title": "Sunday Funday: Uprising Unplugged + farmers market",
+      "day": "Sun",
+      "date": "2026-11-01",
+      "startTime": "11 AM–8 PM; music 3–6 PM",
+      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
+      "hook": "Outdoor hangout with Rustic Grub food, acoustic reggae and a market.",
+      "url": "https://www.thehubatfeatheroaks.com/event-details/sunday-funday-4",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "food",
+        "market",
+        "outdoor"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-eve-on-adams-brunch-2026-11-01",
+      "title": "Eve on Adams Rooftop Sunday Brunch",
+      "day": "Sun",
+      "date": "2026-11-01",
+      "startTime": "11:00 AM–2:30 PM",
+      "venue": "Eve on Adams, 101 S Adams St (17th floor)",
+      "hook": "Once-a-month rooftop brunch over downtown.",
+      "url": "https://www.eoatally.com/upcoming-events",
+      "imageUrl": null,
+      "tags": [
+        "food",
+        "brunch",
+        "rooftop"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-fsu-opera-of-mice-and-men-2026-11-01",
+      "title": "FSU Opera: Of Mice and Men (matinee)",
+      "day": "Sun",
+      "date": "2026-11-01",
+      "startTime": "3:00 PM",
+      "venue": "Ruby Diamond Concert Hall",
+      "hook": "Second and final performance of the Floyd centennial production.",
+      "url": "https://music.fsu.edu/2026/10/23/fsu-opera-celebrates-carlisle-floyd-centennial-with-of-mice-and-men/",
+      "imageUrl": null,
+      "tags": [
+        "opera",
+        "arts"
+      ],
+      "sample": false
     }
   ]
 }
