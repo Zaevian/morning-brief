@@ -1,7 +1,7 @@
 {
-  "greeting": "Good morning, Zae. Wednesday looks pleasant and dry in Tallahassee with a high near 79F, your calendar is just the usual supplements, and the ship sails in 4 days.",
-  "date": "2026-10-28",
-  "dateDisplay": "Wednesday, October 28, 2026",
+  "greeting": "Good morning, Zae. Thursday in Tallahassee looks dry and pleasant with a high near 81F, your calendar is just the usual supplements, and the ship sails in 3 days.",
+  "date": "2026-10-29",
+  "dateDisplay": "Thursday, October 29, 2026",
   "calendar": {
     "note": "Supplements only",
     "events": [
@@ -20,17 +20,17 @@
     ]
   },
   "projectMove": {
-    "title": "A+ Academy: close out the Core 1 second passes before Saturday",
-    "body": "The course is in good shape after this week's merges, with real Core 1 content on lesson one and the Virtualization domain at 90 questions. The remaining work is Miyuki's Troubleshooting second pass, which is open for review, and her Virtualization audit. Tomorrow's midweek ship check is the natural moment to review and merge both, so the course is finished and stable while you are at sea."
+    "title": "A+ Academy midweek ship check, then keep Arena moving",
+    "body": "Today's midweek ship check is the moment to review Miyuki's open Core 1 Troubleshooting pass and the Virtualization audit so the course is stable before you leave for the cruise. Overnight, Testarossa resumed Phase 23 of the Arena Battlegrounds remake on Sol Max after the usage reset; she will keep pulling the next phases on her own and report finishes through me."
   },
   "tip": {
-    "title": "Put your phone in airplane mode once the ship leaves Tampa",
-    "body": "Ships at sea connect phones to an onboard cellular network that bills as international roaming, and background app refresh alone can run up a surprising charge. Switch to airplane mode with Wi-Fi on as you sail away, and use the ship's Wi-Fi or the Carnival app instead. It is worth a quick look at your carrier's cruise roaming terms before Saturday."
+    "title": "Do a dry-pack pass with the new Dockers duffel tonight",
+    "body": "You bought the 22-inch rolling Dockers duffel for this trip, so one quick layout of clothes, toiletries, and the boarding-pass PDF tonight will show whether everything fits before Saturday's Tallahassee bus. Keep the Carnival boarding group C02 details and the Cozumel shore day in mind while you pack so day-three clothes are easy to grab."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-11-01",
-    "label": "4 days"
+    "label": "3 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -40,7 +40,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-28T06:55:00-04:00",
+    "asOf": "2026-10-29T06:50:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -50,7 +50,7 @@
   },
   "extras": {
     "cruiseNote": "The trip runs October 31 to November 5. The Tallahassee bus leaves Saturday night, October 31, the ship sails from Tampa on November 1 with an 11:00 to 11:30 AM arrival and boarding group C02, and Cozumel on November 3 (about 8:00 AM to 4:00 PM) is the one shore day.",
-    "weatherNote": "Partly cloudy and cool to start, near 60F this morning, warming to a high near 79F with almost no chance of rain."
+    "weatherNote": "Mostly clear and mild this morning near 63F, warming to a high near 81F with almost no chance of rain."
   },
   "surprise": {
     "kind": "on-this-day",
