@@ -1,60 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-10-28",
+    "start": "2026-10-29",
     "end": "2026-10-29",
-    "label": "Wed–Thu, Oct 28–29, 2026"
+    "label": "Thu, Oct 29, 2026"
   },
-  "updatedNote": "Wednesday drop from Diablo: two Halloween-week nights before the cruise.",
+  "updatedNote": "Thursday drop from Diablo: Halloween-week picks for tonight, the last free night before the cruise weekend.",
   "events": [
-    {
-      "id": "wed-spooky-sips-nurseries-2026-10-28",
-      "title": "Spooky Sips with Double Play",
-      "date": "2026-10-28",
-      "venue": "Tallahassee Nurseries",
-      "neighborhood": "Thomasville Rd",
-      "startTime": "5:45 PM",
-      "hook": "Halloween sips and a live set in the garden, minutes from home.",
-      "url": "https://musiclocal.org/events/spooky-sips-at-tallahassee-nurseries-2026-10-28-t92naq",
-      "imageUrl": "https://media.musiclocal.org/Y1t3NjtUYsTfwdjmIS7WRTfaeZ3SrhfJFYfXmHy8kzY/rs:fill:1200:1200/g:fp:0.5:0.49/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2Fa9469d1e-001e-45d8-b09d-4734e1d24b9d.jpeg",
-      "tags": [
-        "halloween",
-        "live music",
-        "outdoors"
-      ]
-    },
-    {
-      "id": "wed-cdu-haunted-harvest-2026-10-28",
-      "title": "CDU Presents: Haunted Harvest",
-      "date": "2026-10-28",
-      "venue": "FSU Union Green",
-      "neighborhood": "FSU campus",
-      "startTime": "7:00 PM",
-      "hook": "Carnival games, free food and ice cream, pumpkin decorating, and a costume contest.",
-      "url": "https://calendar.fsu.edu/event/cdu-presents-haunted-harvest-9426",
-      "imageUrl": "https://localist-images.azureedge.net/photos/54321302967327/huge/eb3400b1ac88c6ea40f3beeb4cf72adfabc1e0ae.jpg",
-      "tags": [
-        "halloween",
-        "campus",
-        "free"
-      ]
-    },
-    {
-      "id": "wed-open-mic-blue-tavern-2026-10-28",
-      "title": "Open Mic with Doc Russell",
-      "date": "2026-10-28",
-      "venue": "Blue Tavern",
-      "neighborhood": "North Monroe",
-      "startTime": "7:00 PM",
-      "hook": "Sign up at 7 and draw a lottery slot, or just grab a drink and listen.",
-      "url": "https://musiclocal.org/events/open-mic-at-blue-tavern-2026-10-28-xnstvv",
-      "imageUrl": "https://media.musiclocal.org/dqF12_HCPeI3mWwF55xlspJLm5rsmGOUCheKxa9elQw/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F009ffc80-424b-11ef-87a8-435fc17d1e4d.jpeg",
-      "tags": [
-        "open mic",
-        "live music",
-        "bar"
-      ]
-    },
     {
       "id": "thu-blu-halo-maurice-mangum-2026-10-29",
       "title": "Maurice Mangum Live",
