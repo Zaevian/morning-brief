@@ -1,7 +1,7 @@
 {
-  "greeting": "Good morning, Zae. Thursday in Tallahassee looks dry and pleasant with a high near 81F, your calendar is just the usual supplements, and the ship sails in 3 days.",
-  "date": "2026-10-29",
-  "dateDisplay": "Thursday, October 29, 2026",
+  "greeting": "Good morning, Zae. Friday in Tallahassee looks dry and mild with a high near 81F, your calendar is the usual supplements, and the ship sails in 2 days.",
+  "date": "2026-10-30",
+  "dateDisplay": "Friday, October 30, 2026",
   "calendar": {
     "note": "Supplements only",
     "events": [
@@ -20,17 +20,17 @@
     ]
   },
   "projectMove": {
-    "title": "A+ Academy midweek ship check, then keep Arena moving",
-    "body": "Today's midweek ship check is the moment to review Miyuki's open Core 1 Troubleshooting pass and the Virtualization audit so the course is stable before you leave for the cruise. Overnight, Testarossa resumed Phase 23 of the Arena Battlegrounds remake on Sol Max after the usage reset; she will keep pulling the next phases on her own and report finishes through me."
+    "title": "Keep Arena Phase 24 rolling, then lock the cruise bag",
+    "body": "Phase 24 of the Arena Battlegrounds remake is still incomplete and running on Sol Max after overnight usage resets; Testarossa keeps resuming on her own and reports finishes through me. With the Tallahassee bus leaving tomorrow night, today is the last quiet weekday to finish packing and confirm the Carnival boarding PDF is on your phone."
   },
   "tip": {
-    "title": "Do a dry-pack pass with the new Dockers duffel tonight",
-    "body": "You bought the 22-inch rolling Dockers duffel for this trip, so one quick layout of clothes, toiletries, and the boarding-pass PDF tonight will show whether everything fits before Saturday's Tallahassee bus. Keep the Carnival boarding group C02 details and the Cozumel shore day in mind while you pack so day-three clothes are easy to grab."
+    "title": "Put boarding group C02 and the Cozumel day clothes where you can grab them",
+    "body": "Tomorrow night is the Tallahassee bus, then Tampa embark on Sunday with boarding group C02 and an 11:00 to 11:30 AM arrival window. Keep the boarding-pass PDF, ID, and Cozumel shore-day clothes in one easy pocket of the Dockers duffel so you are not digging through the bag at the terminal."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-11-01",
-    "label": "3 days"
+    "label": "2 days"
   },
   "weather": {
     "lat": 30.4383,
@@ -40,7 +40,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-29T06:50:00-04:00",
+    "asOf": "2026-10-30T06:53:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -50,7 +50,7 @@
   },
   "extras": {
     "cruiseNote": "The trip runs October 31 to November 5. The Tallahassee bus leaves Saturday night, October 31, the ship sails from Tampa on November 1 with an 11:00 to 11:30 AM arrival and boarding group C02, and Cozumel on November 3 (about 8:00 AM to 4:00 PM) is the one shore day.",
-    "weatherNote": "Mostly clear and mild this morning near 63F, warming to a high near 81F with almost no chance of rain."
+    "weatherNote": "Clear and mild this morning near 65F, warming to a high near 81F with almost no chance of rain."
   },
   "surprise": {
     "kind": "show",
