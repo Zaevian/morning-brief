@@ -53,18 +53,18 @@
     "weatherNote": "Mostly clear and mild this morning near 63F, warming to a high near 81F with almost no chance of rain."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "On this day · Thursday, October 29, 2026",
-    "title": "The internet's first word was \"lo\"",
-    "body": "At 10:30 PM Pacific on October 29, 1969, UCLA student programmer Charley Kline tried to log in to a computer at the Stanford Research Institute over the brand-new ARPANET. He got two letters through, \"l\" and \"o,\" before the Stanford machine crashed. About an hour later, after SRI programmer Bill Duvall adjusted it, the full login worked, and that was the first host-to-host connection on the network that grew into the internet. Telnet and FTP, the remote login and file transfer protocols you meet in A+ networking, were among the first things built on top of it. Same date, 1998: John Glenn flew on Space Shuttle Discovery at age 77, the oldest person ever to reach Earth orbit. Three days to sailing.",
+    "kind": "show",
+    "eyebrow": "Tonight's show · Friday, October 30, 2026",
+    "title": "Jazzmatazz at Blue Tavern, 8 to 11 PM",
+    "body": "Your calendar holds Russian study from 6 to 8 tonight, so the early Halloween shows collide with it, but this one starts right as you close the books. Blues-rooted vocalist Samantha Carston sings with the Michael Bakan Trio at Blue Tavern, 1206 N Monroe St, from 8 to 11 PM, with a $10 cover. The forecast is dry and overcast, about 73°F at 8 PM and 71°F by 10, so it is an easy night out. One quiet jazz evening before the bus, and two days to sailing.",
     "link": {
-      "label": "Wikipedia: ARPANET",
-      "url": "https://en.wikipedia.org/wiki/ARPANET"
+      "label": "Event listing on MusicLocal",
+      "url": "https://musiclocal.org/events/jazzmatazz-presents-at-blue-tavern-2026-10-30-u3v6u0"
     },
     "source": {
-      "label": "Wikipedia (ARPANET, John Glenn) and the Wikimedia On This Day feed",
-      "url": "https://en.wikipedia.org/wiki/ARPANET"
+      "label": "MusicLocal listing, Google Calendar, and Open-Meteo forecast",
+      "url": "https://musiclocal.org/events/jazzmatazz-presents-at-blue-tavern-2026-10-30-u3v6u0"
     },
-    "accent": "#22c55e"
+    "accent": "#a855f7"
   }
 }
