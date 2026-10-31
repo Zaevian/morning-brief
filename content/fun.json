@@ -1,99 +1,12 @@
 {
   "mode": "weekend",
   "range": {
-    "start": "2026-10-30",
+    "start": "2026-10-31",
     "end": "2026-11-01",
-    "label": "Fri–Sun, Oct 30 – Nov 1, 2026"
+    "label": "Sat–Sun, Oct 31 – Nov 1, 2026"
   },
-  "updatedNote": "Halloween weekend, Fri Oct 30 to Sun Nov 1. Scouted by Chika, photos added Friday morning.",
+  "updatedNote": "Halloween weekend, Sat Oct 31 to Sun Nov 1. Friday dropped off; Saturday and Sunday picks re-checked Saturday morning.",
   "events": [
-    {
-      "id": "fri-cascades-spooktacular-2026-10-30",
-      "title": "Halloween Symphony Spooktacular (Tallahassee Symphony Orchestra)",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "startTime": "6:00 PM trick-or-treat, 7:30 PM concert",
-      "venue": "Adderley Amphitheater at Cascades Park",
-      "hook": "Free costumed orchestra concert with food trucks; $5 VIP seats available.",
-      "url": "https://visittallahassee.com/events/free-halloween-symphony-spooktacular/",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "free",
-        "halloween",
-        "outdoor"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-collegetown-drivin-n-cryin-2026-10-30",
-      "title": "CollegeTown Block Party: Drivin N Cryin",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "startTime": "6:00–10:00 PM",
-      "venue": "FSU CollegeTown, 805 W Madison St",
-      "hook": "Free outdoor rock show the night before FSU vs. Clemson.",
-      "url": "https://musiclocal.org/events/fsu-collegetown-block-party-at-fsu-collegetown-at-madison-st-2026-10-30-nl2h54",
-      "imageUrl": "https://media.musiclocal.org/3hdjHcXzzg2YMNrwouj_F1m0nfWEWQR8lnC5oHQ5Qdc/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F8ce22297-2ac8-435b-9d2e-c92e20504abf.jpeg",
-      "tags": [
-        "live music",
-        "free",
-        "gameday",
-        "outdoor"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-frenchtown-rising-2026-10-30",
-      "title": "Frenchtown Rising",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "startTime": "6:00–10:00 PM",
-      "venue": "Georgia & Macomb St, Frenchtown",
-      "hook": "Free block party with live music and food vendors before the FAMU home game.",
-      "url": "https://visittallahassee.com/events/frenchtown-rising-oct-30/",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "free",
-        "food",
-        "gameday"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-blue-tavern-jazzmatazz-2026-10-30",
-      "title": "Jazzmatazz: Samantha Carston with the Michael Bakan Trio",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "startTime": "8:00–11:00 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Blues-rooted vocalist with a top jazz trio; $10 cover.",
-      "url": "https://musiclocal.org/events/jazzmatazz-presents-at-blue-tavern-2026-10-30-u3v6u0",
-      "imageUrl": "https://media.musiclocal.org/WfbElscxRdbOgUR_4Ry5eB3R8lTFlOupX-xR3m0APEs/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F5659d9dd-3bff-4012-bf00-aa4e4d6a5df0.jpeg",
-      "tags": [
-        "live music",
-        "jazz",
-        "blues"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-fsu-opera-of-mice-and-men-2026-10-30",
-      "title": "FSU Opera: Carlisle Floyd's Of Mice and Men",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "startTime": "7:30 PM",
-      "venue": "Ruby Diamond Concert Hall",
-      "hook": "Centennial production of Floyd's opera; also Sun at 3 PM.",
-      "url": "https://music.fsu.edu/2026/10/23/fsu-opera-celebrates-carlisle-floyd-centennial-with-of-mice-and-men/",
-      "imageUrl": null,
-      "tags": [
-        "opera",
-        "arts"
-      ],
-      "sample": false
-    },
     {
       "id": "sat-downtown-market-2026-10-31",
       "title": "Tallahassee Downtown Market",
