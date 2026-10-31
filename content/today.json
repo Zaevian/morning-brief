@@ -53,18 +53,22 @@
     "weatherNote": "Clear and mild this morning near 65F, warming to a high near 81F with almost no chance of rain."
   },
   "surprise": {
-    "kind": "show",
-    "eyebrow": "Tonight's show · Friday, October 30, 2026",
-    "title": "Jazzmatazz at Blue Tavern, 8 to 11 PM",
-    "body": "Your calendar holds Russian study from 6 to 8 tonight, so the early Halloween shows collide with it, but this one starts right as you close the books. Blues-rooted vocalist Samantha Carston sings with the Michael Bakan Trio at Blue Tavern, 1206 N Monroe St, from 8 to 11 PM, with a $10 cover. The forecast is dry and overcast, about 73°F at 8 PM and 71°F by 10, so it is an easy night out. One quiet jazz evening before the bus, and two days to sailing.",
+    "kind": "port",
+    "eyebrow": "Meet your ship · Saturday, October 31, 2026",
+    "title": "Carnival Paradise was built to be the world's first smoke-free cruise ship",
+    "body": "Before tonight's bus, here is a little about the ship you board tomorrow in Tampa. Carnival Paradise was built at the Helsinki New Shipyard in Finland and floated out on January 29, 1998, then christened by Paula Zahn. She launched as the world's first completely non-smoking cruise ship, with No Smoking painted on both sides and the stern, and anyone caught smoking was fined $250 and put off at the next port. Carnival dropped the policy in December 2003, and when she reached Long Beach in 2004 after dodging a string of hurricanes, the signs were painted over that same day. She has sailed from Tampa since late 2011, and a 2018 dry dock in Freeport added a fourteenth deck at the bow with 38 new cabins. Happy Halloween, and one day to sailing.",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Carnival_Paradise_in_Carnival_Cruise_Line%27s_new_livery.jpg",
+      "alt": "Carnival Paradise at sea in Carnival's current red, white, and blue livery"
+    },
     "link": {
-      "label": "Event listing on MusicLocal",
-      "url": "https://musiclocal.org/events/jazzmatazz-presents-at-blue-tavern-2026-10-30-u3v6u0"
+      "label": "Wikipedia: Carnival Paradise",
+      "url": "https://en.wikipedia.org/wiki/Carnival_Paradise"
     },
     "source": {
-      "label": "MusicLocal listing, Google Calendar, and Open-Meteo forecast",
-      "url": "https://musiclocal.org/events/jazzmatazz-presents-at-blue-tavern-2026-10-30-u3v6u0"
+      "label": "Wikipedia (Carnival Paradise) and Wikimedia Commons photo",
+      "url": "https://en.wikipedia.org/wiki/Carnival_Paradise"
     },
-    "accent": "#a855f7"
+    "accent": "#f97316"
   }
 }
