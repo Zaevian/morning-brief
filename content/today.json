@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. Happy Halloween — Saturday in Tallahassee looks mild with a high near 81F, the Greyhound leaves tonight at 9:05 PM, and the ship sails tomorrow.",
+  "greeting": "Good morning, Zae. Happy Halloween: Saturday in Tallahassee looks mild with a high near 81F, the Greyhound leaves tonight at 9:05 PM, and the ship sails tomorrow.",
   "date": "2026-10-31",
   "dateDisplay": "Saturday, October 31, 2026",
   "calendar": {
-    "note": "Bus night — supplements, Spanish, then Greyhound",
+    "note": "Bus night: supplements, final packing, then the Greyhound",
     "events": [
       {
         "time": "8:00 AM",
@@ -14,12 +14,8 @@
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
       },
       {
-        "time": "6:00 PM",
-        "title": "Spanish study (2 hours) — skip or shorten if packing runs late."
-      },
-      {
         "time": "9:05 PM",
-        "title": "Greyhound Tallahassee → Orlando (seat 6A). Arrive CK Steele ~8:30–8:45 PM; drop-off Adams & Tennessee."
+        "title": "Greyhound Tallahassee to Orlando (seat 6A). Arrive CK Steele ~8:30 to 8:45 PM; drop-off Adams & Tennessee."
       },
       {
         "time": "10:00 PM",
@@ -29,7 +25,7 @@
   },
   "projectMove": {
     "title": "Get to CK Steele on time; Arena waits for Nov 5",
-    "body": "Tonight is the Tallahassee bus (booking confirmed, all legs Scheduled). Arena Phase 25 hit the weekly Codex wall and stays parked until about 2:05 PM ET on Nov 5 unless you buy credits sooner — Testarossa will relaunch then. Today is for final bag check and boarding-pass PDF on your phone."
+    "body": "Tonight is the Tallahassee bus (booking confirmed, all legs Scheduled). Arena Phase 25 hit the weekly Codex wall and stays parked until about 2:05 PM ET on Nov 5 unless you buy credits sooner, and Testarossa will relaunch then. Today is for final bag check and boarding-pass PDF on your phone."
   },
   "tip": {
     "title": "Phone boarding PDF, ID, and seat 6A before you leave the house",
