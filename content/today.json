@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. Friday in Tallahassee looks dry and mild with a high near 81F, your calendar is the usual supplements, and the ship sails in 2 days.",
-  "date": "2026-10-30",
-  "dateDisplay": "Friday, October 30, 2026",
+  "greeting": "Good morning, Zae. Happy Halloween — Saturday in Tallahassee looks mild with a high near 81F, the Greyhound leaves tonight at 9:05 PM, and the ship sails tomorrow.",
+  "date": "2026-10-31",
+  "dateDisplay": "Saturday, October 31, 2026",
   "calendar": {
-    "note": "Supplements only",
+    "note": "Bus night — supplements, Spanish, then Greyhound",
     "events": [
       {
         "time": "8:00 AM",
@@ -14,23 +14,31 @@
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
       },
       {
+        "time": "6:00 PM",
+        "title": "Spanish study (2 hours) — skip or shorten if packing runs late."
+      },
+      {
+        "time": "9:05 PM",
+        "title": "Greyhound Tallahassee → Orlando (seat 6A). Arrive CK Steele ~8:30–8:45 PM; drop-off Adams & Tennessee."
+      },
+      {
         "time": "10:00 PM",
         "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
       }
     ]
   },
   "projectMove": {
-    "title": "Keep Arena Phase 24 rolling, then lock the cruise bag",
-    "body": "Phase 24 of the Arena Battlegrounds remake is still incomplete and running on Sol Max after overnight usage resets; Testarossa keeps resuming on her own and reports finishes through me. With the Tallahassee bus leaving tomorrow night, today is the last quiet weekday to finish packing and confirm the Carnival boarding PDF is on your phone."
+    "title": "Get to CK Steele on time; Arena waits for Nov 5",
+    "body": "Tonight is the Tallahassee bus (booking confirmed, all legs Scheduled). Arena Phase 25 hit the weekly Codex wall and stays parked until about 2:05 PM ET on Nov 5 unless you buy credits sooner — Testarossa will relaunch then. Today is for final bag check and boarding-pass PDF on your phone."
   },
   "tip": {
-    "title": "Put boarding group C02 and the Cozumel day clothes where you can grab them",
-    "body": "Tomorrow night is the Tallahassee bus, then Tampa embark on Sunday with boarding group C02 and an 11:00 to 11:30 AM arrival window. Keep the boarding-pass PDF, ID, and Cozumel shore-day clothes in one easy pocket of the Dockers duffel so you are not digging through the bag at the terminal."
+    "title": "Phone boarding PDF, ID, and seat 6A before you leave the house",
+    "body": "Ticket windows at CK Steele close before a 9:05 PM QR boarding, so have the Greyhound/Flix confirmation ready in the app or email. Keep passport card, Carnival boarding PDF for group C02, and the Dockers duffel grab-bag in one place so the Adams & Tennessee drop-off is calm."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-11-01",
-    "label": "2 days"
+    "label": "1 day"
   },
   "weather": {
     "lat": 30.4383,
@@ -40,7 +48,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-30T06:53:00-04:00",
+    "asOf": "2026-10-31T06:55:00-04:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -49,8 +57,8 @@
     "note": "Tracking is not ready yet: the analytics connection still lacks access to the Grad Arena team, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "The trip runs October 31 to November 5. The Tallahassee bus leaves Saturday night, October 31, the ship sails from Tampa on November 1 with an 11:00 to 11:30 AM arrival and boarding group C02, and Cozumel on November 3 (about 8:00 AM to 4:00 PM) is the one shore day.",
-    "weatherNote": "Clear and mild this morning near 65F, warming to a high near 81F with almost no chance of rain."
+    "cruiseNote": "The trip runs October 31 to November 5. Tallahassee Greyhound leaves tonight at 9:05 PM, Orlando transfer about 3:25 AM, Tampa about 5:00 AM, then Carnival Paradise sails from Tampa on November 1 with boarding group C02 and an 11:00 to 11:30 AM arrival window. Cozumel on November 3 is the one shore day.",
+    "weatherNote": "Overcast and mild, low near 67F and high near 81F with almost no chance of rain."
   },
   "surprise": {
     "kind": "port",
