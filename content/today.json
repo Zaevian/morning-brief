@@ -1,7 +1,7 @@
 {
   "greeting": "Good morning, Zae. Happy Halloween: Saturday in Tallahassee looks mild with a high near 81F, the Greyhound leaves tonight at 9:05 PM, and the ship sails tomorrow.",
-  "date": "2026-10-31",
-  "dateDisplay": "Saturday, October 31, 2026",
+  "date": "2026-11-01",
+  "dateDisplay": "Sunday, November 1, 2026",
   "calendar": {
     "note": "Bus night: supplements, final packing, then the Greyhound",
     "events": [
@@ -34,7 +34,7 @@
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-11-01",
-    "label": "1 day"
+    "label": "Today"
   },
   "weather": {
     "lat": 30.4383,
@@ -58,21 +58,21 @@
   },
   "surprise": {
     "kind": "port",
-    "eyebrow": "Meet your ship · Saturday, October 31, 2026",
-    "title": "Carnival Paradise was built to be the world's first smoke-free cruise ship",
-    "body": "Before tonight's bus, here is a little about the ship you board tomorrow in Tampa. Carnival Paradise was built at the Helsinki New Shipyard in Finland and floated out on January 29, 1998, then christened by Paula Zahn. She launched as the world's first completely non-smoking cruise ship, with No Smoking painted on both sides and the stern, and anyone caught smoking was fined $250 and put off at the next port. Carnival dropped the policy in December 2003, and when she reached Long Beach in 2004 after dodging a string of hurricanes, the signs were painted over that same day. She has sailed from Tampa since late 2011, and a 2018 dry dock in Freeport added a fourteenth deck at the bow with 38 new cabins. Happy Halloween, and one day to sailing.",
+    "eyebrow": "Sail-away day · Sunday, November 1, 2026",
+    "title": "On your way out of Tampa Bay, the ship slips under the Sunshine Skyway",
+    "body": "After Carnival Paradise leaves Port Tampa Bay this afternoon (scheduled around 3:30 PM), the route to the Gulf passes beneath the Sunshine Skyway Bridge, the cable-stayed span with 42 yellow steel cables that opened in 1987. Its ship channel clearance is about 180 feet, which is exactly why Tampa only gets ships built to fit under it: newer giants like the Oasis class stand around 236 feet tall and could never make it in. Sunset in Tampa is at 5:45 PM, with twilight until about 6:10, though the forecast shows clouds and showers building from mid-afternoon, so the view may come with a little drama. One more gift: clocks fell back an hour at 2 AM, so today is a 25-hour day. Bon voyage, Zae.",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Carnival_Paradise_in_Carnival_Cruise_Line%27s_new_livery.jpg",
-      "alt": "Carnival Paradise at sea in Carnival's current red, white, and blue livery"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/SunshineSkywayBridge-4SC_6643-15.jpg",
+      "alt": "The Sunshine Skyway Bridge over Tampa Bay with its yellow cable-stayed towers"
     },
     "link": {
-      "label": "Wikipedia: Carnival Paradise",
-      "url": "https://en.wikipedia.org/wiki/Carnival_Paradise"
+      "label": "Wikipedia: Sunshine Skyway Bridge",
+      "url": "https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge"
     },
     "source": {
-      "label": "Wikipedia (Carnival Paradise) and Wikimedia Commons photo",
-      "url": "https://en.wikipedia.org/wiki/Carnival_Paradise"
+      "label": "Wikipedia (Sunshine Skyway Bridge), USNO sun data for Tampa, Open-Meteo forecast",
+      "url": "https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge"
     },
-    "accent": "#f97316"
+    "accent": "#eab308"
   }
 }
