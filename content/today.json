@@ -1,35 +1,39 @@
 {
-  "greeting": "Good morning, Zae. Happy Halloween: Saturday in Tallahassee looks mild with a high near 81F, the Greyhound leaves tonight at 9:05 PM, and the ship sails tomorrow.",
+  "greeting": "Good morning, Zae. Sail-away Sunday in Tampa: Paradise leaves around 3:30 PM, your boarding window is group C02 about 11:00 to 11:30 AM, and the Skyway is waiting on the way out.",
   "date": "2026-11-01",
   "dateDisplay": "Sunday, November 1, 2026",
   "calendar": {
-    "note": "Bus night: supplements, final packing, then the Greyhound",
+    "note": "Embarkation day: cash or ATM if needed, Waymo or rideshare to Terminal 3, then board Paradise",
     "events": [
       {
         "time": "8:00 AM",
-        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
+        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex if you still have them handy."
+      },
+      {
+        "time": "11:00 AM",
+        "title": "Carnival Paradise boarding window: group C02, arrive Terminal 3 (815 Channelside Dr) about 11:00 to 11:30 AM with boarding pass and ID."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
+        "title": "Afternoon Supplements (10/10 Plan) if still ashore: L-Tyrosine and one or two Omega soft gels."
       },
       {
-        "time": "9:05 PM",
-        "title": "Greyhound Tallahassee to Orlando (seat 6A). Arrive CK Steele ~8:30 to 8:45 PM; drop-off Adams & Tennessee."
+        "time": "3:30 PM",
+        "title": "Scheduled sail-away from Port Tampa Bay; Skyway Bridge on the way out. Sunset about 5:45 PM ET."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+        "title": "Night Supplements (10/10 Plan) once settled in the cabin: L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
       }
     ]
   },
   "projectMove": {
-    "title": "Get to CK Steele on time; Arena waits for Nov 5",
-    "body": "Tonight is the Tallahassee bus (booking confirmed, all legs Scheduled). Arena Phase 25 hit the weekly Codex wall and stays parked until about 2:05 PM ET on Nov 5 unless you buy credits sooner, and Testarossa will relaunch then. Today is for final bag check and boarding-pass PDF on your phone."
+    "title": "Get to Terminal 3 for C02; Arena stays parked",
+    "body": "Today is embarkation only. Waymo reaches Channelside; Tesla Robotaxi does not. Aim for Terminal 3 with boarding pass and ID in your C02 window. Arena Phase 25 is on Grok Build after the weekly quota reset Monday evening about 8:26 PM ET; Testarossa stays silent until then."
   },
   "tip": {
-    "title": "Phone boarding PDF, ID, and seat 6A before you leave the house",
-    "body": "Ticket windows at CK Steele close before a 9:05 PM QR boarding, so have the Greyhound/Flix confirmation ready in the app or email. Keep passport card, Carnival boarding PDF for group C02, and the Dockers duffel grab-bag in one place so the Adams & Tennessee drop-off is calm."
+    "title": "Blue drop-off at Terminal 3, then Sparkman Wharf if you are early",
+    "body": "Port Tampa Bay uses the blue route for passenger drop-off at Terminal 3 (815 Channelside Drive). If you land early, Shortwave Coffee at Sparkman Wharf opens at 7 AM a short walk away. Keep passport or ID, Carnival boarding PDF for group C02, and the one sealed 750 ml wine (if packed) ready for security."
   },
   "cruise": {
     "name": "Carnival Paradise",
@@ -37,14 +41,14 @@
     "label": "Today"
   },
   "weather": {
-    "lat": 30.4383,
-    "lon": -84.2807,
-    "label": "Tallahassee, FL"
+    "lat": 27.9506,
+    "lon": -82.4572,
+    "label": "Tampa, FL"
   },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-10-31T06:55:00-04:00",
+    "asOf": "2026-11-01T06:49:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -53,8 +57,8 @@
     "note": "Tracking is not ready yet: the analytics connection still lacks access to the Grad Arena team, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "The trip runs October 31 to November 5. Tallahassee Greyhound leaves tonight at 9:05 PM, Orlando transfer about 3:25 AM, Tampa about 5:00 AM, then Carnival Paradise sails from Tampa on November 1 with boarding group C02 and an 11:00 to 11:30 AM arrival window. Cozumel on November 3 is the one shore day.",
-    "weatherNote": "Overcast and mild, low near 67F and high near 81F with almost no chance of rain."
+    "cruiseNote": "Sail-away day. Boarding group C02 around 11:00 to 11:30 AM at Terminal 3, scheduled departure about 3:30 PM. Cozumel on November 3 is the one shore day. Express Debark setup runs November 4; return bus morning is November 5.",
+    "weatherNote": "Tampa: clouds and showers possible from mid-afternoon; sunset 5:45 PM with twilight until about 6:10 PM. Clocks fell back at 2 AM, so today is a 25-hour day."
   },
   "surprise": {
     "kind": "port",
