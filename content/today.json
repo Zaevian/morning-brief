@@ -48,17 +48,17 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-01T06:49:00-05:00",
+    "asOf": "2026-11-01T06:58:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Tracking is not ready yet: the analytics connection still lacks access to the Grad Arena team, so counts are left blank rather than guessed."
+    "note": "Tracking is not ready yet: the Vercel connection was refused access to the zaevians-projects team again this morning, so counts are left blank rather than guessed."
   },
   "extras": {
     "cruiseNote": "Sail-away day. Boarding group C02 around 11:00 to 11:30 AM at Terminal 3, scheduled departure about 3:30 PM. Cozumel on November 3 is the one shore day. Express Debark setup runs November 4; return bus morning is November 5.",
-    "weatherNote": "Tampa: clouds and showers possible from mid-afternoon; sunset 5:45 PM with twilight until about 6:10 PM. Clocks fell back at 2 AM, so today is a 25-hour day."
+    "weatherNote": "Tampa: low near 70F, high near 82F, with a 69% chance of showers building from mid-afternoon. Sunset 5:45 PM with twilight until about 6:10 PM. Clocks fell back at 2 AM, so today is a 25-hour day."
   },
   "surprise": {
     "kind": "port",
