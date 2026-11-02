@@ -61,22 +61,22 @@
     "weatherNote": "Tampa: low near 70F, high near 82F, with a 69% chance of showers building from mid-afternoon. Sunset 5:45 PM with twilight until about 6:10 PM. Clocks fell back at 2 AM, so today is a 25-hour day."
   },
   "surprise": {
-    "kind": "port",
-    "eyebrow": "Sail-away day · Sunday, November 1, 2026",
-    "title": "On your way out of Tampa Bay, the ship slips under the Sunshine Skyway",
-    "body": "After Carnival Paradise leaves Port Tampa Bay this afternoon (scheduled around 3:30 PM), the route to the Gulf passes beneath the Sunshine Skyway Bridge, the cable-stayed span with 42 yellow steel cables that opened in 1987. Its ship channel clearance is about 180 feet, which is exactly why Tampa only gets ships built to fit under it: newer giants like the Oasis class stand around 236 feet tall and could never make it in. Sunset in Tampa is at 5:45 PM, with twilight until about 6:10, though the forecast shows clouds and showers building from mid-afternoon, so the view may come with a little drama. One more gift: clocks fell back an hour at 2 AM, so today is a 25-hour day. Bon voyage, Zae.",
+    "kind": "sky",
+    "eyebrow": "Fun Day at Sea · Monday, November 2, 2026",
+    "title": "Tonight you get an open-ocean sunset and a moonless sky",
+    "body": "Somewhere in the middle of the Gulf crossing toward Cozumel today, the sea looks gentle: forecast waves around 2 feet and water near 84F. The sun sets about 6:01 PM (Eastern time), with twilight until about 6:25, and with almost no clouds forecast near sunset and nothing but horizon in front of you, this is one of the best chances you will get to catch the green flash, a green spark on the sun's top edge that usually lasts under two seconds as it disappears. Then the gift keeps going: the waning crescent moon sets around 2 PM and does not rise again until about 12:34 AM, so the whole evening is moon-free, far from city lights. Step out on an open deck after dinner, let your eyes adjust for a few minutes, and look up.",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/SunshineSkywayBridge-4SC_6643-15.jpg",
-      "alt": "The Sunshine Skyway Bridge over Tampa Bay with its yellow cable-stayed towers"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Development_of_Green_Flash.jpg",
+      "alt": "A sequence of photos showing the setting sun developing a green flash on its upper edge"
     },
     "link": {
-      "label": "Wikipedia: Sunshine Skyway Bridge",
-      "url": "https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge"
+      "label": "Wikipedia: Green flash",
+      "url": "https://en.wikipedia.org/wiki/Green_flash"
     },
     "source": {
-      "label": "Wikipedia (Sunshine Skyway Bridge), USNO sun data for Tampa, Open-Meteo forecast",
-      "url": "https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge"
+      "label": "USNO sun and moon data and Open-Meteo marine and weather forecast for a mid-Gulf point (24.5N, 85.5W); Wikipedia (Green flash)",
+      "url": "https://aa.usno.navy.mil/data/RS_OneDay"
     },
-    "accent": "#eab308"
+    "accent": "#10b981"
   }
 }
