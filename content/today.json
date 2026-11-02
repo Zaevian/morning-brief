@@ -1,64 +1,68 @@
 {
-  "greeting": "Good morning, Zae. Sail-away Sunday in Tampa: Paradise leaves around 3:30 PM, your boarding window is group C02 about 11:00 to 11:30 AM, and the Skyway is waiting on the way out.",
-  "date": "2026-11-01",
-  "dateDisplay": "Sunday, November 1, 2026",
+  "greeting": "Good morning, Zae. Fun Day at Sea on Paradise: open water toward Cozumel, soft seas, and a moonless sunset worth being on deck for.",
+  "date": "2026-11-02",
+  "dateDisplay": "Monday, November 2, 2026",
   "calendar": {
-    "note": "Embarkation day: cash or ATM if needed, Waymo or rideshare to Terminal 3, then board Paradise",
+    "note": "Sea day: rest, decks, and a clear evening sky; Cozumel is tomorrow",
     "events": [
       {
         "time": "8:00 AM",
-        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex if you still have them handy."
+        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex if you packed them."
       },
       {
-        "time": "11:00 AM",
-        "title": "Carnival Paradise boarding window: group C02, arrive Terminal 3 (815 Channelside Dr) about 11:00 to 11:30 AM with boarding pass and ID."
+        "time": "All day",
+        "title": "Fun Day at Sea en route to Cozumel. Forecast: waves around 2 ft, water near 84F, mostly clear near sunset."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan) if still ashore: L-Tyrosine and one or two Omega soft gels."
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Moon sets around then, so the evening stays dark."
       },
       {
-        "time": "3:30 PM",
-        "title": "Scheduled sail-away from Port Tampa Bay; Skyway Bridge on the way out. Sunset about 5:45 PM ET."
+        "time": "6:01 PM",
+        "title": "Sunset about 6:01 PM ET (twilight to ~6:25). Clear horizon is a real green-flash chance; then moon-free stargazing on an open deck."
+      },
+      {
+        "time": "8:26 PM",
+        "title": "Arena note (ashore): weekly Grok Build quota resets about 8:26 PM ET; Testarossa launches Phase 25 when DESKTOP-QAUTOKQ is up."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan) once settled in the cabin: L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
       }
     ]
   },
   "projectMove": {
-    "title": "Get to Terminal 3 for C02; Arena stays parked",
-    "body": "Today is embarkation only. Waymo reaches Channelside; Tesla Robotaxi does not. Aim for Terminal 3 with boarding pass and ID in your C02 window. Arena Phase 25 is on Grok Build after the weekly quota reset Monday evening about 8:26 PM ET; Testarossa stays silent until then."
+    "title": "Sea day for you; Arena wakes after 8:26 PM ET",
+    "body": "You are mid-Gulf toward Cozumel. Enjoy the ship. Arena Phase 25 stays on Grok Build: weekly quota resets Monday about 8:26 PM ET, then Testarossa verifies DESKTOP-QAUTOKQ and launches when the PC is online. No Zae pings needed on the cruise autonomy path."
   },
   "tip": {
-    "title": "Blue drop-off at Terminal 3, then Sparkman Wharf if you are early",
-    "body": "Port Tampa Bay uses the blue route for passenger drop-off at Terminal 3 (815 Channelside Drive). If you land early, Shortwave Coffee at Sparkman Wharf opens at 7 AM a short walk away. Keep passport or ID, Carnival boarding PDF for group C02, and the one sealed 750 ml wine (if packed) ready for security."
+    "title": "Deck after dinner, eyes adjusted",
+    "body": "Sunset is about 6:01 PM ET with a short twilight. Watch the sun’s top edge for a possible green flash, then give your eyes a few minutes in the dark before looking up. Tomorrow is Cozumel (~8 AM–4 PM), the only shore day."
   },
   "cruise": {
     "name": "Carnival Paradise",
-    "targetDate": "2026-11-01",
-    "label": "Today"
+    "targetDate": "2026-11-02",
+    "label": "Sea day 1"
   },
   "weather": {
-    "lat": 27.9506,
-    "lon": -82.4572,
-    "label": "Tampa, FL"
+    "lat": 24.5,
+    "lon": -85.5,
+    "label": "Gulf of Mexico (mid-crossing)"
   },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-01T06:58:00-05:00",
+    "asOf": "2026-11-02T06:52:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Tracking is not ready yet: the Vercel connection was refused access to the zaevians-projects team again this morning, so counts are left blank rather than guessed."
+    "note": "Tracking is not ready yet: the Vercel connection still cannot read the zaevians-projects team analytics, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Sail-away day. Boarding group C02 around 11:00 to 11:30 AM at Terminal 3, scheduled departure about 3:30 PM. Cozumel on November 3 is the one shore day. Express Debark setup runs November 4; return bus morning is November 5.",
-    "weatherNote": "Tampa: low near 70F, high near 82F, with a 69% chance of showers building from mid-afternoon. Sunset 5:45 PM with twilight until about 6:10 PM. Clocks fell back at 2 AM, so today is a 25-hour day."
+    "cruiseNote": "Fun Day at Sea. Cozumel tomorrow November 3 (~8:00 AM–4:00 PM). Express Debark setup November 4; return bus morning November 5.",
+    "weatherNote": "Mid-Gulf forecast: waves around 2 ft, water near 84F, little cloud near sunset. Sunset about 6:01 PM ET, twilight to about 6:25. Moon sets ~2 PM and rises ~12:34 AM, so the evening is moon-free."
   },
   "surprise": {
     "kind": "sky",
