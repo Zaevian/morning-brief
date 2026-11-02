@@ -1,110 +1,118 @@
 {
-  "mode": "weekend",
+  "mode": "week",
   "range": {
-    "start": "2026-11-01",
-    "end": "2026-11-01",
-    "label": "Sun, Nov 1, 2026"
+    "start": "2026-11-02",
+    "end": "2026-11-05",
+    "label": "Mon-Thu, Nov 2-5, 2026"
   },
-  "updatedNote": "Sunday drop from Diablo. Saturday dropped off; Sunday picks re-checked this morning.",
+  "updatedNote": "Monday drop from Diablo. Picks waiting for your return; Thursday listings are still thin and will fill in as the week goes.",
   "events": [
     {
-      "id": "sun-little-paris-jazz-brunch-2026-11-01",
-      "title": "Jazz Brunch at Little Paris",
-      "day": "Sun",
-      "date": "2026-11-01",
-      "startTime": "10:00 AM–3:00 PM",
-      "venue": "Little Paris Tallahassee",
-      "hook": "French-cafe brunch with live jazz, an easy slow Sunday.",
-      "url": "https://musiclocal.org/events/jazz-brunch-at-little-paris-tallahassee-2026-11-01-70k7o6",
-      "imageUrl": "https://media.musiclocal.org/3TustXFQZkxDFD9F1YUjJZNnvP4FSBK31rwwJwhpZ-s/rs:fill:1200:1200/g:fp:0.5:0.17/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevent-images%2F76bb0ee3-46b1-4727-bd12-89f160161964.jpeg",
+      "id": "mon-dos-ritmos-patchwork-2026-11-02",
+      "title": "Dos Ritmos: Día de Los Muertos with Orquesta 850 and Mariachi de Oro",
+      "date": "2026-11-02",
+      "startTime": "5:00 PM–7:00 PM",
+      "venue": "Patchwork Coffee, 655 W Jefferson St",
+      "hook": "Salsa band plus mariachi for the actual Día de Los Muertos, a rare Monday treat.",
+      "url": "https://musiclocal.org/events/dos-ritmos-a-dia-de-los-muertos-celebration-at-patchwork-coffee-2026-11-02-h1sh79",
+      "imageUrl": "https://media.musiclocal.org/9o3rKcHMLnypAYcaXO-iWSR5XPR0i3bSz81T7TmkhSA/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F2a888f6a-bf01-460f-8eb8-23cff3ca7c3e.jpeg",
       "tags": [
-        "brunch",
+        "live music",
+        "latin",
+        "culture"
+      ],
+      "sample": false
+    },
+    {
+      "id": "mon-punk-rock-comedy-cap-city-2026-11-02",
+      "title": "Punk Rock Comedy Show with Daikaiju, The Chodes, and The Intoxicators",
+      "date": "2026-11-02",
+      "startTime": "6:30 PM",
+      "venue": "Cap City Video Lounge, 2122 W Pensacola St",
+      "hook": "Monster-masked surf punk and stand-up on the same Monday bill.",
+      "url": "https://musiclocal.org/events/punk-rock-comedy-show-at-cap-city-video-lounge-2026-11-02-0x6724",
+      "imageUrl": "https://media.musiclocal.org/SUedgUc1LxZ7-Uc8wakfkhWYiE2vDwdVYhtzeNSLml0/rs:fill:1200:1200/g:fp:0.5:0.07/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F55babc44-2b9c-464c-ac5f-226d7a08e00d.jpeg",
+      "tags": [
+        "live music",
+        "comedy",
+        "punk"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-first-tuesday-songwriters-amicus-2026-11-03",
+      "title": "First Tuesday Songwriter Showcase",
+      "date": "2026-11-03",
+      "startTime": "6:30 PM–9:00 PM",
+      "venue": "Amicus Brewing Ventures, 717 S Gadsden St",
+      "hook": "No cover, all original songs from local singer-songwriters.",
+      "url": "https://musiclocal.org/events/special-first-tuesday-songwriter-showcase-at-amicus-brewing-ventures-2026-11-03-b2d9ac",
+      "imageUrl": "https://media.musiclocal.org/o7OsDq7-NLKjecYFPJNwCLgGlW89jsC4guvpce_sBMU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fa1c683ea-1507-42f6-8ffe-71c90fa569de.jpeg",
+      "tags": [
+        "live music",
+        "brewery",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-jazz-jam-ology-midtown-2026-11-03",
+      "title": "Jazz Jam Session",
+      "date": "2026-11-03",
+      "startTime": "7:00 PM–9:00 PM",
+      "venue": "Ology Brewing Co (Midtown), 118 E 6th Ave",
+      "hook": "Easy Midtown jazz jam with a beer in hand.",
+      "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-11-03-1l010a",
+      "imageUrl": "https://media.musiclocal.org/tgYrlOMMZHegVx53e5bT7je70_qrtlqkkB6lq3U8FWc/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F154e5e57-8f10-48cc-b913-45ce30de368e.jpeg",
+      "tags": [
         "jazz",
+        "live music",
+        "brewery"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-bluesday-blue-tavern-2026-11-03",
+      "title": "Bluesday Tuesday: Blues Meets Girl",
+      "date": "2026-11-03",
+      "startTime": "8:00 PM–10:00 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Kasmira Vogel and Mr. Downchild in a small, loud-in-the-best-way room.",
+      "url": "https://musiclocal.org/events/bluesday-tuesday-at-blue-tavern-2026-11-03-r9cp90",
+      "imageUrl": "https://media.musiclocal.org/L_bJoXCYPb88XN93PZ4clrgc1RQUPLELcuWIEG0dZUw/rs:fill:1200:1200/g:fp:0.5:0.36/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F5b26c500-8299-11f0-91a1-5189d0d49d69.jpeg",
+      "tags": [
+        "blues",
         "live music"
       ],
       "sample": false
     },
     {
-      "id": "sun-eve-on-adams-brunch-2026-11-01",
-      "title": "Eve on Adams Rooftop Sunday Brunch",
-      "day": "Sun",
-      "date": "2026-11-01",
-      "startTime": "11:00 AM–2:30 PM",
-      "venue": "Eve on Adams, 101 S Adams St (17th floor)",
-      "hook": "Once-a-month rooftop brunch over downtown.",
-      "url": "https://www.eoatally.com/upcoming-events",
-      "imageUrl": "https://static.wixstatic.com/media/144dc4_9e85f0d0dbce45308b6927dc71523b9b%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/144dc4_9e85f0d0dbce45308b6927dc71523b9b%7Emv2.jpg",
-      "tags": [
-        "food",
-        "brunch",
-        "rooftop"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-feather-oaks-sunday-funday-2026-11-01",
-      "title": "Sunday Funday: Uprising Unplugged + farmers market",
-      "day": "Sun",
-      "date": "2026-11-01",
-      "startTime": "11 AM–8 PM; music 3–6 PM",
-      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
-      "hook": "Outdoor hangout with Rustic Grub food, acoustic reggae and a market.",
-      "url": "https://www.thehubatfeatheroaks.com/event-details/sunday-funday-4",
-      "imageUrl": "https://static.wixstatic.com/media/5e7f8d_30f91a1fa5064b289e53e428c8ce1df1~mv2.png/v1/fill/w_2592,h_2592,al_c/5e7f8d_30f91a1fa5064b289e53e428c8ce1df1~mv2.png",
+      "id": "wed-colten-hood-blue-tavern-2026-11-04",
+      "title": "Colten Hood at Blue Tavern",
+      "date": "2026-11-04",
+      "startTime": "5:00 PM–7:00 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Early-evening set, done in time for dinner.",
+      "url": "https://musiclocal.org/events/colten-hood-at-blue-tavern-2026-11-04-8qhscn",
+      "imageUrl": "https://media.musiclocal.org/hVNUZxrs9JZVIyEtK9No7-C3-TFKtsqquC2zH3toTxE/rs:fill:1200:1200/g:fp:0.5:0.24/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fb9721d64-e0e9-428d-b3a4-7af9e8116376.jpeg",
       "tags": [
         "live music",
-        "food",
-        "market",
-        "outdoor"
+        "happy hour"
       ],
       "sample": false
     },
     {
-      "id": "sun-pimlico-porch-show-2026-11-01",
-      "title": "Pimlico Porch Show",
-      "day": "Sun",
-      "date": "2026-11-01",
-      "startTime": "2:00–4:00 PM",
-      "venue": "4938 Pimlico Drive",
-      "hook": "Free neighborhood porch concert; bring a chair.",
-      "url": "https://musiclocal.org/events/pimlico-porch-show-at-4938-pimlico-drive-2026-11-01-t9z9gb",
-      "imageUrl": "https://media.musiclocal.org/fXul2W6uYNmN3mWvAqX8OsUARTqGTaaEUFvRhtTeU0U/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevent-images%2F7f376aed-319d-49e3-8987-8f672609faa8.jpeg",
+      "id": "wed-open-mic-blue-tavern-2026-11-04",
+      "title": "Open Mic with Doc Russell",
+      "date": "2026-11-04",
+      "startTime": "7:00 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Long-running Wednesday open mic, bring a song or just listen.",
+      "url": "https://musiclocal.org/events/open-mic-at-blue-tavern-2026-11-04-ag0mqd",
+      "imageUrl": "https://media.musiclocal.org/dqF12_HCPeI3mWwF55xlspJLm5rsmGOUCheKxa9elQw/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F009ffc80-424b-11ef-87a8-435fc17d1e4d.jpeg",
       "tags": [
-        "live music",
-        "free",
-        "outdoor"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-fathoms-allie-cats-2026-11-01",
-      "title": "The Allie Cats",
-      "day": "Sun",
-      "date": "2026-11-01",
-      "startTime": "2:00 PM",
-      "venue": "Fathom's Steam Room and Raw Bar",
-      "hook": "Afternoon band over oysters and a cold drink.",
-      "url": "https://musiclocal.org/events/the-allie-cats-at-fathoms-steam-room-and-raw-bar-2026-11-01-xoj3q2",
-      "imageUrl": "https://media.musiclocal.org/8DGWHF2r8VUnJzaZhS8V54cSh9Y8vKDT6m5flZZpjEM/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2F7a26be42-321f-47e1-8986-09d3fcad1756.jpeg",
-      "tags": [
-        "live music",
-        "food"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-fsu-opera-of-mice-and-men-2026-11-01",
-      "title": "FSU Opera: Of Mice and Men (matinee)",
-      "day": "Sun",
-      "date": "2026-11-01",
-      "startTime": "3:00 PM",
-      "venue": "Ruby Diamond Concert Hall",
-      "hook": "Second and final performance of the Floyd centennial production.",
-      "url": "https://music.fsu.edu/2026/10/23/fsu-opera-celebrates-carlisle-floyd-centennial-with-of-mice-and-men/",
-      "imageUrl": "https://music.fsu.edu/wp-content/uploads/2026/10/of-mice-and-men_cover2.jpg",
-      "tags": [
-        "opera",
-        "arts"
+        "open mic",
+        "live music"
       ],
       "sample": false
     }
