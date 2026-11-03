@@ -65,22 +65,22 @@
     "weatherNote": "Mid-Gulf forecast: waves around 2 ft, water near 84F, little cloud near sunset. Sunset about 6:01 PM ET, twilight to about 6:25. Moon sets ~2 PM and rises ~12:34 AM, so the evening is moon-free."
   },
   "surprise": {
-    "kind": "sky",
-    "eyebrow": "Fun Day at Sea · Monday, November 2, 2026",
-    "title": "Tonight you get an open-ocean sunset and a moonless sky",
-    "body": "Somewhere in the middle of the Gulf crossing toward Cozumel today, the sea looks gentle: forecast waves around 2 feet and water near 84F. The sun sets about 6:01 PM (Eastern time), with twilight until about 6:25, and with almost no clouds forecast near sunset and nothing but horizon in front of you, this is one of the best chances you will get to catch the green flash, a green spark on the sun's top edge that usually lasts under two seconds as it disappears. Then the gift keeps going: the waning crescent moon sets around 2 PM and does not rise again until about 12:34 AM, so the whole evening is moon-free, far from city lights. Step out on an open deck after dinner, let your eyes adjust for a few minutes, and look up.",
+    "kind": "port",
+    "eyebrow": "Cozumel shore day · Tuesday, November 3, 2026",
+    "title": "The sea around Cozumel is almost glass today",
+    "body": "You are in Cozumel from about 8 AM to 4 PM, and the water could hardly be kinder for snorkeling: forecast waves near the island are only about 7 inches all day, the water is about 85F, and the breeze stays a light 3 to 6 mph. The best window is the morning. Clouds are thin, rain chances are near zero until late morning, and the UV index is still mild before 10 AM, then climbs to about 7 (high) around 1 PM, when it also feels like 95F. After noon, the chance of a passing shower rises to about 30 percent by mid-afternoon. So get in the water early, keep shade and water handy at midday, and leave yourself room to be back aboard well before the 4 PM departure.",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Development_of_Green_Flash.jpg",
-      "alt": "A sequence of photos showing the setting sun developing a green flash on its upper edge"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Reef_1_%284385939138%29.jpg",
+      "alt": "Coral reef and tropical fish on the Mesoamerican Barrier Reef"
     },
     "link": {
-      "label": "Wikipedia: Green flash",
-      "url": "https://en.wikipedia.org/wiki/Green_flash"
+      "label": "Wikipedia: Arrecifes de Cozumel National Park",
+      "url": "https://en.wikipedia.org/wiki/Arrecifes_de_Cozumel_National_Park"
     },
     "source": {
-      "label": "USNO sun and moon data and Open-Meteo marine and weather forecast for a mid-Gulf point (24.5N, 85.5W); Wikipedia (Green flash)",
-      "url": "https://aa.usno.navy.mil/data/RS_OneDay"
+      "label": "Open-Meteo marine and weather forecast for Cozumel (Nov 3, 8 AM to 4 PM local, same as Eastern time); Wikimedia Commons reef photo",
+      "url": "https://open-meteo.com/en/docs/marine-weather-api"
     },
-    "accent": "#10b981"
+    "accent": "#06b6d4"
   }
 }
