@@ -53,8 +53,8 @@ export function SurpriseCard({ surprise }: { surprise?: Surprise | null }) {
 
   const eyebrow = text(surprise.eyebrow) ?? "Today's surprise";
   const icon = KIND_ICON[surprise.kind as SurpriseKind] ?? "🎁";
-  const imageUrl = safeUrl(surprise.imageUrl, true);
-  const imageAlt = text(surprise.imageAlt) ?? "";
+  const imageUrl = safeUrl(surprise.imageUrl ?? surprise.image?.url, true);
+  const imageAlt = text(surprise.imageAlt) ?? text(surprise.image?.alt) ?? "";
   const audioUrl = safeUrl(surprise.audioUrl, true);
   const link = safeLink(surprise.link);
   const source = safeLink(surprise.source);

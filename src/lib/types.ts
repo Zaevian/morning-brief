@@ -97,6 +97,8 @@ export type Surprise = {
   /** https only. Allowed hosts go through next/image; other https hosts use a plain img. */
   imageUrl?: string;
   imageAlt?: string;
+  /** Nested form; used when imageUrl/imageAlt are missing. */
+  image?: { url?: string; alt?: string };
   audioUrl?: string;
   link?: SurpriseLink;
   source?: SurpriseLink;
