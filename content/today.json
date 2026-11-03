@@ -1,29 +1,29 @@
 {
-  "greeting": "Good morning, Zae. Fun Day at Sea on Paradise: open water toward Cozumel, soft seas, and a moonless sunset worth being on deck for.",
-  "date": "2026-11-02",
-  "dateDisplay": "Monday, November 2, 2026",
+  "greeting": "Good morning, Zae. Cozumel shore day on Paradise: glass-calm water, an early snorkel window, and all-aboard well before 4 PM.",
+  "date": "2026-11-03",
+  "dateDisplay": "Tuesday, November 3, 2026",
   "calendar": {
-    "note": "Sea day: rest, decks, and a clear evening sky; Cozumel is tomorrow",
+    "note": "Only shore day: Cozumel about 8:00 AM to 4:00 PM",
     "events": [
       {
         "time": "8:00 AM",
         "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex if you packed them."
       },
       {
-        "time": "All day",
-        "title": "Fun Day at Sea en route to Cozumel. Forecast: waves around 2 ft, water near 84F, mostly clear near sunset."
+        "time": "8:00 AM",
+        "title": "Cozumel arrival window. Ship is in port until about 4:00 PM; plan to be back aboard with margin."
+      },
+      {
+        "time": "Morning",
+        "title": "Best snorkel window: waves ~7 in, water ~85F, light breeze, UV still milder before 10 AM."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Moon sets around then, so the evening stays dark."
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Midday heat peaks near 95F feel; shade and water help."
       },
       {
-        "time": "6:01 PM",
-        "title": "Sunset about 6:01 PM ET (twilight to ~6:25). Clear horizon is a real green-flash chance; then moon-free stargazing on an open deck."
-      },
-      {
-        "time": "8:26 PM",
-        "title": "Arena note (ashore): weekly Grok Build quota resets about 8:26 PM ET; Testarossa launches Phase 25 when DESKTOP-QAUTOKQ is up."
+        "time": "3:00 PM",
+        "title": "Start heading back to the ship. All-aboard is well before the ~4:00 PM departure."
       },
       {
         "time": "10:00 PM",
@@ -32,27 +32,27 @@
     ]
   },
   "projectMove": {
-    "title": "Sea day for you; Arena wakes after 8:26 PM ET",
-    "body": "You are mid-Gulf toward Cozumel. Enjoy the ship. Arena Phase 25 stays on Grok Build: weekly quota resets Monday about 8:26 PM ET, then Testarossa verifies DESKTOP-QAUTOKQ and launches when the PC is online. No Zae pings needed on the cruise autonomy path."
+    "title": "Shore day for you; Arena Phase 26 watching overnight",
+    "body": "Enjoy Cozumel. Ashore, Arena Phase 25 finished clean last night on Grok Build, and Phase 26 (main menu, settings, game presentation) was already running on grok-4.7. Testarossa watches and pings Diablo only on finish or a wall. No cruise-autonomy pings needed from you."
   },
   "tip": {
-    "title": "Deck after dinner, eyes adjusted",
-    "body": "Sunset is about 6:01 PM ET with a short twilight. Watch the sun’s top edge for a possible green flash, then give your eyes a few minutes in the dark before looking up. Tomorrow is Cozumel (~8 AM–4 PM), the only shore day."
+    "title": "Snorkel early, shade midday",
+    "body": "Morning water is the gift: near-glass seas and cooler UV. After noon the feel climbs toward 95F and shower chances rise, so keep shade and water handy, then leave yourself real time to clear security and be aboard before the 4 PM sail."
   },
   "cruise": {
     "name": "Carnival Paradise",
-    "targetDate": "2026-11-02",
-    "label": "Sea day 1"
+    "targetDate": "2026-11-03",
+    "label": "Cozumel shore day"
   },
   "weather": {
-    "lat": 24.5,
-    "lon": -85.5,
-    "label": "Gulf of Mexico (mid-crossing)"
+    "lat": 20.42,
+    "lon": -86.92,
+    "label": "Cozumel, Mexico"
   },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-02T06:52:00-05:00",
+    "asOf": "2026-11-03T06:50:33-05:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -61,12 +61,12 @@
     "note": "Tracking is not ready yet: the Vercel connection still cannot read the zaevians-projects team analytics, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Fun Day at Sea. Cozumel tomorrow November 3 (~8:00 AM–4:00 PM). Express Debark setup November 4; return bus morning November 5.",
-    "weatherNote": "Mid-Gulf forecast: waves around 2 ft, water near 84F, little cloud near sunset. Sunset about 6:01 PM ET, twilight to about 6:25. Moon sets ~2 PM and rises ~12:34 AM, so the evening is moon-free."
+    "cruiseNote": "Cozumel today (~8:00 AM\u20134:00 PM). Sea day tomorrow November 4 (Express Debark setup). Return bus morning November 5 in Tampa.",
+    "weatherNote": "Cozumel forecast: waves ~7 in, water ~85F, breeze 3\u20136 mph. UV climbs to ~7 around 1 PM; feel near 95F. Shower chance rises toward ~30% mid-afternoon."
   },
   "surprise": {
     "kind": "port",
-    "eyebrow": "Cozumel shore day · Tuesday, November 3, 2026",
+    "eyebrow": "Cozumel shore day \u00b7 Tuesday, November 3, 2026",
     "title": "The sea around Cozumel is almost glass today",
     "body": "You are in Cozumel from about 8 AM to 4 PM, and the water could hardly be kinder for snorkeling: forecast waves near the island are only about 7 inches all day, the water is about 85F, and the breeze stays a light 3 to 6 mph. The best window is the morning. Clouds are thin, rain chances are near zero until late morning, and the UV index is still mild before 10 AM, then climbs to about 7 (high) around 1 PM, when it also feels like 95F. After noon, the chance of a passing shower rises to about 30 percent by mid-afternoon. So get in the water early, keep shade and water handy at midday, and leave yourself room to be back aboard well before the 4 PM departure.",
     "image": {
