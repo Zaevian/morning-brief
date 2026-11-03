@@ -1,44 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-02",
+    "start": "2026-11-03",
     "end": "2026-11-05",
-    "label": "Mon-Thu, Nov 2-5, 2026"
+    "label": "Tue-Thu, Nov 3-5, 2026"
   },
-  "updatedNote": "Monday drop from Diablo. Picks waiting for your return; Thursday listings are still thin and will fill in as the week goes.",
+  "updatedNote": "Tuesday refresh from Diablo. Monday shows have rolled off; Thursday listings are still thin while you're at sea.",
   "events": [
-    {
-      "id": "mon-dos-ritmos-patchwork-2026-11-02",
-      "title": "Dos Ritmos: Día de Los Muertos with Orquesta 850 and Mariachi de Oro",
-      "date": "2026-11-02",
-      "startTime": "5:00 PM–7:00 PM",
-      "venue": "Patchwork Coffee, 655 W Jefferson St",
-      "hook": "Salsa band plus mariachi for the actual Día de Los Muertos, a rare Monday treat.",
-      "url": "https://musiclocal.org/events/dos-ritmos-a-dia-de-los-muertos-celebration-at-patchwork-coffee-2026-11-02-h1sh79",
-      "imageUrl": "https://media.musiclocal.org/9o3rKcHMLnypAYcaXO-iWSR5XPR0i3bSz81T7TmkhSA/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F2a888f6a-bf01-460f-8eb8-23cff3ca7c3e.jpeg",
-      "tags": [
-        "live music",
-        "latin",
-        "culture"
-      ],
-      "sample": false
-    },
-    {
-      "id": "mon-punk-rock-comedy-cap-city-2026-11-02",
-      "title": "Punk Rock Comedy Show with Daikaiju, The Chodes, and The Intoxicators",
-      "date": "2026-11-02",
-      "startTime": "6:30 PM",
-      "venue": "Cap City Video Lounge, 2122 W Pensacola St",
-      "hook": "Monster-masked surf punk and stand-up on the same Monday bill.",
-      "url": "https://musiclocal.org/events/punk-rock-comedy-show-at-cap-city-video-lounge-2026-11-02-0x6724",
-      "imageUrl": "https://media.musiclocal.org/SUedgUc1LxZ7-Uc8wakfkhWYiE2vDwdVYhtzeNSLml0/rs:fill:1200:1200/g:fp:0.5:0.07/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F55babc44-2b9c-464c-ac5f-226d7a08e00d.jpeg",
-      "tags": [
-        "live music",
-        "comedy",
-        "punk"
-      ],
-      "sample": false
-    },
     {
       "id": "tue-first-tuesday-songwriters-amicus-2026-11-03",
       "title": "First Tuesday Songwriter Showcase",
