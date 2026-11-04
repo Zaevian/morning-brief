@@ -1,59 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-03",
+    "start": "2026-11-04",
     "end": "2026-11-05",
-    "label": "Tue-Thu, Nov 3-5, 2026"
+    "label": "Wed-Thu, Nov 4-5, 2026"
   },
-  "updatedNote": "Tuesday refresh from Diablo. Monday shows have rolled off; Thursday listings are still thin while you're at sea.",
+  "updatedNote": "Wednesday refresh from Diablo. Thursday filled in nicely for your return, with Railroad Square, Mission San Luis, and a bluegrass jam.",
   "events": [
-    {
-      "id": "tue-first-tuesday-songwriters-amicus-2026-11-03",
-      "title": "First Tuesday Songwriter Showcase",
-      "date": "2026-11-03",
-      "startTime": "6:30 PM–9:00 PM",
-      "venue": "Amicus Brewing Ventures, 717 S Gadsden St",
-      "hook": "No cover, all original songs from local singer-songwriters.",
-      "url": "https://musiclocal.org/events/special-first-tuesday-songwriter-showcase-at-amicus-brewing-ventures-2026-11-03-b2d9ac",
-      "imageUrl": "https://media.musiclocal.org/o7OsDq7-NLKjecYFPJNwCLgGlW89jsC4guvpce_sBMU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fa1c683ea-1507-42f6-8ffe-71c90fa569de.jpeg",
-      "tags": [
-        "live music",
-        "brewery",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-jazz-jam-ology-midtown-2026-11-03",
-      "title": "Jazz Jam Session",
-      "date": "2026-11-03",
-      "startTime": "7:00 PM–9:00 PM",
-      "venue": "Ology Brewing Co (Midtown), 118 E 6th Ave",
-      "hook": "Easy Midtown jazz jam with a beer in hand.",
-      "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-11-03-1l010a",
-      "imageUrl": "https://media.musiclocal.org/tgYrlOMMZHegVx53e5bT7je70_qrtlqkkB6lq3U8FWc/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F154e5e57-8f10-48cc-b913-45ce30de368e.jpeg",
-      "tags": [
-        "jazz",
-        "live music",
-        "brewery"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-bluesday-blue-tavern-2026-11-03",
-      "title": "Bluesday Tuesday: Blues Meets Girl",
-      "date": "2026-11-03",
-      "startTime": "8:00 PM–10:00 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Kasmira Vogel and Mr. Downchild in a small, loud-in-the-best-way room.",
-      "url": "https://musiclocal.org/events/bluesday-tuesday-at-blue-tavern-2026-11-03-r9cp90",
-      "imageUrl": "https://media.musiclocal.org/L_bJoXCYPb88XN93PZ4clrgc1RQUPLELcuWIEG0dZUw/rs:fill:1200:1200/g:fp:0.5:0.36/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F5b26c500-8299-11f0-91a1-5189d0d49d69.jpeg",
-      "tags": [
-        "blues",
-        "live music"
-      ],
-      "sample": false
-    },
     {
       "id": "wed-colten-hood-blue-tavern-2026-11-04",
       "title": "Colten Hood at Blue Tavern",
@@ -70,6 +23,21 @@
       "sample": false
     },
     {
+      "id": "wed-rashomon-aslc-2026-11-04",
+      "title": "Rashomon Film Screening",
+      "date": "2026-11-04",
+      "startTime": "6:00 PM–8:30 PM",
+      "venue": "Askew Student Life Center, FSU, 942 Learning Way",
+      "hook": "Kurosawa's landmark four-sided murder mystery on the big screen.",
+      "url": "https://calendar.fsu.edu/event/rashomon-film-screening",
+      "imageUrl": "https://localist-images.azureedge.net/photos/54178080932619/huge/915cf76b4263fe5685d046ee6a00d58c30d237ce.jpg",
+      "tags": [
+        "film",
+        "campus"
+      ],
+      "sample": false
+    },
+    {
       "id": "wed-open-mic-blue-tavern-2026-11-04",
       "title": "Open Mic with Doc Russell",
       "date": "2026-11-04",
@@ -81,6 +49,101 @@
       "tags": [
         "open mic",
         "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-bluegrass-jam-blue-tavern-2026-11-05",
+      "title": "First Thursdays Bluegrass Jam",
+      "date": "2026-11-05",
+      "startTime": "5:00 PM–7:00 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Free monthly jam, all ages and abilities, courtyard if the weather's nice.",
+      "url": "https://musiclocal.org/events/first-thursdays-bluegrass-jam-at-blue-tavern-2026-11-05-nxzn08",
+      "imageUrl": "https://media.musiclocal.org/str3elfRzR2Kpuh-S_Dfy5snOySgSwiLpRDMgri223I/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F38f799f0-ea8b-11f0-b480-7d448727a4aa.jpg",
+      "tags": [
+        "bluegrass",
+        "live music",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-gulf-salon-mofa-2026-11-05",
+      "title": "Sustainable Campus x MoFA: Gulf Salon",
+      "date": "2026-11-05",
+      "startTime": "5:30 PM–7:00 PM",
+      "venue": "Museum of Fine Arts at FSU, 530 W Call St",
+      "hook": "Guided movement piece and exhibition tour with choreographer nia love; free.",
+      "url": "https://tallahasseearts.org/event/sustainable-campus-x-mofa-gulf-salon/",
+      "imageUrl": "https://tallahasseearts.org/wp-content/uploads/sites/tallahasseearts.org/images/2026/10/event-featured-sustainable-campus-x-mofa-gulf-salon-1793391315.png",
+      "tags": [
+        "art",
+        "campus",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-blues-jam-getaway-2026-11-05",
+      "title": "Blues Jam with Brett & \"Dangerous\" Dave",
+      "date": "2026-11-05",
+      "startTime": "6:00 PM–9:00 PM",
+      "venue": "The Getaway Grille and Bar, 2386 Allen Rd",
+      "hook": "Tallahassee's longest-running weekly blues jam, backline provided.",
+      "url": "https://musiclocal.org/events/blues-jam-at-the-getaway-grille-and-bar-2026-11-05-ydfrv1",
+      "imageUrl": "https://media.musiclocal.org/MhwLCoRKwhe2crxAPGRs9dU1Z9zuXZY3PmGIlFtFtdU/rs:fill:1200:1200/g:fp:0.5:0.55/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2Fbfeef99b-a698-4bff-a327-bff7f49526d9.jpeg",
+      "tags": [
+        "blues",
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-san-luis-por-la-noche-2026-11-05",
+      "title": "San Luis Por La Noche with FSU Guitar Studio",
+      "date": "2026-11-05",
+      "startTime": "6:30 PM–9:00 PM",
+      "venue": "Mission San Luis, 2100 W Tennessee St",
+      "hook": "Spanish guitar, wine, and hors d'oeuvres at the mission; $10, registration required.",
+      "url": "https://musiclocal.org/events/san-luis-por-la-noche-at-mission-san-luis-2026-11-05-7h5vbk",
+      "imageUrl": "https://media.musiclocal.org/ocdl6htOJzTapu-cF6IMTsVtM5OCJMMflppIg1N-jV4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F8e26d64e-f210-4767-ac4b-1e55d45516db.jpeg",
+      "tags": [
+        "classical guitar",
+        "history",
+        "date night"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-irish-trad-ology-2026-11-05",
+      "title": "Irish Trad Session",
+      "date": "2026-11-05",
+      "startTime": "7:00 PM–9:00 PM",
+      "venue": "Ology Brewing Co (Midtown), 118 E 6th Ave",
+      "hook": "Acoustic session with Tally Trad; grab a pint and enjoy the craic.",
+      "url": "https://musiclocal.org/events/irish-trad-session-at-ology-brewing-co-midtown-2026-11-05-5872t5",
+      "imageUrl": "https://media.musiclocal.org/vuhvDQ0jAJnB6G-kV8sQEKTAB3rtPazKOxFmb3fD-88/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fd62ee5a5-f8a7-45e9-bc9c-56377ee6be8a.jpeg",
+      "tags": [
+        "irish",
+        "live music",
+        "brewery"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-double-solos-northflora-2026-11-05",
+      "title": "Double Solos Tour: Mike Baggetta & Eli Winter",
+      "date": "2026-11-05",
+      "startTime": "8:00 PM (doors 7:30)",
+      "venue": "NorthFlora Collective, 609 Railroad Square",
+      "hook": "Intimate guitar night on the garden stage under glowing trees; $20.",
+      "url": "https://musiclocal.org/events/double-solos-tour-at-northflora-collective-2026-11-05-8dc8xd",
+      "imageUrl": "https://media.musiclocal.org/olQusJhcL0pd-cfuJEhmz50jcv0QhRYdx2vVf8h33kk/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fe0958b03-aa0e-4e99-96e2-bda04cd17bcd.jpeg",
+      "tags": [
+        "live music",
+        "guitar",
+        "Railroad Square"
       ],
       "sample": false
     }
