@@ -61,26 +61,26 @@
     "note": "Tracking is not ready yet: the Vercel connection still cannot read the zaevians-projects team analytics, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Cozumel today (~8:00 AM\u20134:00 PM). Sea day tomorrow November 4 (Express Debark setup). Return bus morning November 5 in Tampa.",
-    "weatherNote": "Cozumel forecast: waves ~7 in, water ~85F, breeze 3\u20136 mph. UV climbs to ~7 around 1 PM; feel near 95F. Shower chance rises toward ~30% mid-afternoon."
+    "cruiseNote": "Cozumel today (~8:00 AM–4:00 PM). Sea day tomorrow November 4 (Express Debark setup). Return bus morning November 5 in Tampa.",
+    "weatherNote": "Cozumel forecast: waves ~7 in, water ~85F, breeze 3–6 mph. UV climbs to ~7 around 1 PM; feel near 95F. Shower chance rises toward ~30% mid-afternoon."
   },
   "surprise": {
-    "kind": "port",
-    "eyebrow": "Cozumel shore day \u00b7 Tuesday, November 3, 2026",
-    "title": "The sea around Cozumel is almost glass today",
-    "body": "You are in Cozumel from about 8 AM to 4 PM, and the water could hardly be kinder for snorkeling: forecast waves near the island are only about 7 inches all day, the water is about 85F, and the breeze stays a light 3 to 6 mph. The best window is the morning. Clouds are thin, rain chances are near zero until late morning, and the UV index is still mild before 10 AM, then climbs to about 7 (high) around 1 PM, when it also feels like 95F. After noon, the chance of a passing shower rises to about 30 percent by mid-afternoon. So get in the water early, keep shade and water handy at midday, and leave yourself room to be back aboard well before the 4 PM departure.",
+    "kind": "on-this-day",
+    "eyebrow": "On this day · Wednesday, November 4, 2026",
+    "title": "104 years ago today, one stone step opened Tutankhamun's tomb",
+    "body": "On November 4, 1922, Howard Carter's team in Egypt's Valley of the Kings uncovered a single step, the top of what turned out to be a sixteen-step staircase down to tomb KV62. Behind it was the most complete royal burial ever found in the valley: 5,398 objects, from coffins and furniture to clothing and jewelry, packed into four small chambers. It survived because it was dug low into the valley floor, and flood debris and later construction buried the entrance, so it escaped the stripping that emptied the other royal tombs. Robbers did get in twice shortly after the burial, yet the pharaoh's mummy and most of his treasures stayed put for more than three thousand years. A good story for your last sea day before home.",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Reef_1_%284385939138%29.jpg",
-      "alt": "Coral reef and tropical fish on the Mesoamerican Barrier Reef"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Inside_Pharaoh_Tutankhamun%27s_tomb%2C_18th_dynasty.jpg",
+      "alt": "Painted burial chamber inside Tutankhamun's tomb in the Valley of the Kings"
     },
     "link": {
-      "label": "Wikipedia: Arrecifes de Cozumel National Park",
-      "url": "https://en.wikipedia.org/wiki/Arrecifes_de_Cozumel_National_Park"
+      "label": "Wikipedia: Tomb of Tutankhamun",
+      "url": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun"
     },
     "source": {
-      "label": "Open-Meteo marine and weather forecast for Cozumel (Nov 3, 8 AM to 4 PM local, same as Eastern time); Wikimedia Commons reef photo",
-      "url": "https://open-meteo.com/en/docs/marine-weather-api"
+      "label": "Wikipedia On This Day (Nov 4) and the Tomb of Tutankhamun article; Wikimedia Commons photo",
+      "url": "https://en.wikipedia.org/wiki/November_4"
     },
-    "accent": "#06b6d4"
+    "accent": "#d4a017"
   }
 }
