@@ -1,58 +1,54 @@
 {
-  "greeting": "Good morning, Zae. Cozumel shore day on Paradise: glass-calm water, an early snorkel window, and all-aboard well before 4 PM.",
-  "date": "2026-11-03",
-  "dateDisplay": "Tuesday, November 3, 2026",
+  "greeting": "Good morning, Zae. Last Fun Day at Sea on Paradise: rest, decks, Express Debark setup before 1 PM, and Tampa tomorrow morning.",
+  "date": "2026-11-04",
+  "dateDisplay": "Wednesday, November 4, 2026",
   "calendar": {
-    "note": "Only shore day: Cozumel about 8:00 AM to 4:00 PM",
+    "note": "Sea day 2 toward Tampa; set Express Debark today; return bus morning tomorrow",
     "events": [
       {
         "time": "8:00 AM",
         "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex if you packed them."
       },
       {
-        "time": "8:00 AM",
-        "title": "Cozumel arrival window. Ship is in port until about 4:00 PM; plan to be back aboard with margin."
+        "time": "All day",
+        "title": "Fun Day at Sea en route to Tampa. Last full day aboard before Thursday arrival ~8:00 AM."
       },
       {
-        "time": "Morning",
-        "title": "Best snorkel window: waves ~7 in, water ~85F, light breeze, UV still milder before 10 AM."
+        "time": "Before 1:00 PM",
+        "title": "Express Debark setup in the Hub: My Planner → last day → Schedule Debarkation → Express Debarkation → earliest slot. Keep all bags in the cabin overnight (do not put them in the hallway)."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Midday heat peaks near 95F feel; shade and water help."
-      },
-      {
-        "time": "3:00 PM",
-        "title": "Start heading back to the ship. All-aboard is well before the ~4:00 PM departure."
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today. Pack so you can vacate the cabin by about 8:30 AM tomorrow."
       }
     ]
   },
   "projectMove": {
-    "title": "Shore day for you; Arena Phase 26 watching overnight",
-    "body": "Enjoy Cozumel. Ashore, Arena Phase 25 finished clean last night on Grok Build, and Phase 26 (main menu, settings, game presentation) was already running on grok-4.7. Testarossa watches and pings Diablo only on finish or a wall. No cruise-autonomy pings needed from you."
+    "title": "Sea day for you; Arena Phase 30 waiting on Grok Build balance",
+    "body": "Enjoy the last day at sea. Ashore, Arena Phase 29 finished clean, and Phase 30 (progression, XP, achievements, cosmetics) hit a Grok Build usage wall (HTTP 402) mid-run yesterday afternoon. Testarossa keeps probing and will resume the moment balance returns; a top-up restarts the conveyor sooner than waiting on the next weekly reset."
   },
   "tip": {
-    "title": "Snorkel early, shade midday",
-    "body": "Morning water is the gift: near-glass seas and cooler UV. After noon the feel climbs toward 95F and shower chances rise, so keep shade and water handy, then leave yourself real time to clear security and be aboard before the 4 PM sail."
+    "title": "Express Debark today, bags stay in the cabin",
+    "body": "In the Hub, schedule Express Debarkation for the earliest slot before 1 PM ship time. Leave luggage in the cabin overnight rather than in the hallway, plan to be out by about 8:30 AM Thursday, then Uber to Hart North Platform (1315 N Marion St) by about 10:30 for the 11:10 Greyhound to Tallahassee."
   },
   "cruise": {
     "name": "Carnival Paradise",
-    "targetDate": "2026-11-03",
-    "label": "Cozumel shore day"
+    "targetDate": "2026-11-04",
+    "label": "Sea day 2"
   },
   "weather": {
-    "lat": 20.42,
-    "lon": -86.92,
-    "label": "Cozumel, Mexico"
+    "lat": 25.5,
+    "lon": -84.5,
+    "label": "Gulf of Mexico (return toward Tampa)"
   },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-03T06:50:33-05:00",
+    "asOf": "2026-11-04T06:47:30-05:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -61,8 +57,8 @@
     "note": "Tracking is not ready yet: the Vercel connection still cannot read the zaevians-projects team analytics, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Cozumel today (~8:00 AM–4:00 PM). Sea day tomorrow November 4 (Express Debark setup). Return bus morning November 5 in Tampa.",
-    "weatherNote": "Cozumel forecast: waves ~7 in, water ~85F, breeze 3–6 mph. UV climbs to ~7 around 1 PM; feel near 95F. Shower chance rises toward ~30% mid-afternoon."
+    "cruiseNote": "Last Fun Day at Sea. Tampa arrival tomorrow November 5 ~8:00 AM. Express Debark today; return Greyhound 11:10 from Hart North (booking 3398153238 seat 6A).",
+    "weatherNote": "Open Gulf on the return track toward Tampa. Favor decks and rest; tomorrow is early debark and the bus home."
   },
   "surprise": {
     "kind": "on-this-day",
