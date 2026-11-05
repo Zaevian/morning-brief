@@ -1,54 +1,25 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-04",
+    "start": "2026-11-05",
     "end": "2026-11-05",
-    "label": "Wed-Thu, Nov 4-5, 2026"
+    "label": "Thu Nov 5, 2026"
   },
-  "updatedNote": "Wednesday refresh from Diablo. Thursday filled in nicely for your return, with Railroad Square, Mission San Luis, and a bluegrass jam.",
+  "updatedNote": "Thursday-only refresh from Diablo for Express Debark night. Fair opens, Theatre Tallahassee opening night, Railroad Square guitar, and the Blue Tavern Voices listening party; Blues Jam dropped (old MusicLocal URL now redirects to a Nov 7 show).",
   "events": [
     {
-      "id": "wed-colten-hood-blue-tavern-2026-11-04",
-      "title": "Colten Hood at Blue Tavern",
-      "date": "2026-11-04",
-      "startTime": "5:00 PM–7:00 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Early-evening set, done in time for dinner.",
-      "url": "https://musiclocal.org/events/colten-hood-at-blue-tavern-2026-11-04-8qhscn",
-      "imageUrl": "https://media.musiclocal.org/hVNUZxrs9JZVIyEtK9No7-C3-TFKtsqquC2zH3toTxE/rs:fill:1200:1200/g:fp:0.5:0.24/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fb9721d64-e0e9-428d-b3a4-7af9e8116376.jpeg",
+      "id": "thu-north-florida-fair-2026-11-05",
+      "title": "84th Annual North Florida Fair Opening Night",
+      "date": "2026-11-05",
+      "startTime": "5:00 PM–10:00 PM",
+      "venue": "North Florida Fairgrounds, 441 E Paul Russell Rd",
+      "hook": "Opening night gates and carnival from 5, classic fair food and rides to kick off the run.",
+      "url": "https://www.northfloridafair.com/p/visit/operating-hours",
+      "imageUrl": "https://cdn.saffire.com/images.ashx?t=ig&rid=NorthFloridaFair&i=20260822-TJB_5108_2.jpg&cb=16ad6e9a",
       "tags": [
-        "live music",
-        "happy hour"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-rashomon-aslc-2026-11-04",
-      "title": "Rashomon Film Screening",
-      "date": "2026-11-04",
-      "startTime": "6:00 PM–8:30 PM",
-      "venue": "Askew Student Life Center, FSU, 942 Learning Way",
-      "hook": "Kurosawa's landmark four-sided murder mystery on the big screen.",
-      "url": "https://calendar.fsu.edu/event/rashomon-film-screening",
-      "imageUrl": "https://localist-images.azureedge.net/photos/54178080932619/huge/915cf76b4263fe5685d046ee6a00d58c30d237ce.jpg",
-      "tags": [
-        "film",
-        "campus"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-open-mic-blue-tavern-2026-11-04",
-      "title": "Open Mic with Doc Russell",
-      "date": "2026-11-04",
-      "startTime": "7:00 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Long-running Wednesday open mic, bring a song or just listen.",
-      "url": "https://musiclocal.org/events/open-mic-at-blue-tavern-2026-11-04-ag0mqd",
-      "imageUrl": "https://media.musiclocal.org/dqF12_HCPeI3mWwF55xlspJLm5rsmGOUCheKxa9elQw/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F009ffc80-424b-11ef-87a8-435fc17d1e4d.jpeg",
-      "tags": [
-        "open mic",
-        "live music"
+        "fair",
+        "outdoors",
+        "family"
       ],
       "sample": false
     },
@@ -85,17 +56,18 @@
       "sample": false
     },
     {
-      "id": "thu-blues-jam-getaway-2026-11-05",
-      "title": "Blues Jam with Brett & \"Dangerous\" Dave",
+      "id": "thu-george-feijoo-hub-2026-11-05",
+      "title": "George Feijoo Live + Bingo & Brews",
       "date": "2026-11-05",
       "startTime": "6:00 PM–9:00 PM",
-      "venue": "The Getaway Grille and Bar, 2386 Allen Rd",
-      "hook": "Tallahassee's longest-running weekly blues jam, backline provided.",
-      "url": "https://musiclocal.org/events/blues-jam-at-the-getaway-grille-and-bar-2026-11-05-ydfrv1",
-      "imageUrl": "https://media.musiclocal.org/MhwLCoRKwhe2crxAPGRs9dU1Z9zuXZY3PmGIlFtFtdU/rs:fill:1200:1200/g:fp:0.5:0.55/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2Fbfeef99b-a698-4bff-a327-bff7f49526d9.jpeg",
+      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
+      "hook": "Live set with Bingo & Brews at 6 and Rustic Grub on site until 9.",
+      "url": "https://www.thehubatfeatheroaks.com/event-details/rustic-grub-live-music",
+      "imageUrl": "https://static.wixstatic.com/media/f3138a_c38240e4e58f4fabbe9cd1e10b938be9~mv2.png/v1/fill/w_2000,h_2000,al_c/f3138a_c38240e4e58f4fabbe9cd1e10b938be9~mv2.png",
       "tags": [
-        "blues",
-        "live music"
+        "live music",
+        "bingo",
+        "food"
       ],
       "sample": false
     },
@@ -132,18 +104,81 @@
       "sample": false
     },
     {
+      "id": "thu-polymorphia-fsu-2026-11-05",
+      "title": "Polymorphia — FSU New Music Ensemble",
+      "date": "2026-11-05",
+      "startTime": "7:30 PM",
+      "venue": "Dohnányi Recital Hall, FSU, 122 N Copeland St",
+      "hook": "FSU New Music Ensemble in Dohnányi Recital Hall; campus concert night.",
+      "url": "https://calendar.fsu.edu/event/polymorphia",
+      "imageUrl": "https://localist-images.azureedge.net/photos/500507/huge/9f45094cb0f4f19b164a6cea1e4040873cfd8ad5.jpg",
+      "tags": [
+        "campus",
+        "classical",
+        "ensemble"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-curious-incident-theatre-tally-2026-11-05",
+      "title": "The Curious Incident of the Dog in the Night-Time",
+      "date": "2026-11-05",
+      "startTime": "8:00 PM",
+      "venue": "Theatre Tallahassee, 1861 Thomasville Rd",
+      "hook": "Opening night of Theatre Tallahassee's mainstage mystery adaptation; ~2 hours.",
+      "url": "https://theatretallahassee.org/2026-2027-season/curious-incident/",
+      "imageUrl": "https://i0.wp.com/theatretallahassee.org/wp-content/uploads/2026/03/Curious-Incident_Website-Hero-scaled.jpg?fit=1200%2C384&ssl=1",
+      "tags": [
+        "theater",
+        "opening night"
+      ],
+      "sample": false
+    },
+    {
       "id": "thu-double-solos-northflora-2026-11-05",
       "title": "Double Solos Tour: Mike Baggetta & Eli Winter",
       "date": "2026-11-05",
       "startTime": "8:00 PM (doors 7:30)",
       "venue": "NorthFlora Collective, 609 Railroad Square",
-      "hook": "Intimate guitar night on the garden stage under glowing trees; $20.",
+      "hook": "Intimate guitar night on the garden stage under glowing trees; $20 day-of.",
       "url": "https://musiclocal.org/events/double-solos-tour-at-northflora-collective-2026-11-05-8dc8xd",
       "imageUrl": "https://media.musiclocal.org/olQusJhcL0pd-cfuJEhmz50jcv0QhRYdx2vVf8h33kk/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fe0958b03-aa0e-4e99-96e2-bda04cd17bcd.jpeg",
       "tags": [
         "live music",
         "guitar",
         "Railroad Square"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-voices-listening-blue-tavern-2026-11-05",
+      "title": "Voices: A Folk Opera Listening Party",
+      "date": "2026-11-05",
+      "startTime": "8:00 PM–10:30 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Inside listening party for Kathryn Belle Long's folk opera; $10 door, vinyl for sale.",
+      "url": "https://www.zebrawebworks.com/bluetavern/new_calendar/showevent.cfm?CalID=3669",
+      "imageUrl": "https://cdn.stayhappening.com/events9/banners/7d7c5f3ba15aca04f70c04ccaed2048a9a21c59ded6feb01627f988aa8a3f67e-rimg-w1200-h527-dc080818-gmir?v=1791828375",
+      "tags": [
+        "listening party",
+        "folk",
+        "Blue Tavern"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-open-mic-finnegans-2026-11-05",
+      "title": "Open Mic Night at Finnegan's Wake",
+      "date": "2026-11-05",
+      "startTime": "9:00 PM",
+      "venue": "Finnegan's Wake Irish Pub, 1122 Thomasville Rd",
+      "hook": "Weekly Thursday open mic; half-off drinks 5–7 if you want to start early.",
+      "url": "https://musiclocal.org/events/open-mic-night-at-finnegans-wake-irish-pub-2026-11-05-s1njzg",
+      "imageUrl": "https://media.musiclocal.org/6JezQOflumO6_5uHJKT_CImS8X4t5WXNeodVO6wHYqU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevent-images%2F0ef81d8a-c216-48b6-a580-db2696fc6834.jpeg",
+      "tags": [
+        "open mic",
+        "live music",
+        "Midtown"
       ],
       "sample": false
     }
