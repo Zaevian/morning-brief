@@ -1,54 +1,62 @@
 {
-  "greeting": "Good morning, Zae. Last Fun Day at Sea on Paradise: rest, decks, Express Debark setup before 1 PM, and Tampa tomorrow morning.",
-  "date": "2026-11-04",
-  "dateDisplay": "Wednesday, November 4, 2026",
+  "greeting": "Good morning, Zae. Welcome home: Express Debark this morning, then the Greyhound north to Tallahassee.",
+  "date": "2026-11-05",
+  "dateDisplay": "Thursday, November 5, 2026",
   "calendar": {
-    "note": "Sea day 2 toward Tampa; set Express Debark today; return bus morning tomorrow",
+    "note": "Tampa arrival and Express Debark; Greyhound home; soft landing in Tallahassee",
     "events": [
+      {
+        "time": "About 8:00 AM",
+        "title": "Carnival Paradise arrives Tampa. Express Debark: carry your own bags and leave the cabin around 8:30 AM."
+      },
       {
         "time": "8:00 AM",
         "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex if you packed them."
       },
       {
-        "time": "All day",
-        "title": "Fun Day at Sea en route to Tampa. Last full day aboard before Thursday arrival ~8:00 AM."
+        "time": "By 10:30 AM",
+        "title": "Uber to Hart North Platform, 1315 N Marion St, Tampa. Be there with time to spare for the bus."
       },
       {
-        "time": "Before 1:00 PM",
-        "title": "Express Debark setup in the Hub: My Planner → last day → Schedule Debarkation → Express Debarkation → earliest slot. Keep all bags in the cabin overnight (do not put them in the hallway)."
+        "time": "11:10 AM",
+        "title": "Greyhound to Tallahassee. Booking 3398153238, seat 6A."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
+      },
+      {
+        "time": "Afternoon",
+        "title": "Arrive Tallahassee. Foggy mild morning around 73°F, warming toward about 80°F, low rain chance; sunset 5:46 PM."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today. Pack so you can vacate the cabin by about 8:30 AM tomorrow."
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Soft landing night at home."
       }
     ]
   },
   "projectMove": {
-    "title": "Sea day for you; Arena Phase 30 waiting on Grok Build balance",
-    "body": "Enjoy the last day at sea. Ashore, Arena Phase 29 finished clean, and Phase 30 (progression, XP, achievements, cosmetics) hit a Grok Build usage wall (HTTP 402) mid-run yesterday afternoon. Testarossa keeps probing and will resume the moment balance returns; a top-up restarts the conveyor sooner than waiting on the next weekly reset."
+    "title": "Home day; Arena Phase 30 still waiting on Grok Build balance",
+    "body": "While you were at sea, Phases 25 through 29 finished with green builds. Phase 30 (progression, XP, achievements, cosmetics) is still paused on a Grok Build usage wall from Tuesday; Testarossa resumes the moment balance returns. A top-up restarts the conveyor sooner than waiting on the next weekly reset."
   },
   "tip": {
-    "title": "Express Debark today, bags stay in the cabin",
-    "body": "In the Hub, schedule Express Debarkation for the earliest slot before 1 PM ship time. Leave luggage in the cabin overnight rather than in the hallway, plan to be out by about 8:30 AM Thursday, then Uber to Hart North Platform (1315 N Marion St) by about 10:30 for the 11:10 Greyhound to Tallahassee."
+    "title": "Express off the ship, then Hart North by 10:30",
+    "body": "Carry everything yourself under Express Debark, vacate the cabin around 8:30 AM, and Uber to Hart North Platform at 1315 N Marion St so you are there by about 10:30 for the 11:10 Greyhound to Tallahassee (booking 3398153238, seat 6A)."
   },
   "cruise": {
     "name": "Carnival Paradise",
-    "targetDate": "2026-11-04",
-    "label": "Sea day 2"
+    "targetDate": "2026-11-05",
+    "label": "Debark · Tampa"
   },
   "weather": {
-    "lat": 25.5,
-    "lon": -84.5,
-    "label": "Gulf of Mexico (return toward Tampa)"
+    "lat": 30.44,
+    "lon": -84.28,
+    "label": "Tallahassee (home)"
   },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-04T06:47:30-05:00",
+    "asOf": "2026-11-05T06:56:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -57,8 +65,8 @@
     "note": "Tracking is not ready yet: the Vercel connection still cannot read the zaevians-projects team analytics, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Last Fun Day at Sea. Tampa arrival tomorrow November 5 ~8:00 AM. Express Debark today; return Greyhound 11:10 from Hart North (booking 3398153238 seat 6A).",
-    "weatherNote": "Open Gulf on the return track toward Tampa. Favor decks and rest; tomorrow is early debark and the bus home."
+    "cruiseNote": "Debark day in Tampa. Express carry-off, cabin clear by about 8:30 AM, Uber to Hart North, Greyhound 11:10 booking 3398153238 seat 6A.",
+    "weatherNote": "Tallahassee home weather: foggy mild morning near 73°F, about 80°F this afternoon, roughly 11% rain chance, sunset 5:46 PM."
   },
   "surprise": {
     "kind": "note",
