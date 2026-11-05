@@ -1,184 +1,285 @@
 {
-  "mode": "week",
+  "mode": "weekend",
   "range": {
-    "start": "2026-11-05",
-    "end": "2026-11-05",
-    "label": "Thu Nov 5, 2026"
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "label": "Fri–Sun, Nov 6–8, 2026"
   },
-  "updatedNote": "Thursday-only refresh from Diablo for Express Debark night. Fair opens, Theatre Tallahassee opening night, Railroad Square guitar, and the Blue Tavern Voices listening party; Blues Jam dropped (old MusicLocal URL now redirects to a Nov 7 show).",
+  "updatedNote": "Weekend from Chika: Fri Nov 6 – Sun Nov 8 Tallahassee + nearby; default card art (no verified image URLs).",
   "events": [
     {
-      "id": "thu-north-florida-fair-2026-11-05",
-      "title": "84th Annual North Florida Fair Opening Night",
-      "date": "2026-11-05",
-      "startTime": "5:00 PM–10:00 PM",
-      "venue": "North Florida Fairgrounds, 441 E Paul Russell Rd",
-      "hook": "Opening night gates and carnival from 5, classic fair food and rides to kick off the run.",
-      "url": "https://www.northfloridafair.com/p/visit/operating-hours",
-      "imageUrl": "https://cdn.saffire.com/images.ashx?t=ig&rid=NorthFloridaFair&i=20260822-TJB_5108_2.jpg&cb=16ad6e9a",
-      "tags": [
-        "fair",
-        "outdoors",
-        "family"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-bluegrass-jam-blue-tavern-2026-11-05",
-      "title": "First Thursdays Bluegrass Jam",
-      "date": "2026-11-05",
-      "startTime": "5:00 PM–7:00 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Free monthly jam, all ages and abilities, courtyard if the weather's nice.",
-      "url": "https://musiclocal.org/events/first-thursdays-bluegrass-jam-at-blue-tavern-2026-11-05-nxzn08",
-      "imageUrl": "https://media.musiclocal.org/str3elfRzR2Kpuh-S_Dfy5snOySgSwiLpRDMgri223I/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F38f799f0-ea8b-11f0-b480-7d448727a4aa.jpg",
-      "tags": [
-        "bluegrass",
-        "live music",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-gulf-salon-mofa-2026-11-05",
-      "title": "Sustainable Campus x MoFA: Gulf Salon",
-      "date": "2026-11-05",
-      "startTime": "5:30 PM–7:00 PM",
-      "venue": "Museum of Fine Arts at FSU, 530 W Call St",
-      "hook": "Guided movement piece and exhibition tour with choreographer nia love; free.",
-      "url": "https://tallahasseearts.org/event/sustainable-campus-x-mofa-gulf-salon/",
-      "imageUrl": "https://tallahasseearts.org/wp-content/uploads/sites/tallahasseearts.org/images/2026/10/event-featured-sustainable-campus-x-mofa-gulf-salon-1793391315.png",
+      "id": "fri-first-friday-railroad-2026-11-06",
+      "title": "First Friday @ Railroad Square",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "startTime": "6:00 PM",
+      "venue": "Railroad Square Art District, 620 Railroad Sq",
+      "hook": "Open galleries, live music, food trucks, pinball arcade; roads close at 6, rain or shine.",
+      "url": "https://visittallahassee.com/events/first-friday-railroad-square-nov-6/",
+      "imageUrl": null,
       "tags": [
         "art",
-        "campus",
+        "live music",
+        "food",
         "free"
       ],
       "sample": false
     },
     {
-      "id": "thu-george-feijoo-hub-2026-11-05",
-      "title": "George Feijoo Live + Bingo & Brews",
-      "date": "2026-11-05",
-      "startTime": "6:00 PM–9:00 PM",
-      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
-      "hook": "Live set with Bingo & Brews at 6 and Rustic Grub on site until 9.",
-      "url": "https://www.thehubatfeatheroaks.com/event-details/rustic-grub-live-music",
-      "imageUrl": "https://static.wixstatic.com/media/f3138a_c38240e4e58f4fabbe9cd1e10b938be9~mv2.png/v1/fill/w_2000,h_2000,al_c/f3138a_c38240e4e58f4fabbe9cd1e10b938be9~mv2.png",
-      "tags": [
-        "live music",
-        "bingo",
-        "food"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-san-luis-por-la-noche-2026-11-05",
-      "title": "San Luis Por La Noche with FSU Guitar Studio",
-      "date": "2026-11-05",
-      "startTime": "6:30 PM–9:00 PM",
-      "venue": "Mission San Luis, 2100 W Tennessee St",
-      "hook": "Spanish guitar, wine, and hors d'oeuvres at the mission; $10, registration required.",
-      "url": "https://musiclocal.org/events/san-luis-por-la-noche-at-mission-san-luis-2026-11-05-7h5vbk",
-      "imageUrl": "https://media.musiclocal.org/ocdl6htOJzTapu-cF6IMTsVtM5OCJMMflppIg1N-jV4/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F8e26d64e-f210-4767-ac4b-1e55d45516db.jpeg",
-      "tags": [
-        "classical guitar",
-        "history",
-        "date night"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-irish-trad-ology-2026-11-05",
-      "title": "Irish Trad Session",
-      "date": "2026-11-05",
-      "startTime": "7:00 PM–9:00 PM",
-      "venue": "Ology Brewing Co (Midtown), 118 E 6th Ave",
-      "hook": "Acoustic session with Tally Trad; grab a pint and enjoy the craic.",
-      "url": "https://musiclocal.org/events/irish-trad-session-at-ology-brewing-co-midtown-2026-11-05-5872t5",
-      "imageUrl": "https://media.musiclocal.org/vuhvDQ0jAJnB6G-kV8sQEKTAB3rtPazKOxFmb3fD-88/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fd62ee5a5-f8a7-45e9-bc9c-56377ee6be8a.jpeg",
-      "tags": [
-        "irish",
-        "live music",
-        "brewery"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-polymorphia-fsu-2026-11-05",
-      "title": "Polymorphia — FSU New Music Ensemble",
-      "date": "2026-11-05",
-      "startTime": "7:30 PM",
-      "venue": "Dohnányi Recital Hall, FSU, 122 N Copeland St",
-      "hook": "FSU New Music Ensemble in Dohnányi Recital Hall; campus concert night.",
-      "url": "https://calendar.fsu.edu/event/polymorphia",
-      "imageUrl": "https://localist-images.azureedge.net/photos/500507/huge/9f45094cb0f4f19b164a6cea1e4040873cfd8ad5.jpg",
-      "tags": [
-        "campus",
-        "classical",
-        "ensemble"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-curious-incident-theatre-tally-2026-11-05",
-      "title": "The Curious Incident of the Dog in the Night-Time",
-      "date": "2026-11-05",
+      "id": "fri-ghost-town-blues-band-2026-11-06",
+      "title": "Ghost Town Blues Band",
+      "day": "Fri",
+      "date": "2026-11-06",
       "startTime": "8:00 PM",
-      "venue": "Theatre Tallahassee, 1861 Thomasville Rd",
-      "hook": "Opening night of Theatre Tallahassee's mainstage mystery adaptation; ~2 hours.",
-      "url": "https://theatretallahassee.org/2026-2027-season/curious-incident/",
-      "imageUrl": "https://i0.wp.com/theatretallahassee.org/wp-content/uploads/2026/03/Curious-Incident_Website-Hero-scaled.jpg?fit=1200%2C384&ssl=1",
-      "tags": [
-        "theater",
-        "opening night"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-double-solos-northflora-2026-11-05",
-      "title": "Double Solos Tour: Mike Baggetta & Eli Winter",
-      "date": "2026-11-05",
-      "startTime": "8:00 PM (doors 7:30)",
-      "venue": "NorthFlora Collective, 609 Railroad Square",
-      "hook": "Intimate guitar night on the garden stage under glowing trees; $20 day-of.",
-      "url": "https://musiclocal.org/events/double-solos-tour-at-northflora-collective-2026-11-05-8dc8xd",
-      "imageUrl": "https://media.musiclocal.org/olQusJhcL0pd-cfuJEhmz50jcv0QhRYdx2vVf8h33kk/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fe0958b03-aa0e-4e99-96e2-bda04cd17bcd.jpeg",
+      "venue": "American Legion Post 13, 229 Lake Ella Dr",
+      "hook": "Mac Daddy Blues presents a touring blues band; $20 advance, $25 day of.",
+      "url": "https://visittallahassee.com/events/ghost-town-blues-band-at-the-american-legion-post-13/",
+      "imageUrl": null,
       "tags": [
         "live music",
-        "guitar",
-        "Railroad Square"
+        "blues",
+        "ticketed"
       ],
       "sample": false
     },
     {
-      "id": "thu-voices-listening-blue-tavern-2026-11-05",
-      "title": "Voices: A Folk Opera Listening Party",
-      "date": "2026-11-05",
-      "startTime": "8:00 PM–10:30 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Inside listening party for Kathryn Belle Long's folk opera; $10 door, vinyl for sale.",
-      "url": "https://www.zebrawebworks.com/bluetavern/new_calendar/showevent.cfm?CalID=3669",
-      "imageUrl": "https://cdn.stayhappening.com/events9/banners/7d7c5f3ba15aca04f70c04ccaed2048a9a21c59ded6feb01627f988aa8a3f67e-rimg-w1200-h527-dc080818-gmir?v=1791828375",
+      "id": "fri-pick-ups-birds-2026-11-06",
+      "title": "The Pick-Ups at BIRDs Novemberfest",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "startTime": "7:00–10:00 PM",
+      "venue": "BIRDs Shack, 325 N Bronough St",
+      "hook": "Local band on the corner stage downtown, no cover.",
+      "url": "https://musiclocal.org/events/the-pick-ups-at-birds-novemberfest-at-birds-shack-2026-11-06-hihzh4",
+      "imageUrl": null,
       "tags": [
-        "listening party",
-        "folk",
-        "Blue Tavern"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-open-mic-finnegans-2026-11-05",
-      "title": "Open Mic Night at Finnegan's Wake",
-      "date": "2026-11-05",
-      "startTime": "9:00 PM",
-      "venue": "Finnegan's Wake Irish Pub, 1122 Thomasville Rd",
-      "hook": "Weekly Thursday open mic; half-off drinks 5–7 if you want to start early.",
-      "url": "https://musiclocal.org/events/open-mic-night-at-finnegans-wake-irish-pub-2026-11-05-s1njzg",
-      "imageUrl": "https://media.musiclocal.org/6JezQOflumO6_5uHJKT_CImS8X4t5WXNeodVO6wHYqU/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevent-images%2F0ef81d8a-c216-48b6-a580-db2696fc6834.jpeg",
-      "tags": [
-        "open mic",
         "live music",
-        "Midtown"
+        "local",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-flannel-friday-lake-tribe-2026-11-06",
+      "title": "First Flannel Friday: Seminole Uprising",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "startTime": "6:00–9:00 PM",
+      "venue": "Lake Tribe Brewing, 3357 Garber Dr",
+      "hook": "Free deck show, craft beer, Chefs Block food truck.",
+      "url": "https://musiclocal.org/events/seminole-uprising-at-lake-tribe-brewing-company-2026-11-06-bhdq2w",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "brewery",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-north-florida-fair-2026-11-06",
+      "title": "North Florida Fair",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "startTime": "Gates 5:00 PM Fri; noon Sat & Sun",
+      "venue": "North Florida Fairgrounds",
+      "hook": "84th annual fair, runs Nov 5–15; rides, fair food, the works.",
+      "url": "https://northfloridafair.com/event/84th-annual-north-florida-fair/",
+      "imageUrl": null,
+      "tags": [
+        "fair",
+        "food",
+        "all weekend"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-florida-seafood-festival-2026-11-06",
+      "title": "Florida Seafood Festival (Apalachicola)",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "startTime": "Fri from 10 AM; Sat parade 10 AM; headliners 8 PM both nights",
+      "venue": "Battery Park, Apalachicola (~1h15 drive)",
+      "hook": "63rd year: oyster shucking and eating contests, blue crab races, Blessing of the Fleet, nightly music.",
+      "url": "https://www.floridaseafoodfestival.com/events/schedule-of-events/",
+      "imageUrl": null,
+      "tags": [
+        "festival",
+        "food",
+        "road trip",
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-anhinga-festival-2026-11-07",
+      "title": "Anhinga Music & Art Festival",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "12:00–6:00 PM",
+      "venue": "Lewis & Bloxham Parks, 311 E Park Ave",
+      "hook": "Free downtown fest: Green Street Sheiks 12:30, JB's Zydeco Zoo 2:30, Stillwood 4:30, plus makers and food trucks.",
+      "url": "https://visittallahassee.com/events/anhinga-music-art-festival/",
+      "imageUrl": null,
+      "tags": [
+        "festival",
+        "live music",
+        "art",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-little-mercies-ep-release-2026-11-07",
+      "title": "The Little Mercies EP Release Hometown Show",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "7:00 PM doors",
+      "venue": "Legion Hall, 229 Lake Ella Dr",
+      "hook": "Hometown band back to celebrate a new EP; $20 at the door.",
+      "url": "https://musiclocal.org/events/the-little-mercies-ep-release-hometown-show-at-legion-hall-2026-11-07-jgidkj",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "local",
+        "ticketed"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-sol-ties-anniversary-2026-11-07",
+      "title": "Sol Ties: 1 Year Anniversary",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "8:00–10:30 PM (doors 7)",
+      "venue": "The Lobby Event Center, 2764 W Tennessee St #3",
+      "hook": "Live R&B night with intimate seating and small bites; date-night energy.",
+      "url": "https://www.simpletix.com/e/sol-ties-1-year-anniversary-tickets-299421",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "R&B",
+        "ticketed"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-artisans-in-the-garden-2026-11-07",
+      "title": "Artisans in the Garden",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "9:00 AM–5:00 PM",
+      "venue": "Tallahassee Nurseries, 2911 Thomasville Rd",
+      "hook": "30th annual local makers market in the gardens; leashed pets welcome.",
+      "url": "https://tallahasseenurseries.com/artisans/",
+      "imageUrl": null,
+      "tags": [
+        "market",
+        "art",
+        "outdoor",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-farmers-market-fall-festival-2026-11-07",
+      "title": "Tallahassee Farmers Market Fall Festival",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "8:00 AM–12:00 PM",
+      "venue": "2904 Kerry Forest Pkwy",
+      "hook": "Market plus live music from Rhys Bennett, pet adoptions, fire truck.",
+      "url": "https://fun4tallykids.com/calendar/eventdetail/274133/8/tallahassee-farmers-market-fall-festival?tmpl=component",
+      "imageUrl": null,
+      "tags": [
+        "market",
+        "food",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-st-marks-monarch-festival-2026-11-07",
+      "title": "St. Marks Monarch Butterfly Festival",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "10:00 AM–2:00 PM",
+      "venue": "St. Marks National Wildlife Refuge, 1255 Lighthouse Rd",
+      "hook": "Walk among migrating monarchs, tagging demos; $5 per car.",
+      "url": "https://fun4tallykids.com/calendar/eventsbyday/2026/11/7/8",
+      "imageUrl": null,
+      "tags": [
+        "outdoor",
+        "nature",
+        "day trip"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-big-bend-orchestra-2026-11-07",
+      "title": "Big Bend Community Orchestra: The Color of Music",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "3:00 PM",
+      "venue": "Lee Hall Auditorium, FAMU",
+      "hook": "Free fall concert: Beethoven, Ives, Sousa, Tchaikovsky.",
+      "url": "https://tallahasseearts.org/event/the-color-of-music/",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "classical",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-temple-of-the-cat-quincy-2026-11-07",
+      "title": "Temple Of The Cat at Burned Beard Brewing",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "startTime": "6:00–9:00 PM",
+      "venue": "Burned Beard Brewing, 10 N Adams St, Quincy",
+      "hook": "Brewery show in downtown Quincy, about 30 minutes out.",
+      "url": "https://musiclocal.org/events/temple-of-the-cat-at-burned-beard-brewing-2026-11-07-pmlymz",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "brewery",
+        "nearby"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-sleep-atrophy-the-bark-2026-11-08",
+      "title": "Sleep Atrophy, Awall, Taint at The Bark",
+      "day": "Sun",
+      "date": "2026-11-08",
+      "startTime": "6:30 PM (doors 6)",
+      "venue": "The Bark, 507 All Saints St",
+      "hook": "DIY heavy show: South Florida's Awall with Tally locals; $10.",
+      "url": "https://musiclocal.org/events/sleep-atrophy-and-awall-at-the-bark-2026-11-08-4wb90z",
+      "imageUrl": null,
+      "tags": [
+        "DIY",
+        "live music",
+        "heavy",
+        "local"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-crafters-mining-musical-2026-11-08",
+      "title": "Crafters: A Mining Musical",
+      "day": "Sun",
+      "date": "2026-11-08",
+      "startTime": "12:00 PM (also Fri 8 PM, Sat noon & 8 PM)",
+      "venue": "Conradi Studio Theatre, 631 University Way",
+      "hook": "Wacky blocky-world parody musical from White Mouse Theatre.",
+      "url": "https://tallahasseearts.org/event/crafters-a-mining-musical/",
+      "imageUrl": null,
+      "tags": [
+        "theatre",
+        "comedy"
       ],
       "sample": false
     }
