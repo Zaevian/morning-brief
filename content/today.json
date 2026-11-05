@@ -61,22 +61,18 @@
     "weatherNote": "Open Gulf on the return track toward Tampa. Favor decks and rest; tomorrow is early debark and the bus home."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "On this day · Wednesday, November 4, 2026",
-    "title": "104 years ago today, one stone step opened Tutankhamun's tomb",
-    "body": "On November 4, 1922, Howard Carter's team in Egypt's Valley of the Kings uncovered a single step, the top of what turned out to be a sixteen-step staircase down to tomb KV62. Behind it was the most complete royal burial ever found in the valley: 5,398 objects, from coffins and furniture to clothing and jewelry, packed into four small chambers. It survived because it was dug low into the valley floor, and flood debris and later construction buried the entrance, so it escaped the stripping that emptied the other royal tombs. Robbers did get in twice shortly after the burial, yet the pharaoh's mummy and most of his treasures stayed put for more than three thousand years. A good story for your last sea day before home.",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Inside_Pharaoh_Tutankhamun%27s_tomb%2C_18th_dynasty.jpg",
-      "alt": "Painted burial chamber inside Tutankhamun's tomb in the Valley of the Kings"
-    },
+    "kind": "note",
+    "eyebrow": "Welcome home · Thursday, November 5, 2026",
+    "title": "While you were at sea, the Arena grew five phases",
+    "body": "Since you sailed on Sunday, the Arena Battlegrounds remake finished five full build phases with green builds: competitive balance and discipline matchups (Phase 25), the complete main menu and settings (26), Free Duel with custom rules and practice (27), the Arcade Tournament with championship brackets (28), and the Story Campaign, Fracture of the Five Seals (29). Phase 30, player progression with XP, achievements, spell unlocks, and cosmetics, got partway in on Tuesday before the build tool ran out of usage, and it picks up again with a top-up or the next weekly reset. Back home in Tallahassee it is a foggy, mild morning around 73°F, warming to about 80°F this afternoon with only an 11% chance of rain, and the sun sets at 5:46 PM. Welcome back, Zae.",
     "link": {
-      "label": "Wikipedia: Tomb of Tutankhamun",
-      "url": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun"
+      "label": "Tallahassee forecast (Open-Meteo)",
+      "url": "https://open-meteo.com/en/docs?latitude=30.44&longitude=-84.28"
     },
     "source": {
-      "label": "Wikipedia On This Day (Nov 4) and the Tomb of Tutankhamun article; Wikimedia Commons photo",
-      "url": "https://en.wikipedia.org/wiki/November_4"
+      "label": "Arena build logs from the team; Open-Meteo forecast for Tallahassee, Nov 5",
+      "url": "https://open-meteo.com/"
     },
-    "accent": "#d4a017"
+    "accent": "#3fa7d6"
   }
 }
