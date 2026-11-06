@@ -69,18 +69,22 @@
     "weatherNote": "Tallahassee home weather: foggy mild morning near 73°F, about 80°F this afternoon, roughly 11% rain chance, sunset 5:46 PM."
   },
   "surprise": {
-    "kind": "note",
-    "eyebrow": "Welcome home · Thursday, November 5, 2026",
-    "title": "While you were at sea, the Arena grew five phases",
-    "body": "Since you sailed on Sunday, the Arena Battlegrounds remake finished five full build phases with green builds: competitive balance and discipline matchups (Phase 25), the complete main menu and settings (26), Free Duel with custom rules and practice (27), the Arcade Tournament with championship brackets (28), and the Story Campaign, Fracture of the Five Seals (29). Phase 30, player progression with XP, achievements, spell unlocks, and cosmetics, got partway in on Tuesday before the build tool ran out of usage, and it picks up again with a top-up or the next weekly reset. Back home in Tallahassee it is a foggy, mild morning around 73°F, warming to about 80°F this afternoon with only an 11% chance of rain, and the sun sets at 5:46 PM. Welcome back, Zae.",
+    "kind": "show",
+    "eyebrow": "Tonight's show · Friday, November 6, 2026",
+    "title": "Ghost Town Blues Band at the Legion, 8 PM",
+    "body": "Your calendar holds Spanish study from 6 to 8 tonight, so First Friday at Railroad Square and the early free sets collide with it, but this one starts right as you close the books. Mac Daddy Blues brings the touring Ghost Town Blues Band to American Legion Post 13 at 229 Lake Ella Drive at 8 PM, with tickets $20 advance or $25 day of show and catered food on site. The evening is dry and overcast, about 66°F at 8 PM and cooling toward the low 60s, so it is an easy first-night-out after the cruise. First full Friday home.",
+    "image": {
+      "url": "https://visittallahassee.com/wp-content/uploads/2026/08/event-featured-ghost-town-blues-band-live-at-the-american-legion-post-13-in-tallahassee-on-friday-november-6th-at-8-pm-1787773922.jpe",
+      "alt": "Ghost Town Blues Band at American Legion Post 13"
+    },
     "link": {
-      "label": "Tallahassee forecast (Open-Meteo)",
-      "url": "https://open-meteo.com/en/docs?latitude=30.44&longitude=-84.28"
+      "label": "Event listing on Visit Tallahassee",
+      "url": "https://visittallahassee.com/events/ghost-town-blues-band-at-the-american-legion-post-13/"
     },
     "source": {
-      "label": "Arena build logs from the team; Open-Meteo forecast for Tallahassee, Nov 5",
-      "url": "https://open-meteo.com/"
+      "label": "Visit Tallahassee listing, Google Calendar (Spanish 6–8), and Open-Meteo forecast",
+      "url": "https://visittallahassee.com/events/ghost-town-blues-band-at-the-american-legion-post-13/"
     },
-    "accent": "#3fa7d6"
+    "accent": "#a855f7"
   }
 }
