@@ -1,62 +1,50 @@
 {
-  "greeting": "Good morning, Zae. Welcome home: Express Debark this morning, then the Greyhound north to Tallahassee.",
-  "date": "2026-11-05",
-  "dateDisplay": "Thursday, November 5, 2026",
+  "greeting": "Good morning, Zae. First full Friday home after Carnival Paradise: soft landing day in Tallahassee.",
+  "date": "2026-11-06",
+  "dateDisplay": "Friday, November 6, 2026",
   "calendar": {
-    "note": "Tampa arrival and Express Debark; Greyhound home; soft landing in Tallahassee",
+    "note": "Home day two post-cruise; supplements only on the calendar that counts today",
     "events": [
       {
-        "time": "About 8:00 AM",
-        "title": "Carnival Paradise arrives Tampa. Express Debark: carry your own bags and leave the cabin around 8:30 AM."
-      },
-      {
         "time": "8:00 AM",
-        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex if you packed them."
-      },
-      {
-        "time": "By 10:30 AM",
-        "title": "Uber to Hart North Platform, 1315 N Marion St, Tampa. Be there with time to spare for the bus."
-      },
-      {
-        "time": "11:10 AM",
-        "title": "Greyhound to Tallahassee. Booking 3398153238, seat 6A."
+        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
       },
       {
         "time": "2:00 PM",
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
       },
       {
-        "time": "Afternoon",
-        "title": "Arrive Tallahassee. Foggy mild morning around 73°F, warming toward about 80°F, low rain chance; sunset 5:46 PM."
+        "time": "Evening",
+        "title": "Optional easy night out: Ghost Town Blues Band at American Legion Post 13, 229 Lake Ella Drive, 8 PM, $20 advance / $25 day of."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Soft landing night at home."
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules."
       }
     ]
   },
   "projectMove": {
-    "title": "Home day; Arena Phase 30 still waiting on Grok Build balance",
-    "body": "While you were at sea, Phases 25 through 29 finished with green builds. Phase 30 (progression, XP, achievements, cosmetics) is still paused on a Grok Build usage wall from Tuesday; Testarossa resumes the moment balance returns. A top-up restarts the conveyor sooner than waiting on the next weekly reset."
+    "title": "Arena Phase 30 flipped back to Codex Sol Max",
+    "body": "Last night you moved Phase 30 (progression, XP, achievements, cosmetics) off the Grok Build usage wall and onto Codex Sol Max (gpt-6.1-sol, max reasoning). Testarossa owns the dual-engine conveyor and can flip back to Grok Build if you ask. A+ Academy remains healthy on production after yesterday's midweek ship check; Grad Arena traffic counts are still blank until Vercel team analytics access is restored."
   },
   "tip": {
-    "title": "Express off the ship, then Hart North by 10:30",
-    "body": "Carry everything yourself under Express Debark, vacate the cabin around 8:30 AM, and Uber to Hart North Platform at 1315 N Marion St so you are there by about 10:30 for the 11:10 Greyhound to Tallahassee (booking 3398153238, seat 6A)."
+    "title": "Easy first Friday out if the energy is there",
+    "body": "If you want a low-friction night without inventing plans, Ghost Town Blues Band plays American Legion Post 13 at 8 PM with tickets about $20 advance or $25 at the door and catered food on site. Weather cools toward the mid-60s by then, dry enough for an easy first night out after the cruise."
   },
   "cruise": {
     "name": "Carnival Paradise",
     "targetDate": "2026-11-05",
-    "label": "Debark · Tampa"
+    "label": "Home · Day 2"
   },
   "weather": {
     "lat": 30.44,
     "lon": -84.28,
-    "label": "Tallahassee (home)"
+    "label": "Tallahassee"
   },
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-05T06:56:00-05:00",
+    "asOf": "2026-11-06T06:56:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -65,8 +53,9 @@
     "note": "Tracking is not ready yet: the Vercel connection still cannot read the zaevians-projects team analytics, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Debark day in Tampa. Express carry-off, cabin clear by about 8:30 AM, Uber to Hart North, Greyhound 11:10 booking 3398153238 seat 6A.",
-    "weatherNote": "Tallahassee home weather: foggy mild morning near 73°F, about 80°F this afternoon, roughly 11% rain chance, sunset 5:46 PM."
+    "cruiseNote": "Cruise is done. First full Friday home after Carnival Paradise debark yesterday; soft landing in Tallahassee.",
+    "weatherNote": "Tallahassee: foggy morning near 71°F under full cloud, warming to about 78°F, roughly 30% chance of showers (heaviest mid-morning), sunset 5:45 PM.",
+    "gradArena": "Grad Arena 850 stays live; pageview counts blank until Vercel team analytics access is restored."
   },
   "surprise": {
     "kind": "show",
