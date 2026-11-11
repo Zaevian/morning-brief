@@ -1,21 +1,25 @@
 {
-  "greeting": "Good morning, Zae. First full Friday home after Carnival Paradise: soft landing day in Tallahassee.",
-  "date": "2026-11-06",
-  "dateDisplay": "Friday, November 6, 2026",
+  "greeting": "Good morning, Zae. It is Veterans Day, partly sunny and mild, with your BioLife appointment at 12:30 PM as the one fixed commitment.",
+  "date": "2026-11-11",
+  "dateDisplay": "Wednesday, November 11, 2026",
   "calendar": {
-    "note": "Home day two post-cruise; supplements only on the calendar that counts today",
+    "note": "BioLife is the anchor today; supplements fill the rest.",
     "events": [
       {
         "time": "8:00 AM",
         "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
       },
       {
-        "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
+        "time": "10:40 AM",
+        "title": "Optional: Veterans Day parade downtown, listed on the Fun tab."
       },
       {
-        "time": "Evening",
-        "title": "Optional easy night out: Ghost Town Blues Band at American Legion Post 13, 229 Lake Ella Drive, 8 PM, $20 advance / $25 day of."
+        "time": "12:30 PM",
+        "title": "BioLife plasma appointment in Tallahassee (moved from yesterday). Next ones are Tue Nov 17 and Thu Nov 19 at 5:25 PM."
+      },
+      {
+        "time": "2:00 PM",
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
       },
       {
         "time": "10:00 PM",
@@ -24,17 +28,17 @@
     ]
   },
   "projectMove": {
-    "title": "Arena Phase 30 flipped back to Codex Sol Max",
-    "body": "Last night you moved Phase 30 (progression, XP, achievements, cosmetics) off the Grok Build usage wall and onto Codex Sol Max (gpt-6.1-sol, max reasoning). Testarossa owns the dual-engine conveyor and can flip back to Grok Build if you ask. A+ Academy remains healthy on production after yesterday's midweek ship check; Grad Arena traffic counts are still blank until Vercel team analytics access is restored."
+    "title": "Hold the Grad Arena security fixes for your yes",
+    "body": "The weekly sweep found the live booking endpoint open to spam, and pull requests 53 and 54 close that gap. They are waiting on your approval, so one yes from you lets Rem ship them cleanly. A+ Academy is steady after Monday's audit."
   },
   "tip": {
-    "title": "Easy first Friday out if the energy is there",
-    "body": "If you want a low-friction night without inventing plans, Ghost Town Blues Band plays American Legion Post 13 at 8 PM with tickets about $20 advance or $25 at the door and catered food on site. Weather cools toward the mid-60s by then, dry enough for an easy first night out after the cruise."
+    "title": "Eat and hydrate well before plasma",
+    "body": "Drink plenty of water and have a protein-rich meal before the 12:30 PM appointment so the donation goes smoothly, and the $100 toward your cruise fund lands without a deferral."
   },
   "cruise": {
-    "name": "Carnival Paradise",
-    "targetDate": "2026-11-05",
-    "label": "Home · Day 2"
+    "name": "Carnival Legend",
+    "targetDate": "2026-12-13",
+    "label": "Tampa, 6-night Bahamas"
   },
   "weather": {
     "lat": 30.44,
@@ -44,36 +48,35 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-06T06:56:00-05:00",
+    "asOf": "2026-11-11T06:58:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Tracking is not ready yet: the Vercel connection still cannot read the zaevians-projects team analytics, so counts are left blank rather than guessed."
+    "note": "Tracking is not ready yet: the Vercel connection cannot read analytics, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Cruise is done. First full Friday home after Carnival Paradise debark yesterday; soft landing in Tallahassee.",
-    "weatherNote": "Tallahassee: foggy morning near 71°F under full cloud, warming to about 78°F, roughly 30% chance of showers (heaviest mid-morning), sunset 5:45 PM.",
-    "gradArena": "Grad Arena 850 stays live; pageview counts blank until Vercel team analytics access is restored."
+    "cruiseNote": "Carnival Legend sails from Tampa December 13, 32 days out. April 12, 2027 Paradise is also booked.",
+    "weatherNote": "Tallahassee: partly sunny, high near 77 and easing to 72 by afternoon, light west wind. Tonight partly cloudy near 57. Thursday mostly sunny near 78 with gusts to 25 mph."
   },
   "surprise": {
-    "kind": "show",
-    "eyebrow": "Tonight's show · Friday, November 6, 2026",
-    "title": "Ghost Town Blues Band at the Legion, 8 PM",
-    "body": "Your calendar holds Spanish study from 6 to 8 tonight, so First Friday at Railroad Square and the early free sets collide with it, but this one starts right as you close the books. Mac Daddy Blues brings the touring Ghost Town Blues Band to American Legion Post 13 at 229 Lake Ella Drive at 8 PM, with tickets $20 advance or $25 day of show and catered food on site. The evening is dry and overcast, about 66°F at 8 PM and cooling toward the low 60s, so it is an easy first-night-out after the cruise. First full Friday home.",
+    "kind": "on-this-day",
+    "eyebrow": "Veterans Day · Wednesday, November 11, 2026",
+    "title": "The guns of World War I fell silent at 6 AM on your clock, 108 years ago",
+    "body": "The armistice that ended the fighting in World War I was agreed around 5 AM on November 11, 1918, in Marshal Ferdinand Foch's private railway carriage in the Compiègne Forest north of Paris, and it took effect at 11:00 AM Paris time. France kept Greenwich time back then, so that famous eleventh hour of the eleventh day of the eleventh month lands at 6:00 AM in Tallahassee, nearly an hour before today's 6:59 sunrise. The United States marked it as Armistice Day until 1954, when veteran organizations pushed to rename it Veterans Day so it would honor everyone who has served. Tallahassee keeps the eleventh-hour tradition alive this morning: the parade steps off down Monroe Street at 10:40 AM, with the 11th Hour Ceremony at the Vietnam Memorial and a festival in the Park Avenue parks afterward. The timing is kind, too, because the late morning is the clearest stretch of the day, around 70°F with almost no clouds at 11 AM before the sky clouds over after noon.",
     "image": {
-      "url": "https://visittallahassee.com/wp-content/uploads/2026/08/event-featured-ghost-town-blues-band-live-at-the-american-legion-post-13-in-tallahassee-on-friday-november-6th-at-8-pm-1787773922.jpe",
-      "alt": "Ghost Town Blues Band at American Legion Post 13"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Armisticetrain_%28slight_crop%29.jpg",
+      "alt": "Black and white photograph of Allied officers standing outside Marshal Foch's railway carriage in the Compiègne Forest after the armistice was agreed, November 1918"
     },
     "link": {
-      "label": "Event listing on Visit Tallahassee",
-      "url": "https://visittallahassee.com/events/ghost-town-blues-band-at-the-american-legion-post-13/"
+      "label": "Parade schedule",
+      "url": "https://veteventstally.org/parade/schedule/"
     },
     "source": {
-      "label": "Visit Tallahassee listing, Google Calendar (Spanish 6–8), and Open-Meteo forecast",
-      "url": "https://visittallahassee.com/events/ghost-town-blues-band-at-the-american-legion-post-13/"
+      "label": "Wikipedia: Armistice of 11 November 1918 and Veterans Day; photo public domain via Wikimedia Commons; forecast from Open-Meteo",
+      "url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"
     },
-    "accent": "#a855f7"
+    "accent": "#8b2e2e"
   }
 }
