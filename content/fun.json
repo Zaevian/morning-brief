@@ -1,147 +1,245 @@
 {
-  "mode": "week",
+  "mode": "weekend",
   "range": {
-    "start": "2026-11-12",
-    "end": "2026-11-12",
-    "label": "Thursday, Nov 12, 2026"
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "label": "Fri–Sun, Nov 13–15, 2026"
   },
-  "updatedNote": "Thursday drop from Diablo. The North Florida Fair reopens at 5 PM for late-night hours, the FSU Wind Orchestra plays Ruby Diamond at 7:30, and 926 has a four-band indie pop night to close out the week.",
+  "updatedNote": "Weekend from Chika: Fri Nov 13 – Sun Nov 15 Tallahassee + nearby. Two verified image URLs (Whose Live Anyway?, Sunday at The Hub); others use default card art.",
   "events": [
     {
-      "id": "thu-north-florida-fair-2026-11-12",
-      "title": "84th Annual North Florida Fair",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "North Florida Fairgrounds, 441 E Paul Russell Rd",
-      "neighborhood": "Southside",
-      "startTime": "5:00 PM–10:00 PM",
-      "hook": "Late-night fair hours start again Thursday ahead of the final weekend.",
-      "url": "https://www.northfloridafair.com/p/visit/operating-hours",
-      "imageUrl": "https://cdn.saffire.com/images.ashx?t=ig&rid=NorthFloridaFair&i=20260822-TJB_5108_2.jpg&cb=16ad6e9a",
+      "id": "fri-goodwood-jingle-mingle-2026-11-13",
+      "title": "Goodwood Jingle & Mingle Holiday Night Market",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "startTime": "6:00 PM–9:00 PM",
+      "venue": "Goodwood Museum & Gardens Carriage House, 1600 Miccosukee Rd",
+      "hook": "Night market under the lights with a local jazz trio, food trucks, raclette and cocoa. $15, kids 12 and under free.",
+      "url": "https://www.goodwoodmuseum.org/goodwood-events/",
+      "imageUrl": null,
       "tags": [
-        "fair",
-        "outdoors",
+        "market",
+        "holiday",
+        "live music",
         "food"
       ],
       "sample": false
     },
     {
-      "id": "thu-healthiest-chili-cook-off-2026-11-12",
-      "title": "10th Annual Healthiest Chili Cook Off",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "Fenn Chiropractic",
-      "neighborhood": "Tallahassee",
-      "startTime": "6:00 PM–8:00 PM",
-      "hook": "Chili tasting with an acoustic set from Old Soul Revival.",
-      "url": "https://musiclocal.org/events/10th-annual-healthiest-chili-cook-off-at-fenn-chiropractic-2026-11-12-q4hlpa",
-      "imageUrl": "https://media.musiclocal.org/KNe8zWleQ6Int8V4USzaH2BqDOhU4he7qdAvOH2n0uY/rs:fill:1200:630/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fabae6fcf-ba0b-48e9-94a7-5d13f20c6be1.png",
+      "id": "fri-songwriters-in-the-round-2026-11-13",
+      "title": "Songwriters in the Round: Greg Brown, Isabel Ruano, Andrew Vinson",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "startTime": "8:00 PM–11:00 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Listening-room night of new original songs. $10 cover, one purchase minimum.",
+      "url": "https://musiclocal.org/events/songwriters-in-the-round-at-blue-tavern-2026-11-13-lesbtn",
+      "imageUrl": null,
       "tags": [
-        "food",
+        "live music",
+        "singer-songwriter",
+        "local"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-highway-59-veterans-village-2026-11-13",
+      "title": "The Highway 59 Band: Veterans Village Fundraiser",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "startTime": "7:30 PM–10:00 PM",
+      "venue": "Legion Hall, 229 Lake Ella Dr",
+      "hook": "$10 show at Lake Ella with all proceeds going to local veterans' housing.",
+      "url": "https://musiclocal.org/events/tallahassee-veterans-village-fundraiser-at-legion-hall-2026-11-13-c6rafn",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "fundraiser"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-cirque-du-luxe-2026-11-13",
+      "title": "Cirque Du Luxe",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "startTime": "4:30 PM & 7:30 PM (Sat 1:30/4:30/7:30, Sun 1:30/4:30)",
+      "venue": "Governor's Square Mall, 1500 Apalachee Pkwy",
+      "hook": "Touring circus with acrobatics, running through Sunday. $22-$38.",
+      "url": "https://visittallahassee.com/events/cirque-du-luxe/",
+      "imageUrl": null,
+      "tags": [
+        "circus",
+        "family",
+        "show"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-terry-lee-rescue-horses-2026-11-14",
+      "title": "Terry Lee & The Rescue Horses, Stefan Lange, Canine Denim",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "startTime": "8:00 PM (doors 7:30)",
+      "venue": "NorthFlora Collective (Dark Side), 609 Railroad Square",
+      "hook": "All-ages DIY-flavored triple bill in Railroad Square for $10.",
+      "url": "https://musiclocal.org/events/terry-lee-and-the-rescue-horses-live-at-at-northflora-collective-2026-11-14-no6e9n",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "DIY",
+        "all ages",
+        "Railroad Square"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-paddy-league-miss-mango-2026-11-14",
+      "title": "Paddy League and Miss Mango",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "startTime": "8:00 PM",
+      "venue": "Blue Tavern, 1206 N Monroe St",
+      "hook": "Full band with sax, percussion, bass, guitar and guest vocalists. $10 cover.",
+      "url": "https://musiclocal.org/events/paddy-league-and-miss-mango-at-blue-tavern-2026-11-14-djk2xn",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "local"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-goodwood-jingle-mingle-santa-2026-11-14",
+      "title": "Goodwood Jingle & Mingle (Santa night)",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "startTime": "6:00 PM–9:00 PM",
+      "venue": "Goodwood Museum & Gardens Carriage House, 1600 Miccosukee Rd",
+      "hook": "Second night of the holiday market, with jazz trio and a Santa visit. $15.",
+      "url": "https://www.goodwoodmuseum.org/goodwood-events/",
+      "imageUrl": null,
+      "tags": [
+        "market",
+        "holiday",
         "live music"
       ],
       "sample": false
     },
     {
-      "id": "thu-getaway-blues-jam-2026-11-12",
-      "title": "Blues Jam with Brett and \"Dangerous\" Dave",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "The Getaway Grille and Bar",
-      "neighborhood": "Tallahassee",
-      "startTime": "6:00 PM–9:00 PM",
-      "hook": "Long-running Thursday blues jam; bring an instrument or an appetite.",
-      "url": "https://musiclocal.org/events/blues-jam-at-the-getaway-grille-and-bar-2026-11-12-3608ko",
-      "imageUrl": "https://media.musiclocal.org/Th-b7NtEaw7evFczl9hUf23Y7u3PKObfwOhGmIkW90U/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F99da16be-a2d6-4715-bff6-ef22599274b1.jpeg",
+      "id": "sat-crooked-river-lantern-fest-2026-11-14",
+      "title": "Crooked River Lighthouse Lantern Fest",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "startTime": "6:00 PM–10:00 PM",
+      "venue": "Crooked River Lighthouse, Carrabelle (about 1 hr+ drive)",
+      "hook": "Hundreds of glowing lanterns, live music, dance, night tower climbs. $15 advance, $20 gate.",
+      "url": "https://www.tallahassee.com/story/entertainment/restaurants/2026/11/12/top-5-things-to-do-in-tallahassee-this-weekend/92724362007/",
+      "imageUrl": null,
       "tags": [
+        "festival",
+        "day trip",
         "live music",
-        "blues"
+        "outdoor"
       ],
       "sample": false
     },
     {
-      "id": "thu-shift-8-blu-halo-2026-11-12",
-      "title": "Shift 8 at The Blu Halo",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "The Blu Halo",
-      "neighborhood": "Tallahassee",
-      "startTime": "6:00 PM–9:00 PM",
-      "hook": "Local cover band playing a dinner-hour set.",
-      "url": "https://musiclocal.org/events/shift-8-at-the-blu-halo-2026-11-12-zec5lu",
-      "imageUrl": "https://media.musiclocal.org/lG6qvxtMU2MjM9V26OW87bHjgKtTwFuLH-9TrgGIqYc/rs:fill:1200:630/g:fp:0.5:0.47/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2F0303cd00-391c-434d-b59a-9781288b1fe7.jpeg",
+      "id": "sat-veterans-fun-fly-2026-11-14",
+      "title": "Veterans Fun Fly (RC aircraft)",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "startTime": "10:00 AM (beginner flights 10-1)",
+      "venue": "Apalachee Regional Park, 7550 Apalachee Pkwy",
+      "hook": "Free RC model aircraft show with beginner flight lessons.",
+      "url": "https://www.tallahassee.com/story/entertainment/restaurants/2026/11/12/top-5-things-to-do-in-tallahassee-this-weekend/92724362007/",
+      "imageUrl": null,
       "tags": [
-        "live music",
-        "dinner"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-javacya-fall-concert-2026-11-12",
-      "title": "Javacya Arts Conservatory Fall Concert",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "St. Peter's Anglican Cathedral",
-      "neighborhood": "Downtown",
-      "startTime": "7:00 PM",
-      "hook": "Audrey Dubois Harris with the Javacya Elite Chamber Orchestra in a cathedral setting.",
-      "url": "https://musiclocal.org/events/javacya-arts-conservatory-fall-concert-at-st-peters-anglican-cathedral-2026-11-12-qww6us",
-      "imageUrl": "https://media.musiclocal.org/SUB1kjXOjdkHzKW-nr3PFeaOc1U0fE-oRTRnWr6MkA4/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fefa9357e-15c4-407e-a317-0f07f970683d.jpeg",
-      "tags": [
-        "classical",
-        "concert"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-fsu-wind-orchestra-2026-11-12",
-      "title": "FSU University Wind Orchestra",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "Ruby Diamond Concert Hall",
-      "neighborhood": "FSU",
-      "startTime": "7:30 PM",
-      "hook": "Full wind orchestra in the big hall on campus.",
-      "url": "https://calendar.fsu.edu/event/university-wind-orchestra-performance-3173",
-      "imageUrl": "https://localist-images.azureedge.net/photos/500498/huge/5db4131c56aff8c9029605f09ed8eb297f7c64ab.jpg",
-      "tags": [
-        "concert",
-        "FSU"
-      ],
-      "sample": false
-    },
-    {
-      "id": "thu-blue-tavern-jazz-jam-2026-11-12",
-      "title": "Open Jazz Jam with Jacob Wright",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "neighborhood": "Midtown",
-      "startTime": "8:00 PM–11:00 PM",
-      "hook": "Free late jazz jam, players welcome.",
-      "url": "https://musiclocal.org/events/open-jazz-jam-at-blue-tavern-2026-11-12-3sgedo",
-      "imageUrl": "https://media.musiclocal.org/Tkubd9bpNzvnhdLZCTBBouEmZRk8VReaGYhmW84lxj4/rs:fill:1200:630/g:fp:0.5:0.71/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fperformers%2F10a38226-f9b8-43c9-8abf-4df43b5c3067.jpeg",
-      "tags": [
-        "live music",
-        "jazz",
+        "outdoor",
         "free"
       ],
       "sample": false
     },
     {
-      "id": "thu-indie-pop-night-926-2026-11-12",
-      "title": "Indie Pop Night: Melonwine, Broken Couch Club, Electric Angel and Rolae",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "venue": "926 Bar & Grill",
-      "neighborhood": "Tallahassee",
-      "startTime": "8:30 PM (doors 8)",
-      "hook": "Four-band local indie bill to close out the week.",
-      "url": "https://musiclocal.org/events/indie-pop-night-at-926-bar-and-grill-2026-11-12-mzky00",
-      "imageUrl": "https://media.musiclocal.org/-ITplzow7HvkBhgyUw1L0pfu38LDK3Iz5r1gKKUEzCU/rs:fill:1200:1200/g:fp:0.5:0.18/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Ff774c545-0b88-4969-b834-3c1acee9c3b7.jpeg",
+      "id": "sat-lemoyne-holiday-show-2026-11-14",
+      "title": "LeMoyne Annual Holiday Show opening day",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "venue": "LeMoyne Arts",
+      "hook": "Handmade gifts, art, a gingerbread competition display, and Hot Tamale playing live on opening day.",
+      "url": "https://www.tallahassee.com/story/entertainment/restaurants/2026/11/12/top-5-things-to-do-in-tallahassee-this-weekend/92724362007/",
+      "imageUrl": null,
+      "tags": [
+        "art",
+        "holiday",
+        "market"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-polymorphia-concert-2026-11-14",
+      "title": "Polymorphia Concert (FSU College of Music)",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "startTime": "2:00 PM",
+      "venue": "FSU Museum of Fine Arts, 530 W Call St",
+      "hook": "Free ensemble concert.",
+      "url": "https://music.fsu.edu/event/polymorphia-concert-4/",
+      "imageUrl": null,
       "tags": [
         "live music",
-        "indie"
+        "free",
+        "FSU"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-whose-live-anyway-2026-11-15",
+      "title": "Whose Live Anyway?",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "startTime": "7:30 PM",
+      "venue": "Ruby Diamond Concert Hall, 222 S Copeland St",
+      "hook": "Ryan Stiles, Greg Proops, Jeff B. Davis and Joel Murray doing live improv off audience suggestions. $59-$69.",
+      "url": "https://www.openingnights.fsu.edu/show-details/whose-live-anyway",
+      "imageUrl": "https://www.openingnights.fsu.edu/storage/header_image/openingnights/77adfa996fd808664f0a3228aff4ca6bbd1fc0f4.webp",
+      "tags": [
+        "comedy",
+        "improv",
+        "show"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-hub-charlie-brown-band-2026-11-15",
+      "title": "Sunday at The Hub: The Charlie Brown Band",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "startTime": "3:00 PM–6:00 PM",
+      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
+      "hook": "Outdoor hangout with Rustic Grub food, live band, NFL on all day.",
+      "url": "https://www.thehubatfeatheroaks.com/event-details/sunday-at-the-hub-3",
+      "imageUrl": "https://static.wixstatic.com/media/f3138a_c5c278c4f6b54342bfa67f6c9dc5c573~mv2.jpg/v1/fill/w_2048,h_1536,al_c,q_90/f3138a_c5c278c4f6b54342bfa67f6c9dc5c573~mv2.jpg",
+      "tags": [
+        "live music",
+        "food",
+        "outdoor"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-duo-mahidhara-fort-2026-11-15",
+      "title": "Duo Mahidhara-Fort (Artist Series)",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "startTime": "4:00 PM",
+      "venue": "Christ Presbyterian Church, 2317 Bannerman Rd",
+      "hook": "Violin/viola and piano duo, the second concert of the Artist Series season.",
+      "url": "https://theartistseries.org",
+      "imageUrl": null,
+      "tags": [
+        "classical",
+        "live music"
       ],
       "sample": false
     }
