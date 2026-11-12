@@ -61,22 +61,18 @@
     "weatherNote": "Tallahassee: partly sunny, high near 77 and easing to 72 by afternoon, light west wind. Tonight partly cloudy near 57. Thursday mostly sunny near 78 with gusts to 25 mph."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "Veterans Day · Wednesday, November 11, 2026",
-    "title": "The guns of World War I fell silent at 6 AM on your clock, 108 years ago",
-    "body": "The armistice that ended the fighting in World War I was agreed around 5 AM on November 11, 1918, in Marshal Ferdinand Foch's private railway carriage in the Compiègne Forest north of Paris, and it took effect at 11:00 AM Paris time. France kept Greenwich time back then, so that famous eleventh hour of the eleventh day of the eleventh month lands at 6:00 AM in Tallahassee, nearly an hour before today's 6:59 sunrise. The United States marked it as Armistice Day until 1954, when veteran organizations pushed to rename it Veterans Day so it would honor everyone who has served. Tallahassee keeps the eleventh-hour tradition alive this morning: the parade steps off down Monroe Street at 10:40 AM, with the 11th Hour Ceremony at the Vietnam Memorial and a festival in the Park Avenue parks afterward. The timing is kind, too, because the late morning is the clearest stretch of the day, around 70°F with almost no clouds at 11 AM before the sky clouds over after noon.",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Armisticetrain_%28slight_crop%29.jpg",
-      "alt": "Black and white photograph of Allied officers standing outside Marshal Foch's railway carriage in the Compiègne Forest after the armistice was agreed, November 1918"
-    },
+    "kind": "golden-hour",
+    "eyebrow": "Golden hour · Thursday, November 12, 2026",
+    "title": "The clouds clear out at 3, and golden hour runs 5:08 to 5:58 tonight",
+    "body": "Today starts under a solid gray lid, fully overcast through 2 PM, but the forecast shows the sky clearing almost completely by 3 PM and staying clear into the evening, with no rain anywhere in the day. That makes tonight the first clean golden hour in a while: the warm, low light starts around 5:08 PM, the sun sets at 5:42 PM a little south of due west (about 250° on a compass), and the soft blue hour follows from about 5:58 to 6:07 PM, with civil twilight ending at 6:07. It will be in the mid 70s when the light turns gold and cooling toward 67°F by 6. If you want fresh Grad Arena portfolio frames, put your subject facing west-southwest around 5:15 for glowing skin and long shadows, then flip to backlit silhouettes in the last ten minutes before sunset. And if you would rather just enjoy it, the North Florida Fair opens its gates at 5 PM, so the midway lights come on right as the sky goes orange.",
     "link": {
-      "label": "Parade schedule",
-      "url": "https://veteventstally.org/parade/schedule/"
+      "label": "Fair hours",
+      "url": "https://www.northfloridafair.com/p/visit/operating-hours"
     },
     "source": {
-      "label": "Wikipedia: Armistice of 11 November 1918 and Veterans Day; photo public domain via Wikimedia Commons; forecast from Open-Meteo",
-      "url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"
+      "label": "Sunset and twilight from sunrise-sunset.org; golden and blue hour computed for Tallahassee (sun 6° to -4°); cloud cover and temperature from Open-Meteo",
+      "url": "https://sunrise-sunset.org/us/tallahassee-fl"
     },
-    "accent": "#8b2e2e"
+    "accent": "#d98a2b"
   }
 }
