@@ -1,81 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-11",
+    "start": "2026-11-12",
     "end": "2026-11-12",
-    "label": "Wed-Thu, Nov 11-12, 2026"
+    "label": "Thursday, Nov 12, 2026"
   },
-  "updatedNote": "Wednesday drop from Diablo. The Veterans Day parade rolls downtown at 10:40 AM today, the North Florida Fair runs tonight and Thursday, and Thursday brings the FSU Wind Orchestra, a healthiest chili cook-off, and an indie pop night at 926.",
+  "updatedNote": "Thursday drop from Diablo. The North Florida Fair reopens at 5 PM for late-night hours, the FSU Wind Orchestra plays Ruby Diamond at 7:30, and 926 has a four-band indie pop night to close out the week.",
   "events": [
-    {
-      "id": "wed-veterans-day-parade-2026-11-11",
-      "title": "Tallahassee Veterans Day Parade and Festival in the Park",
-      "day": "Wed",
-      "date": "2026-11-11",
-      "venue": "Monroe St downtown and the Park Ave parks",
-      "neighborhood": "Downtown",
-      "startTime": "10:40 AM",
-      "hook": "Parade down Monroe with the 11th Hour Ceremony at the Vietnam Memorial, then vendors and music in the park.",
-      "url": "https://veteventstally.org/parade/schedule/",
-      "imageUrl": "https://tallahasseelocalnews.com/img/veterans-day.webp",
-      "tags": [
-        "parade",
-        "Veterans Day",
-        "outdoors"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-north-florida-fair-2026-11-11",
-      "title": "84th Annual North Florida Fair",
-      "day": "Wed",
-      "date": "2026-11-11",
-      "venue": "North Florida Fairgrounds, 441 E Paul Russell Rd",
-      "neighborhood": "Southside",
-      "startTime": "Noon–9:00 PM",
-      "hook": "Holiday hours for Veterans Day, so the fair opens at noon.",
-      "url": "https://www.northfloridafair.com/p/visit/operating-hours",
-      "imageUrl": "https://cdn.saffire.com/images.ashx?t=ig&rid=NorthFloridaFair&i=20260822-TJB_5108_2.jpg&cb=16ad6e9a",
-      "tags": [
-        "fair",
-        "outdoors",
-        "holiday"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-robynn-oleary-blue-tavern-2026-11-11",
-      "title": "Robynn O'Leary at Blue Tavern",
-      "day": "Wed",
-      "date": "2026-11-11",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "neighborhood": "Midtown",
-      "startTime": "5:00 PM–7:00 PM",
-      "hook": "Early-evening acoustic set at the Monroe St listening room.",
-      "url": "https://musiclocal.org/events/robynn-oleary-at-blue-tavern-2026-11-11-o9l5im",
-      "imageUrl": "https://media.musiclocal.org/gemMa6GGh5TklrVJwY7CrbAbB47vQiVjRTvSxX-huMQ/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F54c43687-88e6-478d-aacf-be869b40727b.jpeg",
-      "tags": [
-        "live music"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-blue-tavern-open-mic-2026-11-11",
-      "title": "Open Mic with Doc Russell",
-      "day": "Wed",
-      "date": "2026-11-11",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "neighborhood": "Midtown",
-      "startTime": "7:00 PM",
-      "hook": "Sign up at 7, slots drawn by lottery; good night to just listen too.",
-      "url": "https://musiclocal.org/events/open-mic-at-blue-tavern-2026-11-11-774nkk",
-      "imageUrl": "https://media.musiclocal.org/dqF12_HCPeI3mWwF55xlspJLm5rsmGOUCheKxa9elQw/rs:fill:1200:630/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2F009ffc80-424b-11ef-87a8-435fc17d1e4d.jpeg",
-      "tags": [
-        "open mic",
-        "live music"
-      ],
-      "sample": false
-    },
     {
       "id": "thu-north-florida-fair-2026-11-12",
       "title": "84th Annual North Florida Fair",
