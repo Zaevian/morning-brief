@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. The clouds clear out around 3 PM for a golden sunset, and your only fixed commitment tomorrow is BioLife at 5:25 PM, so today is yours.",
-  "date": "2026-11-12",
-  "dateDisplay": "Thursday, November 12, 2026",
+  "greeting": "Good morning, Zae. It is Friday the 13th, sunny and cool, and your BioLife appointment at 5:25 PM is the one fixed commitment today.",
+  "date": "2026-11-13",
+  "dateDisplay": "Friday, November 13, 2026",
   "calendar": {
-    "note": "A light day: supplements only, with BioLife moved to tomorrow.",
+    "note": "BioLife at 5:25 PM is the anchor today; supplements fill the rest.",
     "events": [
       {
         "time": "8:00 AM",
@@ -14,8 +14,12 @@
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
       },
       {
-        "time": "5:08 PM",
-        "title": "Golden hour begins; sunset is at 5:42 PM. The North Florida Fair is open on the Fun tab."
+        "time": "3:25 PM",
+        "title": "Leave-soon reminder for BioLife: hydrate and eat a protein-rich meal first."
+      },
+      {
+        "time": "5:25 PM",
+        "title": "BioLife plasma appointment, 1685 Apalachee Pkwy, Tallahassee. Next ones are Tue Nov 17 and Thu Nov 19 at 5:25 PM."
       },
       {
         "time": "10:00 PM",
@@ -24,12 +28,12 @@
     ]
   },
   "projectMove": {
-    "title": "Grad Arena security fixes still await your yes",
-    "body": "The held booking-endpoint fixes are waiting on one approval from you, after which Rem can ship them cleanly. A+ Academy is steady, and tonight's golden hour is a good chance to shoot fresh portfolio frames."
+    "title": "Grad Arena security fixes still wait for your yes",
+    "body": "The held Grad Arena pull requests from the weekly sweep are still waiting on your approval, so one yes from you lets Rem ship them cleanly. A+ Academy is steady after Thursday's ship check."
   },
   "tip": {
-    "title": "Set up tomorrow's plasma visit tonight",
-    "body": "Your BioLife appointment is Friday at 5:25 PM. Hydrate well through the day and have a protein-rich meal beforehand so the $100 toward your cruise fund lands without a deferral."
+    "title": "Front-load water before plasma",
+    "body": "Drink plenty of water through the afternoon and eat a solid protein meal before 5:25 PM so the donation goes smoothly and the $100 toward your cruise fund lands without a deferral."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -44,17 +48,17 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-12T06:55:00-05:00",
+    "asOf": "2026-11-13T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Tracking is not ready yet: the Vercel connection cannot read analytics, so counts are left blank rather than guessed."
+    "note": "Tracking is not ready yet: the Vercel connection cannot read analytics for this team, so counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Carnival Legend sails from Tampa December 13, 31 days out. April 12, 2027 Paradise is also booked.",
-    "weatherNote": "Tallahassee: overcast this morning, clearing by 3 PM, mid 70s at golden hour and about 67 by 6 PM, no rain."
+    "cruiseNote": "Carnival Legend sails from Tampa December 13, 30 days out. April 12, 2027 Paradise is also booked.",
+    "weatherNote": "Tallahassee: sunny, high near 66, light wind. Tonight clear and cold near 41. Saturday sunny near 60."
   },
   "surprise": {
     "kind": "fact",
