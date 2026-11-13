@@ -57,18 +57,18 @@
     "weatherNote": "Tallahassee: overcast this morning, clearing by 3 PM, mid 70s at golden hour and about 67 by 6 PM, no rain."
   },
   "surprise": {
-    "kind": "golden-hour",
-    "eyebrow": "Golden hour · Thursday, November 12, 2026",
-    "title": "The clouds clear out at 3, and golden hour runs 5:08 to 5:58 tonight",
-    "body": "Today starts under a solid gray lid, fully overcast through 2 PM, but the forecast shows the sky clearing almost completely by 3 PM and staying clear into the evening, with no rain anywhere in the day. That makes tonight the first clean golden hour in a while: the warm, low light starts around 5:08 PM, the sun sets at 5:42 PM a little south of due west (about 250° on a compass), and the soft blue hour follows from about 5:58 to 6:07 PM, with civil twilight ending at 6:07. It will be in the mid 70s when the light turns gold and cooling toward 67°F by 6. If you want fresh Grad Arena portfolio frames, put your subject facing west-southwest around 5:15 for glowing skin and long shadows, then flip to backlit silhouettes in the last ten minutes before sunset. And if you would rather just enjoy it, the North Florida Fair opens its gates at 5 PM, so the midway lights come on right as the sky goes orange.",
+    "kind": "fact",
+    "eyebrow": "Friday the 13th · November 13, 2026",
+    "title": "Today is the third and last Friday the 13th of 2026, and the most a year can have",
+    "body": "A month only gets a Friday the 13th when it starts on a Sunday, and this November did. That gives 2026 three of them (February, March, and today), which is the maximum any year can hold; the next one isn't until August 13, 2027. Here's the twist: across the Gregorian calendar's 400-year cycle, the 13th lands on a Friday very slightly more often than on any other weekday. The superstition itself is younger than people think, with no record of Friday and 13 being called unlucky together before the 19th century. One of the earliest English mentions is musical: the opera composer Gioachino Rossini, of William Tell Overture fame, who reportedly distrusted both Fridays and the number 13, died on Friday, November 13, 1868, exactly 158 years ago today. If you want to answer that with some live music, Blue Tavern has Songwriters in the Round tonight at 8 PM, $10. It will be clear and dry but chilly, around 57°F at 6 PM and near 50°F by 9, so bring a jacket.",
     "link": {
-      "label": "Fair hours",
-      "url": "https://www.northfloridafair.com/p/visit/operating-hours"
+      "label": "Songwriters in the Round tonight",
+      "url": "https://musiclocal.org/events/songwriters-in-the-round-at-blue-tavern-2026-11-13-lesbtn"
     },
     "source": {
-      "label": "Sunset and twilight from sunrise-sunset.org; golden and blue hour computed for Tallahassee (sun 6° to -4°); cloud cover and temperature from Open-Meteo",
-      "url": "https://sunrise-sunset.org/us/tallahassee-fl"
+      "label": "Wikipedia, Friday the 13th (occurrence and Rossini); temperatures from Open-Meteo",
+      "url": "https://en.wikipedia.org/wiki/Friday_the_13th"
     },
-    "accent": "#d98a2b"
+    "accent": "#7b5cd6"
   }
 }
