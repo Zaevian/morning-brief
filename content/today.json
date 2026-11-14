@@ -61,18 +61,22 @@
     "weatherNote": "Tallahassee: sunny, high near 66, light wind. Tonight clear and cold near 41. Saturday sunny near 60."
   },
   "surprise": {
-    "kind": "fact",
-    "eyebrow": "Friday the 13th · November 13, 2026",
-    "title": "Today is the third and last Friday the 13th of 2026, and the most a year can have",
-    "body": "A month only gets a Friday the 13th when it starts on a Sunday, and this November did. That gives 2026 three of them (February, March, and today), which is the maximum any year can hold; the next one isn't until August 13, 2027. Here's the twist: across the Gregorian calendar's 400-year cycle, the 13th lands on a Friday very slightly more often than on any other weekday. The superstition itself is younger than people think, with no record of Friday and 13 being called unlucky together before the 19th century. One of the earliest English mentions is musical: the opera composer Gioachino Rossini, of William Tell Overture fame, who reportedly distrusted both Fridays and the number 13, died on Friday, November 13, 1868, exactly 158 years ago today. If you want to answer that with some live music, Blue Tavern has Songwriters in the Round tonight at 8 PM, $10. It will be clear and dry but chilly, around 57°F at 6 PM and near 50°F by 9, so bring a jacket.",
+    "kind": "on-this-day",
+    "eyebrow": "On this day · November 14, 1889",
+    "title": "137 years ago this morning, Nellie Bly set out to beat Around the World in Eighty Days",
+    "body": "At 9:40 AM on November 14, 1889, the New York World reporter Nellie Bly boarded the steamer Augusta Victoria with only two days' notice and started a 24,898-mile trip around the globe, trying to turn Jules Verne's novel into fact. A year earlier her editor had doubted she could do it, arguing she only spoke English, would pack too much, and would need a male escort. She went anyway, traveling almost entirely alone through England, France (where she stopped in Amiens to meet Jules Verne himself), the Suez Canal, Ceylon, Singapore, Hong Kong, and Japan. She was back in New York on January 25, 1890, just over 72 days later, a world record. Your own next voyage is far shorter and much comfier: 29 days until you sail out of Tampa on December 13. Today is clear and crisp in Tallahassee, about 40°F early, a high near 59°F, with sunset at 5:40 PM.",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nellie_Bly_2.jpg",
+      "alt": "Nellie Bly in her traveling coat, around 1890"
+    },
     "link": {
-      "label": "Songwriters in the Round tonight",
-      "url": "https://musiclocal.org/events/songwriters-in-the-round-at-blue-tavern-2026-11-13-lesbtn"
+      "label": "Read Nellie Bly's story",
+      "url": "https://en.wikipedia.org/wiki/Nellie_Bly"
     },
     "source": {
-      "label": "Wikipedia, Friday the 13th (occurrence and Rossini); temperatures from Open-Meteo",
-      "url": "https://en.wikipedia.org/wiki/Friday_the_13th"
+      "label": "Wikipedia, Nellie Bly (Around the world); weather from Open-Meteo",
+      "url": "https://en.wikipedia.org/wiki/Nellie_Bly"
     },
-    "accent": "#7b5cd6"
+    "accent": "#c08a3e"
   }
 }
