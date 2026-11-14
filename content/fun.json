@@ -1,69 +1,69 @@
 {
   "mode": "weekend",
   "range": {
-    "start": "2026-11-13",
+    "start": "2026-11-14",
     "end": "2026-11-15",
-    "label": "Fri–Sun, Nov 13–15, 2026"
+    "label": "Sat–Sun, Nov 14–15, 2026"
   },
-  "updatedNote": "Friday refresh from Diablo on Chika's weekend list: Goodwood's Jingle & Mingle night market Friday and Saturday, songwriters in the round at Blue Tavern tonight, and Whose Live Anyway? on Sunday. Photos added for the musiclocal shows.",
+  "updatedNote": "Saturday refresh from Diablo: Friday shows cleared, and new daytime picks added (Downtown Market, the Fire Truck Round Up at Tom Brown Park, and Baby Gray at The Hub). Tonight's music is at NorthFlora and Blue Tavern; Whose Live Anyway? is Sunday at Ruby Diamond. Chilly but sunny all weekend.",
   "events": [
     {
-      "id": "fri-goodwood-jingle-mingle-2026-11-13",
-      "title": "Goodwood Jingle & Mingle Holiday Night Market",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "startTime": "6:00 PM–9:00 PM",
-      "venue": "Goodwood Museum & Gardens Carriage House, 1600 Miccosukee Rd",
-      "hook": "Night market under the lights with a local jazz trio, food trucks, raclette and cocoa. $15, kids 12 and under free.",
-      "url": "https://www.goodwoodmuseum.org/goodwood-events/",
+      "id": "sat-downtown-market-2026-11-14",
+      "title": "Downtown Market",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "venue": "Ponce de Leon Park, downtown Tallahassee",
+      "startTime": "9:00 AM–1:00 PM",
+      "hook": "Dozens of local artists, craft vendors, and food trucks on a crisp, sunny morning.",
+      "url": "https://www.wtxl.com/news/local-news/happening-this-weekend-events-happening-around-the-big-bend-and-south-georgia-november-13th-15th",
       "imageUrl": null,
       "tags": [
         "market",
-        "holiday",
-        "live music",
-        "food"
+        "food",
+        "outdoors"
       ],
       "sample": false
     },
     {
-      "id": "fri-songwriters-in-the-round-2026-11-13",
-      "title": "Songwriters in the Round: Greg Brown, Isabel Ruano, Andrew Vinson",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "startTime": "8:00 PM–11:00 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Listening-room night of new original songs. $10 cover, one purchase minimum.",
-      "url": "https://musiclocal.org/events/songwriters-in-the-round-at-blue-tavern-2026-11-13-lesbtn",
-      "imageUrl": "https://media.musiclocal.org/Xq5HEZs7-Rh0G1TLb4UIV7onDj4uYpa8REQ2yKobayk/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F84b53ffe-de60-46d9-a8b7-b081dea06cde.jpeg",
+      "id": "sat-fire-truck-roundup-2026-11-14",
+      "title": "Leon County Volunteer Fire Truck Round Up (29th annual)",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "venue": "Tom Brown Park, 501 Easterwood Dr",
+      "startTime": "10:00 AM–1:00 PM",
+      "hook": "Touch-a-truck displays, face painting, and bounce houses; free and very family friendly.",
+      "url": "https://www.wtxl.com/news/local-news/happening-this-weekend-events-happening-around-the-big-bend-and-south-georgia-november-13th-15th",
+      "imageUrl": null,
+      "tags": [
+        "outdoors",
+        "family",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-hub-feather-oaks-2026-11-14",
+      "title": "Saturday at The Hub: Baby Gray live + farmers market",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
+      "startTime": "3:00 PM–10:00 PM (music 5–8)",
+      "hook": "Farmers market 3 to 6, Baby Gray on stage 5 to 8, Rustic Grub and football on every TV.",
+      "url": "https://www.thehubatfeatheroaks.com/event-details/saturday-at-the-hub",
+      "imageUrl": "https://static.wixstatic.com/media/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg/v1/fill/w_4128,h_2752,al_c,q_90/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg",
       "tags": [
         "live music",
-        "singer-songwriter",
-        "local"
+        "food",
+        "outdoors"
       ],
       "sample": false
     },
     {
-      "id": "fri-highway-59-veterans-village-2026-11-13",
-      "title": "The Highway 59 Band: Veterans Village Fundraiser",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "startTime": "7:30 PM–10:00 PM",
-      "venue": "Legion Hall, 229 Lake Ella Dr",
-      "hook": "$10 show at Lake Ella with all proceeds going to local veterans' housing.",
-      "url": "https://musiclocal.org/events/tallahassee-veterans-village-fundraiser-at-legion-hall-2026-11-13-c6rafn",
-      "imageUrl": "https://media.musiclocal.org/oq85Z7jck7IEmwubAHpQk8MxnHH40uc7cYXy_6Wr938/rs:fill:1200:1200/g:fp:0.5:0.5/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fc482a569-26b4-45aa-bac8-51e5c5837c7d.jpeg",
-      "tags": [
-        "live music",
-        "fundraiser"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-cirque-du-luxe-2026-11-13",
+      "id": "sat-cirque-du-luxe-2026-11-14",
       "title": "Cirque Du Luxe",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "startTime": "4:30 PM & 7:30 PM (Sat 1:30/4:30/7:30, Sun 1:30/4:30)",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "startTime": "1:30, 4:30 & 7:30 PM (Sun 1:30 & 4:30)",
       "venue": "Governor's Square Mall, 1500 Apalachee Pkwy",
       "hook": "Touring circus with acrobatics, running through Sunday. $22-$38.",
       "url": "https://visittallahassee.com/events/cirque-du-luxe/",
@@ -174,7 +174,8 @@
         "holiday",
         "market"
       ],
-      "sample": false
+      "sample": false,
+      "startTime": "10:00 AM–6:00 PM"
     },
     {
       "id": "sat-polymorphia-concert-2026-11-14",
