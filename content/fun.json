@@ -1,207 +1,20 @@
 {
   "mode": "weekend",
   "range": {
-    "start": "2026-11-14",
+    "start": "2026-11-15",
     "end": "2026-11-15",
-    "label": "Sat–Sun, Nov 14–15, 2026"
+    "label": "Sunday, Nov 15, 2026"
   },
-  "updatedNote": "Saturday refresh from Diablo: Friday shows cleared, and new daytime picks added (Downtown Market, the Fire Truck Round Up at Tom Brown Park, and Baby Gray at The Hub). Tonight's music is at NorthFlora and Blue Tavern; Whose Live Anyway? is Sunday at Ruby Diamond. Chilly but sunny all weekend.",
+  "updatedNote": "Sunday refresh from Diablo: Saturday cleared. Last day for both the North Florida Fair and Cirque Du Luxe, FSU women host the Gators at 2, and the night belongs to Whose Live Anyway? at Ruby Diamond or the Van Halen tribute at The Moon. Cold snap still in play, so check event pages before heading out.",
   "events": [
-    {
-      "id": "sat-downtown-market-2026-11-14",
-      "title": "Downtown Market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "venue": "Ponce de Leon Park, downtown Tallahassee",
-      "startTime": "9:00 AM–1:00 PM",
-      "hook": "Dozens of local artists, craft vendors, and food trucks on a crisp, sunny morning.",
-      "url": "https://www.wtxl.com/news/local-news/happening-this-weekend-events-happening-around-the-big-bend-and-south-georgia-november-13th-15th",
-      "imageUrl": null,
-      "tags": [
-        "market",
-        "food",
-        "outdoors"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-fire-truck-roundup-2026-11-14",
-      "title": "Leon County Volunteer Fire Truck Round Up (29th annual)",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "venue": "Tom Brown Park, 501 Easterwood Dr",
-      "startTime": "10:00 AM–1:00 PM",
-      "hook": "Touch-a-truck displays, face painting, and bounce houses; free and very family friendly.",
-      "url": "https://www.wtxl.com/news/local-news/happening-this-weekend-events-happening-around-the-big-bend-and-south-georgia-november-13th-15th",
-      "imageUrl": null,
-      "tags": [
-        "outdoors",
-        "family",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-hub-feather-oaks-2026-11-14",
-      "title": "Saturday at The Hub: Baby Gray live + farmers market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
-      "startTime": "3:00 PM–10:00 PM (music 5–8)",
-      "hook": "Farmers market 3 to 6, Baby Gray on stage 5 to 8, Rustic Grub and football on every TV.",
-      "url": "https://www.thehubatfeatheroaks.com/event-details/saturday-at-the-hub",
-      "imageUrl": "https://static.wixstatic.com/media/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg/v1/fill/w_4128,h_2752,al_c,q_90/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg",
-      "tags": [
-        "live music",
-        "food",
-        "outdoors"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-cirque-du-luxe-2026-11-14",
-      "title": "Cirque Du Luxe",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "startTime": "1:30, 4:30 & 7:30 PM (Sun 1:30 & 4:30)",
-      "venue": "Governor's Square Mall, 1500 Apalachee Pkwy",
-      "hook": "Touring circus with acrobatics, running through Sunday. $22-$38.",
-      "url": "https://visittallahassee.com/events/cirque-du-luxe/",
-      "imageUrl": null,
-      "tags": [
-        "circus",
-        "family",
-        "show"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-terry-lee-rescue-horses-2026-11-14",
-      "title": "Terry Lee & The Rescue Horses, Stefan Lange, Canine Denim",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "startTime": "8:00 PM (doors 7:30)",
-      "venue": "NorthFlora Collective (Dark Side), 609 Railroad Square",
-      "hook": "All-ages DIY-flavored triple bill in Railroad Square for $10.",
-      "url": "https://musiclocal.org/events/terry-lee-and-the-rescue-horses-live-at-at-northflora-collective-2026-11-14-no6e9n",
-      "imageUrl": "https://media.musiclocal.org/kuh6mTnvBuThUposMKQiRqzVDUv-sMLMh7W7qhhGylw/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fd0067c80-3780-4772-97b6-3bb7af2dd9ce.jpeg",
-      "tags": [
-        "live music",
-        "DIY",
-        "all ages",
-        "Railroad Square"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-paddy-league-miss-mango-2026-11-14",
-      "title": "Paddy League and Miss Mango",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "startTime": "8:00 PM",
-      "venue": "Blue Tavern, 1206 N Monroe St",
-      "hook": "Full band with sax, percussion, bass, guitar and guest vocalists. $10 cover.",
-      "url": "https://musiclocal.org/events/paddy-league-and-miss-mango-at-blue-tavern-2026-11-14-djk2xn",
-      "imageUrl": "https://media.musiclocal.org/MD8KHoQp4iCiLRgyDVCuApjfrUtKViJpXRTYtGVtdC8/rs:fill:1200:1200/g:fp:0.5:0.2/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Fc1178e12-4306-436a-84f3-866d0caa5cbf.jpeg",
-      "tags": [
-        "live music",
-        "local"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-goodwood-jingle-mingle-santa-2026-11-14",
-      "title": "Goodwood Jingle & Mingle (Santa night)",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "startTime": "6:00 PM–9:00 PM",
-      "venue": "Goodwood Museum & Gardens Carriage House, 1600 Miccosukee Rd",
-      "hook": "Second night of the holiday market, with jazz trio and a Santa visit. $15.",
-      "url": "https://www.goodwoodmuseum.org/goodwood-events/",
-      "imageUrl": null,
-      "tags": [
-        "market",
-        "holiday",
-        "live music"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-crooked-river-lantern-fest-2026-11-14",
-      "title": "Crooked River Lighthouse Lantern Fest",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "startTime": "6:00 PM–10:00 PM",
-      "venue": "Crooked River Lighthouse, Carrabelle (about 1 hr+ drive)",
-      "hook": "Hundreds of glowing lanterns, live music, dance, night tower climbs. $15 advance, $20 gate.",
-      "url": "https://www.tallahassee.com/story/entertainment/restaurants/2026/11/12/top-5-things-to-do-in-tallahassee-this-weekend/92724362007/",
-      "imageUrl": null,
-      "tags": [
-        "festival",
-        "day trip",
-        "live music",
-        "outdoor"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-veterans-fun-fly-2026-11-14",
-      "title": "Veterans Fun Fly (RC aircraft)",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "startTime": "10:00 AM (beginner flights 10-1)",
-      "venue": "Apalachee Regional Park, 7550 Apalachee Pkwy",
-      "hook": "Free RC model aircraft show with beginner flight lessons.",
-      "url": "https://www.tallahassee.com/story/entertainment/restaurants/2026/11/12/top-5-things-to-do-in-tallahassee-this-weekend/92724362007/",
-      "imageUrl": null,
-      "tags": [
-        "outdoor",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-lemoyne-holiday-show-2026-11-14",
-      "title": "LeMoyne Annual Holiday Show opening day",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "venue": "LeMoyne Arts",
-      "hook": "Handmade gifts, art, a gingerbread competition display, and Hot Tamale playing live on opening day.",
-      "url": "https://www.tallahassee.com/story/entertainment/restaurants/2026/11/12/top-5-things-to-do-in-tallahassee-this-weekend/92724362007/",
-      "imageUrl": null,
-      "tags": [
-        "art",
-        "holiday",
-        "market"
-      ],
-      "sample": false,
-      "startTime": "10:00 AM–6:00 PM"
-    },
-    {
-      "id": "sat-polymorphia-concert-2026-11-14",
-      "title": "Polymorphia Concert (FSU College of Music)",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "startTime": "2:00 PM",
-      "venue": "FSU Museum of Fine Arts, 530 W Call St",
-      "hook": "Free ensemble concert.",
-      "url": "https://music.fsu.edu/event/polymorphia-concert-4/",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "free",
-        "FSU"
-      ],
-      "sample": false
-    },
     {
       "id": "sun-whose-live-anyway-2026-11-15",
       "title": "Whose Live Anyway?",
       "day": "Sun",
       "date": "2026-11-15",
-      "startTime": "7:30 PM",
       "venue": "Ruby Diamond Concert Hall, 222 S Copeland St",
-      "hook": "Ryan Stiles, Greg Proops, Jeff B. Davis and Joel Murray doing live improv off audience suggestions. $59-$69.",
+      "startTime": "7:30 PM",
+      "hook": "Ryan Stiles, Greg Proops, Jeff B. Davis and Joel Murray improvising off audience suggestions. From $59.",
       "url": "https://www.openingnights.fsu.edu/show-details/whose-live-anyway",
       "imageUrl": "https://www.openingnights.fsu.edu/storage/header_image/openingnights/77adfa996fd808664f0a3228aff4ca6bbd1fc0f4.webp",
       "tags": [
@@ -212,35 +25,185 @@
       "sample": false
     },
     {
+      "id": "sun-jump-van-halen-moon-2026-11-15",
+      "title": "JUMP: America's Van Halen Experience",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "The Moon, 1105 E Lafayette St",
+      "startTime": "7:30 PM (doors 6:30)",
+      "hook": "David Lee Roth era Van Halen tribute, all guitar solos and big rock classics.",
+      "url": "https://www.moonevents.com/events/detail/jump-americas-van-halen-experience-1566278",
+      "imageUrl": "https://images.discovery-prod.axs.com/2026/08/uploadedimage_6a7f3fbd801d1.jpg",
+      "tags": [
+        "live music",
+        "tribute",
+        "rock"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-north-florida-fair-final-2026-11-15",
+      "title": "North Florida Fair (final day)",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "North Florida Fairgrounds, 441 E Paul Russell Rd",
+      "startTime": "12:00 PM–9:00 PM",
+      "hook": "Last call for fair food, rides, and livestock barns before the 2026 fair closes.",
+      "url": "https://www.northfloridafair.com/p/visit/tickets",
+      "imageUrl": "https://cdn.saffire.com/images.ashx?t=ig&rid=NorthFloridaFair&i=TicketSpecialsHeader_SkipLine.jpg&cb=ff360ea0",
+      "tags": [
+        "fair",
+        "food",
+        "family"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-cirque-du-luxe-final-2026-11-15",
+      "title": "Cirque Du Luxe (final day)",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "Big Top at Governor's Square Mall, 1500 Apalachee Pkwy",
+      "startTime": "1:30 PM & 4:30 PM",
+      "hook": "Final two shows of the touring big-top circus. $22-$38.",
+      "url": "https://cirqueduluxe.com/tickets/",
+      "imageUrl": "https://cirqueduluxe.com/wp-content/uploads/2025/04/Luxe-Logo-1200px.png",
+      "tags": [
+        "circus",
+        "family",
+        "show"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-fsu-uf-wbb-2026-11-15",
+      "title": "FSU vs. Florida Women's Basketball",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "Donald L. Tucker Civic Center, 505 W Pensacola St",
+      "startTime": "2:00 PM",
+      "hook": "Sunshine State rivalry: the Seminoles host the Gators.",
+      "url": "https://seminoles.com/game-center/16934",
+      "imageUrl": null,
+      "tags": [
+        "sports",
+        "FSU"
+      ],
+      "sample": false
+    },
+    {
       "id": "sun-hub-charlie-brown-band-2026-11-15",
       "title": "Sunday at The Hub: The Charlie Brown Band",
       "day": "Sun",
       "date": "2026-11-15",
-      "startTime": "3:00 PM–6:00 PM",
       "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
-      "hook": "Outdoor hangout with Rustic Grub food, live band, NFL on all day.",
+      "startTime": "3:00 PM–6:00 PM",
+      "hook": "Outdoor hangout with a live band, Rustic Grub food, and NFL on the TVs.",
       "url": "https://www.thehubatfeatheroaks.com/event-details/sunday-at-the-hub-3",
       "imageUrl": "https://static.wixstatic.com/media/f3138a_c5c278c4f6b54342bfa67f6c9dc5c573~mv2.jpg/v1/fill/w_2048,h_1536,al_c,q_90/f3138a_c5c278c4f6b54342bfa67f6c9dc5c573~mv2.jpg",
       "tags": [
         "live music",
         "food",
-        "outdoor"
+        "outdoors"
       ],
       "sample": false
     },
     {
-      "id": "sun-duo-mahidhara-fort-2026-11-15",
-      "title": "Duo Mahidhara-Fort (Artist Series)",
+      "id": "sun-curious-incident-2026-11-15",
+      "title": "The Curious Incident of the Dog in the Night-Time",
       "day": "Sun",
       "date": "2026-11-15",
+      "venue": "Theatre Tallahassee, 1861 Thomasville Rd",
+      "startTime": "2:00 PM",
+      "hook": "Acclaimed play about Christopher's neighborhood mystery and what it uncovers about his family.",
+      "url": "https://theatretallahassee.org/2026-2027-season/curious-incident/",
+      "imageUrl": "https://i0.wp.com/theatretallahassee.org/wp-content/uploads/2026/03/Curious-Incident_Website-Hero-scaled.jpg?fit=1200%2C384&ssl=1",
+      "tags": [
+        "theatre"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-coriolanus-final-2026-11-15",
+      "title": "Coriolanus (final performance)",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "FSU Lab Theatre, 502 S Copeland St",
+      "startTime": "2:00 PM",
+      "hook": "Last chance for FSU's take on Shakespeare's political tragedy. $10 students.",
+      "url": "https://theatre.fsu.edu/2026-2027-season/",
+      "imageUrl": null,
+      "tags": [
+        "theatre",
+        "FSU",
+        "Shakespeare"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-christmas-carol-yat-2026-11-15",
+      "title": "A Christmas Carol (Young Actors Theatre)",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "Young Actors Theatre, 609 Glenview Dr",
+      "startTime": "1:00 PM & 7:00 PM",
+      "hook": "Menken and Ahrens musical version of the Dickens classic.",
+      "url": "https://youngactorstheatre.com/show/2026-2027-season/a-christmas-carol/",
+      "imageUrl": "https://youngactorstheatre.com/wp-content/uploads/blocks/hero/DSC_2996-1-scaled.jpg",
+      "tags": [
+        "theatre",
+        "holiday",
+        "family"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-beethoven-playground-2026-11-15",
+      "title": "Beethoven's Musical Playground",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "Opperman Music Hall, 114 N Copeland St",
       "startTime": "4:00 PM",
-      "venue": "Christ Presbyterian Church, 2317 Bannerman Rd",
-      "hook": "Violin/viola and piano duo, the second concert of the Artist Series season.",
-      "url": "https://theartistseries.org",
+      "hook": "Family concert with musical jokes, the Eyeglasses Duo, and a world premiere. RSVP required.",
+      "url": "https://music.fsu.edu/beethoven2027-shared-freedom/",
       "imageUrl": null,
       "tags": [
         "classical",
-        "live music"
+        "family",
+        "FSU"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-ryan-gardner-trumpet-2026-11-15",
+      "title": "Guest Artist Recital: Ryan Gardner, trumpet",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "Longmire Recital Hall, 600 W College Ave",
+      "startTime": "4:00 PM",
+      "hook": "Afternoon trumpet recital at the FSU College of Music.",
+      "url": "https://music.fsu.edu/event/guest-artist-recital-of-ryan-gardner-trumpet/",
+      "imageUrl": null,
+      "tags": [
+        "classical",
+        "FSU"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-move-nourish-give-5k-2026-11-15",
+      "title": "Move, Nourish & Give 5K",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "venue": "Cascades Park, 1001 S Gadsden St",
+      "startTime": "10:00 AM",
+      "hook": "FSU Food as Medicine 5K that helps fill Thanksgiving tables. $10 to run.",
+      "url": "https://runsignup.com/Race/FL/Tallahassee/MoveNourishGive5KFoodAsMedicineFSU",
+      "imageUrl": null,
+      "tags": [
+        "outdoors",
+        "run",
+        "charity"
       ],
       "sample": false
     }
