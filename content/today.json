@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. It is Friday the 13th, sunny and cool, and your BioLife appointment at 5:25 PM is the one fixed commitment today.",
-  "date": "2026-11-13",
-  "dateDisplay": "Friday, November 13, 2026",
+  "greeting": "Good morning, Zae. It is a clear, cool Saturday with no fixed appointments, so today is yours, and your next BioLife visit is Tuesday at 5:25 PM.",
+  "date": "2026-11-14",
+  "dateDisplay": "Saturday, November 14, 2026",
   "calendar": {
-    "note": "BioLife at 5:25 PM is the anchor today; supplements fill the rest.",
+    "note": "No fixed appointments today; supplements and the weekend fun list fill the day.",
     "events": [
       {
         "time": "8:00 AM",
@@ -14,26 +14,18 @@
         "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
       },
       {
-        "time": "3:25 PM",
-        "title": "Leave-soon reminder for BioLife: hydrate and eat a protein-rich meal first."
-      },
-      {
-        "time": "5:25 PM",
-        "title": "BioLife plasma appointment, 1685 Apalachee Pkwy, Tallahassee. Next ones are Tue Nov 17 and Thu Nov 19 at 5:25 PM."
-      },
-      {
         "time": "10:00 PM",
         "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules."
       }
     ]
   },
   "projectMove": {
-    "title": "Grad Arena security fixes still wait for your yes",
-    "body": "The held Grad Arena pull requests from the weekly sweep are still waiting on your approval, so one yes from you lets Rem ship them cleanly. A+ Academy is steady after Thursday's ship check."
+    "title": "Grad Arena fixes still wait for your yes",
+    "body": "The held Grad Arena pull requests from the weekly sweep are still waiting on your approval, so one yes lets Rem ship them cleanly. A+ Academy is steady."
   },
   "tip": {
-    "title": "Front-load water before plasma",
-    "body": "Drink plenty of water through the afternoon and eat a solid protein meal before 5:25 PM so the donation goes smoothly and the $100 toward your cruise fund lands without a deferral."
+    "title": "Hydrate ahead of Tuesday",
+    "body": "Start steady water intake and protein-rich meals now so Tuesday's 5:25 PM plasma donation goes smoothly and the $100 toward your cruise fund lands."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -48,35 +40,35 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-13T06:55:00-05:00",
+    "asOf": "2026-11-14T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Tracking is not ready yet: the Vercel connection cannot read analytics for this team, so counts are left blank rather than guessed."
+    "note": "Tracking is not ready yet: counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Carnival Legend sails from Tampa December 13, 30 days out. April 12, 2027 Paradise is also booked.",
-    "weatherNote": "Tallahassee: sunny, high near 66, light wind. Tonight clear and cold near 41. Saturday sunny near 60."
+    "cruiseNote": "Carnival Legend sails from Tampa December 13, 29 days out. April 12, 2027 Paradise is also booked.",
+    "weatherNote": "Tallahassee: clear, high near 59, sunset 5:40 PM."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "On this day · November 14, 1889",
-    "title": "137 years ago this morning, Nellie Bly set out to beat Around the World in Eighty Days",
-    "body": "At 9:40 AM on November 14, 1889, the New York World reporter Nellie Bly boarded the steamer Augusta Victoria with only two days' notice and started a 24,898-mile trip around the globe, trying to turn Jules Verne's novel into fact. A year earlier her editor had doubted she could do it, arguing she only spoke English, would pack too much, and would need a male escort. She went anyway, traveling almost entirely alone through England, France (where she stopped in Amiens to meet Jules Verne himself), the Suez Canal, Ceylon, Singapore, Hong Kong, and Japan. She was back in New York on January 25, 1890, just over 72 days later, a world record. Your own next voyage is far shorter and much comfier: 29 days until you sail out of Tampa on December 13. Today is clear and crisp in Tallahassee, about 40°F early, a high near 59°F, with sunset at 5:40 PM.",
+    "kind": "fact",
+    "eyebrow": "Did you know \u00b7 November 15, 1971",
+    "title": "55 years ago today, Intel released the 4004, the chip that started the CPU story you study for A+",
+    "body": "On November 15, 1971, Intel released the 4004, the first in its long line of central processing units. It was a 4-bit chip with just 2,300 transistors, a clock speed of about 740 kHz, and a 16-pin package, built on a 10-micrometer process, and it sold for $60. It was designed for a Busicom calculator, yet it became the first significant commercial example of putting a whole processor on one chip. Exactly thirty years later, on November 15, 2001, Microsoft launched the original Xbox in North America, and its Intel Pentium III ran at 733 MHz, roughly a thousand times faster, which means today the Xbox turns 25 as well. Every time a Core 1 question asks about clock speed, cores, or sockets, you are looking at the great-grandchildren of that little calculator chip. It is a clear, crisp Sunday in Tallahassee, about 36\u00b0F early with a high near 60\u00b0F, clouds rolling in after 2 PM, sunset at 5:40 PM, and 28 days until you sail out of Tampa.",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nellie_Bly_2.jpg",
-      "alt": "Nellie Bly in her traveling coat, around 1890"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Chip_layout_from_the_development_phase_of_the_Intel_4004_from_1971%2C_the_first_microprocessor_of_the_world_%28cropped_and_edited_image%29.jpg/500px-Chip_layout_from_the_development_phase_of_the_Intel_4004_from_1971%2C_the_first_microprocessor_of_the_world_%28cropped_and_edited_image%29.jpg",
+      "alt": "Chip layout drawing from the development of the Intel 4004 in 1971"
     },
     "link": {
-      "label": "Read Nellie Bly's story",
-      "url": "https://en.wikipedia.org/wiki/Nellie_Bly"
+      "label": "Read about the Intel 4004",
+      "url": "https://en.wikipedia.org/wiki/Intel_4004"
     },
     "source": {
-      "label": "Wikipedia, Nellie Bly (Around the world); weather from Open-Meteo",
-      "url": "https://en.wikipedia.org/wiki/Nellie_Bly"
+      "label": "Wikipedia, Intel 4004 and Xbox (console); weather from Open-Meteo",
+      "url": "https://en.wikipedia.org/wiki/Intel_4004"
     },
-    "accent": "#c08a3e"
+    "accent": "#3e7cc0"
   }
 }
