@@ -1,36 +1,36 @@
 {
-  "greeting": "Good morning, Zae. It is a cool Sunday that warms to about 60 with clouds after 2 PM, the North Florida Fair closes today, and your next BioLife visit is Tuesday at 5:25 PM.",
-  "date": "2026-11-15",
-  "dateDisplay": "Sunday, November 15, 2026",
+  "greeting": "Good morning, Zae. Arena's release candidate is built and waiting on your word, and today is a clear day with supplements the only fixed items.",
+  "date": "2026-11-17",
+  "dateDisplay": "Tuesday, November 17, 2026",
   "calendar": {
-    "note": "No fixed appointments today; tomorrow at 7:58 AM you get a reminder to finish your close out.",
+    "note": "Supplements are today's only fixed items.",
     "events": [
       {
         "time": "8:00 AM",
-        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
+        "title": "Morning supplements (10/10 plan): L-Tyrosine, L-Theanine, 2 Omega, D3+K2, B-Complex."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
+        "title": "Afternoon supplements: L-Tyrosine, 1-2 Omega."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules."
+        "title": "Night supplements: L-Theanine, Neuro-Mag; creatine 5g anytime."
       }
     ]
   },
   "projectMove": {
-    "title": "Arena remake is two-thirds done",
-    "body": "Phase 10B finished overnight, so the remake stands at 10 of 15 phases, and 11B resumes after the 9:17 AM usage reset. The held Grad Arena fixes still wait for your yes."
+    "title": "Arena 1.0.0-rc.1 awaits your approval",
+    "body": "Arena 1.0.0-rc.1 is ready for your approval. It is deployed unlisted with noindex so you can play anywhere; your open call is whether to rename or legally review the MTG card names before it goes public."
   },
   "tip": {
-    "title": "Hydrate ahead of Tuesday",
-    "body": "Keep water and protein steady today and Monday so Tuesday's 5:25 PM plasma donation goes smoothly and the $100 toward your cruise fund lands."
+    "title": "BioLife moved to Wednesday",
+    "body": "Your BioLife visit moved to Wednesday at 5:20 PM, so keep tonight light and hydrate well today."
   },
   "cruise": {
-    "name": "Carnival Legend",
+    "name": "Carnival Paradise",
     "targetDate": "2026-12-13",
-    "label": "Tampa, 6-night Bahamas"
+    "label": "December 13-19, 2026"
   },
   "weather": {
     "lat": 30.44,
@@ -40,17 +40,13 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-15T06:55:00-05:00",
+    "asOf": "2026-11-17T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Tracking is not ready yet: counts are left blank rather than guessed."
-  },
-  "extras": {
-    "cruiseNote": "Carnival Legend sails from Tampa December 13, 28 days out. April 12, 2027 Paradise is also booked.",
-    "weatherNote": "Tallahassee: about 36 early, high near 60, clouds after 2 PM, sunset 5:40 PM."
+    "note": "Analytics numbers are not readable through the connector yet, so no figures are shown."
   },
   "surprise": {
     "kind": "on-this-day",
