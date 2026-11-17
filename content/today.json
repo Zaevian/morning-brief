@@ -57,11 +57,15 @@
     "eyebrow": "On this day · Tuesday, November 17, 2026",
     "title": "157 years ago today, ships first sailed the Suez Canal",
     "body": "On the morning of November 17, 1869, a parade of ships entered the brand-new Suez Canal, led by Empress Eugénie of France aboard the imperial yacht L'Aigle. The first day did not go to plan: the French ship Péluse swung around and ran aground at the entrance to Lake Timsah, blocking the way, so most of the convoy had to anchor in the canal overnight. One British captain, George Nares of HMS Newport, sent a boat ahead to take soundings and slipped his ship around the blockage to anchor in the lake anyway. The canal opened at 164 km long and 8 m deep; after several enlargements it now runs 193.3 km with no locks at all, linking the Mediterranean to the Red Sea. A fitting bit of ship lore with 26 days to go until you sail again on December 13.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iss016e019375.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iss016e019375.jpg",
     "imageAlt": "The Suez Canal photographed from the International Space Station, with the Great Bitter Lake at the centre",
-    "imageCredit": "NASA, ISS Expedition 16 (public domain)",
-    "link": "https://en.wikipedia.org/wiki/Suez_Canal",
-    "linkLabel": "Read the full story",
-    "source": "Wikipedia: Suez Canal"
+    "link": {
+      "label": "Read the full story",
+      "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+    },
+    "source": {
+      "label": "Wikipedia: Suez Canal; photo: NASA, ISS Expedition 16 (public domain)",
+      "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+    }
   }
 }
