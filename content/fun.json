@@ -1,209 +1,187 @@
 {
-  "mode": "weekend",
+  "mode": "week",
   "range": {
-    "start": "2026-11-15",
-    "end": "2026-11-15",
-    "label": "Sunday, Nov 15, 2026"
+    "start": "2026-11-17",
+    "end": "2026-11-19",
+    "label": "Tue-Thu, Nov 17-19, 2026"
   },
-  "updatedNote": "Sunday refresh from Diablo: Saturday cleared. Last day for both the North Florida Fair and Cirque Du Luxe, FSU women host the Gators at 2, and the night belongs to Whose Live Anyway? at Ruby Diamond or the Van Halen tribute at The Moon. Cold snap still in play, so check event pages before heading out.",
+  "updatedNote": "Tuesday refresh from Diablo. FSU hoops opens the week against Ball State, Wednesday is a 90s vs 2000s party night downtown, and Thursday belongs to The Revivalists at Cascades Park. Check event pages before heading out.",
   "events": [
     {
-      "id": "sun-whose-live-anyway-2026-11-15",
-      "title": "Whose Live Anyway?",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "Ruby Diamond Concert Hall, 222 S Copeland St",
-      "startTime": "7:30 PM",
-      "hook": "Ryan Stiles, Greg Proops, Jeff B. Davis and Joel Murray improvising off audience suggestions. From $59.",
-      "url": "https://www.openingnights.fsu.edu/show-details/whose-live-anyway",
-      "imageUrl": "https://www.openingnights.fsu.edu/storage/header_image/openingnights/77adfa996fd808664f0a3228aff4ca6bbd1fc0f4.webp",
-      "tags": [
-        "comedy",
-        "improv",
-        "show"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-jump-van-halen-moon-2026-11-15",
-      "title": "JUMP: America's Van Halen Experience",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "The Moon, 1105 E Lafayette St",
-      "startTime": "7:30 PM (doors 6:30)",
-      "hook": "David Lee Roth era Van Halen tribute, all guitar solos and big rock classics.",
-      "url": "https://www.moonevents.com/events/detail/jump-americas-van-halen-experience-1566278",
-      "imageUrl": "https://images.discovery-prod.axs.com/2026/08/uploadedimage_6a7f3fbd801d1.jpg",
-      "tags": [
-        "live music",
-        "tribute",
-        "rock"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-north-florida-fair-final-2026-11-15",
-      "title": "North Florida Fair (final day)",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "North Florida Fairgrounds, 441 E Paul Russell Rd",
-      "startTime": "12:00 PM–9:00 PM",
-      "hook": "Last call for fair food, rides, and livestock barns before the 2026 fair closes.",
-      "url": "https://www.northfloridafair.com/p/visit/tickets",
-      "imageUrl": "https://cdn.saffire.com/images.ashx?t=ig&rid=NorthFloridaFair&i=TicketSpecialsHeader_SkipLine.jpg&cb=ff360ea0",
-      "tags": [
-        "fair",
-        "food",
-        "family"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-cirque-du-luxe-final-2026-11-15",
-      "title": "Cirque Du Luxe (final day)",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "Big Top at Governor's Square Mall, 1500 Apalachee Pkwy",
-      "startTime": "1:30 PM & 4:30 PM",
-      "hook": "Final two shows of the touring big-top circus. $22-$38.",
-      "url": "https://cirqueduluxe.com/tickets/",
-      "imageUrl": "https://cirqueduluxe.com/wp-content/uploads/2025/04/Luxe-Logo-1200px.png",
-      "tags": [
-        "circus",
-        "family",
-        "show"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-fsu-uf-wbb-2026-11-15",
-      "title": "FSU vs. Florida Women's Basketball",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "Donald L. Tucker Civic Center, 505 W Pensacola St",
-      "startTime": "2:00 PM",
-      "hook": "Sunshine State rivalry: the Seminoles host the Gators.",
-      "url": "https://seminoles.com/game-center/16934",
-      "imageUrl": null,
+      "id": "tue-fsu-mbb-ball-state-2026-11-17",
+      "title": "FSU Men's Basketball vs Ball State",
+      "day": "Tue",
+      "date": "2026-11-17",
+      "venue": "Donald L. Tucker Center",
+      "neighborhood": "Downtown",
+      "startTime": "7:00 PM",
+      "hook": "First-ever meeting with the Cardinals, a cheap and easy weeknight Noles game.",
+      "url": "https://seminoles.com/news/2026/11/16/mens-basketball-florida-state-hosts-ball-state-in-first-meeting",
+      "imageUrl": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Ffsuni.sidearmsports.com%2Fimages%2F2026%2F11%2F16%2FAbaevUF7.jpg&width=1600&type=jpeg",
       "tags": [
         "sports",
+        "basketball",
         "FSU"
       ],
       "sample": false
     },
     {
-      "id": "sun-hub-charlie-brown-band-2026-11-15",
-      "title": "Sunday at The Hub: The Charlie Brown Band",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
-      "startTime": "3:00 PM–6:00 PM",
-      "hook": "Outdoor hangout with a live band, Rustic Grub food, and NFL on the TVs.",
-      "url": "https://www.thehubatfeatheroaks.com/event-details/sunday-at-the-hub-3",
-      "imageUrl": "https://static.wixstatic.com/media/f3138a_c5c278c4f6b54342bfa67f6c9dc5c573~mv2.jpg/v1/fill/w_2048,h_1536,al_c,q_90/f3138a_c5c278c4f6b54342bfa67f6c9dc5c573~mv2.jpg",
+      "id": "tue-fsu-wind-ensemble-2026-11-17",
+      "title": "FSU Wind Ensemble: Time and the Winds",
+      "day": "Tue",
+      "date": "2026-11-17",
+      "venue": "Ruby Diamond Concert Hall, 222 S Copeland St",
+      "neighborhood": "FSU campus",
+      "startTime": "7:30 PM",
+      "hook": "Top FSU wind and percussion players plus flutist Mary Matthews on Puckett's Shadow of Sirius. $10 adults.",
+      "url": "https://music.fsu.edu/event/wind-ensemble-time-and-the-winds/",
+      "imageUrl": null,
+      "tags": [
+        "concert",
+        "classical",
+        "FSU"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-fsu-gamelan-chinese-2026-11-17",
+      "title": "World Music: Gamelan and Chinese Ensemble",
+      "day": "Tue",
+      "date": "2026-11-17",
+      "venue": "Opperman Music Hall, 114 N Copeland St",
+      "neighborhood": "FSU campus",
+      "startTime": "7:30 PM",
+      "hook": "Free night of Indonesian gamelan and Chinese ensemble music, something genuinely different.",
+      "url": "https://music.fsu.edu/event/world-music-gamelan-and-chinese-ensemble/",
+      "imageUrl": null,
+      "tags": [
+        "concert",
+        "world music",
+        "free",
+        "FSU"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-new-76ers-goodwood-2026-11-18",
+      "title": "Wonderful Wednesday: The New 76ers",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "venue": "Goodwood Museum & Gardens",
+      "neighborhood": "Midtown",
+      "startTime": "6:00 PM",
+      "hook": "Live band on the Goodwood grounds, 6 to 8 PM, an easy early-evening hang.",
+      "url": "https://musiclocal.org/events/wonderful-wednesday-at-goodwood-museum-and-gardens-2026-11-18-kytm26",
+      "imageUrl": "https://media.musiclocal.org/TxscL9Vc5EhHeYcTv5A0G5KOMP9VwkvFganSacQApZ8/rs:fill:1200:630/g:fp:0.5:0.27/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Faf96951a-f6b9-4bcb-a79c-ba9b90522626.jpeg",
       "tags": [
         "live music",
-        "food",
         "outdoors"
       ],
       "sample": false
     },
     {
-      "id": "sun-curious-incident-2026-11-15",
-      "title": "The Curious Incident of the Dog in the Night-Time",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "Theatre Tallahassee, 1861 Thomasville Rd",
-      "startTime": "2:00 PM",
-      "hook": "Acclaimed play about Christopher's neighborhood mystery and what it uncovers about his family.",
-      "url": "https://theatretallahassee.org/2026-2027-season/curious-incident/",
-      "imageUrl": "https://i0.wp.com/theatretallahassee.org/wp-content/uploads/2026/03/Curious-Incident_Website-Hero-scaled.jpg?fit=1200%2C384&ssl=1",
+      "id": "wed-dana-king-island-wings-2026-11-18",
+      "title": "Wine Down Wednesday: Dana King",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "venue": "Island Wings",
+      "neighborhood": "Tallahassee",
+      "startTime": "6:00 PM",
+      "hook": "Live music with wings and wine, 6 to 9 PM.",
+      "url": "https://musiclocal.org/events/wine-down-wednesday-at-island-wings-2026-11-18-3c7dp0",
+      "imageUrl": "https://media.musiclocal.org/8kpYv2FTMOKdRX1Q5VpbT0TUNGbk64ghh_kEt5ReMoQ/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F9fb73779-619d-4593-80a8-0a006b32378f.jpeg",
       "tags": [
-        "theatre"
+        "live music",
+        "food"
       ],
       "sample": false
     },
     {
-      "id": "sun-coriolanus-final-2026-11-15",
-      "title": "Coriolanus (final performance)",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "FSU Lab Theatre, 502 S Copeland St",
-      "startTime": "2:00 PM",
-      "hook": "Last chance for FSU's take on Shakespeare's political tragedy. $10 students.",
-      "url": "https://theatre.fsu.edu/2026-2027-season/",
+      "id": "wed-proof-trivia-2026-11-18",
+      "title": "Trivia Night at Proof Brewing",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "venue": "Proof Brewing Company, 1320 S Monroe St",
+      "neighborhood": "South Monroe",
+      "startTime": "7:00 PM",
+      "hook": "Weekly brewery trivia, bring a team and a thirst.",
+      "url": "https://yourtown.live/shows/fs-tlh-proof-brewing-company-night-trivia-20261118",
       "imageUrl": null,
       "tags": [
-        "theatre",
-        "FSU",
-        "Shakespeare"
+        "trivia",
+        "brewery"
       ],
       "sample": false
     },
     {
-      "id": "sun-christmas-carol-yat-2026-11-15",
-      "title": "A Christmas Carol (Young Actors Theatre)",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "Young Actors Theatre, 609 Glenview Dr",
-      "startTime": "1:00 PM & 7:00 PM",
-      "hook": "Menken and Ahrens musical version of the Dickens classic.",
-      "url": "https://youngactorstheatre.com/show/2026-2027-season/a-christmas-carol/",
-      "imageUrl": "https://youngactorstheatre.com/wp-content/uploads/blocks/hero/DSC_2996-1-scaled.jpg",
+      "id": "wed-suncatcher-cds-2026-11-18",
+      "title": "90s vs. 2000s: Suncatcher w/ Cypress Lane + DJ",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "venue": "Capital District Social",
+      "neighborhood": "Downtown",
+      "startTime": "7:00 PM",
+      "hook": "Throwback cover party with two bands and a DJ, running till 12:30 AM.",
+      "url": "https://www.eventbrite.com/e/90s-vs-2000s-suncatcher-w-cypress-lane-dj-at-capital-district-social-tickets-2003568129209",
+      "imageUrl": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1196333152%252F3017815520599%252F1%252Foriginal.20261022-022046%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.534%26fp-y%3D0.553%26s%3D47a91f7cab8a485763bf913aaf36fe24&w=940&q=75",
       "tags": [
-        "theatre",
-        "holiday",
-        "family"
+        "live music",
+        "party",
+        "nightlife"
       ],
       "sample": false
     },
     {
-      "id": "sun-beethoven-playground-2026-11-15",
-      "title": "Beethoven's Musical Playground",
-      "day": "Sun",
-      "date": "2026-11-15",
+      "id": "thu-revivalists-adderley-2026-11-19",
+      "title": "The Revivalists",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "venue": "Adderley Amphitheater, Cascades Park",
+      "neighborhood": "Downtown",
+      "startTime": "7:00 PM (doors 6:00)",
+      "hook": "The Wish I Knew You band live under the sky at Cascades. Tickets about $59 to $94 on AXS.",
+      "url": "https://www.theadderleyamphitheater.com/Events/e/the-revivalists-2026",
+      "imageUrl": "https://www.theadderleyamphitheater.com/Portals/18/adam/TheAdderley/_Zh3BwHkrEmAIr4XbXRFcQ/CoverPicture/PREFERRED%20PHOTO%20-%20THE%20REVIVALISTS%20-%202026%20PRESS%20BY%20TOMMY%20MOORE.jpg?w=800&h=600&mode=crop",
+      "tags": [
+        "live music",
+        "concert",
+        "outdoors"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-fsu-masnsteel-oldtime-2026-11-19",
+      "title": "World Music: Mas'N'Steel and Old Time Ensemble",
+      "day": "Thu",
+      "date": "2026-11-19",
       "venue": "Opperman Music Hall, 114 N Copeland St",
-      "startTime": "4:00 PM",
-      "hook": "Family concert with musical jokes, the Eyeglasses Duo, and a world premiere. RSVP required.",
-      "url": "https://music.fsu.edu/beethoven2027-shared-freedom/",
+      "neighborhood": "FSU campus",
+      "startTime": "7:30 PM",
+      "hook": "Free double bill of steel pan and old-time string band music.",
+      "url": "https://music.fsu.edu/event/world-music-masnsteel-and-old-time-ensemble/",
       "imageUrl": null,
       "tags": [
-        "classical",
-        "family",
+        "concert",
+        "world music",
+        "free",
         "FSU"
       ],
       "sample": false
     },
     {
-      "id": "sun-ryan-gardner-trumpet-2026-11-15",
-      "title": "Guest Artist Recital: Ryan Gardner, trumpet",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "Longmire Recital Hall, 600 W College Ave",
-      "startTime": "4:00 PM",
-      "hook": "Afternoon trumpet recital at the FSU College of Music.",
-      "url": "https://music.fsu.edu/event/guest-artist-recital-of-ryan-gardner-trumpet/",
+      "id": "thu-bielanski-blue-tavern-2026-11-19",
+      "title": "Bryan Bielanski Live",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "venue": "Blue Tavern",
+      "neighborhood": "Tallahassee",
+      "startTime": "8:00 PM",
+      "hook": "Touring acoustic rock and roller in a cozy listening room.",
+      "url": "https://tallahasseearts.org/event/bryan-bielanski-live-blue-tavern/",
       "imageUrl": null,
       "tags": [
-        "classical",
-        "FSU"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-move-nourish-give-5k-2026-11-15",
-      "title": "Move, Nourish & Give 5K",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "venue": "Cascades Park, 1001 S Gadsden St",
-      "startTime": "10:00 AM",
-      "hook": "FSU Food as Medicine 5K that helps fill Thanksgiving tables. $10 to run.",
-      "url": "https://runsignup.com/Race/FL/Tallahassee/MoveNourishGive5KFoodAsMedicineFSU",
-      "imageUrl": null,
-      "tags": [
-        "outdoors",
-        "run",
-        "charity"
+        "live music",
+        "acoustic"
       ],
       "sample": false
     }
