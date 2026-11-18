@@ -50,18 +50,19 @@
   },
   "surprise": {
     "kind": "on-this-day",
-    "eyebrow": "On this day · Tuesday, November 17, 2026",
-    "title": "157 years ago today, ships first sailed the Suez Canal",
-    "body": "On the morning of November 17, 1869, a parade of ships entered the brand-new Suez Canal, led by Empress Eugénie of France aboard the imperial yacht L'Aigle. The first day did not go to plan: the French ship Péluse swung around and ran aground at the entrance to Lake Timsah, blocking the way, so most of the convoy had to anchor in the canal overnight. One British captain, George Nares of HMS Newport, sent a boat ahead to take soundings and slipped his ship around the blockage to anchor in the lake anyway. The canal opened at 164 km long and 8 m deep; after several enlargements it now runs 193.3 km with no locks at all, linking the Mediterranean to the Red Sea. A fitting bit of ship lore with 26 days to go until you sail again on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iss016e019375.jpg",
-    "imageAlt": "The Suez Canal photographed from the International Space Station, with the Great Bitter Lake at the centre",
+    "eyebrow": "On this day · Wednesday, November 18, 2026",
+    "title": "98 years ago today, Mickey Mouse whistled his way onto the big screen",
+    "body": "On November 18, 1928, Steamboat Willie premiered at Universal's Colony Theater in New York, playing five times a day for two weeks ahead of a feature called Gang War, which has since become a lost film. It counts as Mickey and Minnie's official debut and was one of the first cartoons with fully synchronized sound, kept on the beat with a click track. The first attempt to sync the soundtrack, on September 15, 1928, was a disaster, so Walt Disney sold his Moon roadster to pay for a second recording, which worked once a bouncing ball was filmed in to hold the tempo. Ub Iwerks led the animation, Disney voiced every character himself, and the whole short cost $4,986.69. Steamboat Willie entered the U.S. public domain on January 1, 2024, and its whistling-at-the-wheel clip still opens every Walt Disney Animation Studios film. Fitting ship lore, too, with 25 days until you sail on December 13. Tallahassee runs about 54°F this morning, climbing near 69°F as the clouds break around midday, with sunset at 5:38 PM.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mickey_Mouse_-_Steamboat_Willie_%281928%29.jpg/960px-Mickey_Mouse_-_Steamboat_Willie_%281928%29.jpg",
+    "imageAlt": "Mickey Mouse at the steamboat wheel in Steamboat Willie (1928)",
     "link": {
       "label": "Read the full story",
-      "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+      "url": "https://en.wikipedia.org/wiki/Steamboat_Willie"
     },
     "source": {
-      "label": "Wikipedia: Suez Canal; photo: NASA, ISS Expedition 16 (public domain)",
-      "url": "https://en.wikipedia.org/wiki/Suez_Canal"
-    }
+      "label": "Wikipedia: Steamboat Willie; still from Wikimedia Commons (public domain); weather from Open-Meteo",
+      "url": "https://en.wikipedia.org/wiki/Steamboat_Willie"
+    },
+    "accent": "#c8a24a"
   }
 }
