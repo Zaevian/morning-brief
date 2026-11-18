@@ -1,36 +1,36 @@
 {
-  "greeting": "Good morning, Zae. Arena's release candidate is built and waiting on your word, and today is a clear day with supplements the only fixed items.",
-  "date": "2026-11-17",
-  "dateDisplay": "Tuesday, November 17, 2026",
+  "greeting": "Good morning, Zae. It is Wednesday, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 25 days.",
+  "date": "2026-11-18",
+  "dateDisplay": "Wednesday, November 18, 2026",
   "calendar": {
-    "note": "Supplements are today's only fixed items.",
+    "note": "Supplements are the only fixed items today; the rest of the day is yours.",
     "events": [
       {
         "time": "8:00 AM",
-        "title": "Morning supplements (10/10 plan): L-Tyrosine, L-Theanine, 2 Omega, D3+K2, B-Complex."
+        "title": "Morning Supplements (10/10 Plan): L-Tyrosine, L-Theanine, two Omega soft gels, Vitamin D3 + K2, and B-Complex."
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon supplements: L-Tyrosine, 1-2 Omega."
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
       },
       {
         "time": "10:00 PM",
-        "title": "Night supplements: L-Theanine, Neuro-Mag; creatine 5g anytime."
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
       }
     ]
   },
   "projectMove": {
-    "title": "Arena 1.0.0-rc.1 awaits your approval",
-    "body": "Arena 1.0.0-rc.1 is ready for your approval. It is deployed unlisted with noindex so you can play anywhere; your open call is whether to rename or legally review the MTG card names before it goes public."
+    "title": "Arena release candidate awaits your call",
+    "body": "Arena 1.0.0-rc.1 is built and live unlisted with noindex, and your open decisions are the MTG card-name renaming or legal review, browser support scope, and the Vite upgrade before any public launch."
   },
   "tip": {
-    "title": "Keep today steady",
-    "body": "Drink water steadily through the day and keep this evening light."
+    "title": "Front-load water and protein",
+    "body": "A steady morning of water and a protein-rich lunch keeps energy even through the afternoon, and the 10/10 supplement stack absorbs better with food."
   },
   "cruise": {
     "name": "Carnival Legend",
     "targetDate": "2026-12-13",
-    "label": "December 13-19, 2026, from Tampa"
+    "label": "Tampa, 6-night Bahamas"
   },
   "weather": {
     "lat": 30.44,
@@ -40,13 +40,13 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-17T06:55:00-05:00",
+    "asOf": "2026-11-18T06:57:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
-    "note": "Analytics numbers are not readable through the connector yet, so no figures are shown."
+    "note": "Tracking is not ready yet: counts are left blank rather than guessed."
   },
   "surprise": {
     "kind": "on-this-day",
