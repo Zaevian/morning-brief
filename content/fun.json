@@ -1,67 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-17",
+    "start": "2026-11-18",
     "end": "2026-11-19",
-    "label": "Tue-Thu, Nov 17-19, 2026"
+    "label": "Wed-Thu, Nov 18-19, 2026"
   },
-  "updatedNote": "Tuesday refresh from Diablo. FSU hoops opens the week against Ball State, Wednesday is a 90s vs 2000s party night downtown, and Thursday belongs to The Revivalists at Cascades Park. Check event pages before heading out.",
+  "updatedNote": "Wednesday refresh from Diablo. Tonight is a 90s vs 2000s party at Capital District Social plus easy live music at Goodwood and Island Wings, and Thursday belongs to The Revivalists at Cascades Park. Check event pages before heading out.",
   "events": [
-    {
-      "id": "tue-fsu-mbb-ball-state-2026-11-17",
-      "title": "FSU Men's Basketball vs Ball State",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "venue": "Donald L. Tucker Center",
-      "neighborhood": "Downtown",
-      "startTime": "7:00 PM",
-      "hook": "First-ever meeting with the Cardinals, a cheap and easy weeknight Noles game.",
-      "url": "https://seminoles.com/news/2026/11/16/mens-basketball-florida-state-hosts-ball-state-in-first-meeting",
-      "imageUrl": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Ffsuni.sidearmsports.com%2Fimages%2F2026%2F11%2F16%2FAbaevUF7.jpg&width=1600&type=jpeg",
-      "tags": [
-        "sports",
-        "basketball",
-        "FSU"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-fsu-wind-ensemble-2026-11-17",
-      "title": "FSU Wind Ensemble: Time and the Winds",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "venue": "Ruby Diamond Concert Hall, 222 S Copeland St",
-      "neighborhood": "FSU campus",
-      "startTime": "7:30 PM",
-      "hook": "Top FSU wind and percussion players plus flutist Mary Matthews on Puckett's Shadow of Sirius. $10 adults.",
-      "url": "https://music.fsu.edu/event/wind-ensemble-time-and-the-winds/",
-      "imageUrl": null,
-      "tags": [
-        "concert",
-        "classical",
-        "FSU"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-fsu-gamelan-chinese-2026-11-17",
-      "title": "World Music: Gamelan and Chinese Ensemble",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "venue": "Opperman Music Hall, 114 N Copeland St",
-      "neighborhood": "FSU campus",
-      "startTime": "7:30 PM",
-      "hook": "Free night of Indonesian gamelan and Chinese ensemble music, something genuinely different.",
-      "url": "https://music.fsu.edu/event/world-music-gamelan-and-chinese-ensemble/",
-      "imageUrl": null,
-      "tags": [
-        "concert",
-        "world music",
-        "free",
-        "FSU"
-      ],
-      "sample": false
-    },
     {
       "id": "wed-new-76ers-goodwood-2026-11-18",
       "title": "Wonderful Wednesday: The New 76ers",
@@ -182,6 +127,24 @@
       "tags": [
         "live music",
         "acoustic"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-ben-baggett-hub-feather-oaks-2026-11-19",
+      "title": "Thursday at The Hub: Ben Baggett + Bingo",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
+      "neighborhood": "Northeast",
+      "startTime": "6:00 PM",
+      "hook": "Live music from Ben Baggett and bingo at 6, with Rustic Grub dinner on site (open 3 to 9 PM).",
+      "url": "https://www.thehubatfeatheroaks.com/event-details/thursday-at-the-hub",
+      "imageUrl": "https://static.wixstatic.com/media/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg/v1/fill/w_4128,h_2752,al_c,q_90/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg",
+      "tags": [
+        "live music",
+        "food",
+        "games"
       ],
       "sample": false
     }
