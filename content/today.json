@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. It is Wednesday, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 25 days.",
-  "date": "2026-11-18",
-  "dateDisplay": "Wednesday, November 18, 2026",
+  "greeting": "Good morning, Zae. It is Thursday, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 24 days.",
+  "date": "2026-11-19",
+  "dateDisplay": "Thursday, November 19, 2026",
   "calendar": {
-    "note": "Supplements are the only fixed items today; the rest of the day is yours.",
+    "note": "Supplements are the fixed items today; the rest of the day is yours.",
     "events": [
       {
         "time": "8:00 AM",
@@ -24,8 +24,8 @@
     "body": "Arena 1.0.0-rc.1 is built and live unlisted with noindex, and your open decisions are the MTG card-name renaming or legal review, browser support scope, and the Vite upgrade before any public launch."
   },
   "tip": {
-    "title": "Front-load water and protein",
-    "body": "A steady morning of water and a protein-rich lunch keeps energy even through the afternoon, and the 10/10 supplement stack absorbs better with food."
+    "title": "Keep water close today",
+    "body": "Steady water through the day and a real lunch keep energy even, and the 10/10 supplement stack absorbs better with food."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -40,7 +40,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-18T06:57:00-05:00",
+    "asOf": "2026-11-19T06:57:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
