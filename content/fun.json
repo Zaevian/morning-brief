@@ -1,81 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-18",
+    "start": "2026-11-19",
     "end": "2026-11-19",
-    "label": "Wed-Thu, Nov 18-19, 2026"
+    "label": "Thursday, Nov 19, 2026"
   },
-  "updatedNote": "Wednesday refresh from Diablo. Tonight is a 90s vs 2000s party at Capital District Social plus easy live music at Goodwood and Island Wings, and Thursday belongs to The Revivalists at Cascades Park. Check event pages before heading out.",
+  "updatedNote": "Thursday refresh from Diablo. Tonight belongs to The Revivalists at Cascades Park, with Ben Baggett plus bingo at The Hub, FSU world music at Opperman, and Bryan Bielanski at Blue Tavern as quieter options. Check event pages before heading out.",
   "events": [
-    {
-      "id": "wed-new-76ers-goodwood-2026-11-18",
-      "title": "Wonderful Wednesday: The New 76ers",
-      "day": "Wed",
-      "date": "2026-11-18",
-      "venue": "Goodwood Museum & Gardens",
-      "neighborhood": "Midtown",
-      "startTime": "6:00 PM",
-      "hook": "Live band on the Goodwood grounds, 6 to 8 PM, an easy early-evening hang.",
-      "url": "https://musiclocal.org/events/wonderful-wednesday-at-goodwood-museum-and-gardens-2026-11-18-kytm26",
-      "imageUrl": "https://media.musiclocal.org/TxscL9Vc5EhHeYcTv5A0G5KOMP9VwkvFganSacQApZ8/rs:fill:1200:630/g:fp:0.5:0.27/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2Faf96951a-f6b9-4bcb-a79c-ba9b90522626.jpeg",
-      "tags": [
-        "live music",
-        "outdoors"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-dana-king-island-wings-2026-11-18",
-      "title": "Wine Down Wednesday: Dana King",
-      "day": "Wed",
-      "date": "2026-11-18",
-      "venue": "Island Wings",
-      "neighborhood": "Tallahassee",
-      "startTime": "6:00 PM",
-      "hook": "Live music with wings and wine, 6 to 9 PM.",
-      "url": "https://musiclocal.org/events/wine-down-wednesday-at-island-wings-2026-11-18-3c7dp0",
-      "imageUrl": "https://media.musiclocal.org/8kpYv2FTMOKdRX1Q5VpbT0TUNGbk64ghh_kEt5ReMoQ/rs:fill:1200:1200/g:fp:0.5:0/plain/gs%3A%2F%2Fmusiclocal_prod_media%2Fevents%2F9fb73779-619d-4593-80a8-0a006b32378f.jpeg",
-      "tags": [
-        "live music",
-        "food"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-proof-trivia-2026-11-18",
-      "title": "Trivia Night at Proof Brewing",
-      "day": "Wed",
-      "date": "2026-11-18",
-      "venue": "Proof Brewing Company, 1320 S Monroe St",
-      "neighborhood": "South Monroe",
-      "startTime": "7:00 PM",
-      "hook": "Weekly brewery trivia, bring a team and a thirst.",
-      "url": "https://yourtown.live/shows/fs-tlh-proof-brewing-company-night-trivia-20261118",
-      "imageUrl": null,
-      "tags": [
-        "trivia",
-        "brewery"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-suncatcher-cds-2026-11-18",
-      "title": "90s vs. 2000s: Suncatcher w/ Cypress Lane + DJ",
-      "day": "Wed",
-      "date": "2026-11-18",
-      "venue": "Capital District Social",
-      "neighborhood": "Downtown",
-      "startTime": "7:00 PM",
-      "hook": "Throwback cover party with two bands and a DJ, running till 12:30 AM.",
-      "url": "https://www.eventbrite.com/e/90s-vs-2000s-suncatcher-w-cypress-lane-dj-at-capital-district-social-tickets-2003568129209",
-      "imageUrl": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1196333152%252F3017815520599%252F1%252Foriginal.20261022-022046%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.534%26fp-y%3D0.553%26s%3D47a91f7cab8a485763bf913aaf36fe24&w=940&q=75",
-      "tags": [
-        "live music",
-        "party",
-        "nightlife"
-      ],
-      "sample": false
-    },
     {
       "id": "thu-revivalists-adderley-2026-11-19",
       "title": "The Revivalists",
