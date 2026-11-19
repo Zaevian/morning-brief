@@ -50,19 +50,19 @@
   },
   "surprise": {
     "kind": "on-this-day",
-    "eyebrow": "On this day · Wednesday, November 18, 2026",
-    "title": "98 years ago today, Mickey Mouse whistled his way onto the big screen",
-    "body": "On November 18, 1928, Steamboat Willie premiered at Universal's Colony Theater in New York, playing five times a day for two weeks ahead of a feature called Gang War, which has since become a lost film. It counts as Mickey and Minnie's official debut and was one of the first cartoons with fully synchronized sound, kept on the beat with a click track. The first attempt to sync the soundtrack, on September 15, 1928, was a disaster, so Walt Disney sold his Moon roadster to pay for a second recording, which worked once a bouncing ball was filmed in to hold the tempo. Ub Iwerks led the animation, Disney voiced every character himself, and the whole short cost $4,986.69. Steamboat Willie entered the U.S. public domain on January 1, 2024, and its whistling-at-the-wheel clip still opens every Walt Disney Animation Studios film. Fitting ship lore, too, with 25 days until you sail on December 13. Tallahassee runs about 54°F this morning, climbing near 69°F as the clouds break around midday, with sunset at 5:38 PM.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mickey_Mouse_-_Steamboat_Willie_%281928%29.jpg/960px-Mickey_Mouse_-_Steamboat_Willie_%281928%29.jpg",
-    "imageAlt": "Mickey Mouse at the steamboat wheel in Steamboat Willie (1928)",
+    "eyebrow": "On this day · Thursday, November 19, 2026",
+    "title": "57 years ago today, Apollo 12 landed on the Moon after being hit by lightning twice",
+    "body": "At 1:54 AM Eastern on November 19, 1969, Pete Conrad and Alan Bean set the lunar module Intrepid down in the Ocean of Storms, within walking distance of Surveyor 3, a robot probe that had landed two years earlier. Getting there was the wild part. Lightning struck their Saturn V 36.5 seconds after liftoff from Florida, knocking all three fuel cells offline, and a second strike at 52 seconds took out the attitude indicator. Mission Control's telemetry turned to garbage until EECOM John Aaron remembered the failure pattern from an old test and made the call that saved the mission: \"Try SCE to Aux,\" an obscure switch that moved the signal electronics to backup power. It is still the textbook example of a troubleshooter recognizing a symptom, which is exactly the A+ way of thinking. Conrad's first words on the surface won a $500 bet with reporter Oriana Fallaci: \"Whoopie! Man, that may have been a small one for Neil, but that's a long one for me.\" On the second moonwalk they walked over to Surveyor 3 and brought pieces of it home. Twenty-four days until you sail on December 13.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Surveyor_3-Apollo_12.jpg/960px-Surveyor_3-Apollo_12.jpg",
+    "imageAlt": "Pete Conrad beside the Surveyor 3 probe on the Moon, with the lunar module Intrepid in the background (1969)",
     "link": {
-      "label": "Read the full story",
-      "url": "https://en.wikipedia.org/wiki/Steamboat_Willie"
+      "label": "Read the full mission story",
+      "url": "https://en.wikipedia.org/wiki/Apollo_12"
     },
     "source": {
-      "label": "Wikipedia: Steamboat Willie; still from Wikimedia Commons (public domain); weather from Open-Meteo",
-      "url": "https://en.wikipedia.org/wiki/Steamboat_Willie"
+      "label": "Wikipedia: Apollo 12; photo by NASA via Wikimedia Commons (public domain)",
+      "url": "https://en.wikipedia.org/wiki/Apollo_12"
     },
-    "accent": "#c8a24a"
+    "accent": "#7fa7d9"
   }
 }
