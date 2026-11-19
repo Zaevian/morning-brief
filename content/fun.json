@@ -1,81 +1,271 @@
 {
-  "mode": "week",
+  "mode": "weekend",
   "range": {
-    "start": "2026-11-19",
-    "end": "2026-11-19",
-    "label": "Thursday, Nov 19, 2026"
+    "start": "2026-11-20",
+    "end": "2026-11-22",
+    "label": "Fri–Sun, Nov 20–22, 2026"
   },
-  "updatedNote": "Thursday refresh from Diablo. Tonight belongs to The Revivalists at Cascades Park, with Ben Baggett plus bingo at The Hub, FSU world music at Opperman, and Bryan Bielanski at Blue Tavern as quieter options. Check event pages before heading out.",
+  "updatedNote": "Weekend from Chika: Fri Nov 20 – Sun Nov 22 Tallahassee + nearby. Two image URLs (FSU Homecoming Parade, CollegeTown Block Party); others use default card art.",
   "events": [
     {
-      "id": "thu-revivalists-adderley-2026-11-19",
-      "title": "The Revivalists",
-      "day": "Thu",
-      "date": "2026-11-19",
-      "venue": "Adderley Amphitheater, Cascades Park",
-      "neighborhood": "Downtown",
-      "startTime": "7:00 PM (doors 6:00)",
-      "hook": "The Wish I Knew You band live under the sky at Cascades. Tickets about $59 to $94 on AXS.",
-      "url": "https://www.theadderleyamphitheater.com/Events/e/the-revivalists-2026",
-      "imageUrl": "https://www.theadderleyamphitheater.com/Portals/18/adam/TheAdderley/_Zh3BwHkrEmAIr4XbXRFcQ/CoverPicture/PREFERRED%20PHOTO%20-%20THE%20REVIVALISTS%20-%202026%20PRESS%20BY%20TOMMY%20MOORE.jpg?w=800&h=600&mode=crop",
+      "id": "fri-noise-feast-4d-2026-11-20",
+      "title": "Noise Feast 4D⁸ (48-hour experimental art & music fest)",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "startTime": "Doors 11 AM Fri, runs nonstop to noon Sun",
+      "venue": "Three Tallahassee venues",
+      "hook": "80+ performers and 15 films, from ambient, jazz and jam bands to puppetry and performance art. $25.",
+      "url": "https://stayhappening.com/e/noise-feast-4d%E2%81%B8-48-continuous-hour-experimental-art-festival-E2ISYVV0IIT",
+      "imageUrl": null,
       "tags": [
-        "live music",
-        "concert",
-        "outdoors"
+        "DIY",
+        "experimental",
+        "festival",
+        "art"
       ],
       "sample": false
     },
     {
-      "id": "thu-fsu-masnsteel-oldtime-2026-11-19",
-      "title": "World Music: Mas'N'Steel and Old Time Ensemble",
-      "day": "Thu",
-      "date": "2026-11-19",
-      "venue": "Opperman Music Hall, 114 N Copeland St",
-      "neighborhood": "FSU campus",
-      "startTime": "7:30 PM",
-      "hook": "Free double bill of steel pan and old-time string band music.",
-      "url": "https://music.fsu.edu/event/world-music-masnsteel-and-old-time-ensemble/",
+      "id": "fri-fsu-homecoming-parade-2026-11-20",
+      "title": "FSU Homecoming Parade",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "startTime": "3:30 PM",
+      "venue": "Starts at Donald L. Tucker Civic Center",
+      "hook": "Marching Chiefs, floats and golf carts for FSU's 175th.",
+      "url": "https://homecoming.fsu.edu/",
+      "imageUrl": "https://www.tallahassee.com/gcdn/presto/2022/11/26/PTAL/006b6773-d16d-4724-9710-c5b39af61322-Fan_cam_FSU_v_UF043.JPG?crop=5183,2916,x0,y263&width=3200&height=1801&format=pjpg&auto=webp",
+      "tags": [
+        "FSU",
+        "homecoming",
+        "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-seminole-live-175-2026-11-20",
+      "title": "Seminole LIVE! 175",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "startTime": "4:00–8:00 PM",
+      "venue": "FSU Main Campus Fields, 1001 St. Augustine St.",
+      "hook": "Pep rally plus carnival with rides and games. Ticketed.",
+      "url": "https://homecoming.fsu.edu/",
+      "imageUrl": null,
+      "tags": [
+        "FSU",
+        "carnival"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-collegetown-block-party-2026-11-20",
+      "title": "CollegeTown Block Party: Smokey Jones & The 3 Dollar Pistols",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "startTime": "6:00 PM",
+      "venue": "CollegeTown",
+      "hook": "Free all-ages street party with live music before the game.",
+      "url": "https://visittallahassee.com/events/collegetown-block-party-nov-20/",
+      "imageUrl": "https://visittallahassee.com/wp-content/uploads/2026/09/11.20.jpg",
+      "tags": [
+        "live music",
+        "free",
+        "block party"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-midwinter-potbellys-2026-11-20",
+      "title": "Midwinter",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "startTime": "6:00 PM",
+      "venue": "Potbelly's, 459 W. College Ave.",
+      "hook": "Heavy show at Potbelly's.",
+      "url": "https://www.songkick.com/concerts/43505043-midwinter-at-potbellys",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "metal"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-backwards-driving-the-bark-2026-11-20",
+      "title": "Backwards Driving w/ Cooking Show, Kiss n Tell, Work In Progress",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "startTime": "8:30 PM (doors 8:00)",
+      "venue": "The Bark",
+      "hook": "Cow Haus Presents local DIY bill.",
+      "url": "https://www.eventbrite.com/e/backwards-driving-w-cooking-show-kiss-n-tell-work-in-progress-the-bark-tickets-2004402442663",
+      "imageUrl": null,
+      "tags": [
+        "DIY",
+        "local bands"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-flo-rida-howser-2026-11-20",
+      "title": "Flo Rida: FSU 175 Anniversary Concert",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "startTime": "9:00 PM",
+      "venue": "Dick Howser Stadium, 203 Stadium Dr.",
+      "hook": "Big homecoming concert. Tickets at 175.fsu.edu/tix.",
+      "url": "https://homecoming.fsu.edu/",
       "imageUrl": null,
       "tags": [
         "concert",
-        "world music",
-        "free",
+        "hip-hop",
         "FSU"
       ],
       "sample": false
     },
     {
-      "id": "thu-bielanski-blue-tavern-2026-11-19",
-      "title": "Bryan Bielanski Live",
-      "day": "Thu",
-      "date": "2026-11-19",
-      "venue": "Blue Tavern",
-      "neighborhood": "Tallahassee",
-      "startTime": "8:00 PM",
-      "hook": "Touring acoustic rock and roller in a cozy listening room.",
-      "url": "https://tallahasseearts.org/event/bryan-bielanski-live-blue-tavern/",
+      "id": "sat-frenchtown-renaissance-2026-11-21",
+      "title": "Frenchtown Renaissance (6th annual)",
+      "day": "Sat",
+      "date": "2026-11-21",
+      "startTime": "12:00–3:00 PM",
+      "venue": "Carter Howell Strong Park, 623 W. Georgia St.",
+      "hook": "Free community celebration with live music, dance, vendors and the Voices of Frenchtown bench unveiling.",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
       "imageUrl": null,
       "tags": [
-        "live music",
-        "acoustic"
+        "free",
+        "community",
+        "live music"
       ],
       "sample": false
     },
     {
-      "id": "thu-ben-baggett-hub-feather-oaks-2026-11-19",
-      "title": "Thursday at The Hub: Ben Baggett + Bingo",
-      "day": "Thu",
-      "date": "2026-11-19",
-      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd",
-      "neighborhood": "Northeast",
-      "startTime": "6:00 PM",
-      "hook": "Live music from Ben Baggett and bingo at 6, with Rustic Grub dinner on site (open 3 to 9 PM).",
-      "url": "https://www.thehubatfeatheroaks.com/event-details/thursday-at-the-hub",
-      "imageUrl": "https://static.wixstatic.com/media/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg/v1/fill/w_4128,h_2752,al_c,q_90/74fd35_97fd89d808cc43f49342718c76d7fee2~mv2.jpg",
+      "id": "sat-fsu-vs-nc-state-2026-11-21",
+      "title": "FSU vs. NC State (Homecoming)",
+      "day": "Sat",
+      "date": "2026-11-21",
+      "startTime": "3:30 PM",
+      "venue": "Doak Campbell Stadium",
+      "hook": "Homecoming game on ACC Network; tailgates all day.",
+      "url": "https://seminoles.com/game-center/16683",
+      "imageUrl": null,
+      "tags": [
+        "football",
+        "FSU"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-pas-de-vie-nutcracker-2026-11-21",
+      "title": "Pas de Vie Ballet: The Nutcracker",
+      "day": "Sat",
+      "date": "2026-11-21",
+      "startTime": "11:00 AM & 7:30 PM (also Sun 2:30 PM)",
+      "venue": "Lee Hall Auditorium",
+      "hook": "Holiday-season ballet kickoff.",
+      "url": "https://tallahasseearts.org/event/pas-de-vie-ballet-the-nutcracker/",
+      "imageUrl": null,
+      "tags": [
+        "ballet",
+        "holiday"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-harvest-hoedown-2026-11-21",
+      "title": "Harvest Hoedown",
+      "day": "Sat",
+      "date": "2026-11-21",
+      "startTime": "6:00 PM (lesson 6:30, dancing 7:30–10)",
+      "venue": "Tallahassee Senior Center, 1400 N. Monroe St.",
+      "hook": "Free two-step lesson, social dancing, chili contest. $8–$16.",
+      "url": "https://stayhappening.com/e/harvest-hoedown-E2IT027AEKN",
+      "imageUrl": null,
+      "tags": [
+        "dance",
+        "country"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-pre-turkey-jamfest-2026-11-21",
+      "title": "Pre-Turkey Jamfest",
+      "day": "Sat",
+      "date": "2026-11-21",
+      "startTime": "7:30 PM",
+      "venue": "Legion Hall, 229 Lake Ella Dr.",
+      "hook": "Lake Ella jam night before Thanksgiving week.",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
+      "imageUrl": null,
       "tags": [
         "live music",
-        "food",
-        "games"
+        "local"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-bag-raiders-tennessee-strip-2026-11-21",
+      "title": "Bag Raiders",
+      "day": "Sat",
+      "date": "2026-11-21",
+      "startTime": "9:00 PM",
+      "venue": "The Tennessee Strip, 656 W. Tennessee St.",
+      "hook": "Australian electronic duo ('Shooting Stars').",
+      "url": "https://www.songkick.com/concerts/43389836-bag-raiders-at-tennessee-strip",
+      "imageUrl": null,
+      "tags": [
+        "electronic",
+        "concert"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-tallahassee-community-chorus-2026-11-22",
+      "title": "Tallahassee Community Chorus",
+      "day": "Sun",
+      "date": "2026-11-22",
+      "startTime": "4:00–6:00 PM",
+      "venue": "Ruby Diamond Concert Hall",
+      "hook": "Choral concert in the big hall.",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
+      "imageUrl": null,
+      "tags": [
+        "choral",
+        "concert"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-soul-patrol-challenger-2026-11-22",
+      "title": "Soul Patrol (Tallahassee Film Society)",
+      "day": "Sun",
+      "date": "2026-11-22",
+      "startTime": "5:00 PM",
+      "venue": "Challenger Learning Center",
+      "hook": "Doc on the Vietnam War's first Black special-operations team.",
+      "url": "https://tallahasseean.com/events/this-weekend",
+      "imageUrl": null,
+      "tags": [
+        "film",
+        "documentary"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-shift-8-hub-feather-oaks-2026-11-22",
+      "title": "Shift 8 at The Hub at Feather Oaks",
+      "day": "Sun",
+      "date": "2026-11-22",
+      "startTime": "3:00 PM–6:00 PM",
+      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd.",
+      "hook": "Sunday afternoon outdoor live set.",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "outdoor"
       ],
       "sample": false
     }
