@@ -5,7 +5,7 @@
     "end": "2026-11-22",
     "label": "Fri–Sun, Nov 20–22, 2026"
   },
-  "updatedNote": "Weekend from Chika: Fri Nov 20 – Sun Nov 22 Tallahassee + nearby. Two image URLs (FSU Homecoming Parade, CollegeTown Block Party); others use default card art.",
+  "updatedNote": "Fri Nov 20 to Sun Nov 22 in Tallahassee, FSU Homecoming weekend. Refreshed Friday morning with more event photos.",
   "events": [
     {
       "id": "fri-noise-feast-4d-2026-11-20",
@@ -16,7 +16,7 @@
       "venue": "Three Tallahassee venues",
       "hook": "80+ performers and 15 films, from ambient, jazz and jam bands to puppetry and performance art. $25.",
       "url": "https://stayhappening.com/e/noise-feast-4d%E2%81%B8-48-continuous-hour-experimental-art-festival-E2ISYVV0IIT",
-      "imageUrl": null,
+      "imageUrl": "https://cdn.stayhappening.com/events10/banners/b303375d1861b8cd4056e33687872d0f8bfc2ff7b91d87766849df2251083531-rimg-w1200-h1596-dcf8f8f8-gmir?v=1789650838",
       "tags": [
         "DIY",
         "experimental",
@@ -51,7 +51,7 @@
       "venue": "FSU Main Campus Fields, 1001 St. Augustine St.",
       "hook": "Pep rally plus carnival with rides and games. Ticketed.",
       "url": "https://homecoming.fsu.edu/",
-      "imageUrl": null,
+      "imageUrl": "https://www.fsu.edu/sites/default/files/global/FSU-Westcott-Global.jpg",
       "tags": [
         "FSU",
         "carnival"
@@ -100,7 +100,7 @@
       "venue": "The Bark",
       "hook": "Cow Haus Presents local DIY bill.",
       "url": "https://www.eventbrite.com/e/backwards-driving-w-cooking-show-kiss-n-tell-work-in-progress-the-bark-tickets-2004402442663",
-      "imageUrl": null,
+      "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197303278%2F287125414556%2F1%2Foriginal.20261104-223909?w=940&auto=format%2Ccompress&q=75&sharp=10&s=50425d46749225339d0c7669fc54ddc2",
       "tags": [
         "DIY",
         "local bands"
@@ -116,7 +116,7 @@
       "venue": "Dick Howser Stadium, 203 Stadium Dr.",
       "hook": "Big homecoming concert. Tickets at 175.fsu.edu/tix.",
       "url": "https://homecoming.fsu.edu/",
-      "imageUrl": null,
+      "imageUrl": "https://www.fsu.edu/sites/default/files/global/FSU-Westcott-Global.jpg",
       "tags": [
         "concert",
         "hip-hop",
@@ -150,7 +150,7 @@
       "venue": "Doak Campbell Stadium",
       "hook": "Homecoming game on ACC Network; tailgates all day.",
       "url": "https://seminoles.com/game-center/16683",
-      "imageUrl": null,
+      "imageUrl": "https://seminoles.com/images/logos/site/site.png",
       "tags": [
         "football",
         "FSU"
@@ -182,7 +182,7 @@
       "venue": "Tallahassee Senior Center, 1400 N. Monroe St.",
       "hook": "Free two-step lesson, social dancing, chili contest. $8–$16.",
       "url": "https://stayhappening.com/e/harvest-hoedown-E2IT027AEKN",
-      "imageUrl": null,
+      "imageUrl": "https://cdn.stayhappening.com/events9/banners/10f37afb67c5cd43567108eb7314459c02f753b6ec650a0ae9aa05ab5e6356e6-rimg-w940-h788-dc381808-gmir?v=1794006203",
       "tags": [
         "dance",
         "country"
