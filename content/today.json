@@ -49,20 +49,20 @@
     "note": "Tracking is not ready yet: counts are left blank rather than guessed."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "On this day · Thursday, November 19, 2026",
-    "title": "57 years ago today, Apollo 12 landed on the Moon after being hit by lightning twice",
-    "body": "At 1:54 AM Eastern on November 19, 1969, Pete Conrad and Alan Bean set the lunar module Intrepid down in the Ocean of Storms, within walking distance of Surveyor 3, a robot probe that had landed two years earlier. Getting there was the wild part. Lightning struck their Saturn V 36.5 seconds after liftoff from Florida, knocking all three fuel cells offline, and a second strike at 52 seconds took out the attitude indicator. Mission Control's telemetry turned to garbage until EECOM John Aaron remembered the failure pattern from an old test and made the call that saved the mission: \"Try SCE to Aux,\" an obscure switch that moved the signal electronics to backup power. It is still the textbook example of a troubleshooter recognizing a symptom, which is exactly the A+ way of thinking. Conrad's first words on the surface won a $500 bet with reporter Oriana Fallaci: \"Whoopie! Man, that may have been a small one for Neil, but that's a long one for me.\" On the second moonwalk they walked over to Surveyor 3 and brought pieces of it home. Twenty-four days until you sail on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Surveyor_3-Apollo_12.jpg/960px-Surveyor_3-Apollo_12.jpg",
-    "imageAlt": "Pete Conrad beside the Surveyor 3 probe on the Moon, with the lunar module Intrepid in the background (1969)",
+    "kind": "fact",
+    "eyebrow": "Tallahassee fact · Friday, November 20, 2026",
+    "title": "The hill behind FSU's 175th homecoming is the oldest college site in Florida",
+    "body": "Florida State is celebrating 175 years this weekend because in 1851 the Florida Legislature voted to create two state seminaries, and the western one became today's university. The West Florida Seminary opened for classes in Tallahassee in 1857 on the old Florida Institute property, the exact spot where the Westcott Building stands now. That makes it the oldest continuously used site of higher education in the state, on ground that early Tallahassee knew by a darker name: Gallows Hill, where public executions once took place. The school wore several identities along the way. In 1905 the Buckman Act made it a women's college, known from 1909 as the Florida State College for Women, and after World War II it went coeducational again to absorb G.I. Bill students and took the name Florida State University. Westcott itself went up in 1910, Collegiate Gothic by architect William Augustus Edwards, which is why it photographs so well for grad portraits and anchored Grad Arena's first Instagram carousel. Today the Homecoming Parade steps off at 3:30 PM from the Tucker Civic Center, under a gray, mild sky in the mid-60s. Twenty-three days until you sail on December 13.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Westcott_Building_and_fountain_at_Florida_State_University.jpg/960px-Westcott_Building_and_fountain_at_Florida_State_University.jpg",
+    "imageAlt": "The Westcott Building and fountain at Florida State University",
     "link": {
-      "label": "Read the full mission story",
-      "url": "https://en.wikipedia.org/wiki/Apollo_12"
+      "label": "Read FSU's full history",
+      "url": "https://en.wikipedia.org/wiki/History_of_Florida_State_University"
     },
     "source": {
-      "label": "Wikipedia: Apollo 12; photo by NASA via Wikimedia Commons (public domain)",
-      "url": "https://en.wikipedia.org/wiki/Apollo_12"
+      "label": "Wikipedia: History of FSU, Westcott Building; FSU Homecoming; photo by Ernie Stephens via Wikimedia Commons (CC0)",
+      "url": "https://homecoming.fsu.edu/"
     },
-    "accent": "#7fa7d9"
+    "accent": "#b5965b"
   }
 }
