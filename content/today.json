@@ -49,20 +49,20 @@
     "note": "Tracking is not ready yet: counts are left blank rather than guessed."
   },
   "surprise": {
-    "kind": "fact",
-    "eyebrow": "Tallahassee fact · Friday, November 20, 2026",
-    "title": "The hill behind FSU's 175th homecoming is the oldest college site in Florida",
-    "body": "Florida State is celebrating 175 years this weekend because in 1851 the Florida Legislature voted to create two state seminaries, and the western one became today's university. The West Florida Seminary opened for classes in Tallahassee in 1857 on the old Florida Institute property, the exact spot where the Westcott Building stands now. That makes it the oldest continuously used site of higher education in the state, on ground that early Tallahassee knew by a darker name: Gallows Hill, where public executions once took place. The school wore several identities along the way. In 1905 the Buckman Act made it a women's college, known from 1909 as the Florida State College for Women, and after World War II it went coeducational again to absorb G.I. Bill students and took the name Florida State University. Westcott itself went up in 1910, Collegiate Gothic by architect William Augustus Edwards, which is why it photographs so well for grad portraits and anchored Grad Arena's first Instagram carousel. Today the Homecoming Parade steps off at 3:30 PM from the Tucker Civic Center, under a gray, mild sky in the mid-60s. Twenty-three days until you sail on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Westcott_Building_and_fountain_at_Florida_State_University.jpg/960px-Westcott_Building_and_fountain_at_Florida_State_University.jpg",
-    "imageAlt": "The Westcott Building and fountain at Florida State University",
+    "kind": "on-this-day",
+    "eyebrow": "On this day · Saturday, November 21, 2026",
+    "title": "243 years ago today, two people flew free for the first time in history",
+    "body": "On November 21, 1783, physicist Pilâtre de Rozier and an army officer, the marquis d'Arlandes, lifted off from the grounds of the Château de la Muette at the edge of Paris in a Montgolfier hot-air balloon with no tether at all. It was the first free flight by humans. They rose to about 900 metres, roughly 3,000 feet, drifted about nine kilometres across Paris, and came down 25 minutes later between the windmills on the Butte-aux-Cailles, outside the city walls. They had fuel left for four or five times that distance, but embers from their own fire kept scorching the balloon fabric, and the crew had to dab them out with sponges, with Pilâtre reportedly even using his coat. Only weeks earlier the Montgolfiers had tested the idea with a sheep, a duck, and a rooster in front of Louis XVI at Versailles. Tallahassee stays gray and mild today, about 62 to 65°F with rain chances near 50%, so it is an easy indoor Saturday. Twenty-two days until you sail on December 13.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Early_flight_02562u_%282%29.jpg/960px-Early_flight_02562u_%282%29.jpg",
+    "imageAlt": "1890s French print of the Montgolfier brothers' first balloon test at Annonay in 1783",
     "link": {
-      "label": "Read FSU's full history",
-      "url": "https://en.wikipedia.org/wiki/History_of_Florida_State_University"
+      "label": "Read about the Montgolfier brothers",
+      "url": "https://en.wikipedia.org/wiki/Montgolfier_brothers"
     },
     "source": {
-      "label": "Wikipedia: History of FSU, Westcott Building; FSU Homecoming; photo by Ernie Stephens via Wikimedia Commons (CC0)",
-      "url": "https://homecoming.fsu.edu/"
+      "label": "Wikipedia: Montgolfier brothers; Open-Meteo; print by Romanet & Cie. via Library of Congress / Wikimedia Commons (public domain)",
+      "url": "https://commons.wikimedia.org/wiki/File:Early_flight_02562u_(2).jpg"
     },
-    "accent": "#b5965b"
+    "accent": "#c8794a"
   }
 }
