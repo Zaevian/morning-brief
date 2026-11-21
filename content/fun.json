@@ -1,18 +1,18 @@
 {
   "mode": "weekend",
   "range": {
-    "start": "2026-11-20",
+    "start": "2026-11-21",
     "end": "2026-11-22",
-    "label": "Fri–Sun, Nov 20–22, 2026"
+    "label": "Sat–Sun, Nov 21–22, 2026"
   },
-  "updatedNote": "Fri Nov 20 to Sun Nov 22 in Tallahassee, FSU Homecoming weekend. Refreshed Friday morning with more event photos.",
+  "updatedNote": "Sat Nov 21 to Sun Nov 22 in Tallahassee. Refreshed Saturday morning: Friday events cleared, Homecoming game day up top, and a Sunday full moon hike added.",
   "events": [
     {
       "id": "fri-noise-feast-4d-2026-11-20",
       "title": "Noise Feast 4D⁸ (48-hour experimental art & music fest)",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "startTime": "Doors 11 AM Fri, runs nonstop to noon Sun",
+      "day": "Sat",
+      "date": "2026-11-21",
+      "startTime": "Running now, nonstop through noon Sun",
       "venue": "Three Tallahassee venues",
       "hook": "80+ performers and 15 films, from ambient, jazz and jam bands to puppetry and performance art. $25.",
       "url": "https://stayhappening.com/e/noise-feast-4d%E2%81%B8-48-continuous-hour-experimental-art-festival-E2ISYVV0IIT",
@@ -22,105 +22,6 @@
         "experimental",
         "festival",
         "art"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-fsu-homecoming-parade-2026-11-20",
-      "title": "FSU Homecoming Parade",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "startTime": "3:30 PM",
-      "venue": "Starts at Donald L. Tucker Civic Center",
-      "hook": "Marching Chiefs, floats and golf carts for FSU's 175th.",
-      "url": "https://homecoming.fsu.edu/",
-      "imageUrl": "https://www.tallahassee.com/gcdn/presto/2022/11/26/PTAL/006b6773-d16d-4724-9710-c5b39af61322-Fan_cam_FSU_v_UF043.JPG?crop=5183,2916,x0,y263&width=3200&height=1801&format=pjpg&auto=webp",
-      "tags": [
-        "FSU",
-        "homecoming",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-seminole-live-175-2026-11-20",
-      "title": "Seminole LIVE! 175",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "startTime": "4:00–8:00 PM",
-      "venue": "FSU Main Campus Fields, 1001 St. Augustine St.",
-      "hook": "Pep rally plus carnival with rides and games. Ticketed.",
-      "url": "https://homecoming.fsu.edu/",
-      "imageUrl": "https://www.fsu.edu/sites/default/files/global/FSU-Westcott-Global.jpg",
-      "tags": [
-        "FSU",
-        "carnival"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-collegetown-block-party-2026-11-20",
-      "title": "CollegeTown Block Party: Smokey Jones & The 3 Dollar Pistols",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "startTime": "6:00 PM",
-      "venue": "CollegeTown",
-      "hook": "Free all-ages street party with live music before the game.",
-      "url": "https://visittallahassee.com/events/collegetown-block-party-nov-20/",
-      "imageUrl": "https://visittallahassee.com/wp-content/uploads/2026/09/11.20.jpg",
-      "tags": [
-        "live music",
-        "free",
-        "block party"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-midwinter-potbellys-2026-11-20",
-      "title": "Midwinter",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "startTime": "6:00 PM",
-      "venue": "Potbelly's, 459 W. College Ave.",
-      "hook": "Heavy show at Potbelly's.",
-      "url": "https://www.songkick.com/concerts/43505043-midwinter-at-potbellys",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "metal"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-backwards-driving-the-bark-2026-11-20",
-      "title": "Backwards Driving w/ Cooking Show, Kiss n Tell, Work In Progress",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "startTime": "8:30 PM (doors 8:00)",
-      "venue": "The Bark",
-      "hook": "Cow Haus Presents local DIY bill.",
-      "url": "https://www.eventbrite.com/e/backwards-driving-w-cooking-show-kiss-n-tell-work-in-progress-the-bark-tickets-2004402442663",
-      "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197303278%2F287125414556%2F1%2Foriginal.20261104-223909?w=940&auto=format%2Ccompress&q=75&sharp=10&s=50425d46749225339d0c7669fc54ddc2",
-      "tags": [
-        "DIY",
-        "local bands"
-      ],
-      "sample": false
-    },
-    {
-      "id": "fri-flo-rida-howser-2026-11-20",
-      "title": "Flo Rida: FSU 175 Anniversary Concert",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "startTime": "9:00 PM",
-      "venue": "Dick Howser Stadium, 203 Stadium Dr.",
-      "hook": "Big homecoming concert. Tickets at 175.fsu.edu/tix.",
-      "url": "https://homecoming.fsu.edu/",
-      "imageUrl": "https://www.fsu.edu/sites/default/files/global/FSU-Westcott-Global.jpg",
-      "tags": [
-        "concert",
-        "hip-hop",
-        "FSU"
       ],
       "sample": false
     },
@@ -223,13 +124,13 @@
     },
     {
       "id": "sun-tallahassee-community-chorus-2026-11-22",
-      "title": "Tallahassee Community Chorus",
+      "title": "Tallahassee Community Chorus: Glory to Peace",
       "day": "Sun",
       "date": "2026-11-22",
       "startTime": "4:00–6:00 PM",
       "venue": "Ruby Diamond Concert Hall",
       "hook": "Choral concert in the big hall.",
-      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
+      "url": "https://tallahasseearts.org/event/glory-to-peace/",
       "imageUrl": null,
       "tags": [
         "choral",
@@ -267,6 +168,22 @@
         "live music",
         "outdoor"
       ],
+      "sample": false
+    },
+    {
+      "id": "full-moon-hike-maclay-2026-11-22",
+      "title": "Full Moon Hike at Lake Overstreet",
+      "date": "2026-11-22",
+      "venue": "Maclay Gardens State Park, Lake Overstreet Trailhead, 3540 Thomasville Rd.",
+      "startTime": "5:30–7:30 PM",
+      "hook": "Ranger-led 3.5-mile hike under the full moon; RSVP to the ranger station at (850) 487-4556, space is limited.",
+      "url": "https://www.floridastateparks.org/events/full-moon-hike-7",
+      "imageUrl": null,
+      "tags": [
+        "outdoors",
+        "cheap"
+      ],
+      "day": "Sun",
       "sample": false
     }
   ]
