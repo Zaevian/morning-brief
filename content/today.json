@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. It is Friday of FSU's 175th homecoming weekend, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 23 days.",
-  "date": "2026-11-20",
-  "dateDisplay": "Friday, November 20, 2026",
+  "greeting": "Good morning, Zae. It is Saturday of FSU's homecoming weekend, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 22 days.",
+  "date": "2026-11-21",
+  "dateDisplay": "Saturday, November 21, 2026",
   "calendar": {
-    "note": "Supplements are the fixed items today, and the homecoming parade steps off at 3:30 PM downtown if you want a look.",
+    "note": "Supplements are the fixed items today, so the rest of the day is yours for homecoming weekend and the Fun picks.",
     "events": [
       {
         "time": "8:00 AM",
@@ -24,8 +24,8 @@
     "body": "Arena 1.0.0-rc.1 is built and live unlisted with noindex, and your open decisions are the MTG card-name renaming or legal review, browser support scope, and the Vite upgrade before any public launch."
   },
   "tip": {
-    "title": "Eat a real meal before a busy evening",
-    "body": "A solid lunch and steady water through the afternoon keep energy even into the evening, and the 10/10 supplement stack absorbs better with food."
+    "title": "Eat before the day gets busy",
+    "body": "A real breakfast and steady water keep energy even through a full weekend, and a home meal beats a takeout run for the food budget."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -40,7 +40,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-20T06:58:00-05:00",
+    "asOf": "2026-11-21T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
