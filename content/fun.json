@@ -1,18 +1,18 @@
 {
   "mode": "weekend",
   "range": {
-    "start": "2026-11-21",
+    "start": "2026-11-22",
     "end": "2026-11-22",
-    "label": "Sat–Sun, Nov 21–22, 2026"
+    "label": "Sun, Nov 22, 2026"
   },
-  "updatedNote": "Sat Nov 21 to Sun Nov 22 in Tallahassee. Refreshed Saturday morning: Friday events cleared, Homecoming game day up top, and a Sunday full moon hike added.",
+  "updatedNote": "Sunday Nov 22 in Tallahassee. Refreshed Sunday morning: Saturday events cleared, Noise Feast's final hours and the Sunday Nutcracker matinee up top, full moon hike at Maclay to close the weekend.",
   "events": [
     {
-      "id": "fri-noise-feast-4d-2026-11-20",
+      "id": "sun-noise-feast-4d-2026-11-22",
       "title": "Noise Feast 4D⁸ (48-hour experimental art & music fest)",
-      "day": "Sat",
-      "date": "2026-11-21",
-      "startTime": "Running now, nonstop through noon Sun",
+      "day": "Sun",
+      "date": "2026-11-22",
+      "startTime": "Final hours, ends at noon",
       "venue": "Three Tallahassee venues",
       "hook": "80+ performers and 15 films, from ambient, jazz and jam bands to puppetry and performance art. $25.",
       "url": "https://stayhappening.com/e/noise-feast-4d%E2%81%B8-48-continuous-hour-experimental-art-festival-E2ISYVV0IIT",
@@ -26,44 +26,11 @@
       "sample": false
     },
     {
-      "id": "sat-frenchtown-renaissance-2026-11-21",
-      "title": "Frenchtown Renaissance (6th annual)",
-      "day": "Sat",
-      "date": "2026-11-21",
-      "startTime": "12:00–3:00 PM",
-      "venue": "Carter Howell Strong Park, 623 W. Georgia St.",
-      "hook": "Free community celebration with live music, dance, vendors and the Voices of Frenchtown bench unveiling.",
-      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
-      "imageUrl": null,
-      "tags": [
-        "free",
-        "community",
-        "live music"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-fsu-vs-nc-state-2026-11-21",
-      "title": "FSU vs. NC State (Homecoming)",
-      "day": "Sat",
-      "date": "2026-11-21",
-      "startTime": "3:30 PM",
-      "venue": "Doak Campbell Stadium",
-      "hook": "Homecoming game on ACC Network; tailgates all day.",
-      "url": "https://seminoles.com/game-center/16683",
-      "imageUrl": "https://seminoles.com/images/logos/site/site.png",
-      "tags": [
-        "football",
-        "FSU"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-pas-de-vie-nutcracker-2026-11-21",
+      "id": "sun-pas-de-vie-nutcracker-2026-11-22",
       "title": "Pas de Vie Ballet: The Nutcracker",
-      "day": "Sat",
-      "date": "2026-11-21",
-      "startTime": "11:00 AM & 7:30 PM (also Sun 2:30 PM)",
+      "day": "Sun",
+      "date": "2026-11-22",
+      "startTime": "2:30 PM",
       "venue": "Lee Hall Auditorium",
       "hook": "Holiday-season ballet kickoff.",
       "url": "https://tallahasseearts.org/event/pas-de-vie-ballet-the-nutcracker/",
@@ -75,50 +42,18 @@
       "sample": false
     },
     {
-      "id": "sat-harvest-hoedown-2026-11-21",
-      "title": "Harvest Hoedown",
-      "day": "Sat",
-      "date": "2026-11-21",
-      "startTime": "6:00 PM (lesson 6:30, dancing 7:30–10)",
-      "venue": "Tallahassee Senior Center, 1400 N. Monroe St.",
-      "hook": "Free two-step lesson, social dancing, chili contest. $8–$16.",
-      "url": "https://stayhappening.com/e/harvest-hoedown-E2IT027AEKN",
-      "imageUrl": "https://cdn.stayhappening.com/events9/banners/10f37afb67c5cd43567108eb7314459c02f753b6ec650a0ae9aa05ab5e6356e6-rimg-w940-h788-dc381808-gmir?v=1794006203",
-      "tags": [
-        "dance",
-        "country"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-pre-turkey-jamfest-2026-11-21",
-      "title": "Pre-Turkey Jamfest",
-      "day": "Sat",
-      "date": "2026-11-21",
-      "startTime": "7:30 PM",
-      "venue": "Legion Hall, 229 Lake Ella Dr.",
-      "hook": "Lake Ella jam night before Thanksgiving week.",
+      "id": "sun-shift-8-hub-feather-oaks-2026-11-22",
+      "title": "Shift 8 at The Hub at Feather Oaks",
+      "day": "Sun",
+      "date": "2026-11-22",
+      "startTime": "3:00 PM–6:00 PM",
+      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd.",
+      "hook": "Sunday afternoon outdoor live set.",
       "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
       "imageUrl": null,
       "tags": [
         "live music",
-        "local"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sat-bag-raiders-tennessee-strip-2026-11-21",
-      "title": "Bag Raiders",
-      "day": "Sat",
-      "date": "2026-11-21",
-      "startTime": "9:00 PM",
-      "venue": "The Tennessee Strip, 656 W. Tennessee St.",
-      "hook": "Australian electronic duo ('Shooting Stars').",
-      "url": "https://www.songkick.com/concerts/43389836-bag-raiders-at-tennessee-strip",
-      "imageUrl": null,
-      "tags": [
-        "electronic",
-        "concert"
+        "outdoor"
       ],
       "sample": false
     },
@@ -151,22 +86,6 @@
       "tags": [
         "film",
         "documentary"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-shift-8-hub-feather-oaks-2026-11-22",
-      "title": "Shift 8 at The Hub at Feather Oaks",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "startTime": "3:00 PM–6:00 PM",
-      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd.",
-      "hook": "Sunday afternoon outdoor live set.",
-      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "outdoor"
       ],
       "sample": false
     },
