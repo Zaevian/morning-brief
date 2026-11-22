@@ -50,19 +50,19 @@
   },
   "surprise": {
     "kind": "on-this-day",
-    "eyebrow": "On this day · Saturday, November 21, 2026",
-    "title": "243 years ago today, two people flew free for the first time in history",
-    "body": "On November 21, 1783, physicist Pilâtre de Rozier and an army officer, the marquis d'Arlandes, lifted off from the grounds of the Château de la Muette at the edge of Paris in a Montgolfier hot-air balloon with no tether at all. It was the first free flight by humans. They rose to about 900 metres, roughly 3,000 feet, drifted about nine kilometres across Paris, and came down 25 minutes later between the windmills on the Butte-aux-Cailles, outside the city walls. They had fuel left for four or five times that distance, but embers from their own fire kept scorching the balloon fabric, and the crew had to dab them out with sponges, with Pilâtre reportedly even using his coat. Only weeks earlier the Montgolfiers had tested the idea with a sheep, a duck, and a rooster in front of Louis XVI at Versailles. Tallahassee stays gray and mild today, about 62 to 65°F with rain chances near 50%, so it is an easy indoor Saturday. Twenty-two days until you sail on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Early_flight_02562u_%282%29.jpg/960px-Early_flight_02562u_%282%29.jpg",
-    "imageAlt": "1890s French print of the Montgolfier brothers' first balloon test at Annonay in 1783",
+    "eyebrow": "On this day · Sunday, November 22, 2026",
+    "title": "31 years ago today, Toy Story became the first movie made entirely by computer",
+    "body": "Toy Story opened across the United States on November 22, 1995, three days after its premiere at the El Capitan Theatre, and it was the first feature film animated entirely on computers. It grew out of Tin Toy, a 1988 Pixar short told from a toy's point of view, made at a studio Steve Jobs had bought in 1986. The numbers behind it are wild for the era: 114,240 frames across 1,561 shots, about 800,000 machine hours, and a render farm of Sun Microsystems computers running around the clock, yet Pixar could finish less than 30 seconds of film per day. Each frame was rendered at just 1536 by 922 pixels with Pixar's own RenderMan software, then recorded onto film stock. On a $30 million budget it earned about $401 million, became the first animated film nominated for Best Original Screenplay, received a Special Achievement Academy Award, and entered the National Film Registry in 2005. Today is overcast and dry in Tallahassee, around 60 to 64 degrees with sunset at 5:37 PM, which makes for a fine rewatch afternoon. Twenty-one days until you sail on December 13.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pixar_HQ_Emeryville%2C_California.jpg/960px-Pixar_HQ_Emeryville%2C_California.jpg",
+    "imageAlt": "Pixar Animation Studios headquarters in Emeryville, California",
     "link": {
-      "label": "Read about the Montgolfier brothers",
-      "url": "https://en.wikipedia.org/wiki/Montgolfier_brothers"
+      "label": "Read how Toy Story was made",
+      "url": "https://en.wikipedia.org/wiki/Toy_Story#Production"
     },
     "source": {
-      "label": "Wikipedia: Montgolfier brothers; Open-Meteo; print by Romanet & Cie. via Library of Congress / Wikimedia Commons (public domain)",
-      "url": "https://commons.wikimedia.org/wiki/File:Early_flight_02562u_(2).jpg"
+      "label": "Wikipedia: Toy Story; Open-Meteo forecast; photo by Sharon Hahn Darlin via Wikimedia Commons (CC BY 2.0)",
+      "url": "https://en.wikipedia.org/wiki/Toy_Story"
     },
-    "accent": "#c8794a"
+    "accent": "#2f7fd1"
   }
 }
