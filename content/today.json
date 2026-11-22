@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. It is Saturday of FSU's homecoming weekend, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 22 days.",
-  "date": "2026-11-21",
-  "dateDisplay": "Saturday, November 21, 2026",
+  "greeting": "Good morning, Zae. It is a quiet Sunday, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 21 days.",
+  "date": "2026-11-22",
+  "dateDisplay": "Sunday, November 22, 2026",
   "calendar": {
-    "note": "Supplements are the fixed items today, so the rest of the day is yours for homecoming weekend and the Fun picks.",
+    "note": "Supplements are the only fixed items today, so the rest of the day is yours.",
     "events": [
       {
         "time": "8:00 AM",
@@ -11,11 +11,11 @@
       },
       {
         "time": "2:00 PM",
-        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels."
+        "title": "Afternoon Supplements (10/10 Plan): L-Tyrosine and one or two Omega soft gels. Creatine 5g any time today."
       },
       {
         "time": "10:00 PM",
-        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules. Creatine 5g any time today."
+        "title": "Night Supplements (10/10 Plan): L-Theanine and three Neuro-Mag capsules."
       }
     ]
   },
@@ -24,8 +24,8 @@
     "body": "Arena 1.0.0-rc.1 is built and live unlisted with noindex, and your open decisions are the MTG card-name renaming or legal review, browser support scope, and the Vite upgrade before any public launch."
   },
   "tip": {
-    "title": "Eat before the day gets busy",
-    "body": "A real breakfast and steady water keep energy even through a full weekend, and a home meal beats a takeout run for the food budget."
+    "title": "Plan the week's meals today",
+    "body": "A short grocery list and a couple of home-cooked meals prepped on Sunday keep the food budget steady through the week."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -40,7 +40,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-21T06:55:00-05:00",
+    "asOf": "2026-11-22T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
