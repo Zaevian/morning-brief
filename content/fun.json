@@ -1,108 +1,227 @@
 {
-  "mode": "weekend",
+  "mode": "week",
   "range": {
-    "start": "2026-11-22",
-    "end": "2026-11-22",
-    "label": "Sun, Nov 22, 2026"
+    "start": "2026-11-23",
+    "end": "2026-11-26",
+    "label": "Mon-Thu, Nov 23-26, 2026"
   },
-  "updatedNote": "Sunday Nov 22 in Tallahassee. Refreshed Sunday morning: Saturday events cleared, Noise Feast's final hours and the Sunday Nutcracker matinee up top, full moon hike at Maclay to close the weekend.",
+  "updatedNote": "Thanksgiving week in Tallahassee. Refreshed Monday morning: Lindsey Stirling at the Tucker Center tonight, free FSU concerts Monday and Tuesday, the Thanksgiving Eve Catfish Alliance tradition at Duke's & Dottie's, and Thursday's Turkey Trot plus opening night of the Oven Park lights.",
   "events": [
     {
-      "id": "sun-noise-feast-4d-2026-11-22",
-      "title": "Noise Feast 4D⁸ (48-hour experimental art & music fest)",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "startTime": "Final hours, ends at noon",
-      "venue": "Three Tallahassee venues",
-      "hook": "80+ performers and 15 films, from ambient, jazz and jam bands to puppetry and performance art. $25.",
-      "url": "https://stayhappening.com/e/noise-feast-4d%E2%81%B8-48-continuous-hour-experimental-art-festival-E2ISYVV0IIT",
-      "imageUrl": "https://cdn.stayhappening.com/events10/banners/b303375d1861b8cd4056e33687872d0f8bfc2ff7b91d87766849df2251083531-rimg-w1200-h1596-dcf8f8f8-gmir?v=1789650838",
+      "id": "mon-lindsey-stirling-snow-waltz-2026-11-23",
+      "title": "Lindsey Stirling: The Snow Waltz Tour",
+      "day": "Mon",
+      "date": "2026-11-23",
+      "startTime": "7:00 PM",
+      "venue": "Donald L. Tucker Civic Center",
+      "hook": "Electronic violin holiday spectacle, with special guest Arkai.",
+      "url": "https://www.tuckerciviccenter.com/events/detail/lindseystirling",
+      "imageUrl": "https://www.tuckerciviccenter.com/assets/img/LS_SnowWaltz26_1000x490-bde5897bde.jpg",
       "tags": [
-        "DIY",
-        "experimental",
-        "festival",
-        "art"
+        "concert",
+        "holiday",
+        "violin"
       ],
       "sample": false
     },
     {
-      "id": "sun-pas-de-vie-nutcracker-2026-11-22",
-      "title": "Pas de Vie Ballet: The Nutcracker",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "startTime": "2:30 PM",
-      "venue": "Lee Hall Auditorium",
-      "hook": "Holiday-season ballet kickoff.",
-      "url": "https://tallahasseearts.org/event/pas-de-vie-ballet-the-nutcracker/",
+      "id": "mon-fsu-sinfonia-campus-band-2026-11-23",
+      "title": "FSU Sinfonia and Campus Band",
+      "day": "Mon",
+      "date": "2026-11-23",
+      "startTime": "7:30 PM",
+      "venue": "Opperman Music Hall, FSU",
+      "hook": "Free campus ensemble concert.",
+      "url": "https://music.fsu.edu/event/sinfonia-and-campus-band-performance/",
       "imageUrl": null,
       "tags": [
-        "ballet",
-        "holiday"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-shift-8-hub-feather-oaks-2026-11-22",
-      "title": "Shift 8 at The Hub at Feather Oaks",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "startTime": "3:00 PM–6:00 PM",
-      "venue": "The Hub at Feather Oaks, 6500 Miccosukee Rd.",
-      "hook": "Sunday afternoon outdoor live set.",
-      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/19/top-5-things-to-do-in-tallahassee-fsu-homecoming-48-hours-of-music/92833176007/",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "outdoor"
-      ],
-      "sample": false
-    },
-    {
-      "id": "sun-tallahassee-community-chorus-2026-11-22",
-      "title": "Tallahassee Community Chorus: Glory to Peace",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "startTime": "4:00–6:00 PM",
-      "venue": "Ruby Diamond Concert Hall",
-      "hook": "Choral concert in the big hall.",
-      "url": "https://tallahasseearts.org/event/glory-to-peace/",
-      "imageUrl": null,
-      "tags": [
-        "choral",
+        "free",
+        "campus",
         "concert"
       ],
       "sample": false
     },
     {
-      "id": "sun-soul-patrol-challenger-2026-11-22",
-      "title": "Soul Patrol (Tallahassee Film Society)",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "startTime": "5:00 PM",
-      "venue": "Challenger Learning Center",
-      "hook": "Doc on the Vietnam War's first Black special-operations team.",
-      "url": "https://tallahasseean.com/events/this-weekend",
-      "imageUrl": null,
+      "id": "tue-trivia-lab-challenger-2026-11-24",
+      "title": "Trivia Lab: Free Trivia Night",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "startTime": "6:00-9:00 PM",
+      "venue": "Challenger Learning Center, 200 S. Duval St.",
+      "hook": "Free Jackbox-style trivia with prizes downtown.",
+      "url": "https://stayhappening.com/e/trivia-lab-free-trivia-night-E2IT03WSSC2",
+      "imageUrl": "https://cdn.stayhappening.com/events1/banners/5dfd33e1728680007f6faac2b8fa77e3a02a46a692d9daba87187c463f2504a1-rimg-w960-h540-dc083858-gmir?v=1795100541",
       "tags": [
-        "film",
-        "documentary"
+        "trivia",
+        "free"
       ],
       "sample": false
     },
     {
-      "id": "full-moon-hike-maclay-2026-11-22",
-      "title": "Full Moon Hike at Lake Overstreet",
-      "date": "2026-11-22",
-      "venue": "Maclay Gardens State Park, Lake Overstreet Trailhead, 3540 Thomasville Rd.",
-      "startTime": "5:30–7:30 PM",
-      "hook": "Ranger-led 3.5-mile hike under the full moon; RSVP to the ranger station at (850) 487-4556, space is limited.",
-      "url": "https://www.floridastateparks.org/events/full-moon-hike-7",
+      "id": "tue-songwriter-showcase-amicus-2026-11-24",
+      "title": "Songwriter Showcase",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "startTime": "6:30-9:30 PM",
+      "venue": "Amicus Brewing Ventures",
+      "hook": "Six local songwriters trading songs over craft beer.",
+      "url": "https://musiclocal.org/events/songwriter-showcase-at-amicus-brewing-ventures-2026-11-24-1ykxqc",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/ZveJTKrY0lsaWAWUSWNsj8RUL-aOS6zzYFpZN-Ybv7M/crop/ZXZlbnRzL2MyMGViNzRiLTIzMDQtNDVmMC1hOTdmLWE4MWU1M2QyMDY4Yi5qcGVn?w=1200&h=630&y=0",
+      "tags": [
+        "live music",
+        "songwriters",
+        "brewery"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-jazz-jam-ology-midtown-2026-11-24",
+      "title": "Jazz Jam Session",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "startTime": "7:00-9:00 PM",
+      "venue": "Ology Brewing Co. (Midtown)",
+      "hook": "Open jazz jam in Midtown.",
+      "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-11-24-t69nfa",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/ceTdqeHYvIEv3A8IMi95DKSdHKqijjeHo7jRdoE7Txw/crop/ZXZlbnRzLzE1NGU1ZTU3LThmMTAtNDhjYy1iOTEzLTQ1Y2UzMGRlMzY4ZS5qcGVn?w=1200&h=630&y=0",
+      "tags": [
+        "jazz",
+        "live music",
+        "brewery"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-tallahassee-winds-2026-11-24",
+      "title": "Tallahassee Winds",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "startTime": "7:30 PM",
+      "venue": "Opperman Music Hall, FSU",
+      "hook": "Free community wind band concert.",
+      "url": "https://music.fsu.edu/event/tallahassee-winds-performance-12/",
       "imageUrl": null,
       "tags": [
-        "outdoors",
-        "cheap"
+        "free",
+        "concert"
       ],
-      "day": "Sun",
+      "sample": false
+    },
+    {
+      "id": "tue-swing-dance-legion-hall-2026-11-24",
+      "title": "Tuesday Night Dance: Tallahassee Swing Band",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "startTime": "7:30-10:00 PM",
+      "venue": "Legion Hall",
+      "hook": "Big-band swing night on the dance floor.",
+      "url": "https://musiclocal.org/events/tuesday-night-dance-at-legion-hall-2026-11-24-cmtkcf",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/F9-wRZBcx2pNun0JFn0cUS_rdgU3yb2MiLyVmeKzh8k/crop/ZXZlbnRzL2JjMDg2MTM2LTcyYmQtNGUyYS05MTQ3LTU1ZTI3ODU1NzAyNC5qcGVn?w=1200&h=630&y=0",
+      "tags": [
+        "swing",
+        "dance",
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "tue-bluesday-blue-tavern-2026-11-24",
+      "title": "Bluesday Tuesday: Belmont & Jones",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "startTime": "8:00-10:00 PM",
+      "venue": "Blue Tavern",
+      "hook": "Early blues in a cozy listening room.",
+      "url": "https://musiclocal.org/events/bluesday-tuesday-at-blue-tavern-2026-11-25-c9qbwu",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/iVJ5osN3RlPkzjHydYoDgBFrYe8sIiKSI-lV3EmIqUI/crop/ZXZlbnRzL2Y5YTkwOTJiLWEzODQtNDhkOC1iYzhjLTJkNzYyYTdjMDJlNC5qcGVn?w=1200&h=630&y=0",
+      "tags": [
+        "blues",
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-pre-thanksgiving-blues-jam-getaway-2026-11-25",
+      "title": "Pre-Thanksgiving Blues Jam",
+      "day": "Wed",
+      "date": "2026-11-25",
+      "startTime": "5:00-9:00 PM",
+      "venue": "The Getaway Grille and Bar",
+      "hook": "Brett & \"Dangerous\" Dave kick off the holiday.",
+      "url": "https://musiclocal.org/events/pre-thanksgiving-blues-jam-at-the-getaway-grille-and-bar-2026-11-25-dw3ogi",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/r-gAC9bQbdC1mQ5jSHnJk-NwmQsAPEI24xYGvwRsYGo/crop/ZXZlbnRzLzUyZDU4NjUyLWU3ZTgtNGVjZS1hNGJlLTg2ZWVmOGI0YjU2Mi5qcGVn?w=1200&h=630&y=0",
+      "tags": [
+        "blues",
+        "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-catfish-alliance-dukes-dotties-2026-11-25",
+      "title": "Thanksgiving Eve with Catfish Alliance",
+      "day": "Wed",
+      "date": "2026-11-25",
+      "startTime": "9:00 PM (doors 8)",
+      "venue": "Duke's and Dottie's, 1122 Thomasville Rd.",
+      "hook": "Midtown's homecoming-for-the-holidays tradition, bigger stage this year.",
+      "url": "https://musiclocal.org/events/thanksgiving-eve-at-dukes-and-dotties-2026-11-25-3h784e",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/GuB8t8Txz7HkyLcwUcYgmfvOdW1Kz_GggeVJeArjnpI/crop/ZXZlbnRzLzMxM2E3NzhhLWM1ZTUtNGI1ZS1hMzhhLWI1MjI3MmE4ZmYyYS5qcGVn?w=1200&h=1200&y=0",
+      "tags": [
+        "live music",
+        "holiday",
+        "Midtown"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-thanksgiving-bash-moon-2026-11-25",
+      "title": "Thanksgiving Bash with DJ Demp",
+      "day": "Wed",
+      "date": "2026-11-25",
+      "startTime": "10:00 PM",
+      "venue": "The Moon, 1105 E. Lafayette St.",
+      "hook": "Big Thanksgiving Eve dance party.",
+      "url": "https://concerts.consequence.net/events/thanksgiving-bash-at-the-moon-tallahassee-on-2026-11-25-21-00",
+      "imageUrl": null,
+      "tags": [
+        "DJ",
+        "party",
+        "nightlife"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-tallahassee-turkey-trot-2026-11-26",
+      "title": "Tallahassee Turkey Trot",
+      "day": "Thu",
+      "date": "2026-11-26",
+      "startTime": "8:00 AM (1 mile), 8:30 AM (5K/10K/15K)",
+      "venue": "Esplanade Way, Southwood",
+      "hook": "Earn the pie. Online registration closes Wednesday night.",
+      "url": "https://www.tallyturkeytrot.com/Race/FL/Tallahassee/tallyturkeytrot",
+      "imageUrl": "https://d368g9lw5ileu7.cloudfront.net/races/race80628-socialShareLargeImage.bMXfRi.jpg",
+      "tags": [
+        "outdoors",
+        "run",
+        "Thanksgiving"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-oven-park-lights-2026-11-26",
+      "title": "Holiday Lights at Dorothy B. Oven Park (opening night)",
+      "day": "Thu",
+      "date": "2026-11-26",
+      "startTime": "6:00 PM",
+      "venue": "Dorothy B. Oven Park, 3205 Thomasville Rd.",
+      "hook": "Free holiday light display opens Thanksgiving night, nightly through Jan 1.",
+      "url": "https://visittallahassee.com/events/holiday-light-display-at-dorothy-b-oven-park/",
+      "imageUrl": null,
+      "tags": [
+        "holiday",
+        "lights",
+        "free"
+      ],
       "sample": false
     }
   ]
