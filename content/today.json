@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. It is a quiet Sunday, the Arena release candidate still waits on your word, and the Legend sails from Tampa in 21 days.",
-  "date": "2026-11-22",
-  "dateDisplay": "Sunday, November 22, 2026",
+  "greeting": "Good morning, Zae. It is Monday, November 23, and the Legend sails from Tampa in 20 days.",
+  "date": "2026-11-23",
+  "dateDisplay": "Monday, November 23, 2026",
   "calendar": {
-    "note": "Supplements are the only fixed items today, so the rest of the day is yours.",
+    "note": "Your supplement habits anchor the day; I have no other fixed appointments to flag.",
     "events": [
       {
         "time": "8:00 AM",
@@ -20,12 +20,12 @@
     ]
   },
   "projectMove": {
-    "title": "Arena release candidate awaits your call",
-    "body": "Arena 1.0.0-rc.1 is built and live unlisted with noindex, and your open decisions are the MTG card-name renaming or legal review, browser support scope, and the Vite upgrade before any public launch."
+    "title": "Arena remake heads toward release",
+    "body": "The release candidate is built and waiting on your decisions about card-name renaming, browser support, and the final version bump and deploy. Nothing goes live without your yes."
   },
   "tip": {
-    "title": "Plan the week's meals today",
-    "body": "A short grocery list and a couple of home-cooked meals prepped on Sunday keep the food budget steady through the week."
+    "title": "Keep food spending in check",
+    "body": "Plan one simple meal for tonight before the day gets busy, so a Wawa run stays a choice instead of a default."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -40,13 +40,16 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-22T06:55:00-05:00",
+    "asOf": "2026-11-23T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
     },
     "topPages": [],
     "note": "Tracking is not ready yet: counts are left blank rather than guessed."
+  },
+  "extras": {
+    "cruiseNote": "Carnival Legend sails from Tampa December 13, 20 days out. April 12, 2027 Paradise is also booked."
   },
   "surprise": {
     "kind": "port",
