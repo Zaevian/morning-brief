@@ -1,3 +1,4 @@
+/** Calendar-day countdown in the America/New_York timezone. */
 const easternYmd = new Intl.DateTimeFormat("en-CA", {
   timeZone: "America/New_York",
   year: "numeric",
