@@ -1,43 +1,26 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-23",
+    "start": "2026-11-24",
     "end": "2026-11-26",
-    "label": "Mon-Thu, Nov 23-26, 2026"
+    "label": "Tue-Thu, Nov 24-26, 2026"
   },
-  "updatedNote": "Thanksgiving week in Tallahassee. Refreshed Monday morning: Lindsey Stirling at the Tucker Center tonight, free FSU concerts Monday and Tuesday, the Thanksgiving Eve Catfish Alliance tradition at Duke's & Dottie's, and Thursday's Turkey Trot plus opening night of the Oven Park lights.",
+  "updatedNote": "Thanksgiving week in Tallahassee, refreshed Tuesday morning. Tonight brings free trivia downtown, Tallahassee Winds at FSU, and swing dancing at Legion Hall. Wednesday is Thanksgiving Eve with Catfish Alliance at Duke's & Dottie's and free comedy at The Wilbury, and Thursday has the Turkey Trot plus opening night of the Oven Park lights.",
   "events": [
     {
-      "id": "mon-lindsey-stirling-snow-waltz-2026-11-23",
-      "title": "Lindsey Stirling: The Snow Waltz Tour",
-      "day": "Mon",
-      "date": "2026-11-23",
-      "startTime": "7:00 PM",
-      "venue": "Donald L. Tucker Civic Center",
-      "hook": "Electronic violin holiday spectacle, with special guest Arkai.",
-      "url": "https://www.tuckerciviccenter.com/events/detail/lindseystirling",
-      "imageUrl": "https://www.tuckerciviccenter.com/assets/img/LS_SnowWaltz26_1000x490-bde5897bde.jpg",
-      "tags": [
-        "concert",
-        "holiday",
-        "violin"
-      ],
-      "sample": false
-    },
-    {
-      "id": "mon-fsu-sinfonia-campus-band-2026-11-23",
-      "title": "FSU Sinfonia and Campus Band",
-      "day": "Mon",
-      "date": "2026-11-23",
-      "startTime": "7:30 PM",
-      "venue": "Opperman Music Hall, FSU",
-      "hook": "Free campus ensemble concert.",
-      "url": "https://music.fsu.edu/event/sinfonia-and-campus-band-performance/",
+      "id": "tue-lemoyne-holiday-show-2026-11-24",
+      "title": "LeMoyne Arts 63rd Holiday Show: Gingerbread Dreams",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "startTime": "11:00 AM-6:00 PM",
+      "venue": "LeMoyne Arts, 125 N. Gadsden St.",
+      "hook": "Regional artists' holiday market plus the first gingerbread competition on display.",
+      "url": "https://tallahasseearts.org/event/lemoyne-arts-63rd-annual-holiday-show-gingerbread-dreams/",
       "imageUrl": null,
       "tags": [
-        "free",
-        "campus",
-        "concert"
+        "art",
+        "holiday",
+        "shopping"
       ],
       "sample": false
     },
@@ -125,22 +108,6 @@
       "sample": false
     },
     {
-      "id": "tue-bluesday-blue-tavern-2026-11-24",
-      "title": "Bluesday Tuesday: Belmont & Jones",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "startTime": "8:00-10:00 PM",
-      "venue": "Blue Tavern",
-      "hook": "Early blues in a cozy listening room.",
-      "url": "https://musiclocal.org/events/bluesday-tuesday-at-blue-tavern-2026-11-25-c9qbwu",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/iVJ5osN3RlPkzjHydYoDgBFrYe8sIiKSI-lV3EmIqUI/crop/ZXZlbnRzL2Y5YTkwOTJiLWEzODQtNDhkOC1iYzhjLTJkNzYyYTdjMDJlNC5qcGVn?w=1200&h=630&y=0",
-      "tags": [
-        "blues",
-        "live music"
-      ],
-      "sample": false
-    },
-    {
       "id": "wed-pre-thanksgiving-blues-jam-getaway-2026-11-25",
       "title": "Pre-Thanksgiving Blues Jam",
       "day": "Wed",
@@ -153,6 +120,23 @@
       "tags": [
         "blues",
         "live music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "wed-comedy-showcase-wilbury-2026-11-25",
+      "title": "Comedy Showcase at The Wilbury",
+      "day": "Wed",
+      "date": "2026-11-25",
+      "startTime": "8:30 PM",
+      "venue": "The Wilbury",
+      "hook": "Free 21+ stand-up to kick off Thanksgiving Eve.",
+      "url": "https://yourtown.live/shows/bn-tallahassee-comedy-20261125",
+      "imageUrl": null,
+      "tags": [
+        "comedy",
+        "free",
+        "21+"
       ],
       "sample": false
     },
