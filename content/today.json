@@ -52,20 +52,20 @@
     "cruiseNote": "Carnival Legend sails from Tampa December 13, 20 days out. April 12, 2027 Paradise is also booked."
   },
   "surprise": {
-    "kind": "port",
-    "eyebrow": "Port preview · Monday, November 23, 2026",
-    "title": "In Nassau, a free 13-minute walk leads to 65 steps carved by hand from solid rock",
-    "body": "Your Legend sailing reaches Nassau on Thursday, December 17, and one of the best things there costs nothing. The Queen's Staircase is a walkway of 65 limestone steps, known locally as the 66 Steps because it originally had one more. Around 600 enslaved people carved it out of solid limestone between 1793 and 1794, working with limited tools, to cut a direct route from Fort Fincastle down to the town. It climbs a total of 102 feet up Bennet's Hill, the highest point in Nassau, with water cascading beside the steps into a pool and a shaded path between high stone walls and tropical trees at the bottom. In the 19th century it was named in honor of Queen Victoria. Tour guides like to say the 65 steps match the years of her reign, but that story is false, since she ruled a little under 64 years. It is about a 13-minute uphill walk from the pier, though the fort at the top is closed for restoration. Back home today looks dry and mild, about 59 to 69 degrees with sunset at 5:37 PM. Twenty days until you sail on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Queen%27s_staircase%2C_Nassau%2C_Bahamas.jpg/960px-Queen%27s_staircase%2C_Nassau%2C_Bahamas.jpg",
-    "imageAlt": "The Queen's Staircase in Nassau, Bahamas, carved into limestone",
+    "kind": "on-this-day",
+    "eyebrow": "On this day · Tuesday, November 24, 2026",
+    "title": "52 years ago today, a hunch in an Ethiopian gully found Lucy, named for a Beatles song",
+    "body": "On the morning of November 24, 1974, near the Awash River in Hadar, Ethiopia, paleoanthropologist Donald Johanson dropped his plan to update his field notes and went out with graduate student Tom Gray to search for fossils. After two hours on a hot, dusty plain, he decided on a hunch to check the bottom of a small gully, and spotted an arm bone. More bones followed on the slope: vertebrae, part of a pelvis, ribs, and pieces of jaw. In the end about 40% of one skeleton was recovered, a female Australopithecus afarensis who lived 3.2 million years ago. She stood about 3 feet 7 inches tall and weighed around 64 pounds, with a small brain like a chimpanzee but hips and legs that worked almost exactly like ours, proof that walking upright came before big brains. That night the camp played \"Lucy in the Sky with Diamonds\" loudly and on repeat, and the name stuck. In Ethiopia she is also called Dinkinesh, which means \"you are marvellous.\" The original bones rest in a vault at the National Museum of Ethiopia in Addis Ababa. Back home today runs about 57 to 69 degrees and dry, with sunset at 5:36 PM. Nineteen days until you sail on December 13.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/330px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg",
+    "imageAlt": "Reconstruction of the Lucy fossil skeleton, Australopithecus afarensis",
     "link": {
-      "label": "Read about the Queen's Staircase",
-      "url": "https://en.wikipedia.org/wiki/Queen's_Staircase"
+      "label": "Read about Lucy",
+      "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)"
     },
     "source": {
-      "label": "Wikipedia: Queen's Staircase; Cruiser Hacks walking guide; Open-Meteo forecast; photo by Jerrye and Roy Klotz MD via Wikimedia Commons (CC BY-SA 3.0)",
-      "url": "https://en.wikipedia.org/wiki/Queen's_Staircase"
+      "label": "Wikipedia: Lucy (hominid); Open-Meteo forecast; photo by Wikimedia Commons user 120 (CC BY 2.5)",
+      "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)"
     },
-    "accent": "#1f9bb5"
+    "accent": "#c8892e"
   }
 }
