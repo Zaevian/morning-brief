@@ -1,112 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-24",
+    "start": "2026-11-25",
     "end": "2026-11-26",
-    "label": "Tue-Thu, Nov 24-26, 2026"
+    "label": "Wed-Thu, Nov 25-26, 2026"
   },
-  "updatedNote": "Thanksgiving week in Tallahassee, refreshed Tuesday morning. Tonight brings free trivia downtown, Tallahassee Winds at FSU, and swing dancing at Legion Hall. Wednesday is Thanksgiving Eve with Catfish Alliance at Duke's & Dottie's and free comedy at The Wilbury, and Thursday has the Turkey Trot plus opening night of the Oven Park lights.",
+  "updatedNote": "Thanksgiving Eve and Thanksgiving Day in Tallahassee, refreshed Wednesday morning. Tonight brings a blues jam at The Getaway, turkey bowling at Civic Brewing, free comedy at The Wilbury, Catfish Alliance at Duke's & Dottie's, and DJ Demp at The Moon. Thursday has the Turkey Trot plus opening night of the Oven Park lights.",
   "events": [
-    {
-      "id": "tue-lemoyne-holiday-show-2026-11-24",
-      "title": "LeMoyne Arts 63rd Holiday Show: Gingerbread Dreams",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "startTime": "11:00 AM-6:00 PM",
-      "venue": "LeMoyne Arts, 125 N. Gadsden St.",
-      "hook": "Regional artists' holiday market plus the first gingerbread competition on display.",
-      "url": "https://tallahasseearts.org/event/lemoyne-arts-63rd-annual-holiday-show-gingerbread-dreams/",
-      "imageUrl": null,
-      "tags": [
-        "art",
-        "holiday",
-        "shopping"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-trivia-lab-challenger-2026-11-24",
-      "title": "Trivia Lab: Free Trivia Night",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "startTime": "6:00-9:00 PM",
-      "venue": "Challenger Learning Center, 200 S. Duval St.",
-      "hook": "Free Jackbox-style trivia with prizes downtown.",
-      "url": "https://stayhappening.com/e/trivia-lab-free-trivia-night-E2IT03WSSC2",
-      "imageUrl": "https://cdn.stayhappening.com/events1/banners/5dfd33e1728680007f6faac2b8fa77e3a02a46a692d9daba87187c463f2504a1-rimg-w960-h540-dc083858-gmir?v=1795100541",
-      "tags": [
-        "trivia",
-        "free"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-songwriter-showcase-amicus-2026-11-24",
-      "title": "Songwriter Showcase",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "startTime": "6:30-9:30 PM",
-      "venue": "Amicus Brewing Ventures",
-      "hook": "Six local songwriters trading songs over craft beer.",
-      "url": "https://musiclocal.org/events/songwriter-showcase-at-amicus-brewing-ventures-2026-11-24-1ykxqc",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/ZveJTKrY0lsaWAWUSWNsj8RUL-aOS6zzYFpZN-Ybv7M/crop/ZXZlbnRzL2MyMGViNzRiLTIzMDQtNDVmMC1hOTdmLWE4MWU1M2QyMDY4Yi5qcGVn?w=1200&h=630&y=0",
-      "tags": [
-        "live music",
-        "songwriters",
-        "brewery"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-jazz-jam-ology-midtown-2026-11-24",
-      "title": "Jazz Jam Session",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "startTime": "7:00-9:00 PM",
-      "venue": "Ology Brewing Co. (Midtown)",
-      "hook": "Open jazz jam in Midtown.",
-      "url": "https://musiclocal.org/events/jazz-jam-session-at-ology-brewing-co-midtown-2026-11-24-t69nfa",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/ceTdqeHYvIEv3A8IMi95DKSdHKqijjeHo7jRdoE7Txw/crop/ZXZlbnRzLzE1NGU1ZTU3LThmMTAtNDhjYy1iOTEzLTQ1Y2UzMGRlMzY4ZS5qcGVn?w=1200&h=630&y=0",
-      "tags": [
-        "jazz",
-        "live music",
-        "brewery"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-tallahassee-winds-2026-11-24",
-      "title": "Tallahassee Winds",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "startTime": "7:30 PM",
-      "venue": "Opperman Music Hall, FSU",
-      "hook": "Free community wind band concert.",
-      "url": "https://music.fsu.edu/event/tallahassee-winds-performance-12/",
-      "imageUrl": null,
-      "tags": [
-        "free",
-        "concert"
-      ],
-      "sample": false
-    },
-    {
-      "id": "tue-swing-dance-legion-hall-2026-11-24",
-      "title": "Tuesday Night Dance: Tallahassee Swing Band",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "startTime": "7:30-10:00 PM",
-      "venue": "Legion Hall",
-      "hook": "Big-band swing night on the dance floor.",
-      "url": "https://musiclocal.org/events/tuesday-night-dance-at-legion-hall-2026-11-24-cmtkcf",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/F9-wRZBcx2pNun0JFn0cUS_rdgU3yb2MiLyVmeKzh8k/crop/ZXZlbnRzL2JjMDg2MTM2LTcyYmQtNGUyYS05MTQ3LTU1ZTI3ODU1NzAyNC5qcGVn?w=1200&h=630&y=0",
-      "tags": [
-        "swing",
-        "dance",
-        "live music"
-      ],
-      "sample": false
-    },
     {
       "id": "wed-pre-thanksgiving-blues-jam-getaway-2026-11-25",
       "title": "Pre-Thanksgiving Blues Jam",
@@ -121,6 +21,23 @@
         "blues",
         "live music"
       ],
+      "sample": false
+    },
+    {
+      "id": "2026-11-25-civic-turkey-bowling",
+      "title": "Turkey Bowling with Rockulla & Co",
+      "date": "2026-11-25",
+      "venue": "Civic Brewing Company, 106 Municipal Ave.",
+      "startTime": "6:00 PM",
+      "hook": "Second annual Thanksgiving Eve turkey bowling with frozen turkeys and live music from Rockulla & Co.",
+      "url": "https://venunite.com/events/turkey-bowling-live-music-from-rockulla-co",
+      "imageUrl": null,
+      "tags": [
+        "live music",
+        "brewery",
+        "thanksgiving eve"
+      ],
+      "day": "Wed",
       "sample": false
     },
     {
