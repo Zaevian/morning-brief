@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. It is Tuesday, November 24, and the Legend sails from Tampa in 19 days.",
-  "date": "2026-11-24",
-  "dateDisplay": "Tuesday, November 24, 2026",
+  "greeting": "Good morning, Zae. It is Wednesday, November 25, and the Carnival Legend sails from Tampa in 18 days.",
+  "date": "2026-11-25",
+  "dateDisplay": "Wednesday, November 25, 2026",
   "calendar": {
-    "note": "Your supplement habits anchor the day; I have no other fixed appointments to flag.",
+    "note": "No fixed meetings are on the brief today; your supplement habits are the anchors.",
     "events": [
       {
         "time": "8:00 AM",
@@ -20,12 +20,12 @@
     ]
   },
   "projectMove": {
-    "title": "A+ Academy fixes are ready and waiting on Zae's go in Miyuki's chat.",
-    "body": "The answer-key rebalance and practice shuffle still wait for your separate yes. Today is also the weekly security sweep, and only real findings will reach you."
+    "title": "A+ Academy Duolingo-style polish",
+    "body": "The approved A+ Academy pull requests are the next thing to confirm live, so Miyuki will check the practice and lesson screens for big buttons and the correct-answer celebration. The answer-key rebalance still waits for your yes."
   },
   "tip": {
-    "title": "Keep food spending in check",
-    "body": "Decide on lunch before the morning gets busy, so a quick stop stays a choice instead of a default."
+    "title": "Eat before the afternoon",
+    "body": "Pack a protein-heavy lunch today so the evening is easy and the food budget stays on target."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -40,7 +40,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-24T06:55:00-05:00",
+    "asOf": "2026-11-25T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -49,7 +49,7 @@
     "note": "Tracking is not ready yet: counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Carnival Legend sails from Tampa December 13, 19 days out. April 12, 2027 Paradise is also booked."
+    "cruiseNote": "Carnival Legend sails from Tampa December 13, 18 days out. April 12, 2027 Paradise is also booked."
   },
   "surprise": {
     "kind": "port",
