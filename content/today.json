@@ -52,20 +52,20 @@
     "cruiseNote": "Carnival Legend sails from Tampa December 13, 19 days out. April 12, 2027 Paradise is also booked."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "On this day · Tuesday, November 24, 2026",
-    "title": "52 years ago today, a hunch in an Ethiopian gully found Lucy, named for a Beatles song",
-    "body": "On the morning of November 24, 1974, near the Awash River in Hadar, Ethiopia, paleoanthropologist Donald Johanson dropped his plan to update his field notes and went out with graduate student Tom Gray to search for fossils. After two hours on a hot, dusty plain, he decided on a hunch to check the bottom of a small gully, and spotted an arm bone. More bones followed on the slope: vertebrae, part of a pelvis, ribs, and pieces of jaw. In the end about 40% of one skeleton was recovered, a female Australopithecus afarensis who lived 3.2 million years ago. She stood about 3 feet 7 inches tall and weighed around 64 pounds, with a small brain like a chimpanzee but hips and legs that worked almost exactly like ours, proof that walking upright came before big brains. That night the camp played \"Lucy in the Sky with Diamonds\" loudly and on repeat, and the name stuck. In Ethiopia she is also called Dinkinesh, which means \"you are marvellous.\" The original bones rest in a vault at the National Museum of Ethiopia in Addis Ababa. Back home today runs about 57 to 69 degrees and dry, with sunset at 5:36 PM. Nineteen days until you sail on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/330px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg",
-    "imageAlt": "Reconstruction of the Lucy fossil skeleton, Australopithecus afarensis",
+    "kind": "port",
+    "eyebrow": "Port preview · Wednesday, November 25, 2026",
+    "title": "Your Half Moon Cay beach day is on an island presidents fished and a cruise line bought for $6 million",
+    "body": "RelaxAway, Half Moon Cay is the Bahamas' Little San Salvador Island, about 100 miles southeast of Nassau, halfway between Eleuthera and Cat Island. Franklin Roosevelt fished its waters in 1935 and came back to swim in 1936, and Dwight Eisenhower trolled there in 1957. Norwegian Cruise Line bought it next, and the SS Norway brought the first big ship on May 30, 1980. In 1987 someone proposed filling its lagoon with New York trash to build condos on top, and the Bahamas said no. Holland America bought the island in December 1996 for $6 million and opened it as Half Moon Cay in December 1997. Only about 50 of its 2,400 acres are developed, so the rest stays a nesting ground for seabirds. This year Carnival added a new pier, so you walk straight off the ship instead of riding a tender boat. Your day there is a true $0 day: the beach, loungers, umbrellas, tram and BBQ lunch are all included, so just remember to bring a ship towel. Back home today runs about 51 to 62 degrees under clouds with a 56% chance of rain, and sunset is at 5:36 PM. Eighteen days until you sail on December 13.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Half_Moon_Cay_Beach%2C_Bahamas.jpg/960px-Half_Moon_Cay_Beach%2C_Bahamas.jpg",
+    "imageAlt": "Half Moon Cay beach in the Bahamas",
     "link": {
-      "label": "Read about Lucy",
-      "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)"
+      "label": "Read about the island",
+      "url": "https://en.wikipedia.org/wiki/Little_San_Salvador_Island"
     },
     "source": {
-      "label": "Wikipedia: Lucy (hominid); Open-Meteo forecast; photo by Wikimedia Commons user 120 (CC BY 2.5)",
-      "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)"
+      "label": "Wikipedia: Little San Salvador Island; Cruise Radio; Open-Meteo forecast; photo by AbhiramJuvvadi (CC BY-SA 4.0) via Wikimedia Commons",
+      "url": "https://en.wikipedia.org/wiki/Little_San_Salvador_Island"
     },
-    "accent": "#c8892e"
+    "accent": "#2a9db5"
   }
 }
