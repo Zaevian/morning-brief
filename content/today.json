@@ -52,20 +52,20 @@
     "cruiseNote": "Carnival Legend sails from Tampa December 13, 18 days out. April 12, 2027 Paradise is also booked."
   },
   "surprise": {
-    "kind": "port",
-    "eyebrow": "Port preview · Wednesday, November 25, 2026",
-    "title": "Your Half Moon Cay beach day is on an island presidents fished and a cruise line bought for $6 million",
-    "body": "RelaxAway, Half Moon Cay is the Bahamas' Little San Salvador Island, about 100 miles southeast of Nassau, halfway between Eleuthera and Cat Island. Franklin Roosevelt fished its waters in 1935 and came back to swim in 1936, and Dwight Eisenhower trolled there in 1957. Norwegian Cruise Line bought it next, and the SS Norway brought the first big ship on May 30, 1980. In 1987 someone proposed filling its lagoon with New York trash to build condos on top, and the Bahamas said no. Holland America bought the island in December 1996 for $6 million and opened it as Half Moon Cay in December 1997. Only about 50 of its 2,400 acres are developed, so the rest stays a nesting ground for seabirds. This year Carnival added a new pier, so you walk straight off the ship instead of riding a tender boat. Your day there is a true $0 day: the beach, loungers, umbrellas, tram and BBQ lunch are all included, so just remember to bring a ship towel. Back home today runs about 51 to 62 degrees under clouds with a 56% chance of rain, and sunset is at 5:36 PM. Eighteen days until you sail on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Half_Moon_Cay_Beach%2C_Bahamas.jpg/960px-Half_Moon_Cay_Beach%2C_Bahamas.jpg",
-    "imageAlt": "Half Moon Cay beach in the Bahamas",
+    "kind": "on-this-day",
+    "eyebrow": "On this day · Thursday, November 26, 2026",
+    "title": "Today's Thanksgiving lands on the exact date George Washington picked for the first national one in 1789",
+    "body": "On October 3, 1789, President Washington proclaimed the first Thanksgiving Day set by the new national government, and he named the date himself: \"Thursday the 26th day of November next.\" Congress had asked for it only days after the House voted to send the First Amendment to the states, so that first one was partly a thank-you for a working Constitution. It did not stick as a yearly holiday right away. Sarah Josepha Hale, editor of Godey's Lady's Book, spent years campaigning for a national Thanksgiving and appealed directly to presidents, and Abraham Lincoln began the annual proclamations in 1863. Then in 1939, a November with five Thursdays, Franklin Roosevelt moved it a week earlier to stretch the shopping season, and people mocked the early date as \"Franksgiving.\" Congress settled it, and on December 26, 1941, Roosevelt signed the law fixing Thanksgiving as the fourth Thursday of November. That rule is why it can only fall between November 22 and 28, and this year the calendar lines up with Washington's original choice, 237 years later. Back home it runs about 41 to 51 degrees, cloudy until midafternoon, then the sky clears around 4 PM for a clean sunset at 5:36 PM. Seventeen days until you sail on December 13.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/George_Washington%27s_October_3%2C_1789%2C_Thanksgiving_Day_Proclamation._-_NARA_-_299956.jpg/960px-George_Washington%27s_October_3%2C_1789%2C_Thanksgiving_Day_Proclamation._-_NARA_-_299956.jpg",
+    "imageAlt": "George Washington's handwritten October 3, 1789 Thanksgiving Day proclamation",
     "link": {
-      "label": "Read about the island",
-      "url": "https://en.wikipedia.org/wiki/Little_San_Salvador_Island"
+      "label": "Read the history",
+      "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
     },
     "source": {
-      "label": "Wikipedia: Little San Salvador Island; Cruise Radio; Open-Meteo forecast; photo by AbhiramJuvvadi (CC BY-SA 4.0) via Wikimedia Commons",
-      "url": "https://en.wikipedia.org/wiki/Little_San_Salvador_Island"
+      "label": "Wikipedia: Thanksgiving (United States); Open-Meteo forecast; proclamation image public domain, U.S. National Archives via Wikimedia Commons",
+      "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
     },
-    "accent": "#2a9db5"
+    "accent": "#b8642a"
   }
 }
