@@ -1,76 +1,331 @@
 {
-  "mode": "week",
+  "mode": "weekend",
   "range": {
-    "start": "2026-11-26",
-    "end": "2026-11-26",
-    "label": "Thu, Nov 26, 2026"
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "label": "Fri–Sun, Nov 27–29, 2026"
   },
-  "updatedNote": "Happy Thanksgiving, refreshed Thursday morning. The Turkey Trot runs this morning, the free Oven Park lights open tonight, and two bands play after dinner.",
+  "updatedNote": "Weekend from Chika: Fri Nov 27 – Sun Nov 29 Tallahassee + nearby. One image URL (SAPIAN at Potbelly's); others use default card art.",
   "events": [
     {
-      "id": "thu-tallahassee-turkey-trot-2026-11-26",
-      "title": "Tallahassee Turkey Trot",
-      "day": "Thu",
-      "date": "2026-11-26",
-      "startTime": "8:00 AM (1 mile), 8:30 AM (5K/10K/15K)",
-      "venue": "Esplanade Way, Southwood",
-      "hook": "Earn the pie this morning on Esplanade Way.",
-      "url": "https://www.tallyturkeytrot.com/Race/FL/Tallahassee/tallyturkeytrot",
-      "imageUrl": "https://d368g9lw5ileu7.cloudfront.net/races/race80628-socialShareLargeImage.bMXfRi.jpg",
+      "id": "fri-fsu-vs-florida-2026-11-27",
+      "title": "FSU vs. Florida",
+      "day": "Fri",
+      "date": "2026-11-27",
+      "startTime": "3:30 PM",
+      "venue": "Doak S. Campbell Stadium",
+      "hook": "Rivalry game moved to Friday; Senior Day, sold out, on ABC",
+      "url": "https://seminoles.com/game-center/16684",
+      "imageUrl": null,
       "tags": [
-        "outdoors",
-        "run",
-        "Thanksgiving"
+        "sports",
+        "football",
+        "FSU"
       ],
       "sample": false
     },
     {
-      "id": "thu-oven-park-lights-2026-11-26",
-      "title": "Holiday Lights at Dorothy B. Oven Park (opening night)",
-      "day": "Thu",
-      "date": "2026-11-26",
-      "startTime": "6:00 PM",
-      "venue": "Dorothy B. Oven Park, 3205 Thomasville Rd.",
-      "hook": "Free holiday light display opens Thanksgiving night, nightly through Jan 1.",
+      "id": "fri-official-rivalry-afterparty-2026-11-27",
+      "title": "Official Rivalry AfterParty",
+      "day": "Fri",
+      "date": "2026-11-27",
+      "startTime": "10:00 PM",
+      "venue": "Bajas",
+      "hook": "Free post-game party after FSU vs. UF",
+      "url": "https://www.eventbrite.com/e/the-official-rivalry-afterparty-fsu-vs-uf-at-bajas-tickets-2004803080983",
+      "imageUrl": null,
+      "tags": [
+        "nightlife",
+        "party"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-apalachicola-downtown-christmas-celebration-2026-11-27",
+      "title": "Apalachicola Downtown Christmas Celebration",
+      "day": "Fri",
+      "date": "2026-11-27",
+      "startTime": "3:30–9:30 PM",
+      "venue": "Downtown Apalachicola",
+      "hook": "Luminaries, carolers and late shopping on the coast",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/26/top-5-things-to-do-tallahassee-holiday-lights-shopping-and-more/92860042007/",
+      "imageUrl": null,
+      "tags": [
+        "holiday",
+        "day-trip",
+        "festival"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-public-address-2026-11-27",
+      "title": "Public Address",
+      "day": "Fri",
+      "date": "2026-11-27",
+      "startTime": "7–10 PM",
+      "venue": "The Getaway Grille and Bar",
+      "hook": "Live local band",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/26/top-5-things-to-do-tallahassee-holiday-lights-shopping-and-more/92860042007/",
+      "imageUrl": null,
+      "tags": [
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-maurice-mangum-2026-11-27",
+      "title": "Maurice Mangum",
+      "day": "Fri",
+      "date": "2026-11-27",
+      "startTime": "6–9 PM",
+      "venue": "Eve on Adams",
+      "hook": "Live music downtown",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/26/top-5-things-to-do-tallahassee-holiday-lights-shopping-and-more/92860042007/",
+      "imageUrl": null,
+      "tags": [
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-tallahassee-downtown-market-season-finale-2026-11-28",
+      "title": "Tallahassee Downtown Market (season finale)",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "9 AM–1 PM",
+      "venue": "Ponce de Leon Park",
+      "hook": "Last market of the season: artists, makers, food trucks",
+      "url": "https://www.tlhdowntown.com/downtownmarket",
+      "imageUrl": null,
+      "tags": [
+        "market",
+        "food",
+        "local"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-wandering-star-quilters-holiday-bazaar-2026-11-28",
+      "title": "Wandering Star Quilters Holiday Bazaar",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "9 AM–3 PM",
+      "venue": "Amicus Brewing Ventures",
+      "hook": "Handmade holiday shopping at a brewery",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/26/top-5-things-to-do-tallahassee-holiday-lights-shopping-and-more/92860042007/",
+      "imageUrl": null,
+      "tags": [
+        "market",
+        "holiday"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-pastries-poinsettias-pop-up-market-2026-11-28",
+      "title": "Pastries & Poinsettias + Pop-Up Market",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "11 AM–1 PM (market until 4 PM)",
+      "venue": "LeMoyne Arts",
+      "hook": "Pastries, poinsettia cocktails, Hot Tamale live on the porch",
+      "url": "https://tallahasseearts.org/event/lemoyne-arts-pastries-poinsettias-with-pop-up-market/",
+      "imageUrl": null,
+      "tags": [
+        "arts",
+        "market",
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-tallytrad-and-deja-blu-2026-11-28",
+      "title": "TallyTrad and Deja Blu",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "3–9 PM",
+      "venue": "Amicus Brewing Ventures",
+      "hook": "An afternoon into evening of live music",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/26/top-5-things-to-do-tallahassee-holiday-lights-shopping-and-more/92860042007/",
+      "imageUrl": null,
+      "tags": [
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-sapian-2026-11-28",
+      "title": "SAPIAN",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "4:00 PM",
+      "venue": "The Garden at Potbelly's",
+      "hook": "Ticketed garden show on College Ave",
+      "url": "https://www.pigtally.com/tickets",
+      "imageUrl": "https://static.wixstatic.com/media/f80e9e_987e1a2cfd41445e957722f34ebc0072%7Emv2.png/v1/fit/w_2500,h_1330,al_c/f80e9e_987e1a2cfd41445e957722f34ebc0072%7Emv2.png",
+      "tags": [
+        "live-music",
+        "venue"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-night-prowl-2026-11-28",
+      "title": "Night Prowl",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "6–7:30 PM",
+      "venue": "Tallahassee Museum",
+      "hook": "Guided night tour of nocturnal animals, $16",
+      "url": "https://tallahasseemuseum.org/events/night-prowl-2/",
+      "imageUrl": null,
+      "tags": [
+        "outdoor",
+        "nature"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-toys-for-tots-party-hot-tamale-lee-c-payton-the--2026-11-28",
+      "title": "Toys for Tots Party: Hot Tamale + Lee C. Payton & the LCP Band",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "7:00 PM",
+      "venue": "Bird's Oyster Shack",
+      "hook": "No cover; bring an unwrapped toy",
+      "url": "https://www.tallahassee.com/story/entertainment/things-to-do/2026/11/26/top-5-things-to-do-tallahassee-holiday-lights-shopping-and-more/92860042007/",
+      "imageUrl": null,
+      "tags": [
+        "live-music",
+        "charity"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-stephen-hafer-2026-11-28",
+      "title": "Stephen Hafer",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "6–9 PM",
+      "venue": "The Getaway Grille and Bar",
+      "hook": "Live music on Allen Rd",
+      "url": "https://musiclocal.org/events/stephen-hafer-at-the-getaway-grille-and-bar-2026-11-28-30rwu3",
+      "imageUrl": null,
+      "tags": [
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sat-jen-anders-solo-2026-11-28",
+      "title": "Jen Anders Solo",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "9 PM–12 AM",
+      "venue": "The Brass Tap Tallahassee",
+      "hook": "Late-night solo set",
+      "url": "https://jenandersmusic.com/event/6791079/786186724/jen-anders-solo-at-the-brass-tap-tallahassee",
+      "imageUrl": null,
+      "tags": [
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-sun-day-market-2026-11-29",
+      "title": "Sun Day Market",
+      "day": "Sun",
+      "date": "2026-11-29",
+      "startTime": "11 AM–3 PM",
+      "venue": "Bannerman Crossings",
+      "hook": "50+ farmers and makers, food, drinks, live music",
+      "url": "https://fun4tallykids.com/calendar/eventdetail/286861/-/sun-day-market-at-bannerman-crossings",
+      "imageUrl": null,
+      "tags": [
+        "market",
+        "food",
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-sundays-with-maurice-2026-11-29",
+      "title": "Sundays with Maurice",
+      "day": "Sun",
+      "date": "2026-11-29",
+      "startTime": "4–7 PM",
+      "venue": "The Getaway Grille and Bar",
+      "hook": "Maurice Mangum plus happy-hour specials",
+      "url": "https://musiclocal.org/events/sundays-with-maurice-at-the-getaway-grille-and-bar-2026-11-29-mcc2gx",
+      "imageUrl": null,
+      "tags": [
+        "live-music"
+      ],
+      "sample": false
+    },
+    {
+      "id": "sun-tea-blending-workshop-2026-11-29",
+      "title": "Tea Blending Workshop",
+      "day": "Sun",
+      "date": "2026-11-29",
+      "startTime": "4:30 PM",
+      "venue": "Argonaut Coffee",
+      "hook": "Hands-on tea blending",
+      "url": "https://www.eventbrite.com/e/tea-blending-workshop-with-argonaut-coffee-tickets-2005230114251",
+      "imageUrl": null,
+      "tags": [
+        "workshop",
+        "food"
+      ],
+      "sample": false
+    },
+    {
+      "id": "fri-oven-park-holiday-lights-2026-11-27",
+      "title": "Oven Park Holiday Lights",
+      "day": "Fri",
+      "date": "2026-11-27",
+      "startTime": "5:30–11 PM",
+      "venue": "Dorothy B. Oven Park",
+      "hook": "Free nightly lights display through Jan 1",
       "url": "https://visittallahassee.com/events/holiday-light-display-at-dorothy-b-oven-park/",
       "imageUrl": null,
       "tags": [
         "holiday",
-        "lights",
+        "outdoor",
         "free"
       ],
       "sample": false
     },
     {
-      "id": "thu-pharaohs-of-funk-millers-2026-11-26",
-      "title": "Pharaohs of Funk Trio",
-      "day": "Thu",
-      "date": "2026-11-26",
-      "startTime": "7:00-10:00 PM",
-      "venue": "Miller's Ale House, 722 Apalachee Pkwy.",
-      "hook": "Funk trio to walk off the turkey.",
-      "url": "https://musiclocal.org/events/pharaohs-of-funk-trio-at-millers-ale-house-2026-11-26-xykf37",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/4ajD68KYCXkpCZquesnIhbmS3R_icHvmX_r3WXu1tmw/crop/ZXZlbnQtaW1hZ2VzLzFkZjRmOTY2LTJjY2EtNDNlZi1iY2IwLTgwMzNhYTYyMzk5Ny5qcGVn?w=1200&h=1200&y=49",
+      "id": "sat-oven-park-holiday-lights-2026-11-28",
+      "title": "Oven Park Holiday Lights",
+      "day": "Sat",
+      "date": "2026-11-28",
+      "startTime": "5:30–11 PM",
+      "venue": "Dorothy B. Oven Park",
+      "hook": "Free nightly lights display through Jan 1",
+      "url": "https://visittallahassee.com/events/holiday-light-display-at-dorothy-b-oven-park/",
+      "imageUrl": null,
       "tags": [
-        "live music",
-        "funk"
+        "holiday",
+        "outdoor",
+        "free"
       ],
       "sample": false
     },
     {
-      "id": "thu-brawl-for-it-all-corner-pocket-2026-11-26",
-      "title": "38th Annual Brawl for It All with Tom & The Cats",
-      "day": "Thu",
-      "date": "2026-11-26",
-      "startTime": "8:00 PM (doors 6)",
-      "venue": "Corner Pocket Bar-n-Grill, 2475 Apalachee Pkwy.",
-      "hook": "Long-running Thanksgiving night party ahead of FSU-UF, $5 cover.",
-      "url": "https://musiclocal.org/events/38th-annual-brawl-for-it-all-at-corner-pocket-bar-n-grill-2026-11-26-1zwgws",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/I_lGELZG2JUEnh9oUBnfDyf8gVrCA3tpuAJlvNc1osc/crop/ZXZlbnRzLzk4YTllMzY2LTMwZjktNGE2Yy1iODVkLWIxZDI0Mzc5NDIyOS5qcGVn?w=1200&h=1200&y=0",
+      "id": "sun-oven-park-holiday-lights-2026-11-29",
+      "title": "Oven Park Holiday Lights",
+      "day": "Sun",
+      "date": "2026-11-29",
+      "startTime": "5:30–11 PM",
+      "venue": "Dorothy B. Oven Park",
+      "hook": "Free nightly lights display through Jan 1",
+      "url": "https://visittallahassee.com/events/holiday-light-display-at-dorothy-b-oven-park/",
+      "imageUrl": null,
       "tags": [
-        "live music",
-        "tradition",
-        "Thanksgiving"
+        "holiday",
+        "outdoor",
+        "free"
       ],
       "sample": false
     }
