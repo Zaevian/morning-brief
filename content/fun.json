@@ -1,96 +1,12 @@
 {
   "mode": "week",
   "range": {
-    "start": "2026-11-25",
+    "start": "2026-11-26",
     "end": "2026-11-26",
-    "label": "Wed-Thu, Nov 25-26, 2026"
+    "label": "Thu, Nov 26, 2026"
   },
-  "updatedNote": "Thanksgiving Eve and Thanksgiving Day in Tallahassee, refreshed Wednesday morning. Tonight brings a blues jam at The Getaway, turkey bowling at Civic Brewing, free comedy at The Wilbury, Catfish Alliance at Duke's & Dottie's, and DJ Demp at The Moon. Thursday has the Turkey Trot plus opening night of the Oven Park lights.",
+  "updatedNote": "Happy Thanksgiving, refreshed Thursday morning. The Turkey Trot runs this morning, the free Oven Park lights open tonight, and two bands play after dinner.",
   "events": [
-    {
-      "id": "wed-pre-thanksgiving-blues-jam-getaway-2026-11-25",
-      "title": "Pre-Thanksgiving Blues Jam",
-      "day": "Wed",
-      "date": "2026-11-25",
-      "startTime": "5:00-9:00 PM",
-      "venue": "The Getaway Grille and Bar",
-      "hook": "Brett & \"Dangerous\" Dave kick off the holiday.",
-      "url": "https://musiclocal.org/events/pre-thanksgiving-blues-jam-at-the-getaway-grille-and-bar-2026-11-25-dw3ogi",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/r-gAC9bQbdC1mQ5jSHnJk-NwmQsAPEI24xYGvwRsYGo/crop/ZXZlbnRzLzUyZDU4NjUyLWU3ZTgtNGVjZS1hNGJlLTg2ZWVmOGI0YjU2Mi5qcGVn?w=1200&h=630&y=0",
-      "tags": [
-        "blues",
-        "live music"
-      ],
-      "sample": false
-    },
-    {
-      "id": "2026-11-25-civic-turkey-bowling",
-      "title": "Turkey Bowling with Rockulla & Co",
-      "date": "2026-11-25",
-      "venue": "Civic Brewing Company, 106 Municipal Ave.",
-      "startTime": "6:00 PM",
-      "hook": "Second annual Thanksgiving Eve turkey bowling with frozen turkeys and live music from Rockulla & Co.",
-      "url": "https://venunite.com/events/turkey-bowling-live-music-from-rockulla-co",
-      "imageUrl": null,
-      "tags": [
-        "live music",
-        "brewery",
-        "thanksgiving eve"
-      ],
-      "day": "Wed",
-      "sample": false
-    },
-    {
-      "id": "wed-comedy-showcase-wilbury-2026-11-25",
-      "title": "Comedy Showcase at The Wilbury",
-      "day": "Wed",
-      "date": "2026-11-25",
-      "startTime": "8:30 PM",
-      "venue": "The Wilbury",
-      "hook": "Free 21+ stand-up to kick off Thanksgiving Eve.",
-      "url": "https://yourtown.live/shows/bn-tallahassee-comedy-20261125",
-      "imageUrl": null,
-      "tags": [
-        "comedy",
-        "free",
-        "21+"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-catfish-alliance-dukes-dotties-2026-11-25",
-      "title": "Thanksgiving Eve with Catfish Alliance",
-      "day": "Wed",
-      "date": "2026-11-25",
-      "startTime": "9:00 PM (doors 8)",
-      "venue": "Duke's and Dottie's, 1122 Thomasville Rd.",
-      "hook": "Midtown's homecoming-for-the-holidays tradition, bigger stage this year.",
-      "url": "https://musiclocal.org/events/thanksgiving-eve-at-dukes-and-dotties-2026-11-25-3h784e",
-      "imageUrl": "https://media.prod.musiclocal.org/v1/GuB8t8Txz7HkyLcwUcYgmfvOdW1Kz_GggeVJeArjnpI/crop/ZXZlbnRzLzMxM2E3NzhhLWM1ZTUtNGI1ZS1hMzhhLWI1MjI3MmE4ZmYyYS5qcGVn?w=1200&h=1200&y=0",
-      "tags": [
-        "live music",
-        "holiday",
-        "Midtown"
-      ],
-      "sample": false
-    },
-    {
-      "id": "wed-thanksgiving-bash-moon-2026-11-25",
-      "title": "Thanksgiving Bash with DJ Demp",
-      "day": "Wed",
-      "date": "2026-11-25",
-      "startTime": "10:00 PM",
-      "venue": "The Moon, 1105 E. Lafayette St.",
-      "hook": "Big Thanksgiving Eve dance party.",
-      "url": "https://concerts.consequence.net/events/thanksgiving-bash-at-the-moon-tallahassee-on-2026-11-25-21-00",
-      "imageUrl": null,
-      "tags": [
-        "DJ",
-        "party",
-        "nightlife"
-      ],
-      "sample": false
-    },
     {
       "id": "thu-tallahassee-turkey-trot-2026-11-26",
       "title": "Tallahassee Turkey Trot",
@@ -98,7 +14,7 @@
       "date": "2026-11-26",
       "startTime": "8:00 AM (1 mile), 8:30 AM (5K/10K/15K)",
       "venue": "Esplanade Way, Southwood",
-      "hook": "Earn the pie. Online registration closes Wednesday night.",
+      "hook": "Earn the pie this morning on Esplanade Way.",
       "url": "https://www.tallyturkeytrot.com/Race/FL/Tallahassee/tallyturkeytrot",
       "imageUrl": "https://d368g9lw5ileu7.cloudfront.net/races/race80628-socialShareLargeImage.bMXfRi.jpg",
       "tags": [
@@ -122,6 +38,39 @@
         "holiday",
         "lights",
         "free"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-pharaohs-of-funk-millers-2026-11-26",
+      "title": "Pharaohs of Funk Trio",
+      "day": "Thu",
+      "date": "2026-11-26",
+      "startTime": "7:00-10:00 PM",
+      "venue": "Miller's Ale House, 722 Apalachee Pkwy.",
+      "hook": "Funk trio to walk off the turkey.",
+      "url": "https://musiclocal.org/events/pharaohs-of-funk-trio-at-millers-ale-house-2026-11-26-xykf37",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/4ajD68KYCXkpCZquesnIhbmS3R_icHvmX_r3WXu1tmw/crop/ZXZlbnQtaW1hZ2VzLzFkZjRmOTY2LTJjY2EtNDNlZi1iY2IwLTgwMzNhYTYyMzk5Ny5qcGVn?w=1200&h=1200&y=49",
+      "tags": [
+        "live music",
+        "funk"
+      ],
+      "sample": false
+    },
+    {
+      "id": "thu-brawl-for-it-all-corner-pocket-2026-11-26",
+      "title": "38th Annual Brawl for It All with Tom & The Cats",
+      "day": "Thu",
+      "date": "2026-11-26",
+      "startTime": "8:00 PM (doors 6)",
+      "venue": "Corner Pocket Bar-n-Grill, 2475 Apalachee Pkwy.",
+      "hook": "Long-running Thanksgiving night party ahead of FSU-UF, $5 cover.",
+      "url": "https://musiclocal.org/events/38th-annual-brawl-for-it-all-at-corner-pocket-bar-n-grill-2026-11-26-1zwgws",
+      "imageUrl": "https://media.prod.musiclocal.org/v1/I_lGELZG2JUEnh9oUBnfDyf8gVrCA3tpuAJlvNc1osc/crop/ZXZlbnRzLzk4YTllMzY2LTMwZjktNGE2Yy1iODVkLWIxZDI0Mzc5NDIyOS5qcGVn?w=1200&h=1200&y=0",
+      "tags": [
+        "live music",
+        "tradition",
+        "Thanksgiving"
       ],
       "sample": false
     }
