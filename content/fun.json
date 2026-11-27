@@ -5,7 +5,7 @@
     "end": "2026-11-29",
     "label": "Fri–Sun, Nov 27–29, 2026"
   },
-  "updatedNote": "Weekend from Chika: Fri Nov 27 – Sun Nov 29 Tallahassee + nearby. One image URL (SAPIAN at Potbelly's); others use default card art.",
+  "updatedNote": "Weekend from Chika: Fri Nov 27 to Sun Nov 29, Tallahassee and nearby. Diablo added event-page photos on Friday morning.",
   "events": [
     {
       "id": "fri-fsu-vs-florida-2026-11-27",
@@ -16,7 +16,7 @@
       "venue": "Doak S. Campbell Stadium",
       "hook": "Rivalry game moved to Friday; Senior Day, sold out, on ABC",
       "url": "https://seminoles.com/game-center/16684",
-      "imageUrl": null,
+      "imageUrl": "https://seminoles.com/images/logos/site/site.png",
       "tags": [
         "sports",
         "football",
@@ -33,7 +33,7 @@
       "venue": "Bajas",
       "hook": "Free post-game party after FSU vs. UF",
       "url": "https://www.eventbrite.com/e/the-official-rivalry-afterparty-fsu-vs-uf-at-bajas-tickets-2004803080983",
-      "imageUrl": null,
+      "imageUrl": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1198476781%252F145090274921%252F1%252Foriginal.20261122-094301%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.519%26fp-y%3D0.664%26s%3D557bdb80c006ab52dff37461356f56fd&w=940&q=75",
       "tags": [
         "nightlife",
         "party"
@@ -96,7 +96,7 @@
       "venue": "Ponce de Leon Park",
       "hook": "Last market of the season: artists, makers, food trucks",
       "url": "https://www.tlhdowntown.com/downtownmarket",
-      "imageUrl": null,
+      "imageUrl": "https://static1.squarespace.com/static/5ef648067e57953592260022/t/67a4dfd12f467309264e991b/1645195064858/Copy+of+Copy+of+Unnamed+Design+%28Facebook+Cover%29+%282%29.png?format=1500w",
       "tags": [
         "market",
         "food",
@@ -177,7 +177,7 @@
       "venue": "Tallahassee Museum",
       "hook": "Guided night tour of nocturnal animals, $16",
       "url": "https://tallahasseemuseum.org/events/night-prowl-2/",
-      "imageUrl": null,
+      "imageUrl": "https://tallahasseemuseum.org/wp-content/uploads/2020/10/OWLadjusted.jpg",
       "tags": [
         "outdoor",
         "nature"
@@ -209,7 +209,7 @@
       "venue": "The Getaway Grille and Bar",
       "hook": "Live music on Allen Rd",
       "url": "https://musiclocal.org/events/stephen-hafer-at-the-getaway-grille-and-bar-2026-11-28-30rwu3",
-      "imageUrl": null,
+      "imageUrl": "https://media.prod.musiclocal.org/v1/MhNVuUUDtPCEEbZHqV2qrXvV1D0857T6L5FXDJccyP4/crop/ZXZlbnRzLzJkMzA2ZmRiLTdiYmUtNDJjOS1iOTJlLTFiYTVkNzJjZTZiOS5qcGVn?w=1200&h=630&y=0",
       "tags": [
         "live-music"
       ],
@@ -224,7 +224,7 @@
       "venue": "The Brass Tap Tallahassee",
       "hook": "Late-night solo set",
       "url": "https://jenandersmusic.com/event/6791079/786186724/jen-anders-solo-at-the-brass-tap-tallahassee",
-      "imageUrl": null,
+      "imageUrl": "https://images.zoogletools.com/s:bzglfiles/u/722399/baee6689eff609b8ffee5d247e99633b1c644260/original/jamlogo2-0.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
       "tags": [
         "live-music"
       ],
@@ -256,7 +256,7 @@
       "venue": "The Getaway Grille and Bar",
       "hook": "Maurice Mangum plus happy-hour specials",
       "url": "https://musiclocal.org/events/sundays-with-maurice-at-the-getaway-grille-and-bar-2026-11-29-mcc2gx",
-      "imageUrl": null,
+      "imageUrl": "https://media.prod.musiclocal.org/v1/4iR6sYZcJ2K0dZRWh1g-4PdONkSV6oduBfBflJfspvU/crop/ZXZlbnRzLzE4NmYyNTEwLWUwYzMtNDgyNi1hYjE4LWU3MTM4NWZhMGVjNS5qcGVn?w=1200&h=630&y=0",
       "tags": [
         "live-music"
       ],
@@ -271,7 +271,7 @@
       "venue": "Argonaut Coffee",
       "hook": "Hands-on tea blending",
       "url": "https://www.eventbrite.com/e/tea-blending-workshop-with-argonaut-coffee-tickets-2005230114251",
-      "imageUrl": null,
+      "imageUrl": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1198500575%252F895451789393%252F1%252Foriginal.20261122-230831%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dde29d915f9133406ee489b4e129c47cc&w=940&q=75",
       "tags": [
         "workshop",
         "food"
