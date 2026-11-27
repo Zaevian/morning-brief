@@ -1,9 +1,9 @@
 {
-  "greeting": "Good morning, Zae. It is Thursday, November 26, Thanksgiving Day, and the Carnival Legend sails from Tampa in 17 days.",
-  "date": "2026-11-26",
-  "dateDisplay": "Thursday, November 26, 2026",
+  "greeting": "Good morning, Zae. Friday opens with your supplement routine, a quiet calendar, and the Carnival Legend sailing from Tampa just 16 days away.",
+  "date": "2026-11-27",
+  "dateDisplay": "Friday, November 27, 2026",
   "calendar": {
-    "note": "Happy Thanksgiving. No fixed meetings today; your supplement habits are the anchors.",
+    "note": "No fixed appointments today beyond your supplement routine.",
     "events": [
       {
         "time": "8:00 AM",
@@ -20,12 +20,12 @@
     ]
   },
   "projectMove": {
-    "title": "A+ Academy fixes are ready and still waiting on Zae's go in Miyuki's chat.",
-    "body": "The answer-key rebalance also waits for his yes."
+    "title": "A+ Academy fixes are ready for your go",
+    "body": "A+ Academy fixes are ready and still waiting on Zae's go in Miyuki's chat. The answer-key rebalance also waits for his yes."
   },
   "tip": {
-    "title": "Plan a holiday meal at home",
-    "body": "Many places are closed or pricey on Thanksgiving, so a simple home plate or a leftover invitation keeps the food budget on target."
+    "title": "Keep the cruise fund steady",
+    "body": "Eat a solid protein meal and drink water early today, since steady habits this week keep the cruise fund on pace for December 13."
   },
   "cruise": {
     "name": "Carnival Legend",
@@ -40,7 +40,7 @@
   "siteStats": {
     "label": "Grad Arena 850",
     "source": "Vercel Analytics",
-    "asOf": "2026-11-26T06:55:00-05:00",
+    "asOf": "2026-11-27T06:55:00-05:00",
     "views": {
       "last24h": null,
       "last7d": null
@@ -49,23 +49,21 @@
     "note": "Tracking is not ready yet: counts are left blank rather than guessed."
   },
   "extras": {
-    "cruiseNote": "Carnival Legend sails from Tampa December 13, 17 days out. April 12, 2027 Paradise is also booked."
+    "cruiseNote": "Carnival Legend sails from Tampa December 13, 16 days out. April 12, 2027 Paradise is also booked."
   },
   "surprise": {
-    "kind": "on-this-day",
-    "eyebrow": "On this day · Thursday, November 26, 2026",
-    "title": "Today's Thanksgiving lands on the exact date George Washington picked for the first national one in 1789",
-    "body": "On October 3, 1789, President Washington proclaimed the first Thanksgiving Day set by the new national government, and he named the date himself: \"Thursday the 26th day of November next.\" Congress had asked for it only days after the House voted to send the First Amendment to the states, so that first one was partly a thank-you for a working Constitution. It did not stick as a yearly holiday right away. Sarah Josepha Hale, editor of Godey's Lady's Book, spent years campaigning for a national Thanksgiving and appealed directly to presidents, and Abraham Lincoln began the annual proclamations in 1863. Then in 1939, a November with five Thursdays, Franklin Roosevelt moved it a week earlier to stretch the shopping season, and people mocked the early date as \"Franksgiving.\" Congress settled it, and on December 26, 1941, Roosevelt signed the law fixing Thanksgiving as the fourth Thursday of November. That rule is why it can only fall between November 22 and 28, and this year the calendar lines up with Washington's original choice, 237 years later. Back home it runs about 41 to 51 degrees, cloudy until midafternoon, then the sky clears around 4 PM for a clean sunset at 5:36 PM. Seventeen days until you sail on December 13.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/George_Washington%27s_October_3%2C_1789%2C_Thanksgiving_Day_Proclamation._-_NARA_-_299956.jpg/960px-George_Washington%27s_October_3%2C_1789%2C_Thanksgiving_Day_Proclamation._-_NARA_-_299956.jpg",
-    "imageAlt": "George Washington's handwritten October 3, 1789 Thanksgiving Day proclamation",
+    "kind": "fact",
+    "eyebrow": "Rivalry day · Friday, November 27, 2026",
+    "title": "FSU and Florida meet for the 70th time today, in a series a governor had to talk into existence",
+    "body": "When Florida State restarted football in 1947, Florida's administration refused to schedule the Seminoles, partly out of worry that treating FSU as an equal would cost UF state funding as the flagship. A 1955 bill in the Florida Legislature would have forced the two schools to play, and it failed, so Governor LeRoy Collins personally asked UF president J. Wayne Reitz to start a yearly series. The first game came on November 22, 1958, a 21 to 7 Florida win, and the contract required the first six games to be played in Gainesville because Doak Campbell held fewer than 20,000 people. Tallahassee has hosted every other year since 1964 after FSU kept expanding the stadium. Florida dominated early, including a 49 to 0 game in 1973 and nine straight wins from 1968 to 1976, until Bobby Bowden arrived in 1976 and made it a real fight. From 1990 to 2001 both teams entered every meeting ranked in the top ten. Florida leads the series 39-28-2 and has won the last two, yet the games played in Tallahassee are dead even at 14-14-1, so a home win today breaks the tie. Kickoff is 3:30 PM at Doak; the forecast is dry, about 57 degrees at kickoff, cooling to around 52 by 6 PM after a 5:36 PM sunset. Sixteen days until you sail on December 13.",
     "link": {
-      "label": "Read the history",
-      "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
+      "label": "Read the rivalry history",
+      "url": "https://en.wikipedia.org/wiki/Florida%E2%80%93Florida_State_football_rivalry"
     },
     "source": {
-      "label": "Wikipedia: Thanksgiving (United States); Open-Meteo forecast; proclamation image public domain, U.S. National Archives via Wikimedia Commons",
-      "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
+      "label": "Wikipedia: Florida–Florida State football rivalry; kickoff time from seminoles.com game center; Open-Meteo forecast",
+      "url": "https://en.wikipedia.org/wiki/Florida%E2%80%93Florida_State_football_rivalry"
     },
-    "accent": "#b8642a"
+    "accent": "#782f40"
   }
 }
